@@ -3,3 +3,7 @@ description:More to come.
 
 // Gnawing Hunger
 dimwishlist:item=821154603&perks=3425386926
+
+// Falling Guillotine
+dimwishlist:item=614426548&perks=3913600130,1749209109,269888150,3666208348
+dimwishlist:item=614426548&perks=3913600130,1749209109,3666208348
