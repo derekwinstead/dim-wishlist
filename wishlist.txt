@@ -85,3 +85,7 @@ dimwishlist:item=1946491241&perks=3523296417,3300816228#notes:PvE,Partial
 dimwishlist:item=1946491241&perks=2458213969,2779035018,3301904089,981914802#notes:PvE,Perfect
 dimwishlist:item=1946491241&perks=2458213969,2779035018,3301904089#notes:PvE,Partial
 dimwishlist:item=1946491241&perks=2458213969,2779035018#notes:PvE,Partial
+
+// Martyr's Retribution
+dimwishlist:item=3850168899&perks=3523296417,3300816228,2822142346#notes:PvE,Perfect
+dimwishlist:item=3850168899&perks=3523296417,2869569095,2822142346#notes:PvE,Perfect
