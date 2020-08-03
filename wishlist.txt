@@ -3,7 +3,7 @@ description:More to come.
 // Midnight Coup
 dimwishlist:item=1128225405&perks=1467527085,3425386926,1168162263#notes:Curated
 // Duty Bound
-dimwishlist:item=1457979868&perks=2732913579,1885400500,3425386926#notes:Curated
+#notes:Curated
 // The Mountaintop
 dimwishlist:item=3993415705&perks=981914802,3301904089,2846385770,3713839994#notes:Curated
 // IKELOS_SG_v1.0.1
@@ -24,6 +24,8 @@ dimwishlist:item=2429822977&perks=839105230,3142289711,699525795,2846385770#note
 dimwishlist:item=2429822977&perks=839105230,699525795,2846385770#notes:PvP
 dimwishlist:item=2429822977&perks=3142289711,699525795,2846385770#notes:PvP
 dimwishlist:item=2429822977&perks=699525795,2846385770#notes:PvP
+// Randys Throwing Knife
+dimwishlist:item=3535742959&perks=1840239774,2420895100,247725512,1015611457#notes:PvE Perfect
 // Gnawing Hunger
 dimwishlist:item=821154603&perks=839105230,1087426260,1820235745,3425386926#notes:PvE Perfect
 dimwishlist:item=821154603&perks=3661387068,1087426260,1820235745,3425386926#notes:PvE
