@@ -293,7 +293,12 @@ dimwishlist:item=1216130969&perks=1482024992,2779035018,2458213969#notes:PvE
 dimwishlist:item=1216130969&perks=1840239774,2779035018,2458213969#notes:PvE
 dimwishlist:item=1216130969&perks=3250034553,2779035018,2458213969#notes:PvE
 dimwishlist:item=1216130969&perks=2779035018,2458213969#notes:PvE
-#REF!
+// Curated - Felwinter's Lie
+dimwishlist:item=1179141605&perks=1047830412,3142289711,706527188,47981717#notes:Curated
+// Curated - Point of the Stag
+dimwishlist:item=3434944005&perks=2801223209,1500996326,201365942,1546637391#notes:Curated
+// Curated - Komodo-4FR
+dimwishlist:item=2697058914&perks=1392496348,689005463,588594999,699525795#notes:Curated
 // Death Adder
 dimwishlist:item=2742490609&perks=839105230,106909392,2779035018,2848615171#notes:PvE Perfect
 dimwishlist:item=2742490609&perks=839105230,2779035018,2848615171#notes:PvE
@@ -1868,10 +1873,6 @@ dimwishlist:item=&perks=3142289711,699525795,2846385770#notes:PvP
 dimwishlist:item=&perks=699525795,2846385770#notes:PvP
 // Sunset - Randys Throwing Knife
 dimwishlist:item=&perks=1840239774,2420895100,247725512,1015611457#notes:Curated
-// Curated - Felwinter's Lie
-dimwishlist:item=1179141605&perks=1047830412,3142289711,706527188,47981717#notes:Curated
-// Curated - Point of the Stag
-dimwishlist:item=3434944005&perks=2801223209,1500996326,201365942,1546637391#notes:Curated
 // Sunset - Beloved
 dimwishlist:item=4190932264&perks=839105230,3142289711,957782887,706527188#notes:PvP Perfect
 dimwishlist:item=4190932264&perks=3661387068,3142289711,957782887,706527188#notes:PvP
@@ -2131,8 +2132,6 @@ dimwishlist:item=188882152&perks=3151536500,1168162263,1015611457#notes:PvP
 dimwishlist:item=188882152&perks=3151536503,1168162263,1015611457#notes:PvP
 dimwishlist:item=188882152&perks=360593482,1168162263,1015611457#notes:PvP
 dimwishlist:item=188882152&perks=1168162263,1015611457#notes:PvP
-// Curated - Komodo-4FR
-dimwishlist:item=2697058914&perks=1392496348,689005463,588594999,699525795#notes:Curated
 // Sunset - Bygones
 dimwishlist:item=2712244741&perks=839105230,1885400500,3425386926,460017080#notes:PvP Perfect
 dimwishlist:item=2712244741&perks=3661387068,1885400500,3425386926,460017080#notes:PvP
