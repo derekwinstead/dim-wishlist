@@ -1,5 +1,4 @@
-title:Curated rolls for devxwill.
-// description:Curated rolls for devxwill.
+title: Curated rolls for devxwill.
 // Ancient Gospel
 dimwishlist:item=48643186&perks=3661387068,106909392,1168162263,1015611457#notes:PvE Perfect
 dimwishlist:item=48643186&perks=4090651448,106909392,1168162263,1015611457#notes:PvE
