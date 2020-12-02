@@ -15742,6 +15742,10 @@ dimwishlist:item=3369545945&perks=3250034553,706527188,3708227201#notes:PvE
 dimwishlist:item=3369545945&perks=706527188,3708227201#notes:PvE
 // Sunset - Wendigo GL3
 dimwishlist:item=578459533&perks=3798852852,3032599245,3300816228,3194351027#notes:Curated
+// Sunset - Interference VI
+dimwishlist:item=2257180473#notes:Infuse or Delete
+// Sunset - The Last Dance
+dimwishlist:item=2009277538#notes:Infuse or Delete
 // Swarm of the Raven
 dimwishlist:item=1972985595&perks=981914802,3301904089,3300816228,706527188#notes:PvE Perfect
 dimwishlist:item=1972985595&perks=981914802,3301904089,3300816228,3096702027#notes:PvE
