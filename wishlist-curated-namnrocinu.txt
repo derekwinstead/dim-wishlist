@@ -13722,7 +13722,41 @@ dimwishlist:item=2257180473#notes:Infuse or Delete
 // Sunset - The Last Dance
 dimwishlist:item=2009277538#notes:Infuse or Delete
 // Sunset - Timelines Vertex
-dimwishlist:item=1006783454#notes:Infuse or Delete
+dimwishlist:item=3055192515#notes:Infuse or Delete
+// Sunset - Honor's Edge
+dimwishlist:item=2857348871#notes:Infuse or Delete
+// Sunset - Steel Sybil Z-14
+dimwishlist:item=4230993599#notes:Infuse or Delete
+// Sunset - Toil and Trouble
+dimwishlist:item=2957367743#notes:Infuse or Delete
+// Sunset - Enigma's Draw
+dimwishlist:item=1723380073#notes:Infuse or Delete
+// Sunset - Long Shadow
+dimwishlist:item=3745990145#notes:Infuse or Delete
+// Sunset - True Prophecy
+dimwishlist:item=2742838700#notes:Infuse or Delete
+// Sunset - Elatha FR4
+dimwishlist:item=4106983932#notes:Infuse or Delete
+// Sunset - Nature of the Beast
+dimwishlist:item=1835747805#notes:Infuse or Delete
+// Sunset - Distant Tumulus
+dimwishlist:item=2807687156#notes:Infuse or Delete
+// Sunset - Wishbringer
+dimwishlist:item=3356526253#notes:Infuse or Delete
+// Sunset - Main Ingredient
+dimwishlist:item=253196586#notes:Infuse or Delete
+// Sunset - Last Hope
+dimwishlist:item=3622137132#notes:Infuse or Delete
+// Sunset - Jian 7 Rifle
+dimwishlist:item=1162247618#notes:Infuse or Delete
+// Sunset - Uriel's Gift
+dimwishlist:item=3863882743#notes:Infuse or Delete
+// Sunset - Outrageous Fortune
+dimwishlist:item=4146702548#notes:Infuse or Delete
+// Sunset - Mos Epoch III
+dimwishlist:item=1529450902#notes:Infuse or Delete
+// Sunset - Berenger's Memory
+dimwishlist:item=407621213#notes:Infuse or Delete
 // Swarm of the Raven
 dimwishlist:item=1972985595&perks=981914802,3301904089,3300816228,706527188#notes:PvE Perfect
 dimwishlist:item=1972985595&perks=981914802,3301904089,3300816228,3096702027#notes:PvE
