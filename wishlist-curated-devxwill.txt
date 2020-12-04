@@ -4996,6 +4996,46 @@ dimwishlist:item=2742490609&perks=1840239774,1820235745,2846385770#notes:PvE
 dimwishlist:item=2742490609&perks=3250034553,1820235745,2846385770#notes:PvE
 dimwishlist:item=2742490609&perks=1820235745,2846385770#notes:PvE
 dimwishlist:item=2742490609#notes:Infuse or Delete
+// Delete - Interference VI
+dimwishlist:item=2257180473#notes:Infuse or Delete
+// Delete - The Last Dance
+dimwishlist:item=2009277538#notes:Infuse or Delete
+// Delete - Timelines Vertex
+dimwishlist:item=3055192515#notes:Infuse or Delete
+// Delete - Honor's Edge
+dimwishlist:item=2857348871#notes:Infuse or Delete
+// Delete - Steel Sybil Z-14
+dimwishlist:item=4230993599#notes:Infuse or Delete
+// Delete - Toil and Trouble
+dimwishlist:item=2957367743#notes:Infuse or Delete
+// Delete - Enigma's Draw
+dimwishlist:item=1723380073#notes:Infuse or Delete
+// Delete - Long Shadow
+dimwishlist:item=3745990145#notes:Infuse or Delete
+// Delete - True Prophecy
+dimwishlist:item=2742838700#notes:Infuse or Delete
+// Delete - Elatha FR4
+dimwishlist:item=4106983932#notes:Infuse or Delete
+// Delete - Nature of the Beast
+dimwishlist:item=1835747805#notes:Infuse or Delete
+// Delete - Distant Tumulus
+dimwishlist:item=2807687156#notes:Infuse or Delete
+// Delete - Wishbringer
+dimwishlist:item=3356526253#notes:Infuse or Delete
+// Delete - Main Ingredient
+dimwishlist:item=253196586#notes:Infuse or Delete
+// Delete - Last Hope
+dimwishlist:item=3622137132#notes:Infuse or Delete
+// Delete - Jian 7 Rifle
+dimwishlist:item=1162247618#notes:Infuse or Delete
+// Delete - Uriel's Gift
+dimwishlist:item=3863882743#notes:Infuse or Delete
+// Delete - Outrageous Fortune
+dimwishlist:item=4146702548#notes:Infuse or Delete
+// Delete - Mos Epoch III
+dimwishlist:item=1529450902#notes:Infuse or Delete
+// Delete - Berenger's Memory
+dimwishlist:item=407621213#notes:Infuse or Delete
 // Dire Promise
 dimwishlist:item=2742838701&perks=1926090095,1885400500,957782887,2846385770#notes:PvP Perfect
 dimwishlist:item=2742838701&perks=1926090094,1885400500,957782887,2846385770#notes:PvP
@@ -15370,7 +15410,7 @@ dimwishlist:item=42351395&perks=1996142143,706527188,2726471870#notes:PvP
 dimwishlist:item=42351395&perks=981914802,706527188,2726471870#notes:PvP
 dimwishlist:item=42351395&perks=1478423395,706527188,2726471870#notes:PvP
 dimwishlist:item=42351395&perks=1844523823,706527188,2726471870#notes:PvP
-dimwishlist:item=42351395&perks=706527188,2726471870#notes:PvP
+dimwishlist:item=42351395&perks=706527188,2726471870#notes:PvE or PvP
 dimwishlist:item=42351395&perks=3525010810,3796465595,2450788523,1275731761#notes:PvE Perfect
 dimwishlist:item=42351395&perks=1441682018,3796465595,2450788523,1275731761#notes:PvE
 dimwishlist:item=42351395&perks=3798852852,3796465595,2450788523,1275731761#notes:PvE
@@ -15415,7 +15455,7 @@ dimwishlist:item=42351395&perks=1996142143,706527188,1275731761#notes:PvP
 dimwishlist:item=42351395&perks=981914802,706527188,1275731761#notes:PvP
 dimwishlist:item=42351395&perks=1478423395,706527188,1275731761#notes:PvP
 dimwishlist:item=42351395&perks=1844523823,706527188,1275731761#notes:PvP
-dimwishlist:item=42351395&perks=706527188,1275731761#notes:PvE
+dimwishlist:item=42351395&perks=706527188,1275731761#notes:PvE or PvP
 dimwishlist:item=42351395&perks=3525010810,3796465595,2450788523,3523296417#notes:PvE Perfect
 dimwishlist:item=42351395&perks=1441682018,3796465595,2450788523,3523296417#notes:PvE
 dimwishlist:item=42351395&perks=3798852852,3796465595,2450788523,3523296417#notes:PvE
@@ -15460,7 +15500,7 @@ dimwishlist:item=42351395&perks=1996142143,706527188,3523296417#notes:PvP
 dimwishlist:item=42351395&perks=981914802,706527188,3523296417#notes:PvP
 dimwishlist:item=42351395&perks=1478423395,706527188,3523296417#notes:PvP
 dimwishlist:item=42351395&perks=1844523823,706527188,3523296417#notes:PvP
-dimwishlist:item=42351395&perks=706527188,3523296417#notes:PvE
+dimwishlist:item=42351395&perks=706527188,3523296417#notes:PvE or PvP
 dimwishlist:item=42351395&perks=3525010810,3796465595,2450788523,2396489472#notes:PvE Perfect
 dimwishlist:item=42351395&perks=1441682018,3796465595,2450788523,2396489472#notes:PvE
 dimwishlist:item=42351395&perks=3798852852,3796465595,2450788523,2396489472#notes:PvE
@@ -15574,46 +15614,6 @@ dimwishlist:item=636912560&perks=1047830412,3142289711,3161816588,957782887#note
 dimwishlist:item=3116356268&perks=1392496348,1885400500,247725512,2846385770#notes:PvP Perfect
 // Sunset - Wendigo GL3
 dimwishlist:item=578459533&perks=3798852852,3032599245,3300816228,3194351027#notes:Curated
-// Sunset - Interference VI
-dimwishlist:item=2257180473#notes:Infuse or Delete
-// Sunset - The Last Dance
-dimwishlist:item=2009277538#notes:Infuse or Delete
-// Sunset - Timelines Vertex
-dimwishlist:item=3055192515#notes:Infuse or Delete
-// Sunset - Honor's Edge
-dimwishlist:item=2857348871#notes:Infuse or Delete
-// Sunset - Steel Sybil Z-14
-dimwishlist:item=4230993599#notes:Infuse or Delete
-// Sunset - Toil and Trouble
-dimwishlist:item=2957367743#notes:Infuse or Delete
-// Sunset - Enigma's Draw
-dimwishlist:item=1723380073#notes:Infuse or Delete
-// Sunset - Long Shadow
-dimwishlist:item=3745990145#notes:Infuse or Delete
-// Sunset - True Prophecy
-dimwishlist:item=2742838700#notes:Infuse or Delete
-// Sunset - Elatha FR4
-dimwishlist:item=4106983932#notes:Infuse or Delete
-// Sunset - Nature of the Beast
-dimwishlist:item=1835747805#notes:Infuse or Delete
-// Sunset - Distant Tumulus
-dimwishlist:item=2807687156#notes:Infuse or Delete
-// Sunset - Wishbringer
-dimwishlist:item=3356526253#notes:Infuse or Delete
-// Sunset - Main Ingredient
-dimwishlist:item=253196586#notes:Infuse or Delete
-// Sunset - Last Hope
-dimwishlist:item=3622137132#notes:Infuse or Delete
-// Sunset - Jian 7 Rifle
-dimwishlist:item=1162247618#notes:Infuse or Delete
-// Sunset - Uriel's Gift
-dimwishlist:item=3863882743#notes:Infuse or Delete
-// Sunset - Outrageous Fortune
-dimwishlist:item=4146702548#notes:Infuse or Delete
-// Sunset - Mos Epoch III
-dimwishlist:item=1529450902#notes:Infuse or Delete
-// Sunset - Berenger's Memory
-dimwishlist:item=407621213#notes:Infuse or Delete
 // Swarm of the Raven
 dimwishlist:item=1972985595&perks=981914802,3301904089,3300816228,706527188#notes:PvE Perfect
 dimwishlist:item=1972985595&perks=981914802,3301904089,3300816228,3096702027#notes:PvE
