@@ -12790,7 +12790,7 @@ dimwishlist:item=3116356268&perks=3250034553,3230963543,247725512,2846385770#not
 // Sunset - Wendigo GL3
 dimwishlist:item=578459533&perks=3798852852,3032599245,3300816228,3194351027#notes:Curated
 // Sunset - Steelfeather Repeater
-dimwishlist:item=1251729046&perks=1478423395#notes:PvE Perfect
+dimwishlist:item=1251729046&perks=839105230,1885400500,2779035018,2458213969#notes:PvE Perfect
 dimwishlist:item=1251729046&perks=1840239774,1885400500,2779035018,2458213969#notes:PvE
 // Swarm of the Raven
 dimwishlist:item=1972985595&perks=981914802,3301904089,3300816228,706527188#notes:PvE Perfect
