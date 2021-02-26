@@ -3829,6 +3829,8 @@ dimwishlist:item=4095896073#notes:Infuse or Delete
 dimwishlist:item=1402766122#notes:Infuse or Delete
 // Delete - Cartesian Coordinate
 dimwishlist:item=2481881293#notes:Infuse or Delete
+// Delete - Tarantula
+dimwishlist:item=3335343363#notes:Infuse or Delete
 // Dire Promise
 dimwishlist:item=2742838701&perks=1926090095,1885400500,957782887,2846385770#notes:PvP Perfect
 dimwishlist:item=2742838701&perks=1926090094,1885400500,957782887,2846385770#notes:PvP
