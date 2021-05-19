@@ -4773,6 +4773,8 @@ dimwishlist:item=310708513#notes:Infuse or Delete
 dimwishlist:item=4094657108#notes:Infuse or Delete
 // Delete - Finite Impactor
 dimwishlist:item=3813153080#notes:Infuse or Delete
+// Delete - Occluded Finality
+dimwishlist:item=852551895#notes:Infuse or Delete
 // Dire Promise
 dimwishlist:item=2742838701&perks=1926090095,1885400500,957782887,2846385770#notes:PvP Perfect
 dimwishlist:item=2742838701&perks=1926090095,1885400500,47981717,2846385770#notes:PvP Perfect
