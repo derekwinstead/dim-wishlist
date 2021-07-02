@@ -4691,10 +4691,12 @@ dimwishlist:item=2857348871#notes:Infuse or Delete
 // Delete - Steel Sybil Z-14
 dimwishlist:item=4230993599#notes:Infuse or Delete
 // Delete - Toil and Trouble
+dimwishlist:item=2957367743&perks=4090651448,106909392,3161816588,957782887#notes:PvP
 dimwishlist:item=2957367743#notes:Infuse or Delete
 // Delete - Enigma's Draw
 dimwishlist:item=1723380073#notes:Infuse or Delete
 // Delete - Long Shadow
+dimwishlist:item=3745990145&perks=893526895,3177308360,957782887,3400784728#notes:PvE
 dimwishlist:item=3745990145#notes:Infuse or Delete
 // Delete - Elatha FR4
 dimwishlist:item=4106983932#notes:Infuse or Delete
