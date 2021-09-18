@@ -5123,8 +5123,6 @@ dimwishlist:item=1835747805#notes:Infuse or Delete
 dimwishlist:item=2807687156#notes:Infuse or Delete
 // Delete - Wishbringer
 dimwishlist:item=3356526253#notes:Infuse or Delete
-// Delete - Main Ingredient
-dimwishlist:item=253196586#notes:Infuse or Delete
 // Delete - Last Hope
 dimwishlist:item=3622137132#notes:Infuse or Delete
 // Delete - Jian 7 Rifle
@@ -8446,6 +8444,9 @@ dimwishlist:item=188882152#notes:Infuse or Delete
 dimwishlist:item=2199171672&perks=3661387068,1885400500,247725512,2458213969#notes:PvE Perfect
 dimwishlist:item=2199171672&perks=3661387068,1885400500,4267945040,2458213969#notes:PvE Perfect
 dimwishlist:item=2199171672#notes:Infuse or Delete
+// Main Ingredient
+dimwishlist:item=253196586&perks=2405638014,2969185026,1645158859,1890422124#notes:PvP Perfect
+dimwishlist:item=253196586#notes:Infuse or Delete
 // Memory Interdict
 dimwishlist:item=3165547384&perks=3525010810,3301904089,3300816228,2396489472#notes:PvE Perfect
 dimwishlist:item=3165547384&perks=1441682018,3301904089,3300816228,2396489472#notes:PvE
