@@ -4122,6 +4122,8 @@ dimwishlist:item=1645386487#notes:Infuse or Delete
 dimwishlist:item=211938782#notes:Infuse or Delete
 // Delete - Loud Lullaby
 dimwishlist:item=3924212056#notes:Infuse or Delete
+// Delete - The Last Breath
+dimwishlist:item=507038823#notes:Infuse or Delete
 // Dire Promise
 dimwishlist:item=2742838701&perks=1926090095,1885400500,957782887,2846385770#notes:PvP Perfect
 dimwishlist:item=2742838701&perks=1926090095,1885400500,47981717,2846385770#notes:PvP Perfect
@@ -6479,10 +6481,6 @@ dimwishlist:item=1476654960&perks=3142289711,2946784966,1954620775#notes:PvP
 dimwishlist:item=1476654960&perks=3230963543,2946784966,1954620775#notes:PvP
 dimwishlist:item=1476654960&perks=3177308360,2946784966,1954620775#notes:PvP
 dimwishlist:item=1476654960&perks=1926090095,2946784966,1954620775#notes:PvP
-dimwishlist:item=1476654960&perks=1926090094,2946784966,1954620775#notes:PvP
-dimwishlist:item=1476654960&perks=1926090092,2946784966,1954620775#notes:PvP
-dimwishlist:item=1476654960&perks=1926090093,2946784966,1954620775#notes:PvP
-dimwishlist:item=1476654960&perks=2946784966,1954620775#notes:PvP
 dimwishlist:item=1476654960&perks=1926090095,106909392,3523296417,47981717#notes:PvP Perfect
 dimwishlist:item=1476654960&perks=1926090094,106909392,3523296417,47981717#notes:PvP
 dimwishlist:item=1476654960&perks=1926090092,106909392,3523296417,47981717#notes:PvP
