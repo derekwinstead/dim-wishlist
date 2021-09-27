@@ -4114,6 +4114,8 @@ dimwishlist:item=2891672170#notes:Infuse or Delete
 dimwishlist:item=1197486957#notes:Infuse or Delete
 // Delete - Far Future
 dimwishlist:item=893527433#notes:Infuse or Delete
+// Delete - The Comedian
+dimwishlist:item=1028582252#notes:Infuse or Delete
 // Dire Promise
 dimwishlist:item=2742838701&perks=1926090095,1885400500,957782887,2846385770#notes:PvP Perfect
 dimwishlist:item=2742838701&perks=1926090095,1885400500,47981717,2846385770#notes:PvP Perfect
