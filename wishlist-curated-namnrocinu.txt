@@ -4118,6 +4118,8 @@ dimwishlist:item=893527433#notes:Infuse or Delete
 dimwishlist:item=1028582252#notes:Infuse or Delete
 // Delete - Tranquility
 dimwishlist:item=1645386487#notes:Infuse or Delete
+// Delete - Whispering Slab
+dimwishlist:item=211938782#notes:Infuse or Delete
 // Dire Promise
 dimwishlist:item=2742838701&perks=1926090095,1885400500,957782887,2846385770#notes:PvP Perfect
 dimwishlist:item=2742838701&perks=1926090095,1885400500,47981717,2846385770#notes:PvP Perfect
@@ -18910,9 +18912,6 @@ dimwishlist:item=334171687&perks=1926090092,2846385770,2848615171#notes:PvE
 dimwishlist:item=334171687&perks=1926090093,2846385770,2848615171#notes:PvE
 dimwishlist:item=334171687&perks=2846385770,2848615171#notes:PvE
 dimwishlist:item=334171687#notes:Infuse or Delete
-// Whispering Slab
-dimwishlist:item=211938782&perks=1784898267,3311977193,2450788523,3350417888#notes:PvE Perfect
-dimwishlist:item=211938782#notes:Infuse or Delete
 // Wolftone Draw
 dimwishlist:item=3472875143&perks=1784898267,3429800428,951095735,4104185692#notes:PvE Perfect
 dimwishlist:item=3472875143&perks=1196733167,3429800428,951095735,4104185692#notes:PvE
