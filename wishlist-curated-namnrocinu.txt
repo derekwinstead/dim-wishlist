@@ -4173,6 +4173,8 @@ dimwishlist:item=211938782#notes:Infuse or Delete
 dimwishlist:item=3924212056#notes:Infuse or Delete
 // Delete - The Last Breath
 dimwishlist:item=507038823#notes:Infuse or Delete
+// Delete - Horror Story
+dimwishlist:item=3829285960#notes:Infuse or Delete
 // Dire Promise
 dimwishlist:item=2742838701&perks=1926090095,1885400500,957782887,2846385770#notes:PvP Perfect
 dimwishlist:item=2742838701&perks=1926090095,1885400500,47981717,2846385770#notes:PvP Perfect
