@@ -4052,8 +4052,6 @@ dimwishlist:item=217140611#notes:Infuse or Delete
 dimwishlist:item=2492081469#notes:Infuse or Delete
 // Delete - Forges Pledge
 dimwishlist:item=1076810832#notes:Infuse or Delete
-// Delete - Contingency Plan
-dimwishlist:item=577528837#notes:Infuse or Delete
 // Delete - Widows Bite
 dimwishlist:item=1271343896#notes:Infuse or Delete
 // Delete - Punching Out
