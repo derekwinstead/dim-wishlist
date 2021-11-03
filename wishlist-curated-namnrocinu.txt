@@ -3906,6 +3906,8 @@ dimwishlist:item=507038823#notes:Infuse or Delete
 dimwishlist:item=3829285960#notes:Infuse or Delete
 // Delete - The Steady Hand
 dimwishlist:item=2220884262#notes:Infuse or Delete
+// Delete - Seventh Seraph Officer Revolver
+dimwishlist:item=3037520408#notes:Infuse or Delete
 // Dire Promise
 dimwishlist:item=2742838701&perks=1926090095,1885400500,957782887,2846385770#notes:PvP Perfect
 dimwishlist:item=2742838701&perks=1926090095,1885400500,47981717,2846385770#notes:PvP Perfect
@@ -10549,13 +10551,6 @@ dimwishlist:item=1821724780&perks=1332244541,791862061,3300816228,2360754333#not
 dimwishlist:item=1821724780&perks=466087222,791862061,3300816228,2360754333#notes:PvE
 dimwishlist:item=1821724780&perks=1482024992,106909392,3300816228,2360754333#notes:PvE
 dimwishlist:item=1821724780#notes:Infuse or Delete
-// Seventh Seraph Officer Revolver
-dimwishlist:item=3037520408&perks=839105230,106909392,4071163871,2779035018#notes:PvE or PvP Perfect
-dimwishlist:item=3037520408&perks=839105230,106909392,1354429876,2779035018#notes:PvE Perfect
-dimwishlist:item=3037520408&perks=839105230,106909392,280464955,2779035018#notes:PvP Perfect
-dimwishlist:item=3037520408&perks=839105230,106909392,4071163871,2213355989#notes:PvE Perfect
-dimwishlist:item=3037520408&perks=839105230,106909392,1354429876,2213355989#notes:PvE Perfect
-dimwishlist:item=3037520408#notes:Infuse or Delete
 // Seventh Seraph SAW
 dimwishlist:item=2582755344&perks=839105230,1885400500,3300816228,1546637391#notes:PvE Perfect
 dimwishlist:item=2582755344&perks=3661387068,1885400500,3300816228,1546637391#notes:PvE
