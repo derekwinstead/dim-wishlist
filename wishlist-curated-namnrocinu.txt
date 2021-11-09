@@ -2901,19 +2901,13 @@ dimwishlist:item=2714022207#notes:Infuse or Delete
 // Crown-Splitter
 dimwishlist:item=2782325302&perks=3666208348,2349202967,1749209109,1546637391#notes:PvE Perfect
 dimwishlist:item=2782325302#notes:Infuse or Delete
-// Felwinters Lie - Curated
+// Curated
 dimwishlist:item=1179141605&perks=1047830412,3142289711,3161816588,47981717#notes:Curated
-// Point of the Stag - Curated
 dimwishlist:item=3434944005&perks=2801223209,1500996326,201365942,1546637391#notes:Curated
-// Adored - Curated
 dimwishlist:item=4184808992&perks=3250034553,3142289711,2450788523,957782887#notes:Curated
-// Salvagers Salvo - Curated
 dimwishlist:item=2060863616&perks=3525010810,3301904089,3523296417,1546637391#notes:Curated
-// Null Composure - Curated
 dimwishlist:item=1644680957&perks=1840239774,2969185026,2779035018,2213355989#notes:Curated
-// Ascendancy - Curated
 dimwishlist:item=725408022&perks=3525010810,3796465595,951095735,3194351027#notes:Curated
-// Blasphemer - Curated
 dimwishlist:item=2782847179&perks=3250034553,3142289711,706527188,47981717#notes:Curated
 dimwishlist:item=2782847179#notes:Infuse or Delete
 // Darkest Before
@@ -4045,177 +4039,95 @@ dimwishlist:item=2742490609&perks=1840239774,3300816228,2846385770#notes:PvE
 dimwishlist:item=2742490609&perks=3250034553,3300816228,2846385770#notes:PvE
 dimwishlist:item=2742490609&perks=3300816228,2846385770#notes:PvE
 dimwishlist:item=2742490609#notes:Infuse or Delete
-// Interference VI - Delete
+// Delete Weapons
 dimwishlist:item=2257180473#notes:Infuse or Delete
-// The Last Dance - Delete
 dimwishlist:item=2009277538#notes:Infuse or Delete
-// Timelines Vertex - Delete
 dimwishlist:item=3055192515#notes:Infuse or Delete
-// Honors Edge - Delete
 dimwishlist:item=2857348871#notes:Infuse or Delete
-// Steel Sybil Z-14 - Delete
 dimwishlist:item=4230993599#notes:Infuse or Delete
-// Toil and Trouble - Delete
 dimwishlist:item=2957367743#notes:Infuse or Delete
-// Enigmas Draw - Delete
 dimwishlist:item=1723380073#notes:Infuse or Delete
-// Long Shadow - Delete
 dimwishlist:item=3745990145&perks=893526895,3177308360,957782887,3400784728#notes:PvE
 dimwishlist:item=3745990145&perks=893526892,106909392,2869569095,3400784728#notes:PvE
 dimwishlist:item=3745990145#notes:Infuse or Delete
-// Elatha FR4 - Delete
 dimwishlist:item=4106983932#notes:Infuse or Delete
-// Nature of the Beast - Delete
 dimwishlist:item=1835747805#notes:Infuse or Delete
-// Distant Tumulus - Delete
 dimwishlist:item=2807687156#notes:Infuse or Delete
-// Wishbringer - Delete
 dimwishlist:item=3356526253#notes:Infuse or Delete
-// Last Hope - Delete
 dimwishlist:item=3622137132#notes:Infuse or Delete
-// Jian 7 Rifle - Delete
 dimwishlist:item=1162247618&perks=965619220,679225683,4267945040,3425386926#notes:PvE
 dimwishlist:item=1162247618#notes:Infuse or Delete
-// Uriels Gift - Delete
 dimwishlist:item=3863882743#notes:Infuse or Delete
-// Outrageous Fortune - Delete
 dimwishlist:item=4146702548#notes:Infuse or Delete
-// Mos Epoch III - Delete
 dimwishlist:item=1529450902#notes:Infuse or Delete
-// Berengers Memory - Delete
 dimwishlist:item=407621213#notes:Infuse or Delete
-// Shining Sphere - Delete
 dimwishlist:item=136525518#notes:Infuse or Delete
-// Hawthornes Field-Forged Shotgun - Delete
 dimwishlist:item=1807343361#notes:Infuse or Delete
-// Bite of the Fox - Delete
 dimwishlist:item=3169616514#notes:Infuse or Delete
-// Orewings Maul - Delete
 dimwishlist:item=2108920981#notes:Infuse or Delete
-// Bequest - Delete
 dimwishlist:item=3366545721#notes:Infuse or Delete
-// Accrued Redemption - Delete
 dimwishlist:item=4095896073#notes:Infuse or Delete
-// Retrofuturist - Delete
 dimwishlist:item=1402766122#notes:Infuse or Delete
-// Cartesian Coordinate - Delete
 dimwishlist:item=2481881293&perks=1546637391#notes:PvE
 dimwishlist:item=2481881293#notes:Infuse or Delete
-// Tarantula - Delete
 dimwishlist:item=3335343363#notes:Infuse or Delete
-// Royal Entry - Delete
 dimwishlist:item=2448907086#notes:Infuse or Delete
-// Hoosegow - Delete
 dimwishlist:item=3669616453#notes:Infuse or Delete
-// Negative Space - Delete
 dimwishlist:item=3629968765#notes:Infuse or Delete
-// Prophet of Doom - Delete
 dimwishlist:item=4020742303#notes:Infuse or Delete
-// Age-Old Bond - Delete
 dimwishlist:item=601592879#notes:Infuse or Delete
-// Apex Predator - Delete
 dimwishlist:item=2545083870#notes:Infuse or Delete
-// Survivors Epitaph - Delete
 dimwishlist:item=310708513#notes:Infuse or Delete
-// Techeun Force - Delete
 dimwishlist:item=4094657108#notes:Infuse or Delete
-// Finite Impactor - Delete
 dimwishlist:item=3813153080#notes:Infuse or Delete
-// Reckless Oracle - Delete
 dimwishlist:item=3385326721#notes:Infuse or Delete
-// Sacred Provenance - Delete
 dimwishlist:item=2408405461#notes:Infuse or Delete
-// Seventh Seraph VY-7 - Delete
 dimwishlist:item=766323545#notes:Infuse or Delete
-// The Fools Remedy - Delete
 dimwishlist:item=65611680#notes:Infuse or Delete
-// The Forward Path - Delete
 dimwishlist:item=1690783811#notes:Infuse or Delete
-// Thermal Erosion - Delete
 dimwishlist:item=1766088024#notes:Infuse or Delete
-// Zealots Reward - Delete
 dimwishlist:item=2209003210#notes:Infuse or Delete
-// Premonition - Delete
 dimwishlist:item=208088207#notes:Infuse or Delete
-// Apostate - Delete
 dimwishlist:item=2164448701#notes:Infuse or Delete
-// Heretic - Delete
 dimwishlist:item=3067821200#notes:Infuse or Delete
-// Compass Rose - Delete
 dimwishlist:item=2591111628#notes:Infuse or Delete
-// Retold Tale - Delete
 dimwishlist:item=346136302#notes:Infuse or Delete
-// Coriolis Force - Delete
 dimwishlist:item=3512349612#notes:Infuse or Delete
-// Crimils Dagger - Delete
 dimwishlist:item=4292849692#notes:Infuse or Delete
-// Crowd Pleaser - Delete
 dimwishlist:item=3565520715#notes:Infuse or Delete
-// Deafening Whisper - Delete
 dimwishlist:item=981718087#notes:Infuse or Delete
-// Escape Velocity - Delete
 dimwishlist:item=1786797708#notes:Infuse or Delete
-// Hailing Confusion - Delete
 dimwishlist:item=2870169846#notes:Infuse or Delete
-// Hollow Words - Delete
 dimwishlist:item=607191995#notes:Infuse or Delete
-// IKELOS_HC_v1.0.2 - Delete
 dimwishlist:item=1200824700#notes:Infuse or Delete
-// IKELOS_SG_v1.0.2 - Delete
 dimwishlist:item=1096206669#notes:Infuse or Delete
-// Pleiades Corrector - Delete
 dimwishlist:item=3556999246#notes:Infuse or Delete
-// Seventh Seraph Carbine - Delete
 dimwishlist:item=1561006927&perks=3250034553,1087426260,3300816228,2846385770#notes:PvE
 dimwishlist:item=1561006927#notes:Infuse or Delete
-// Subzero Salvo - Delete
 dimwishlist:item=42351395#notes:Infuse or Delete
-// The Deicide - Delete
 dimwishlist:item=217140611#notes:Infuse or Delete
-// The Number - Delete
 dimwishlist:item=2492081469#notes:Infuse or Delete
-// Forges Pledge - Delete
 dimwishlist:item=1076810832#notes:Infuse or Delete
-// Widows Bite - Delete
 dimwishlist:item=1271343896#notes:Infuse or Delete
-// Punching Out - Delete
 dimwishlist:item=378498222#notes:Infuse or Delete
-// Spoiler Alert - Delete
 dimwishlist:item=2588048270#notes:Infuse or Delete
-// Arctic Haze - Delete
 dimwishlist:item=20935540#notes:Infuse or Delete
-// Arc Logic - Delete
 dimwishlist:item=2723909519#notes:Infuse or Delete
-// Iota Draconis - Delete
 dimwishlist:item=3044460004#notes:Infuse or Delete
-// Blast Battue - Delete
 dimwishlist:item=2453357042#notes:Infuse or Delete
-// Ancient Gospel - Delete
 dimwishlist:item=48643186#notes:Infuse or Delete
-// Sojourners Tale - Delete
 dimwishlist:item=599895591#notes:Infuse or Delete
-// Xenoclast IV - Delete
 dimwishlist:item=2891672170#notes:Infuse or Delete
-// High Albedo - Delete
 dimwishlist:item=1197486957#notes:Infuse or Delete
-// Far Future - Delete
 dimwishlist:item=893527433#notes:Infuse or Delete
-// The Comedian - Delete
 dimwishlist:item=1028582252#notes:Infuse or Delete
-// Tranquility - Delete
 dimwishlist:item=1645386487#notes:Infuse or Delete
-// Whispering Slab - Delete
 dimwishlist:item=211938782&perks=1784898267,3429800428,2450788523,4082225868#notes:PvE
 dimwishlist:item=211938782#notes:Infuse or Delete
-// Loud Lullaby - Delete
 dimwishlist:item=3924212056#notes:Infuse or Delete
-// The Last Breath - Delete
 dimwishlist:item=507038823#notes:Infuse or Delete
-// Horror Story - Delete
 dimwishlist:item=3829285960#notes:Infuse or Delete
-// The Steady Hand - Delete
 dimwishlist:item=2220884262#notes:Infuse or Delete
-// Seventh Seraph Officer Revolver - Delete
 dimwishlist:item=3037520408#notes:Infuse or Delete
 // Dire Promise
 dimwishlist:item=2742838701&perks=1926090095,1885400500,957782887,2846385770#notes:PvP Perfect
@@ -14713,17 +14625,12 @@ dimwishlist:item=2990047042&perks=4090651448,3142289711,1556840489,1546637391#no
 dimwishlist:item=2990047042&perks=1392496348,3142289711,1556840489,1546637391#notes:PvE
 dimwishlist:item=2990047042&perks=839105230,106909392,1523832109,469285294#notes:PvE Perfect
 dimwishlist:item=2990047042#notes:Infuse or Delete
-// The Mountaintop - Sunset
+// Sunset
 dimwishlist:item=3993415705&perks=981914802,3301904089,2846385770,3713839994#notes:Sunset PvE
-// Martyrs Retribution - Sunset
 dimwishlist:item=3850168899&perks=981914802,2822142346,3300816228,3523296417#notes:Sunset PvE
-// Beloved - Sunset
 dimwishlist:item=4190932264&perks=839105230,1431678320,957782887,706527188#notes:Sunset PvP
-// Dust Rock Blues - Sunset
 dimwishlist:item=636912560&perks=1332244541,3142289711,3161816588,957782887#notes:Sunset PvP
-// Spare Rations - Sunset
 dimwishlist:item=3116356268&perks=3250034553,3230963543,247725512,2846385770#notes:Sunset PvP
-// Breachlight - Sunset
 dimwishlist:item=1289997971&perks=839105230,3142289711,3523296417,1546637391#notes:Sunset PvP
 dimwishlist:item=1289997971&perks=839105230,106909392,3523296417,1546637391#notes:Sunset PvE
 // Swarm of the Raven
