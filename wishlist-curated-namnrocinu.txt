@@ -425,12 +425,6 @@ dimwishlist:item=66875353&perks=3151536500,679225683,2450788523,1890422124#notes
 dimwishlist:item=66875353&perks=3151536501,1885400500,3436462433,1890422124#notes:PvP Perfect
 dimwishlist:item=66875353&perks=3151536501,1885400500,2387244414,1890422124#notes:PvP Perfect
 dimwishlist:item=66875353#notes:Infuse or Delete
-// Bad Omens
-dimwishlist:item=991314988&perks=1478423395,3796465595,3977735242,1275731761#notes:Curated
-dimwishlist:item=991314988&perks=981914802,2822142346,3300816228,1275731761#notes:PvE Perfect
-dimwishlist:item=991314988&perks=981914802,2822142346,3977735242,1275731761#notes:PvE Perfect
-dimwishlist:item=991314988&perks=981914802,2822142346,2869569095,1275731761#notes:PvE Perfect
-dimwishlist:item=991314988#notes:Infuse or Delete
 // Biting Winds
 dimwishlist:item=1621657423&perks=1784898267,3429800428,2450788523,3350417888#notes:PvE Perfect
 dimwishlist:item=1621657423&perks=1784898267,3429800428,588594999,3350417888#notes:PvE Perfect
@@ -4095,6 +4089,8 @@ dimwishlist:item=507038823#notes:Infuse or Delete
 dimwishlist:item=3829285960#notes:Infuse or Delete
 dimwishlist:item=2220884262#notes:Infuse or Delete
 dimwishlist:item=3037520408#notes:Infuse or Delete
+dimwishlist:item=991314988&perks=981914802,2822142346,3300816228,1275731761#notes:PvE Perfect
+dimwishlist:item=991314988#notes:Infuse or Delete
 // Dire Promise
 dimwishlist:item=2742838701&perks=1926090095,1885400500,957782887,2846385770#notes:PvP Perfect
 dimwishlist:item=2742838701&perks=1926090095,1885400500,47981717,2846385770#notes:PvP Perfect
