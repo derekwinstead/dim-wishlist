@@ -3991,97 +3991,98 @@ dimwishlist:item=2742490609&perks=3250034553,3300816228,2846385770#notes:PvE
 dimwishlist:item=2742490609&perks=3300816228,2846385770#notes:PvE
 dimwishlist:item=2742490609#notes:Infuse or Delete
 // Delete Weapons
-dimwishlist:item=2257180473#notes:Infuse or Delete
-dimwishlist:item=2009277538#notes:Infuse or Delete
-dimwishlist:item=3055192515#notes:Infuse or Delete
-dimwishlist:item=2857348871#notes:Infuse or Delete
-dimwishlist:item=4230993599#notes:Infuse or Delete
-dimwishlist:item=2957367743#notes:Infuse or Delete
-dimwishlist:item=1723380073#notes:Infuse or Delete
-dimwishlist:item=3745990145&perks=893526895,3177308360,957782887,3400784728#notes:PvE
-dimwishlist:item=3745990145&perks=893526892,106909392,2869569095,3400784728#notes:PvE
-dimwishlist:item=3745990145#notes:Infuse or Delete
-dimwishlist:item=4106983932#notes:Infuse or Delete
-dimwishlist:item=1835747805#notes:Infuse or Delete
-dimwishlist:item=2807687156#notes:Infuse or Delete
-dimwishlist:item=3356526253#notes:Infuse or Delete
-dimwishlist:item=3622137132#notes:Infuse or Delete
-dimwishlist:item=1162247618&perks=965619220,679225683,4267945040,3425386926#notes:PvE
-dimwishlist:item=1162247618#notes:Infuse or Delete
-dimwishlist:item=3863882743#notes:Infuse or Delete
-dimwishlist:item=4146702548#notes:Infuse or Delete
-dimwishlist:item=1529450902#notes:Infuse or Delete
-dimwishlist:item=407621213#notes:Infuse or Delete
-dimwishlist:item=136525518#notes:Infuse or Delete
-dimwishlist:item=1807343361#notes:Infuse or Delete
-dimwishlist:item=3169616514#notes:Infuse or Delete
-dimwishlist:item=2108920981#notes:Infuse or Delete
-dimwishlist:item=3366545721#notes:Infuse or Delete
 dimwishlist:item=4095896073#notes:Infuse or Delete
-dimwishlist:item=1402766122#notes:Infuse or Delete
+dimwishlist:item=601592879#notes:Infuse or Delete
+dimwishlist:item=48643186#notes:Infuse or Delete
+dimwishlist:item=2545083870#notes:Infuse or Delete
+dimwishlist:item=2164448701#notes:Infuse or Delete
+dimwishlist:item=2723909519#notes:Infuse or Delete
+dimwishlist:item=20935540#notes:Infuse or Delete
+dimwishlist:item=991314988&perks=981914802,2822142346,3300816228,1275731761#notes:PvE
+dimwishlist:item=991314988#notes:Infuse or Delete
+dimwishlist:item=3366545721#notes:Infuse or Delete
+dimwishlist:item=407621213#notes:Infuse or Delete
+dimwishlist:item=3169616514#notes:Infuse or Delete
+dimwishlist:item=2453357042#notes:Infuse or Delete
 dimwishlist:item=2481881293&perks=1546637391#notes:PvE
 dimwishlist:item=2481881293#notes:Infuse or Delete
-dimwishlist:item=3335343363#notes:Infuse or Delete
-dimwishlist:item=2448907086#notes:Infuse or Delete
-dimwishlist:item=3669616453#notes:Infuse or Delete
-dimwishlist:item=3629968765#notes:Infuse or Delete
-dimwishlist:item=4020742303#notes:Infuse or Delete
-dimwishlist:item=601592879#notes:Infuse or Delete
-dimwishlist:item=2545083870#notes:Infuse or Delete
-dimwishlist:item=310708513#notes:Infuse or Delete
-dimwishlist:item=4094657108#notes:Infuse or Delete
-dimwishlist:item=3813153080#notes:Infuse or Delete
-dimwishlist:item=3385326721#notes:Infuse or Delete
-dimwishlist:item=2408405461#notes:Infuse or Delete
-dimwishlist:item=766323545#notes:Infuse or Delete
-dimwishlist:item=65611680#notes:Infuse or Delete
-dimwishlist:item=1690783811#notes:Infuse or Delete
-dimwishlist:item=1766088024#notes:Infuse or Delete
-dimwishlist:item=2209003210#notes:Infuse or Delete
-dimwishlist:item=208088207#notes:Infuse or Delete
-dimwishlist:item=2164448701#notes:Infuse or Delete
-dimwishlist:item=3067821200#notes:Infuse or Delete
 dimwishlist:item=2591111628#notes:Infuse or Delete
-dimwishlist:item=346136302#notes:Infuse or Delete
 dimwishlist:item=3512349612#notes:Infuse or Delete
 dimwishlist:item=4292849692#notes:Infuse or Delete
 dimwishlist:item=3565520715#notes:Infuse or Delete
 dimwishlist:item=981718087#notes:Infuse or Delete
+dimwishlist:item=2807687156#notes:Infuse or Delete
+dimwishlist:item=4106983932#notes:Infuse or Delete
+dimwishlist:item=1723380073#notes:Infuse or Delete
 dimwishlist:item=1786797708#notes:Infuse or Delete
+dimwishlist:item=893527433#notes:Infuse or Delete
+dimwishlist:item=3813153080#notes:Infuse or Delete
+dimwishlist:item=1076810832#notes:Infuse or Delete
 dimwishlist:item=2870169846#notes:Infuse or Delete
+dimwishlist:item=1807343361#notes:Infuse or Delete
+dimwishlist:item=3067821200#notes:Infuse or Delete
+dimwishlist:item=1197486957#notes:Infuse or Delete
 dimwishlist:item=607191995#notes:Infuse or Delete
+dimwishlist:item=2857348871#notes:Infuse or Delete
+dimwishlist:item=3669616453#notes:Infuse or Delete
+dimwishlist:item=3829285960#notes:Infuse or Delete
 dimwishlist:item=1200824700#notes:Infuse or Delete
 dimwishlist:item=1096206669#notes:Infuse or Delete
+dimwishlist:item=2257180473#notes:Infuse or Delete
+dimwishlist:item=3044460004#notes:Infuse or Delete
+dimwishlist:item=1162247618&perks=965619220,679225683,4267945040,3425386926#notes:PvE
+dimwishlist:item=1162247618#notes:Infuse or Delete
+dimwishlist:item=3622137132#notes:Infuse or Delete
+dimwishlist:item=3745990145&perks=893526895,3177308360,957782887,3400784728#notes:PvE
+dimwishlist:item=3745990145&perks=893526892,106909392,2869569095,3400784728#notes:PvE
+dimwishlist:item=3745990145#notes:Infuse or Delete
+dimwishlist:item=3924212056#notes:Infuse or Delete
+dimwishlist:item=1529450902#notes:Infuse or Delete
+dimwishlist:item=1835747805#notes:Infuse or Delete
+dimwishlist:item=3629968765#notes:Infuse or Delete
+dimwishlist:item=2108920981#notes:Infuse or Delete
+dimwishlist:item=4146702548#notes:Infuse or Delete
 dimwishlist:item=3556999246#notes:Infuse or Delete
+dimwishlist:item=208088207#notes:Infuse or Delete
+dimwishlist:item=4020742303#notes:Infuse or Delete
+dimwishlist:item=378498222#notes:Infuse or Delete
+dimwishlist:item=3385326721#notes:Infuse or Delete
+dimwishlist:item=346136302#notes:Infuse or Delete
+dimwishlist:item=1402766122#notes:Infuse or Delete
+dimwishlist:item=2448907086#notes:Infuse or Delete
+dimwishlist:item=2408405461#notes:Infuse or Delete
 dimwishlist:item=1561006927&perks=3250034553,1087426260,3300816228,2846385770#notes:PvE
 dimwishlist:item=1561006927#notes:Infuse or Delete
-dimwishlist:item=42351395#notes:Infuse or Delete
-dimwishlist:item=217140611#notes:Infuse or Delete
-dimwishlist:item=2492081469#notes:Infuse or Delete
-dimwishlist:item=1076810832#notes:Infuse or Delete
-dimwishlist:item=1271343896#notes:Infuse or Delete
-dimwishlist:item=378498222#notes:Infuse or Delete
-dimwishlist:item=2588048270#notes:Infuse or Delete
-dimwishlist:item=20935540#notes:Infuse or Delete
-dimwishlist:item=2723909519#notes:Infuse or Delete
-dimwishlist:item=3044460004#notes:Infuse or Delete
-dimwishlist:item=2453357042#notes:Infuse or Delete
-dimwishlist:item=48643186#notes:Infuse or Delete
-dimwishlist:item=599895591#notes:Infuse or Delete
-dimwishlist:item=2891672170#notes:Infuse or Delete
-dimwishlist:item=1197486957#notes:Infuse or Delete
-dimwishlist:item=893527433#notes:Infuse or Delete
-dimwishlist:item=1028582252#notes:Infuse or Delete
-dimwishlist:item=1645386487#notes:Infuse or Delete
-dimwishlist:item=211938782&perks=1784898267,3429800428,2450788523,4082225868#notes:PvE
-dimwishlist:item=211938782#notes:Infuse or Delete
-dimwishlist:item=3924212056#notes:Infuse or Delete
-dimwishlist:item=507038823#notes:Infuse or Delete
-dimwishlist:item=3829285960#notes:Infuse or Delete
-dimwishlist:item=2220884262#notes:Infuse or Delete
 dimwishlist:item=3037520408#notes:Infuse or Delete
-dimwishlist:item=991314988&perks=981914802,2822142346,3300816228,1275731761#notes:PvE Perfect
-dimwishlist:item=991314988#notes:Infuse or Delete
+dimwishlist:item=766323545#notes:Infuse or Delete
+dimwishlist:item=136525518#notes:Infuse or Delete
+dimwishlist:item=599895591#notes:Infuse or Delete
+dimwishlist:item=2588048270#notes:Infuse or Delete
+dimwishlist:item=4230993599#notes:Infuse or Delete
+dimwishlist:item=42351395#notes:Infuse or Delete
+dimwishlist:item=310708513#notes:Infuse or Delete
+dimwishlist:item=3335343363#notes:Infuse or Delete
+dimwishlist:item=4094657108#notes:Infuse or Delete
+dimwishlist:item=1028582252#notes:Infuse or Delete
+dimwishlist:item=217140611#notes:Infuse or Delete
+dimwishlist:item=65611680#notes:Infuse or Delete
+dimwishlist:item=1690783811#notes:Infuse or Delete
+dimwishlist:item=507038823#notes:Infuse or Delete
+dimwishlist:item=2009277538#notes:Infuse or Delete
+dimwishlist:item=2492081469#notes:Infuse or Delete
+dimwishlist:item=2220884262#notes:Infuse or Delete
+dimwishlist:item=1766088024#notes:Infuse or Delete
+dimwishlist:item=3055192515#notes:Infuse or Delete
+dimwishlist:item=2957367743#notes:Infuse or Delete
+dimwishlist:item=1645386487#notes:Infuse or Delete
+dimwishlist:item=3863882743#notes:Infuse or Delete
+dimwishlist:item=211938782&perks=1196733167,3429800428,2450788523,1546637391#notes:PvE
+dimwishlist:item=211938782&perks=1196733167,3429800428,2450788523,4082225868#notes:PvE
+dimwishlist:item=211938782#notes:Infuse or Delete
+dimwishlist:item=1271343896#notes:Infuse or Delete
+dimwishlist:item=3356526253#notes:Infuse or Delete
+dimwishlist:item=2891672170#notes:Infuse or Delete
+dimwishlist:item=2209003210#notes:Infuse or Delete
 // Dire Promise
 dimwishlist:item=2742838701&perks=1926090095,1885400500,957782887,2846385770#notes:PvP Perfect
 dimwishlist:item=2742838701&perks=1926090095,1885400500,47981717,2846385770#notes:PvP Perfect
