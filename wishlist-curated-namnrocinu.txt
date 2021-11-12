@@ -4076,8 +4076,8 @@ dimwishlist:item=3055192515#notes:Infuse or Delete
 dimwishlist:item=2957367743#notes:Infuse or Delete
 dimwishlist:item=1645386487#notes:Infuse or Delete
 dimwishlist:item=3863882743#notes:Infuse or Delete
-dimwishlist:item=211938782&perks=1196733167,3429800428,2450788523,1546637391#notes:PvE
-dimwishlist:item=211938782&perks=1196733167,3429800428,2450788523,4082225868#notes:PvE
+dimwishlist:item=211938782&perks=2450788523,1546637391#notes:PvE
+dimwishlist:item=211938782&perks=2450788523,4082225868#notes:PvE
 dimwishlist:item=211938782#notes:Infuse or Delete
 dimwishlist:item=1271343896#notes:Infuse or Delete
 dimwishlist:item=3356526253#notes:Infuse or Delete
