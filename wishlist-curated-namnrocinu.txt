@@ -3992,6 +3992,7 @@ dimwishlist:item=2742490609&perks=3300816228,2846385770#notes:PvE
 dimwishlist:item=2742490609#notes:Infuse or Delete
 // Delete Weapons
 dimwishlist:item=4095896073#notes:Infuse or Delete
+dimwishlist:item=601592879&perks=1467527085,679225683,1354429876,3425386926#notes:Curated
 dimwishlist:item=601592879#notes:Infuse or Delete
 dimwishlist:item=48643186#notes:Infuse or Delete
 dimwishlist:item=2545083870#notes:Infuse or Delete
