@@ -4446,7 +4446,7 @@ dimwishlist:item=3366545721#notes:Infuse or Delete
 dimwishlist:item=407621213#notes:Infuse or Delete
 dimwishlist:item=3169616514#notes:Infuse or Delete
 dimwishlist:item=2453357042#notes:Infuse or Delete
-dimwishlist:item=2481881293&perks=1546637391#notes:PvE
+dimwishlist:item=2481881293&perks=13792279,689005463,1556840489,1546637391#notes:PvE Perfect
 dimwishlist:item=2481881293#notes:Infuse or Delete
 dimwishlist:item=2591111628#notes:Infuse or Delete
 dimwishlist:item=3512349612#notes:Infuse or Delete
