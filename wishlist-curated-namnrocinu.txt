@@ -4199,6 +4199,7 @@ dimwishlist:item=2220884262#notes:Infuse or Delete
 dimwishlist:item=47772649#notes:Infuse or Delete
 dimwishlist:item=4156253727#notes:Infuse or Delete
 dimwishlist:item=1766088024#notes:Infuse or Delete
+dimwishlist:item=3055192515&perks=194952923,689005463,280464955,957782887#notes:PvP
 dimwishlist:item=3055192515#notes:Infuse or Delete
 dimwishlist:item=2957367743#notes:Infuse or Delete
 dimwishlist:item=1645386487#notes:Infuse or Delete
