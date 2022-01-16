@@ -4158,8 +4158,6 @@ dimwishlist:item=3745990145&perks=893526892,106909392,2869569095,3400784728#note
 dimwishlist:item=3745990145&perks=893526893,3142289711,957782887,3038247973#notes:PvP
 dimwishlist:item=3745990145#notes:Infuse or Delete
 dimwishlist:item=3924212056#notes:Infuse or Delete
-dimwishlist:item=253196586&perks=2405638014,3868766766,1645158859,1890422124#notes:PvP Perfect
-dimwishlist:item=253196586#notes:Infuse or Delete
 dimwishlist:item=1529450902#notes:Infuse or Delete
 dimwishlist:item=1835747805#notes:Infuse or Delete
 dimwishlist:item=3629968765#notes:Infuse or Delete
@@ -4199,8 +4197,6 @@ dimwishlist:item=2220884262#notes:Infuse or Delete
 dimwishlist:item=47772649#notes:Infuse or Delete
 dimwishlist:item=4156253727#notes:Infuse or Delete
 dimwishlist:item=1766088024#notes:Infuse or Delete
-dimwishlist:item=3055192515&perks=194952923,689005463,280464955,957782887#notes:PvP
-dimwishlist:item=3055192515#notes:Infuse or Delete
 dimwishlist:item=2957367743#notes:Infuse or Delete
 dimwishlist:item=1645386487#notes:Infuse or Delete
 dimwishlist:item=3258665412#notes:Infuse or Delete
@@ -4217,6 +4213,16 @@ dimwishlist:item=2742838701&perks=1926090095,1885400500,957782887,2846385770#not
 dimwishlist:item=2742838701&perks=1926090095,1885400500,47981717,2846385770#notes:PvP Perfect
 dimwishlist:item=2742838701&perks=1926090094,1885400500,47981717,2846385770#notes:PvP
 dimwishlist:item=2742838701#notes:Infuse or Delete
+// Dream Breaker
+dimwishlist:item=2931957300&perks=280464955,1890422124#notes:PvP
+dimwishlist:item=2931957300&perks=280464955,1754714824#notes:PvP
+dimwishlist:item=2931957300&perks=280464955,2213355989#notes:PvP
+dimwishlist:item=2931957300&perks=280464955#notes:PvP
+dimwishlist:item=2931957300&perks=1645158859,1890422124#notes:PvP
+dimwishlist:item=2931957300&perks=1645158859,1754714824#notes:PvP
+dimwishlist:item=2931957300&perks=1645158859,2213355989#notes:PvP
+dimwishlist:item=2931957300&perks=1645158859#notes:PvP
+dimwishlist:item=2931957300#notes:Infuse or Delete
 // Empty Vessel
 dimwishlist:item=4255586669&perks=981914802,3032599245,3300816228,1546637391#notes:PvE Perfect
 dimwishlist:item=4255586669&perks=1478423395,3032599245,3300816228,1546637391#notes:PvE
@@ -7761,6 +7767,12 @@ dimwishlist:item=3409645497#notes:Infuse or Delete
 dimwishlist:item=2199171672&perks=3661387068,1885400500,247725512,2458213969#notes:PvE Perfect
 dimwishlist:item=2199171672&perks=3661387068,1885400500,4267945040,2458213969#notes:PvE Perfect
 dimwishlist:item=2199171672#notes:Infuse or Delete
+// Main Ingredient
+dimwishlist:item=253196586&perks=2405638014,3868766766,1645158859,1890422124#notes:PvP Perfect
+dimwishlist:item=253196586&perks=2405638014,3868766766,1645158859,1890422124#notes:PvP Perfect
+dimwishlist:item=253196586&perks=1645158859,1890422124#notes:PvP
+dimwishlist:item=253196586&perks=280464955,1890422124#notes:PvP
+dimwishlist:item=253196586&perks=280464955#notes:PvP
 // Matador 64
 dimwishlist:item=2563012876&perks=1332244541,791862061,1428297954,47981717#notes:PvP Perfect
 dimwishlist:item=2563012876&perks=1047830412,791862061,1428297954,47981717#notes:PvP
@@ -16608,6 +16620,13 @@ dimwishlist:item=2414141462#notes:Infuse or Delete
 // Threaded Needle
 dimwishlist:item=3075224551&perks=839105230,2680121939,3300816228,1546637391#notes:PvE Perfect
 dimwishlist:item=3075224551#notes:Infuse or Delete
+// Timelines Vertex
+dimwishlist:item=3055192515&perks=194952923,1687452232,280464955,957782887#notes:PvP
+dimwishlist:item=3055192515&perks=280464955,957782887#notes:PvP
+dimwishlist:item=3055192515&perks=280464955,3523296417#notes:PvP
+dimwishlist:item=3055192515&perks=280464955,1683379515#notes:PvP
+dimwishlist:item=3055192515&perks=280464955#notes:PvP
+dimwishlist:item=3055192515#notes:Infuse or Delete
 // Transfiguration
 dimwishlist:item=3799980700&perks=1840239774,679225683,1168162263,3038247973#notes:Curated
 dimwishlist:item=3799980700&perks=839105230,106909392,1168162263,1015611457#notes:PvE Perfect
