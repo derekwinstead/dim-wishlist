@@ -3412,6 +3412,7 @@ dimwishlist:item=378498222#notes:Infuse or Delete
 dimwishlist:item=4225322581&perks=1332244541,791862061,3300816228,2679249093#notes:PvE Perfect
 dimwishlist:item=4225322581#notes:Infuse or Delete
 dimwishlist:item=1796949035#notes:Infuse or Delete
+dimwishlist:item=3216652511#notes:Infuse or Delete
 dimwishlist:item=3385326721#notes:Infuse or Delete
 dimwishlist:item=3175851496#notes:Infuse or Delete
 dimwishlist:item=1687353095#notes:Infuse or Delete
