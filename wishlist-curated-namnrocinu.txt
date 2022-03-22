@@ -1,4 +1,45 @@
 title: Curated rolls for Namnrocinu.
+// Unique Weapons
+dimwishlist:item=3489657138&perks=1844523823,3492396210,3300816228,3927722942#notes:Shaped
+dimwishlist:item=3489657138&perks=1844523823,3492396210,3300816228,3194351027#notes:Shaped
+dimwishlist:item=3489657138#notes:Infuse or Delete
+dimwishlist:item=4190932264&perks=839105230,1431678320,957782887,706527188#notes:Sunset PvP
+dimwishlist:item=636912560&perks=1332244541,3142289711,3161816588,957782887#notes:Sunset PvP
+dimwishlist:item=3116356268&perks=3250034553,3230963543,247725512,2846385770#notes:Sunset PvP
+dimwishlist:item=1289997971&perks=839105230,3142289711,3523296417,1546637391#notes:Sunset PvP
+dimwishlist:item=1289997971&perks=839105230,106909392,3523296417,1546637391#notes:Sunset PvE
+dimwishlist:item=1179141605&perks=1047830412,3142289711,3161816588,47981717#notes:Curated
+dimwishlist:item=3434944005&perks=2801223209,1500996326,201365942,1546637391#notes:Curated
+dimwishlist:item=4184808992&perks=3250034553,3142289711,2450788523,957782887#notes:Curated
+dimwishlist:item=2060863616&perks=3525010810,3301904089,3523296417,1546637391#notes:Curated
+dimwishlist:item=1644680957&perks=1840239774,2969185026,2779035018,1427256713#notes:Curated
+dimwishlist:item=725408022&perks=3525010810,3796465595,951095735,3194351027#notes:Curated
+dimwishlist:item=2782847179&perks=3250034553,3142289711,706527188,47981717#notes:Curated
+dimwishlist:item=2782847179#notes:Infuse or Delete
+dimwishlist:item=46524085&perks=3250034553,3142289711,4015745376,1067908860#notes:Exotic
+dimwishlist:item=601592879&perks=1467527085,679225683,1354429876,3425386926#notes:Curated
+dimwishlist:item=601592879#notes:Infuse or Delete
+dimwishlist:item=2481881293&perks=13792279,689005463,1556840489,1546637391#notes:PvE Perfect
+dimwishlist:item=2481881293#notes:Infuse or Delete
+dimwishlist:item=2257180473&perks=981914802,3301904089,2869569095,2888557110#notes:PvE
+dimwishlist:item=2257180473&perks=981914802,3301904089,2284787283,2888557110#notes:PvE
+dimwishlist:item=2257180473#notes:Infuse or Delete
+dimwishlist:item=1162247618&perks=965619220,679225683,4267945040,3425386926#notes:PvE
+dimwishlist:item=1162247618#notes:Infuse or Delete
+dimwishlist:item=3745990145&perks=893526895,3177308360,957782887,3400784728#notes:PvE
+dimwishlist:item=3745990145&perks=893526892,106909392,2869569095,3400784728#notes:PvE
+dimwishlist:item=3745990145&perks=893526894,3142289711,957782887,588594999#notes:PvP
+dimwishlist:item=3745990145&perks=893526893,3142289711,957782887,3038247973#notes:PvP
+dimwishlist:item=3745990145#notes:Infuse or Delete
+dimwishlist:item=4225322581&perks=1332244541,791862061,3300816228,2679249093#notes:PvE Perfect
+dimwishlist:item=4225322581#notes:Infuse or Delete
+dimwishlist:item=3216652511&perks=1047830412,791862061,1428297954,957782887#notes:Curated
+dimwishlist:item=3216652511#notes:Infuse or Delete
+dimwishlist:item=1561006927&perks=3250034553,1087426260,3300816228,2846385770#notes:PvE
+dimwishlist:item=1561006927#notes:Infuse or Delete
+dimwishlist:item=211938782&perks=2450788523,1546637391#notes:PvE
+dimwishlist:item=211938782&perks=2450788523,4082225868#notes:PvE
+dimwishlist:item=211938782#notes:Infuse or Delete
 // 1000 Yard Stare
 dimwishlist:item=4164201232&perks=839105230,3142289711,706527188,957782887#notes:PvP Perfect
 dimwishlist:item=4164201232&perks=839105230,3142289711,2866798147,957782887#notes:PvP Perfect
@@ -152,7 +193,7 @@ dimwishlist:item=1967303408&perks=3661387068,106909392,2450788523,11551321#notes
 dimwishlist:item=1967303408&perks=4090651448,106909392,2450788523,11551321#notes:PvP
 dimwishlist:item=1967303408&perks=1392496348,106909392,2450788523,11551321#notes:PvP
 dimwishlist:item=1967303408#notes:Infuse or Delete
-// Arsenic Bite-4b
+// Arsenic Bite 4b
 dimwishlist:item=720351795&perks=2801223209,16392701,2848615171,3365897133#notes:PvE Perfect
 dimwishlist:item=720351795&perks=3768438372,16392701,2848615171,3365897133#notes:PvE
 dimwishlist:item=720351795&perks=1196733167,16392701,2848615171,3365897133#notes:PvE
@@ -1077,7 +1118,7 @@ dimwishlist:item=528834068&perks=1482024992,1885400500,1354429876,1546637391#not
 dimwishlist:item=528834068&perks=1840239774,1885400500,1354429876,1546637391#notes:PvE
 dimwishlist:item=528834068&perks=3661387068,1885400500,1354429876,4082225868#notes:PvE Perfect
 dimwishlist:item=528834068#notes:Infuse or Delete
-// BxR-55 Battler
+// BxR 55 Battler
 dimwishlist:item=2708806099&perks=839105230,1885400500,1428297954,1015611457#notes:PvP Perfect
 dimwishlist:item=2708806099&perks=3661387068,1885400500,1428297954,1015611457#notes:PvP
 dimwishlist:item=2708806099&perks=4090651448,1885400500,1428297954,1015611457#notes:PvP
@@ -1441,7 +1482,7 @@ dimwishlist:item=2066434718&perks=3809316345,409831596,2450788523,1546637391#not
 dimwishlist:item=2066434718&perks=409831596,2450788523,1546637391#notes:PvP
 dimwishlist:item=2066434718&perks=3525010810,2450788523,1546637391#notes:PvP
 dimwishlist:item=2066434718#notes:Infuse or Delete
-// Cantata-57
+// Cantata 57
 dimwishlist:item=372697604&perks=839105230,3142289711,247725512,1954620775#notes:PvP Perfect
 dimwishlist:item=372697604&perks=4090651448,3142289711,247725512,1954620775#notes:PvP
 dimwishlist:item=372697604&perks=3661387068,3142289711,247725512,1954620775#notes:PvP
@@ -2858,18 +2899,9 @@ dimwishlist:item=2714022207&perks=3661387068,280464955,2213355989#notes:PvE
 dimwishlist:item=2714022207&perks=1482024992,280464955,2213355989#notes:PvE
 dimwishlist:item=2714022207&perks=280464955,2213355989#notes:PvE
 dimwishlist:item=2714022207#notes:Infuse or Delete
-// Crown-Splitter
+// Crown Splitter
 dimwishlist:item=2782325302&perks=3666208348,2349202967,1749209109,1546637391#notes:PvE Perfect
 dimwishlist:item=2782325302#notes:Infuse or Delete
-// Curated
-dimwishlist:item=1179141605&perks=1047830412,3142289711,3161816588,47981717#notes:Curated
-dimwishlist:item=3434944005&perks=2801223209,1500996326,201365942,1546637391#notes:Curated
-dimwishlist:item=4184808992&perks=3250034553,3142289711,2450788523,957782887#notes:Curated
-dimwishlist:item=2060863616&perks=3525010810,3301904089,3523296417,1546637391#notes:Curated
-dimwishlist:item=1644680957&perks=1840239774,2969185026,2779035018,1427256713#notes:Curated
-dimwishlist:item=725408022&perks=3525010810,3796465595,951095735,3194351027#notes:Curated
-dimwishlist:item=2782847179&perks=3250034553,3142289711,706527188,47981717#notes:Curated
-dimwishlist:item=2782847179#notes:Infuse or Delete
 // Darkest Before
 dimwishlist:item=2481758391&perks=839105230,1885400500,3643424744,3425386926#notes:PvP Perfect
 dimwishlist:item=2481758391&perks=3661387068,1885400500,3643424744,3425386926#notes:PvP
@@ -3137,8 +3169,6 @@ dimwishlist:item=3654674561#notes:Infuse or Delete
 // Delete Weapons
 dimwishlist:item=2855157553#notes:Infuse or Delete
 dimwishlist:item=4095896073#notes:Infuse or Delete
-dimwishlist:item=601592879&perks=1467527085,679225683,1354429876,3425386926#notes:Curated
-dimwishlist:item=601592879#notes:Infuse or Delete
 dimwishlist:item=48643186#notes:Infuse or Delete
 dimwishlist:item=2545083870#notes:Infuse or Delete
 dimwishlist:item=2164448701#notes:Infuse or Delete
@@ -3148,8 +3178,6 @@ dimwishlist:item=3366545721#notes:Infuse or Delete
 dimwishlist:item=407621213#notes:Infuse or Delete
 dimwishlist:item=3169616514#notes:Infuse or Delete
 dimwishlist:item=2453357042#notes:Infuse or Delete
-dimwishlist:item=2481881293&perks=13792279,689005463,1556840489,1546637391#notes:PvE Perfect
-dimwishlist:item=2481881293#notes:Infuse or Delete
 dimwishlist:item=2496242052#notes:Infuse or Delete
 dimwishlist:item=1506719573#notes:Infuse or Delete
 dimwishlist:item=927567426#notes:Infuse or Delete
@@ -3180,48 +3208,28 @@ dimwishlist:item=3669616453#notes:Infuse or Delete
 dimwishlist:item=3829285960#notes:Infuse or Delete
 dimwishlist:item=1200824700#notes:Infuse or Delete
 dimwishlist:item=1096206669#notes:Infuse or Delete
-dimwishlist:item=2257180473&perks=981914802,3301904089,2869569095,2888557110#notes:PvE
-dimwishlist:item=2257180473&perks=981914802,3301904089,2284787283,2888557110#notes:PvE
-dimwishlist:item=2257180473#notes:Infuse or Delete
 dimwishlist:item=3044460004#notes:Infuse or Delete
-dimwishlist:item=1162247618&perks=965619220,679225683,4267945040,3425386926#notes:PvE
-dimwishlist:item=1162247618#notes:Infuse or Delete
 dimwishlist:item=3622137132#notes:Infuse or Delete
-dimwishlist:item=3745990145&perks=893526895,3177308360,957782887,3400784728#notes:PvE
-dimwishlist:item=3745990145&perks=893526892,106909392,2869569095,3400784728#notes:PvE
-dimwishlist:item=3745990145&perks=893526894,3142289711,957782887,588594999#notes:PvP
-dimwishlist:item=3745990145&perks=893526893,3142289711,957782887,3038247973#notes:PvP
-dimwishlist:item=3745990145#notes:Infuse or Delete
 dimwishlist:item=3924212056#notes:Infuse or Delete
 dimwishlist:item=1529450902#notes:Infuse or Delete
 dimwishlist:item=1835747805#notes:Infuse or Delete
 dimwishlist:item=3629968765#notes:Infuse or Delete
 dimwishlist:item=2108920981#notes:Infuse or Delete
 dimwishlist:item=4146702548#notes:Infuse or Delete
-dimwishlist:item=3489657138&perks=3300816228,3927722942#notes:Shaped
-dimwishlist:item=3489657138&perks=3300816228,3194351027#notes:Shaped
-dimwishlist:item=3489657138#notes:Infuse or Delete
 dimwishlist:item=1019000888#notes:Infuse or Delete
 dimwishlist:item=3556999246#notes:Infuse or Delete
 dimwishlist:item=297296830#notes:Infuse or Delete
 dimwishlist:item=208088207#notes:Infuse or Delete
 dimwishlist:item=4020742303#notes:Infuse or Delete
 dimwishlist:item=378498222#notes:Infuse or Delete
-dimwishlist:item=4225322581&perks=1332244541,791862061,3300816228,2679249093#notes:PvE Perfect
-dimwishlist:item=4225322581#notes:Infuse or Delete
 dimwishlist:item=1796949035#notes:Infuse or Delete
-dimwishlist:item=3216652511&perks=1047830412,791862061,1428297954,957782887#notes:Curated
-dimwishlist:item=3216652511#notes:Infuse or Delete
 dimwishlist:item=3385326721#notes:Infuse or Delete
 dimwishlist:item=3175851496#notes:Infuse or Delete
 dimwishlist:item=1687353095#notes:Infuse or Delete
 dimwishlist:item=346136302#notes:Infuse or Delete
 dimwishlist:item=1402766122#notes:Infuse or Delete
-dimwishlist:item=2448907086&perks=2284787283#notes:PvE
 dimwishlist:item=2448907086#notes:Infuse or Delete
 dimwishlist:item=2408405461#notes:Infuse or Delete
-dimwishlist:item=1561006927&perks=3250034553,1087426260,3300816228,2846385770#notes:PvE
-dimwishlist:item=1561006927#notes:Infuse or Delete
 dimwishlist:item=3037520408#notes:Infuse or Delete
 dimwishlist:item=766323545#notes:Infuse or Delete
 dimwishlist:item=2434225986#notes:Infuse or Delete
@@ -3249,9 +3257,6 @@ dimwishlist:item=2957367743#notes:Infuse or Delete
 dimwishlist:item=1645386487#notes:Infuse or Delete
 dimwishlist:item=3258665412#notes:Infuse or Delete
 dimwishlist:item=3863882743#notes:Infuse or Delete
-dimwishlist:item=211938782&perks=2450788523,1546637391#notes:PvE
-dimwishlist:item=211938782&perks=2450788523,4082225868#notes:PvE
-dimwishlist:item=211938782#notes:Infuse or Delete
 dimwishlist:item=1271343896#notes:Infuse or Delete
 dimwishlist:item=3356526253#notes:Infuse or Delete
 dimwishlist:item=2891672170#notes:Infuse or Delete
@@ -6072,7 +6077,7 @@ dimwishlist:item=1526296434&perks=1467527085,2039302152,2726471870#notes:PvE
 dimwishlist:item=1526296434&perks=202670084,2039302152,2726471870#notes:PvE
 dimwishlist:item=1526296434&perks=2039302152,2726471870#notes:PvE
 dimwishlist:item=1526296434#notes:Infuse or Delete
-// Fortissimo-11
+// Fortissimo 11
 dimwishlist:item=2821430069&perks=3250034553,791862061,1354429876,1546637391#notes:PvE Perfect
 dimwishlist:item=2821430069&perks=1482024992,791862061,1354429876,1546637391#notes:PvE
 dimwishlist:item=2821430069&perks=4090651448,791862061,1354429876,1546637391#notes:PvE
@@ -6402,7 +6407,7 @@ dimwishlist:item=3473290087&perks=1482024992,106909392,588594999,957782887#notes
 dimwishlist:item=3473290087&perks=839105230,3230963543,588594999,957782887#notes:PvP
 dimwishlist:item=3473290087&perks=4090651448,3230963543,588594999,957782887#notes:PvP
 dimwishlist:item=3473290087#notes:Infuse or Delete
-// Fugue-55
+// Fugue 55
 dimwishlist:item=2233545123&perks=839105230,3142289711,1354429876,1546637391#notes:PvE Perfect
 dimwishlist:item=2233545123&perks=4090651448,3142289711,1354429876,1546637391#notes:PvE
 dimwishlist:item=2233545123&perks=1840239774,3142289711,1354429876,1546637391#notes:PvE
@@ -7034,7 +7039,7 @@ dimwishlist:item=1621558458&perks=1482024992,588594999,957782887#notes:PvP
 dimwishlist:item=1621558458&perks=1467527085,588594999,957782887#notes:PvP
 dimwishlist:item=1621558458&perks=588594999,957782887#notes:PvP
 dimwishlist:item=1621558458#notes:Infuse or Delete
-// Half-Truths
+// Half Truths
 dimwishlist:item=3257091166&perks=436053704,52780822,2590710093,2077819806#notes:PvE Perfect
 dimwishlist:item=3257091166&perks=436053704,3625355092,2590710093,2077819806#notes:PvE
 dimwishlist:item=3257091166&perks=436053704,52780822,1749209109,2077819806#notes:PvE Perfect
@@ -7123,7 +7128,7 @@ dimwishlist:item=2139640995&perks=3666208348,1749209109,2396489472#notes:PvE
 dimwishlist:item=2139640995&perks=52780822,1749209109,2396489472#notes:PvE
 dimwishlist:item=2139640995&perks=269888150,1749209109,2396489472#notes:PvE
 dimwishlist:item=2139640995#notes:Infuse or Delete
-// Herod-C
+// Herod C
 dimwishlist:item=1788603939&perks=839105230,2420895100,1820235745,4104185692#notes:PvE Perfect
 dimwishlist:item=1788603939&perks=3661387068,2420895100,1820235745,4104185692#notes:PvE
 dimwishlist:item=1788603939&perks=4090651448,2420895100,1820235745,4104185692#notes:PvE
@@ -13803,7 +13808,7 @@ dimwishlist:item=1107446438&perks=1467527085,106909392,1168162263,2458213969#not
 dimwishlist:item=1107446438&perks=202670084,106909392,1168162263,2458213969#notes:PvE
 dimwishlist:item=1107446438&perks=839105230,1087426260,1168162263,2458213969#notes:PvE
 dimwishlist:item=1107446438#notes:Infuse or Delete
-// Seventh Seraph CQC-12
+// Seventh Seraph CQC 12
 dimwishlist:item=1821724780&perks=1332244541,791862061,3300816228,1546637391#notes:PvE Perfect
 dimwishlist:item=1821724780&perks=1047830412,791862061,3300816228,1546637391#notes:PvE
 dimwishlist:item=1821724780&perks=4090651448,791862061,3300816228,1546637391#notes:PvE
@@ -13921,7 +13926,7 @@ dimwishlist:item=2582755344&perks=839105230,1885400500,3300816228,1683379515#not
 dimwishlist:item=2582755344&perks=3661387068,1885400500,3300816228,1683379515#notes:PvE
 dimwishlist:item=2582755344&perks=4090651448,1885400500,3300816228,1683379515#notes:PvE
 dimwishlist:item=2582755344#notes:Infuse or Delete
-// Seventh Seraph SI-2
+// Seventh Seraph SI 2
 dimwishlist:item=3937866388&perks=4090651448,3142289711,3523296417,1546637391#notes:PvE Perfect
 dimwishlist:item=3937866388&perks=3661387068,3142289711,3523296417,1546637391#notes:PvE
 dimwishlist:item=3937866388&perks=3250034553,3142289711,3523296417,1546637391#notes:PvE
@@ -16503,12 +16508,6 @@ dimwishlist:item=2990047042&perks=839105230,3142289711,1556840489,1546637391#not
 dimwishlist:item=2990047042&perks=1840239774,3142289711,1556840489,1546637391#notes:PvE
 dimwishlist:item=2990047042&perks=839105230,106909392,1523832109,469285294#notes:PvE Perfect
 dimwishlist:item=2990047042#notes:Infuse or Delete
-// Sunset
-dimwishlist:item=4190932264&perks=839105230,1431678320,957782887,706527188#notes:Sunset PvP
-dimwishlist:item=636912560&perks=1332244541,3142289711,3161816588,957782887#notes:Sunset PvP
-dimwishlist:item=3116356268&perks=3250034553,3230963543,247725512,2846385770#notes:Sunset PvP
-dimwishlist:item=1289997971&perks=839105230,3142289711,3523296417,1546637391#notes:Sunset PvP
-dimwishlist:item=1289997971&perks=839105230,106909392,3523296417,1546637391#notes:Sunset PvE
 // Sweet Sorrow
 dimwishlist:item=1248372789&perks=839105230,3142289711,3400784728,1546637391#notes:PvE Perfect
 dimwishlist:item=1248372789&perks=3661387068,3142289711,3400784728,1546637391#notes:PvE
@@ -16735,7 +16734,7 @@ dimwishlist:item=1248372789&perks=1840239774,1583705720,2896038713#notes:PvE
 dimwishlist:item=1248372789&perks=3250034553,1583705720,2896038713#notes:PvE
 dimwishlist:item=1248372789&perks=1583705720,2896038713#notes:PvE
 dimwishlist:item=1248372789#notes:Infuse or Delete
-// Syncopation-53
+// Syncopation 53
 dimwishlist:item=2856514843&perks=839105230,1885400500,588594999,124408337#notes:PvE Perfect
 dimwishlist:item=2856514843&perks=4090651448,1885400500,588594999,124408337#notes:PvE
 dimwishlist:item=2856514843&perks=3661387068,1885400500,588594999,124408337#notes:PvE
@@ -18955,7 +18954,7 @@ dimwishlist:item=3836861464&perks=2450788523,1546637391#notes:PvE
 dimwishlist:item=47772649&perks=2450788523,1546637391#notes:PvE
 dimwishlist:item=3836861464#notes:Infuse or Delete
 dimwishlist:item=47772649#notes:Infuse or Delete
-// The Time-Worn Spire
+// The Time Worn Spire
 dimwishlist:item=3593598010&perks=2405638014,1885400500,2779035018,3425386926#notes:PvE Perfect
 dimwishlist:item=3593598010&perks=2405638014,1885400500,706527188,3425386926#notes:PvP Perfect
 dimwishlist:item=3593598010&perks=13792279,1885400500,706527188,3425386926#notes:PvP
