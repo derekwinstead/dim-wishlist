@@ -108,6 +108,7 @@ dimwishlist:item=3514096004&perks=1087426260,247725512,1015611457#notes:PvE
 dimwishlist:item=3514096004&perks=194952923,1885400500,3643424744,2726471870#notes:PvE Perfect
 dimwishlist:item=2782325301&perks=3666208348,2363751990,1749209109,3708227201#notes:PvE Perfect
 dimwishlist:item=2782325301&perks=3666208348,2363751990,1749209109,354401740#notes:PvE Perfect
+dimwishlist:item=&perks=3666208348,269888150,1749209109,3913600130#notes:PvE Perfect
 // Unique Weapons
 dimwishlist:item=4184808992&perks=3250034553,3142289711,2450788523,957782887#notes:Curated
 dimwishlist:item=601592879&perks=1467527085,679225683,1354429876,3425386926#notes:Curated
@@ -4371,9 +4372,6 @@ dimwishlist:item=3637570176&perks=2866798147,47981717#notes:PvP
 dimwishlist:item=3164743584&perks=2866798147,47981717#notes:PvP
 dimwishlist:item=3637570176#notes:Infuse or Delete
 dimwishlist:item=3164743584#notes:Infuse or Delete
-// Falling Guillotine
-dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3913600130#notes:PvE Perfect
-dimwishlist:item=614426548#notes:Infuse or Delete
 // False Promises
 dimwishlist:item=3143732432&perks=3661387068,1885400500,3643424744,3425386926#notes:PvE Perfect
 dimwishlist:item=3143732432&perks=4090651448,1885400500,3643424744,3425386926#notes:PvE
