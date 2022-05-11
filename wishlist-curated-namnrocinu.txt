@@ -5594,6 +5594,10 @@ dimwishlist:item=4038592169&perks=981914802,2822142346,2010801679,2396489472#not
 dimwishlist:item=613334176&perks=981914802,2822142346,2010801679,2396489472#notes:PvE
 dimwishlist:item=4038592169&perks=2822142346,2010801679,2396489472#notes:PvE
 dimwishlist:item=613334176&perks=2822142346,2010801679,2396489472#notes:PvE
+dimwishlist:item=4038592169&perks=3300816228#notes:PvE Perfect
+dimwishlist:item=613334176&perks=3300816228#notes:PvE Perrfect
+dimwishlist:item=4038592169&perks=3525010810,2822142346,3096702027,3425386926#notes:PvE
+dimwishlist:item=613334176&perks=3525010810,2822142346,3096702027,3425386926#notes:PvE
 dimwishlist:item=4038592169#notes:Infuse or Delete
 dimwishlist:item=613334176#notes:Infuse or Delete
 // Forensic Nightmare
