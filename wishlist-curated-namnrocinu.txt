@@ -67,7 +67,6 @@ dimwishlist:item=1572896086#notes:Infuse or Delete
 dimwishlist:item=3175851496#notes:Infuse or Delete
 dimwishlist:item=346136302#notes:Infuse or Delete
 dimwishlist:item=1402766122#notes:Infuse or Delete
-dimwishlist:item=2448907086#notes:Infuse or Delete
 dimwishlist:item=2408405461#notes:Infuse or Delete
 dimwishlist:item=3037520408#notes:Infuse or Delete
 dimwishlist:item=766323545#notes:Infuse or Delete
@@ -136,6 +135,8 @@ dimwishlist:item=3216652511&perks=1047830412,791862061,1428297954,957782887#note
 dimwishlist:item=3216652511#notes:Infuse or Delete
 dimwishlist:item=1687353095&perks=3661387068,1087426260,1820235745,3425386926#notes:PvE
 dimwishlist:item=1687353095#notes:Infuse or Delete
+dimwishlist:item=2448907086&perks=3300816228#notes:PvE
+dimwishlist:item=2448907086#notes:Infuse or Delete
 dimwishlist:item=2060863616&perks=3525010810,3301904089,3523296417,1546637391#notes:Curated
 dimwishlist:item=1561006927&perks=3250034553,1087426260,3300816228,2846385770#notes:PvE
 dimwishlist:item=1561006927#notes:Infuse or Delete
