@@ -524,7 +524,6 @@ dimwishlist:item=4164201232&perks=1482024992,1570042021,2610012052#notes:PvP
 dimwishlist:item=4164201232&perks=1840239774,1570042021,2610012052#notes:PvP
 dimwishlist:item=4164201232&perks=3250034553,1570042021,2610012052#notes:PvP
 dimwishlist:item=4164201232&perks=1570042021,2610012052#notes:PvP
-dimwishlist:item=4164201232#notes:Infuse or Delete
 // Aishas Embrace
 dimwishlist:item=2638190703&perks=839105230,1885400500,3400784728,1354429876#notes:PvE Perfect
 dimwishlist:item=3245493570&perks=839105230,1885400500,3400784728,1354429876#notes:PvE Perrfect
@@ -1456,8 +1455,6 @@ dimwishlist:item=2638190703&perks=1482024992,2946784966,2896038713#notes:PvE
 dimwishlist:item=3245493570&perks=1482024992,2946784966,2896038713#notes:PvE
 dimwishlist:item=2638190703&perks=2946784966,2896038713#notes:PvE
 dimwishlist:item=3245493570&perks=2946784966,2896038713#notes:PvE
-dimwishlist:item=2638190703#notes:Infuse or Delete
-dimwishlist:item=3245493570#notes:Infuse or Delete
 // Archons Thunder
 dimwishlist:item=1967303408&perks=3661387068,106909392,2846385770,11551321#notes:PvP Perfect
 dimwishlist:item=1967303408&perks=4090651448,106909392,2846385770,11551321#notes:PvP
