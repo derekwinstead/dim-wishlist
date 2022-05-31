@@ -13329,7 +13329,6 @@ dimwishlist:item=1679868061&perks=4090651448,1428297954,2360754333#notes:PvE
 dimwishlist:item=1679868061&perks=1428297954,2360754333#notes:PvE
 dimwishlist:item=1679868061#notes:Infuse or Delete
 // Trashlist
-dimwishlist:item=-2715240478#notes:Infuse or Delete
 dimwishlist:item=-4164201232#notes:Infuse or Delete
 dimwishlist:item=-4095896073#notes:Infuse or Delete
 dimwishlist:item=-4184808992#notes:Infuse or Delete
@@ -13522,8 +13521,6 @@ dimwishlist:item=-2434225986#notes:Infuse or Delete
 dimwishlist:item=-4023807721#notes:Infuse or Delete
 dimwishlist:item=-3682803680#notes:Infuse or Delete
 dimwishlist:item=-136525518#notes:Infuse or Delete
-dimwishlist:item=-1387987271#notes:Infuse or Delete
-dimwishlist:item=-3355385170#notes:Infuse or Delete
 dimwishlist:item=-3740842661#notes:Infuse or Delete
 dimwishlist:item=-4114929480#notes:Infuse or Delete
 dimwishlist:item=-599895591#notes:Infuse or Delete
