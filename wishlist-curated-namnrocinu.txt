@@ -11562,6 +11562,9 @@ dimwishlist:item=681067419&perks=3661387068,1570042021,3038247973#notes:PvE
 dimwishlist:item=4281371574&perks=3661387068,1570042021,3038247973#notes:PvE
 dimwishlist:item=681067419&perks=1570042021,3038247973#notes:PvE
 dimwishlist:item=4281371574&perks=1570042021,3038247973#notes:PvE
+// Jararaca-3sr
+dimwishlist:item=1851521408#notes:PvEvP
+dimwishlist:item=1851521408#notes:PvEvP
 // Night Watch
 dimwishlist:item=3504336176&perks=4090651448,2420895100,3643424744,3038247973#notes:Curated
 dimwishlist:item=3504336176&perks=839105230,106909392,247725512,3038247973#notes:Perfect PvE
@@ -16873,6 +16876,9 @@ dimwishlist:item=2988121501&perks=1087426260,4071163871,3708227201#notes:PvE
 dimwishlist:item=2988121501&perks=3230963543,4071163871,3708227201#notes:PvE
 dimwishlist:item=2988121501&perks=839105230,4071163871,3708227201#notes:PvE
 dimwishlist:item=2988121501&perks=4090651448,4071163871,3708227201#notes:PvE
+// Prolonged Engagement
+dimwishlist:item=2349907931#notes:PvEvP
+dimwishlist:item=2349907931#notes:PvEvP
 // Stochastic Variable
 dimwishlist:item=2272470786&perks=4090651448,1885400500,2779035018,2458213969#notes:Perfect PvE
 dimwishlist:item=2272470786&perks=839105230,1885400500,2779035018,2458213969#notes:PvE
@@ -17990,6 +17996,7 @@ dimwishlist:item=-1184692845
 dimwishlist:item=-1641430382
 dimwishlist:item=-4281371574
 dimwishlist:item=-681067419
+dimwishlist:item=-1851521408
 dimwishlist:item=-3504336176
 dimwishlist:item=-4019668921
 dimwishlist:item=-3799980700
@@ -18072,6 +18079,7 @@ dimwishlist:item=-2222560548
 dimwishlist:item=-2149683300
 dimwishlist:item=-3717177717
 dimwishlist:item=-2988121501
+dimwishlist:item=-2349907931
 dimwishlist:item=-3682803680
 dimwishlist:item=-4023807721
 dimwishlist:item=-2272470786
