@@ -5922,6 +5922,9 @@ dimwishlist:item=2671639706&perks=1467527085,1354429876,2458213969#notes:PvE
 dimwishlist:item=2671639706&perks=1482024992,1354429876,2458213969#notes:PvE
 dimwishlist:item=2671639706&perks=3250034553,1354429876,2458213969#notes:PvE
 dimwishlist:item=2671639706&perks=1354429876,2458213969#notes:PvE
+// Rose
+dimwishlist:item=882778888#notes:PvEvP
+dimwishlist:item=882778888#notes:PvEvP
 // True Prophecy
 dimwishlist:item=2742838700&perks=1926090095,3142289711,2846385770,3038247973#notes:Perfect PvP
 dimwishlist:item=2742838700&perks=1926090094,3142289711,2846385770,3038247973#notes:PvP
@@ -17881,6 +17884,7 @@ dimwishlist:item=-432476743
 dimwishlist:item=-1481892490
 dimwishlist:item=-3281285075
 dimwishlist:item=-2671639706
+dimwishlist:item=-882778888
 dimwishlist:item=-1856262127
 dimwishlist:item=-2742838700
 dimwishlist:item=-1622998472
