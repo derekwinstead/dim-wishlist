@@ -80,7 +80,6 @@ dimwishlist:item=4225322581&perks=1332244541,791862061,2014892510,711234314#note
 dimwishlist:item=1679868061&perks=1482024992,791862061,191144788,1370847713#notes:PvP Crafted
 dimwishlist:item=1298815317&perks=839105230,106909392,1171147302,1720528630#notes:PvE Crafted
 dimwishlist:item=502356570&perks=3250034553,3142289711,2717805783,1161469972#notes:PvP Crafted
-dimwishlist:item=1509167284&perks=1482024992,3142289711,3797647183,1161469972#notes:PvE Crafted
 dimwishlist:item=2490988246&perks=4090651448,3142289711,494941759,2675184851#notes:PvE Crafted
 dimwishlist:item=2490988246&perks=4090651448,3142289711,494941759,781192741#notes:PvE Crafted
 dimwishlist:item=2149683300&perks=202670084,1140096971,494941759,1720528630#notes:PvE Crafted
@@ -18704,7 +18703,6 @@ dimwishlist:item=-1687353095
 dimwishlist:item=-3937866388
 dimwishlist:item=-2588048270
 dimwishlist:item=-2414141462
-dimwishlist:item=-1509167284
 dimwishlist:item=-2490988246
 dimwishlist:item=-2814093983
 dimwishlist:item=-1601177201
@@ -18720,6 +18718,7 @@ dimwishlist:item=-3886416794
 dimwishlist:item=-1941816543
 dimwishlist:item=-294129361
 dimwishlist:item=-3000847393
+dimwishlist:item=-1509167284
 dimwishlist:item=-875848769
 dimwishlist:item=-1506719573
 dimwishlist:item=-540880995
