@@ -5529,6 +5529,37 @@ dimwishlist:item=3055192515&perks=1628165637,280464955,1683379515#notes:PvP
 dimwishlist:item=3055192515&perks=194952922,280464955,1683379515#notes:PvP
 dimwishlist:item=3055192515&perks=194952921,280464955,1683379515#notes:PvP
 dimwishlist:item=3055192515&perks=280464955,1683379515#notes:PvP
+// Dimensional Hypotrochoid
+dimwishlist:item=1311684613&perks=3525010810,2822142346,968510818,2396489472#notes:PvE Flawless - Blast Radius MW
+dimwishlist:item=1311684613&perks=3809316345,2822142346,968510818,2396489472#notes:PvE - Blast Radius MW
+dimwishlist:item=1311684613&perks=981914802,2822142346,968510818,2396489472#notes:PvE - Blast Radius MW
+dimwishlist:item=1311684613&perks=1478423395,2822142346,968510818,2396489472#notes:PvE - Blast Radius MW
+dimwishlist:item=1311684613&perks=2822142346,968510818,2396489472#notes:PvE - Blast Radius MW
+dimwishlist:item=1311684613&perks=3525010810,968510818,2396489472#notes:PvE - Blast Radius MW
+dimwishlist:item=1311684613&perks=3809316345,968510818,2396489472#notes:PvE - Blast Radius MW
+dimwishlist:item=1311684613&perks=981914802,968510818,2396489472#notes:PvE - Blast Radius MW
+dimwishlist:item=1311684613&perks=1478423395,968510818,2396489472#notes:PvE - Blast Radius MW
+dimwishlist:item=1311684613&perks=968510818,2396489472#notes:PvE - Blast Radius MW
+dimwishlist:item=1311684613&perks=3525010810,2822142346,1583705720,2396489472#notes:PvE Flawless - Blast Radius MW
+dimwishlist:item=1311684613&perks=3809316345,2822142346,1583705720,2396489472#notes:PvE - Blast Radius MW
+dimwishlist:item=1311684613&perks=981914802,2822142346,1583705720,2396489472#notes:PvE - Blast Radius MW
+dimwishlist:item=1311684613&perks=1478423395,2822142346,1583705720,2396489472#notes:PvE - Blast Radius MW
+dimwishlist:item=1311684613&perks=2822142346,1583705720,2396489472#notes:PvE - Blast Radius MW
+dimwishlist:item=1311684613&perks=3525010810,1583705720,2396489472#notes:PvE - Blast Radius MW
+dimwishlist:item=1311684613&perks=3809316345,1583705720,2396489472#notes:PvE - Blast Radius MW
+dimwishlist:item=1311684613&perks=981914802,1583705720,2396489472#notes:PvE - Blast Radius MW
+dimwishlist:item=1311684613&perks=1478423395,1583705720,2396489472#notes:PvE - Blast Radius MW
+dimwishlist:item=1311684613&perks=1583705720,2396489472#notes:PvE - Blast Radius MW
+dimwishlist:item=1311684613&perks=3525010810,2822142346,3108830275,2396489472#notes:PvE Flawless - Blast Radius MW
+dimwishlist:item=1311684613&perks=3809316345,2822142346,3108830275,2396489472#notes:PvE - Blast Radius MW
+dimwishlist:item=1311684613&perks=981914802,2822142346,3108830275,2396489472#notes:PvE - Blast Radius MW
+dimwishlist:item=1311684613&perks=1478423395,2822142346,3108830275,2396489472#notes:PvE - Blast Radius MW
+dimwishlist:item=1311684613&perks=2822142346,3108830275,2396489472#notes:PvE - Blast Radius MW
+dimwishlist:item=1311684613&perks=3525010810,3108830275,2396489472#notes:PvE - Blast Radius MW
+dimwishlist:item=1311684613&perks=3809316345,3108830275,2396489472#notes:PvE - Blast Radius MW
+dimwishlist:item=1311684613&perks=981914802,3108830275,2396489472#notes:PvE - Blast Radius MW
+dimwishlist:item=1311684613&perks=1478423395,3108830275,2396489472#notes:PvE - Blast Radius MW
+dimwishlist:item=1311684613&perks=3108830275,2396489472#notes:PvE - Blast Radius MW
 // Empty Vessel
 dimwishlist:item=4255586669&perks=1844523823,3032599245,3300816228,1546637391#notes:PvE Flawless - Handling MW
 dimwishlist:item=4255586669&perks=981914802,3032599245,3300816228,1546637391#notes:PvE Excellent - Handling MW
@@ -21051,6 +21082,7 @@ dimwishlist:item=-4094657108
 dimwishlist:item=-3258665412
 dimwishlist:item=-1999697514
 dimwishlist:item=-2209003210
+dimwishlist:item=-1311684613
 dimwishlist:item=-4255586669
 dimwishlist:item=-4096943616
 dimwishlist:item=-613334176
