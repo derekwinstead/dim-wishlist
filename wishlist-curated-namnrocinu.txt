@@ -6359,6 +6359,63 @@ dimwishlist:item=4038592169&perks=1844523823,2822142346,2010801679,2396489472#no
 dimwishlist:item=4038592169&perks=3809316345,2822142346,2010801679,2396489472#notes:PvE Excellent
 dimwishlist:item=4038592169&perks=981914802,2822142346,2010801679,2396489472#notes:PvE Excellent
 dimwishlist:item=4038592169&perks=2822142346,2010801679,2396489472#notes:PvE
+// Koraxis Distress (Adept)
+dimwishlist:item=495442100&perks=3525010810,3301904089,1523832109,831391274#notes:PvE Flawless - Blast Radius MW
+dimwishlist:item=495442100&perks=981914802,3301904089,1523832109,831391274#notes:PvE Excellent - Blast Radius MW
+dimwishlist:item=495442100&perks=1844523823,3301904089,1523832109,831391274#notes:PvE Excellent - Blast Radius MW
+dimwishlist:item=495442100&perks=3809316345,3301904089,1523832109,831391274#notes:PvE Excellent - Blast Radius MW
+dimwishlist:item=495442100&perks=1478423395,3301904089,1523832109,831391274#notes:PvE Excellent - Blast Radius MW
+dimwishlist:item=495442100&perks=1441682018,3301904089,1523832109,831391274#notes:PvE Excellent - Blast Radius MW
+dimwishlist:item=495442100&perks=3301904089,1523832109,831391274#notes:PvE - Blast Radius MW
+dimwishlist:item=495442100&perks=3525010810,1523832109,831391274#notes:PvE - Blast Radius MW
+dimwishlist:item=495442100&perks=981914802,1523832109,831391274#notes:PvE - Blast Radius MW
+dimwishlist:item=495442100&perks=1844523823,1523832109,831391274#notes:PvE - Blast Radius MW
+dimwishlist:item=495442100&perks=3809316345,1523832109,831391274#notes:PvE - Blast Radius MW
+dimwishlist:item=495442100&perks=1478423395,1523832109,831391274#notes:PvE - Blast Radius MW
+dimwishlist:item=495442100&perks=1441682018,1523832109,831391274#notes:PvE - Blast Radius MW
+dimwishlist:item=495442100&perks=1523832109,831391274#notes:PvE - Blast Radius MW
+dimwishlist:item=495442100&perks=3525010810,3301904089,2396489472,831391274#notes:PvE Flawless - Blast Radius MW
+dimwishlist:item=495442100&perks=981914802,3301904089,2396489472,831391274#notes:PvE Excellent - Blast Radius MW
+dimwishlist:item=495442100&perks=1844523823,3301904089,2396489472,831391274#notes:PvE Excellent - Blast Radius MW
+dimwishlist:item=495442100&perks=3809316345,3301904089,2396489472,831391274#notes:PvE Excellent - Blast Radius MW
+dimwishlist:item=495442100&perks=1478423395,3301904089,2396489472,831391274#notes:PvE Excellent - Blast Radius MW
+dimwishlist:item=495442100&perks=1441682018,3301904089,2396489472,831391274#notes:PvE Excellent - Blast Radius MW
+dimwishlist:item=495442100&perks=3301904089,2396489472,831391274#notes:PvE - Blast Radius MW
+dimwishlist:item=495442100&perks=3525010810,2396489472,831391274#notes:PvE - Blast Radius MW
+dimwishlist:item=495442100&perks=981914802,2396489472,831391274#notes:PvE - Blast Radius MW
+dimwishlist:item=495442100&perks=1844523823,2396489472,831391274#notes:PvE - Blast Radius MW
+dimwishlist:item=495442100&perks=3809316345,2396489472,831391274#notes:PvE - Blast Radius MW
+dimwishlist:item=495442100&perks=1478423395,2396489472,831391274#notes:PvE - Blast Radius MW
+dimwishlist:item=495442100&perks=1441682018,2396489472,831391274#notes:PvE - Blast Radius MW
+dimwishlist:item=495442100&perks=2396489472,831391274#notes:PvE - Blast Radius MW
+dimwishlist:item=495442100&perks=3525010810,3301904089,3523296417,831391274#notes:PvE Flawless - Blast Radius MW
+dimwishlist:item=495442100&perks=981914802,3301904089,3523296417,831391274#notes:PvE Excellent - Blast Radius MW
+dimwishlist:item=495442100&perks=1844523823,3301904089,3523296417,831391274#notes:PvE Excellent - Blast Radius MW
+dimwishlist:item=495442100&perks=3809316345,3301904089,3523296417,831391274#notes:PvE Excellent - Blast Radius MW
+dimwishlist:item=495442100&perks=1478423395,3301904089,3523296417,831391274#notes:PvE Excellent - Blast Radius MW
+dimwishlist:item=495442100&perks=1441682018,3301904089,3523296417,831391274#notes:PvE Excellent - Blast Radius MW
+dimwishlist:item=495442100&perks=3301904089,3523296417,831391274#notes:PvE - Blast Radius MW
+dimwishlist:item=495442100&perks=3525010810,3523296417,831391274#notes:PvE - Blast Radius MW
+dimwishlist:item=495442100&perks=981914802,3523296417,831391274#notes:PvE - Blast Radius MW
+dimwishlist:item=495442100&perks=1844523823,3523296417,831391274#notes:PvE - Blast Radius MW
+dimwishlist:item=495442100&perks=3809316345,3523296417,831391274#notes:PvE - Blast Radius MW
+dimwishlist:item=495442100&perks=1478423395,3523296417,831391274#notes:PvE - Blast Radius MW
+dimwishlist:item=495442100&perks=1441682018,3523296417,831391274#notes:PvE - Blast Radius MW
+dimwishlist:item=495442100&perks=3523296417,831391274#notes:PvE - Blast Radius MW
+dimwishlist:item=495442100&perks=3525010810,3301904089,968510818,831391274#notes:PvE Flawless - Blast Radius MW
+dimwishlist:item=495442100&perks=981914802,3301904089,968510818,831391274#notes:PvE Excellent - Blast Radius MW
+dimwishlist:item=495442100&perks=1844523823,3301904089,968510818,831391274#notes:PvE Excellent - Blast Radius MW
+dimwishlist:item=495442100&perks=3809316345,3301904089,968510818,831391274#notes:PvE Excellent - Blast Radius MW
+dimwishlist:item=495442100&perks=1478423395,3301904089,968510818,831391274#notes:PvE Excellent - Blast Radius MW
+dimwishlist:item=495442100&perks=1441682018,3301904089,968510818,831391274#notes:PvE Excellent - Blast Radius MW
+dimwishlist:item=495442100&perks=3301904089,968510818,831391274#notes:PvE - Blast Radius MW
+dimwishlist:item=495442100&perks=3525010810,968510818,831391274#notes:PvE - Blast Radius MW
+dimwishlist:item=495442100&perks=981914802,968510818,831391274#notes:PvE - Blast Radius MW
+dimwishlist:item=495442100&perks=1844523823,968510818,831391274#notes:PvE - Blast Radius MW
+dimwishlist:item=495442100&perks=3809316345,968510818,831391274#notes:PvE - Blast Radius MW
+dimwishlist:item=495442100&perks=1478423395,968510818,831391274#notes:PvE - Blast Radius MW
+dimwishlist:item=495442100&perks=1441682018,968510818,831391274#notes:PvE - Blast Radius MW
+dimwishlist:item=495442100&perks=968510818,831391274#notes:PvE - Blast Radius MW
 // Lingering Dread
 dimwishlist:item=2026087437&perks=3525010810,3032599245,3300816228,2978966579#notes:PvE Flawless
 dimwishlist:item=2026087437&perks=3809316345,3032599245,3300816228,2978966579#notes:PvE Excellent
@@ -26608,6 +26665,8 @@ dimwishlist:item=-4255586669
 dimwishlist:item=-4096943616
 dimwishlist:item=-613334176
 dimwishlist:item=-4038592169
+dimwishlist:item=-2972949637
+dimwishlist:item=-495442100
 dimwishlist:item=-2026087437
 dimwishlist:item=-867154247
 dimwishlist:item=-3165547384
