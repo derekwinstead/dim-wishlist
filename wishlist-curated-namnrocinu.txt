@@ -104,7 +104,6 @@ dimwishlist:item=2812100428&perks=1840239774,679225683,1195158366,3047969693#not
 dimwishlist:item=2812100428&perks=1482024992,1561002382,2450788523,3047969693#notes:PvP
 dimwishlist:item=1641430382&perks=2405638014,1885400500,247725512,1546637391#notes:PvE Flawless
 dimwishlist:item=3717177717&perks=663495154,3142289711,1359896290,1015611457#notes:PvP Flawless - Range MW
-dimwishlist:item=294129361&perks=4090651448,1087426260,1583705720,4049631843#notes:PvE - Range MW
 dimwishlist:item=1313528549&perks=3666208348,3625355092,2590710093,2396489472#notes:PvE
 // BrayTech Werewolf S18
 dimwishlist:item=2869466318&perks=839105230,1885400500,691659142,4082225868#notes:PvE Flawless - Range MW
@@ -26451,7 +26450,6 @@ dimwishlist:item=-4023807721
 dimwishlist:item=-3886416794
 dimwishlist:item=-1941816543
 dimwishlist:item=-811403305
-dimwishlist:item=-294129361
 dimwishlist:item=-3000847393
 dimwishlist:item=-1509167284
 dimwishlist:item=-875848769
@@ -26469,6 +26467,7 @@ dimwishlist:item=-2988121501
 dimwishlist:item=-4100775158
 dimwishlist:item=-766323545
 dimwishlist:item=-2272470786
+dimwishlist:item=-294129361
 dimwishlist:item=-4164201232
 dimwishlist:item=-676270382
 dimwishlist:item=-3107853529
