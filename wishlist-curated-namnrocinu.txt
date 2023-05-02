@@ -2,8 +2,8 @@ title: Nam's Curated Rolls
 // Unique and Crafted Weapons
 dimwishlist:item=2119346509&perks=839105230,1885400500,3060983774,2675184851#notes:PvE Crafted - Range MW
 dimwishlist:item=2852052802&perks=1482024992,1885400500,1820235745,4049631843#notes:PvE
-dimwishlist:item=342514437&perks=1523832109,365154968#notes:PvE Crafted - Range MW
-dimwishlist:item=3434944005&perks=2801223209,1500996326,201365942,1546637391#notes:Pinnacle
+dimwishlist:item=342514437&perks=839105230,1885400500,461595545,2939589096#notes:PvE Crafted - Range MW
+dimwishlist:item=3434944005&perks=2801223209,1500996326,201365942,1546637391#notes:Pinnacle - Accuracy MW
 dimwishlist:item=3849444474&perks=2801223209,3429800428,169755979,1551736345#notes:PvE Crafted
 dimwishlist:item=45643573&perks=3768438372,2154191829,2840833776,1551736345#notes:PvE Crafted - Draw MW
 dimwishlist:item=232928045&perks=2801223209,16392701,3523746922,1551736345#notes:PvE Crafted
