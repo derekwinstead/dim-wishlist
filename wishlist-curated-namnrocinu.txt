@@ -11736,6 +11736,11 @@ dimwishlist:item=1851521408&perks=1482024992,1885400500,1428297954,2610012052#no
 dimwishlist:item=1851521408&perks=1840239774,1885400500,1428297954,2610012052#notes:PvE Excellent - Range MW
 dimwishlist:item=1851521408&perks=3250034553,1885400500,1428297954,2610012052#notes:PvE Excellent - Range MW
 dimwishlist:item=1851521408&perks=1392496348,1885400500,1428297954,2610012052#notes:PvE Excellent - Range MW
+// Taraxippos
+dimwishlist:item=1389546626&perks=1365187766,3038247973#notes:PvE
+dimwishlist:item=1389546626&perks=2387244414,3751912585#notes:PvE
+dimwishlist:item=1389546626&perks=2387244414,1015611457#notes:PvE
+dimwishlist:item=1389546626&perks=2387244414,3038247973#notes:PvE
 // First In Last Out
 dimwishlist:item=3616586446&perks=3250034553,791862061,3300816228,1546637391#notes:PvE Flawless - Range MW
 dimwishlist:item=3616586446&perks=1482024992,791862061,3300816228,1546637391#notes:PvE Excellent - Range MW
@@ -17750,6 +17755,7 @@ dimwishlist:item=-1392919471
 dimwishlist:item=-3186018373
 dimwishlist:item=-690668916
 dimwishlist:item=-1851521408
+dimwishlist:item=-1389546626
 dimwishlist:item=-2638190703
 dimwishlist:item=-3245493570
 dimwishlist:item=-1937552980
