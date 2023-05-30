@@ -4,6 +4,7 @@ dimwishlist:item=2119346509&perks=839105230,1885400500,3060983774,2675184851#not
 dimwishlist:item=2852052802&perks=1482024992,1885400500,1820235745,4049631843#notes:PvE - Stability MW
 dimwishlist:item=392008588&perks=1482024992,3142289711,2450788523,2610012052#notes:PvE Crafted - Range MW
 dimwishlist:item=342514437&perks=839105230,1885400500,461595545,2939589096#notes:PvE Crafted - Range MW
+dimwishlist:item=424291879&perks=839105230,3142289711,776531651,2048641572#notes:PvE Crafted - Range MW
 dimwishlist:item=3434944005&perks=2801223209,1500996326,201365942,1546637391#notes:Pinnacle - Accuracy MW
 dimwishlist:item=3849444474&perks=2801223209,3429800428,169755979,1551736345#notes:PvE Crafted - Draw MW
 dimwishlist:item=4095896073&perks=3768438372,3311977193,201365942,3365897133#notes:PvE - Draw MW
@@ -17187,6 +17188,7 @@ dimwishlist:item=-3514144928
 dimwishlist:item=-2852052802
 dimwishlist:item=-392008588
 dimwishlist:item=-342514437
+dimwishlist:item=-424291879
 dimwishlist:item=-821154603
 dimwishlist:item=-720351795
 dimwishlist:item=-3434944005
@@ -17421,8 +17423,10 @@ dimwishlist:item=-20935540
 dimwishlist:item=-1337707096
 dimwishlist:item=-355382946
 dimwishlist:item=-1788603939
+dimwishlist:item=-3678653083
 dimwishlist:item=-484515708
 dimwishlist:item=-601592879
+dimwishlist:item=-491078457
 dimwishlist:item=-3385326721
 dimwishlist:item=-1399109800
 dimwishlist:item=-211938782
