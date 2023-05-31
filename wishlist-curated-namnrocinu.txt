@@ -96,6 +96,8 @@ dimwishlist:item=2782325300&perks=436053704,269888150,1749209109,4049631843#note
 dimwishlist:item=3493494807&perks=666#notes:PvE Crafted - Range MW
 dimwishlist:item=3493494807&perks=1523832109,4104185692#notes:PvE Crafted - Range MW
 // Destiny Content Vault
+dimwishlist:item=2721249463&perks=4067834857,3827198035,908147344,2848615171#notes:Curated - Draw MW
+dimwishlist:item=2721249463&perks=1196733167,2154191829,201365942,3425386926#notes:PvE - Draw MW
 dimwishlist:item=882778888&perks=202670084,3142289711,588594999,3038247973#notes:PvP Excellent - Range MW
 dimwishlist:item=882778888&perks=202670084,3142289711,588594999,2846385770#notes:PvP Excellent - Range MW
 dimwishlist:item=882778888&perks=1482024992,3230963543,247725512,2846385770#notes:PvP Excellent - Range MW
@@ -2753,35 +2755,6 @@ dimwishlist:item=2591241074&perks=852209214,2154191829,2846385770,1546637391#not
 dimwishlist:item=2591241074&perks=3371775011,2154191829,2846385770,1546637391#notes:PvE - Draw MW
 dimwishlist:item=2591241074&perks=3429800428,2846385770,1546637391#notes:PvE - Draw MW
 dimwishlist:item=2591241074&perks=3827198035,2846385770,1546637391#notes:PvE - Draw MW
-// Tyranny of Heaven
-dimwishlist:item=2721249463&perks=4067834857,3827198035,908147344,2848615171#notes:Curated - Draw MW
-dimwishlist:item=2721249463&perks=2801223209,16392701,201365942,3365897133#notes:PvE Flawless - Draw MW
-dimwishlist:item=2721249463&perks=3768438372,16392701,201365942,3365897133#notes:PvE Excellent - Draw MW
-dimwishlist:item=2721249463&perks=1196733167,16392701,201365942,3365897133#notes:PvE Excellent - Draw MW
-dimwishlist:item=2721249463&perks=852209214,16392701,201365942,3365897133#notes:PvE Excellent - Draw MW
-dimwishlist:item=2721249463&perks=2801223209,2154191829,201365942,3365897133#notes:PvE - Draw MW
-dimwishlist:item=2721249463&perks=3768438372,2154191829,201365942,3365897133#notes:PvE - Draw MW
-dimwishlist:item=2721249463&perks=1196733167,2154191829,201365942,3365897133#notes:PvE - Draw MW
-dimwishlist:item=2721249463&perks=852209214,2154191829,201365942,3365897133#notes:PvE - Draw MW
-dimwishlist:item=2721249463&perks=2801223209,3827198035,201365942,3365897133#notes:PvE - Draw MW
-dimwishlist:item=2721249463&perks=3768438372,3827198035,201365942,3365897133#notes:PvE - Draw MW
-dimwishlist:item=2721249463&perks=1196733167,3827198035,201365942,3365897133#notes:PvE - Draw MW
-dimwishlist:item=2721249463&perks=852209214,3827198035,201365942,3365897133#notes:PvE - Draw MW
-dimwishlist:item=2721249463&perks=16392701,201365942,3365897133#notes:PvE - Draw MW
-dimwishlist:item=2721249463&perks=2154191829,201365942,3365897133#notes:PvE - Draw MW
-dimwishlist:item=2721249463&perks=3827198035,201365942,3365897133#notes:PvE - Draw MW
-dimwishlist:item=2721249463&perks=2801223209,201365942,3365897133#notes:PvE - Draw MW
-dimwishlist:item=2721249463&perks=3768438372,201365942,3365897133#notes:PvE - Draw MW
-dimwishlist:item=2721249463&perks=1196733167,201365942,3365897133#notes:PvE - Draw MW
-dimwishlist:item=2721249463&perks=852209214,201365942,3365897133#notes:PvE - Draw MW
-dimwishlist:item=2721249463&perks=201365942,3365897133#notes:PvE - Draw MW
-dimwishlist:item=2721249463&perks=2801223209,16392701,201365942,3425386926#notes:PvE Flawless - Draw MW
-dimwishlist:item=2721249463&perks=3768438372,16392701,201365942,3425386926#notes:PvE Excellent - Draw MW
-dimwishlist:item=2721249463&perks=1196733167,16392701,201365942,3425386926#notes:PvE Excellent - Draw MW
-dimwishlist:item=2721249463&perks=852209214,16392701,201365942,3425386926#notes:PvE Excellent - Draw MW
-dimwishlist:item=2721249463&perks=2801223209,2154191829,201365942,3425386926#notes:PvE - Draw MW
-dimwishlist:item=2721249463&perks=3768438372,2154191829,201365942,3425386926#notes:PvE - Draw MW
-dimwishlist:item=2721249463&perks=1196733167,2154191829,201365942,3425386926#notes:PvE - Draw MW
 // Lunulata 4b
 dimwishlist:item=2513965917&perks=2801223209,3429800428,2846385770,124408337#notes:PvE Flawless - Draw MW
 dimwishlist:item=2513965917&perks=2801223209,3429800428,3700496672,124408337#notes:PvE Flawless - Draw MW
@@ -17197,6 +17170,7 @@ dimwishlist:item=-3472875143
 dimwishlist:item=-4095896073
 dimwishlist:item=-1621657423
 dimwishlist:item=-2591241074
+dimwishlist:item=-3388655311
 dimwishlist:item=-2721249463
 dimwishlist:item=-2513965917
 dimwishlist:item=-45643573
