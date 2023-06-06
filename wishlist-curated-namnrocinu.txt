@@ -9945,7 +9945,7 @@ dimwishlist:item=4050645223&perks=981914802,3643424744,1275731761#notes:PvE - Bl
 dimwishlist:item=1921159786&perks=3643424744,1275731761#notes:PvE - Blast Radius MW
 dimwishlist:item=4050645223&perks=3643424744,1275731761#notes:PvE - Blast Radius MW
 // Cold Comfort
-dimwishlist:item=839786290#notes:
+dimwishlist:item=839786290&perks=968510818#notes:
 // BrayTech Osprey
 dimwishlist:item=1064132738#notes:
 dimwishlist:item=3667553455#notes:
