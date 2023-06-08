@@ -5921,8 +5921,6 @@ dimwishlist:item=2890082420&perks=1840239774,1523832109,2213355989#notes:PvE - C
 dimwishlist:item=2890082420&perks=202670084,1523832109,2213355989#notes:PvE - Charge MW
 dimwishlist:item=2890082420&perks=1467527085,1523832109,2213355989#notes:PvE - Charge MW
 dimwishlist:item=2890082420&perks=1523832109,2213355989#notes:PvE - Charge MW
-// Laser Painter
-dimwishlist:item=3221722018#notes:
 // Seventh Seraph SAW
 dimwishlist:item=2582755344&perks=839105230,2420895100,3300816228,1546637391#notes:PvE Flawless - Stability MW
 dimwishlist:item=2582755344&perks=839105230,2420895100,3300816228,1771339417#notes:PvE Flawless - Stability MW
@@ -12952,7 +12950,7 @@ dimwishlist:item=3262192268&perks=1467527085,1968497646,3523296417,4293542123#no
 dimwishlist:item=3262192268&perks=3250034553,1968497646,3523296417,4293542123#notes:PvE - Reload MW
 dimwishlist:item=3262192268&perks=1840239774,1968497646,3523296417,4293542123#notes:PvE - Reload MW
 dimwishlist:item=3262192268&perks=4090651448,3230963543,3523296417,4293542123#notes:PvE - Reload MW
-// Submission (Adept)
+// Prolonged Engagement
 dimwishlist:item=2349907931&perks=839105230,1885400500,1820235745,365154968#notes:PvE Flawless - Range MW
 dimwishlist:item=2349907931&perks=4090651448,1885400500,1820235745,365154968#notes:PvE Excellent - Range MW
 dimwishlist:item=2349907931&perks=3661387068,1885400500,1820235745,365154968#notes:PvE Excellent - Range MW
@@ -17274,7 +17272,6 @@ dimwishlist:item=-999767358
 dimwishlist:item=-2272041093
 dimwishlist:item=-1399243961
 dimwishlist:item=-2475355656
-dimwishlist:item=-3221722018
 dimwishlist:item=-1911060537
 dimwishlist:item=-3075224551
 dimwishlist:item=-1572896086
@@ -17526,6 +17523,7 @@ dimwishlist:item=-1184309824
 dimwishlist:item=-3335343363
 dimwishlist:item=-2886339027
 dimwishlist:item=-2714022207
+dimwishlist:item=-3221722018
 dimwishlist:item=-820890091
 dimwishlist:item=-47772649
 dimwishlist:item=-3836861464
