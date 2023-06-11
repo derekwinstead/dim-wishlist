@@ -2415,6 +2415,7 @@ dimwishlist:item=821154603&perks=1840239774,1820235745,3523296417#notes:PvE - Ra
 dimwishlist:item=821154603&perks=3250034553,1820235745,3523296417#notes:PvE - Range MW
 dimwishlist:item=821154603&perks=1820235745,3523296417#notes:PvE - Range MW
 dimwishlist:item=821154603&perks=839105230,3142289711,1890422124,3425386926#notes:PvP Flawless - Range MW
+dimwishlist:item=821154603&perks=839105230,3142289711,2387244414,3425386926#notes:PvP Flawless - Range MW
 // Arsenic Bite 4b
 dimwishlist:item=720351795&perks=2801223209,16392701,3425386926,3365897133#notes:PvE Flawless - Draw MW
 dimwishlist:item=720351795&perks=3768438372,16392701,3425386926,3365897133#notes:PvE Excellent - Draw MW
@@ -3949,8 +3950,6 @@ dimwishlist:item=2026087437&perks=1478423395,3032599245,3300816228,3523296417#no
 dimwishlist:item=2026087437&perks=3032599245,3300816228,3523296417#notes:PvE - Handling MW
 // New Pacific Epitaph
 dimwishlist:item=1125217994#notes:
-// Swarm of the Raven S21
-dimwishlist:item=433905699#notes:
 // Truthteller
 dimwishlist:item=1946491241&perks=3525010810,3032599245,3300816228,1683379515#notes:PvE Flawless - Handling MW
 // Wilderflight
@@ -4761,8 +4760,6 @@ dimwishlist:item=2742838700&perks=1926090094,3643424744,3425386926#notes:PvP - R
 dimwishlist:item=2742838700&perks=1926090092,3643424744,3425386926#notes:PvP - Range MW
 dimwishlist:item=2742838700&perks=1926090093,3643424744,3425386926#notes:PvP - Range MW
 dimwishlist:item=2742838700&perks=3643424744,3425386926#notes:PvP - Range MW
-// Epochal Integration
-dimwishlist:item=1123421440#notes:
 // Eyasluna
 dimwishlist:item=235827225&perks=1926090095,1885400500,2846385770,1015611457#notes:PvP Flawless - Range MW
 dimwishlist:item=235827225&perks=1926090094,1885400500,2846385770,1015611457#notes:PvP Excellent - Range MW
@@ -17233,7 +17230,6 @@ dimwishlist:item=-2972949637
 dimwishlist:item=-495442100
 dimwishlist:item=-3165547384
 dimwishlist:item=-268260372
-dimwishlist:item=-433905699
 dimwishlist:item=-1946491241
 dimwishlist:item=-2306182339
 dimwishlist:item=-2534546147
@@ -17486,6 +17482,7 @@ dimwishlist:item=-3565520715
 dimwishlist:item=-981718087
 dimwishlist:item=-1606497639
 dimwishlist:item=-2108920981
+dimwishlist:item=-433905699
 dimwishlist:item=-1972985595
 dimwishlist:item=-254636484
 dimwishlist:item=-4005780578
