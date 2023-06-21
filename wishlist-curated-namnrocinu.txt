@@ -25,6 +25,7 @@ dimwishlist:item=2721157927&perks=1478423395,3301904089,3563868667,598607952#not
 dimwishlist:item=3849810018&perks=3525010810,3032599245,3528046508,1906147653#notes:PvE Crafted - Handling MW
 dimwishlist:item=4096943616&perks=3525010810,2822142346,3300816228,1683379515#notes:PvE Crafted - Handling MW
 dimwishlist:item=2972949637&perks=1478423395,3301904089,461595545,102912326#notes:PvE Crafted - Blast Radius MW
+dimwishlist:item=1606497639&perks=1844523823,2822142346,968510818,2048641572#notes:PvE Flawless - Handling MW
 dimwishlist:item=3165547384&perks=951095735,2396489472#notes:PvP - Blast Radius MW
 dimwishlist:item=3165547384&perks=951095735,960810156#notes:PvP - Blast Radius MW
 dimwishlist:item=268260372&perks=1478423395,3301904089,3528046508,2275087323#notes:PvE Crafted - Handling MW
@@ -3998,10 +3999,6 @@ dimwishlist:item=1125217994&perks=1844523823,2822142346,3108830275,11612903#note
 dimwishlist:item=1125217994&perks=2822142346,3108830275,11612903#notes:PvE - Velocity MW
 dimwishlist:item=1125217994&perks=3525010810,2822142346,3108830275,1015611457#notes:PvE Flawless - Velocity MW
 dimwishlist:item=1125217994&perks=3798852852,2822142346,3108830275,1015611457#notes:PvE - Velocity MW
-dimwishlist:item=1125217994&perks=1478423395,2822142346,3108830275,1015611457#notes:PvE - Velocity MW
-dimwishlist:item=1125217994&perks=3809316345,2822142346,3108830275,1015611457#notes:PvE - Velocity MW
-dimwishlist:item=1125217994&perks=1844523823,2822142346,3108830275,1015611457#notes:PvE - Velocity MW
-dimwishlist:item=1125217994&perks=2822142346,3108830275,1015611457#notes:PvE - Velocity MW
 // Truthteller
 dimwishlist:item=1946491241&perks=3525010810,3032599245,3300816228,1683379515#notes:PvE Flawless - Handling MW
 // Wilderflight
@@ -17164,6 +17161,7 @@ dimwishlist:item=-2026087437
 dimwishlist:item=-1125217994
 dimwishlist:item=-2972949637
 dimwishlist:item=-495442100
+dimwishlist:item=-1606497639
 dimwishlist:item=-3165547384
 dimwishlist:item=-268260372
 dimwishlist:item=-1946491241
@@ -17417,7 +17415,6 @@ dimwishlist:item=-3568377122
 dimwishlist:item=-407621213
 dimwishlist:item=-3565520715
 dimwishlist:item=-981718087
-dimwishlist:item=-1606497639
 dimwishlist:item=-2108920981
 dimwishlist:item=-433905699
 dimwishlist:item=-1972985595
