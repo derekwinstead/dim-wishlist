@@ -11631,31 +11631,6 @@ dimwishlist:item=4019668921&perks=839105230,106909392,3700496672,3038247973#note
 dimwishlist:item=4019668921&perks=4090651448,106909392,3700496672,3038247973#notes:PvE Excellent - Stability MW
 dimwishlist:item=4019668921&perks=3661387068,106909392,3700496672,3038247973#notes:PvE Excellent - Stability MW
 dimwishlist:item=4019668921&perks=1840239774,106909392,3700496672,3038247973#notes:PvE Excellent - Stability MW
-// Glissando-47
-dimwishlist:item=222606050&perks=839105230,1087426260,1523832109,831391274#notes:PvE Flawless - Stability MW
-dimwishlist:item=222606050&perks=3661387068,1087426260,1523832109,831391274#notes:PvE Excellent - Stability MW
-dimwishlist:item=222606050&perks=4090651448,1087426260,1523832109,831391274#notes:PvE Excellent - Stability MW
-dimwishlist:item=222606050&perks=1482024992,1087426260,1523832109,831391274#notes:PvE Excellent - Stability MW
-dimwishlist:item=222606050&perks=1840239774,1087426260,1523832109,831391274#notes:PvE Excellent - Stability MW
-dimwishlist:item=222606050&perks=3250034553,1087426260,1523832109,831391274#notes:PvE Excellent - Stability MW
-dimwishlist:item=222606050&perks=1392496348,1087426260,1523832109,831391274#notes:PvE Excellent - Stability MW
-dimwishlist:item=222606050&perks=839105230,1885400500,1523832109,831391274#notes:PvE Flawless - Stability MW
-dimwishlist:item=222606050&perks=3661387068,1885400500,1523832109,831391274#notes:PvE Excellent - Stability MW
-dimwishlist:item=222606050&perks=4090651448,1885400500,1523832109,831391274#notes:PvE Excellent - Stability MW
-dimwishlist:item=222606050&perks=1482024992,1885400500,1523832109,831391274#notes:PvE Excellent - Stability MW
-dimwishlist:item=222606050&perks=1840239774,1885400500,1523832109,831391274#notes:PvE Excellent - Stability MW
-dimwishlist:item=222606050&perks=3250034553,1885400500,1523832109,831391274#notes:PvE Excellent - Stability MW
-dimwishlist:item=222606050&perks=1392496348,1885400500,1523832109,831391274#notes:PvE Excellent - Stability MW
-dimwishlist:item=222606050&perks=839105230,1561002382,1523832109,831391274#notes:PvE - Stability MW
-dimwishlist:item=222606050&perks=3661387068,1561002382,1523832109,831391274#notes:PvE - Stability MW
-dimwishlist:item=222606050&perks=4090651448,1561002382,1523832109,831391274#notes:PvE - Stability MW
-dimwishlist:item=222606050&perks=1482024992,1561002382,1523832109,831391274#notes:PvE - Stability MW
-dimwishlist:item=222606050&perks=1840239774,1561002382,1523832109,831391274#notes:PvE - Stability MW
-dimwishlist:item=222606050&perks=3250034553,1561002382,1523832109,831391274#notes:PvE - Stability MW
-dimwishlist:item=222606050&perks=1392496348,1561002382,1523832109,831391274#notes:PvE - Stability MW
-dimwishlist:item=222606050&perks=839105230,1968497646,1523832109,831391274#notes:PvE - Stability MW
-dimwishlist:item=222606050&perks=3661387068,1968497646,1523832109,831391274#notes:PvE - Stability MW
-dimwishlist:item=222606050&perks=4090651448,1968497646,1523832109,831391274#notes:PvE - Stability MW
 // Taraxippos
 dimwishlist:item=1389546626&perks=839105230,106909392,1365187766,3038247973#notes:PvP Flawless - Range MW
 dimwishlist:item=1389546626&perks=4090651448,106909392,1365187766,3038247973#notes:PvP Excellent - Range MW
@@ -18011,7 +17986,6 @@ dimwishlist:item=-3885259140
 dimwishlist:item=-3799980700
 dimwishlist:item=-4019668921
 dimwishlist:item=-1392919471
-dimwishlist:item=-222606050
 dimwishlist:item=-1389546626
 dimwishlist:item=-2638190703
 dimwishlist:item=-3245493570
@@ -18249,6 +18223,7 @@ dimwishlist:item=-3556999246
 dimwishlist:item=-3186018373
 dimwishlist:item=-690668916
 dimwishlist:item=-1851521408
+dimwishlist:item=-222606050
 dimwishlist:item=-1184692845
 dimwishlist:item=-2776503072
 dimwishlist:item=-3242168339
