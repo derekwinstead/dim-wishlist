@@ -105,6 +105,7 @@ dimwishlist:item=2782325302&perks=3666208348,2349202967,1749209109,1546637391#no
 dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3913600130#notes:PvE Flawless
 dimwishlist:item=3257091167&perks=436053704,269888150,2077819806,1546637391#notes:PvE Crafted
 dimwishlist:item=2782325300&perks=436053704,269888150,1749209109,4049631843#notes:PvE Flawless
+dimwishlist:item=1856262127&perks=3250034553,1968497646,3592538738,3523296417#notes:PvE - Stability MW
 dimwishlist:item=3493494807&perks=1523832109,4104185692#notes:PvE Crafted - Range MW
 // Destiny Content Vault
 dimwishlist:item=882778888&perks=202670084,3142289711,588594999,3038247973#notes:PvP Excellent - Range MW
@@ -112,7 +113,6 @@ dimwishlist:item=882778888&perks=202670084,3142289711,588594999,2846385770#notes
 dimwishlist:item=882778888&perks=1482024992,3230963543,247725512,2846385770#notes:PvP Excellent - Range MW
 dimwishlist:item=2527666306&perks=1482024992,1885400500,706527188,3425386926#notes:PvP Excellent - Range MW
 dimwishlist:item=2351180975&perks=4090651448,1885400500,247725512,47981717#notes:PvP Excellent - Range MW
-dimwishlist:item=1856262127&perks=3250034553,1968497646,3592538738,3523296417#notes:PvE - Stability MW
 dimwishlist:item=1481892490&perks=1482024992,1968497646,706527188,2846385770#notes:PvP - Range MW
 dimwishlist:item=1481892490&perks=3250034553,1561002382,706527188,3425386926#notes:PvP - Range MW
 dimwishlist:item=1399243961&perks=1482024992,689005463,3400784728,1771339417#notes:PvE Excellent - Charge MW
@@ -18018,7 +18018,6 @@ dimwishlist:item=-599895591
 dimwishlist:item=-3184681056
 dimwishlist:item=-2883484461
 dimwishlist:item=-2573900604
-dimwishlist:item=-2591111628
 dimwishlist:item=-135029084
 dimwishlist:item=-1298815317
 dimwishlist:item=-213264394
@@ -18262,6 +18261,7 @@ dimwishlist:item=-2531963421
 dimwishlist:item=-1019000888
 dimwishlist:item=-4037745684
 dimwishlist:item=-1028582252
+dimwishlist:item=-2591111628
 dimwishlist:item=-217140611
 dimwishlist:item=-522366885
 dimwishlist:item=-346136302
