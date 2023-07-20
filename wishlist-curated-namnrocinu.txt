@@ -12021,6 +12021,43 @@ dimwishlist:item=108221785&perks=466087222,3436462433,591790007#notes:PvP - Rang
 dimwishlist:item=108221785&perks=1047830412,3436462433,591790007#notes:PvP - Range MW
 dimwishlist:item=108221785&perks=4090651448,3436462433,591790007#notes:PvP - Range MW
 dimwishlist:item=108221785&perks=3436462433,591790007#notes:PvP - Range MW
+// Compass Rose
+dimwishlist:item=233896077&perks=1300023272,791862061,706527188,957782887#notes:PvP Flawless - Handling MW
+dimwishlist:item=233896077&perks=1482024992,791862061,706527188,957782887#notes:PvP Excellent - Handling MW
+dimwishlist:item=233896077&perks=466087222,791862061,706527188,957782887#notes:PvP Excellent - Handling MW
+dimwishlist:item=233896077&perks=1332244541,791862061,706527188,957782887#notes:PvP Excellent - Handling MW
+dimwishlist:item=233896077&perks=4090651448,791862061,706527188,957782887#notes:PvP Excellent - Handling MW
+dimwishlist:item=233896077&perks=1300023272,106909392,706527188,957782887#notes:PvP Flawless - Handling MW
+dimwishlist:item=233896077&perks=1482024992,106909392,706527188,957782887#notes:PvP Excellent - Handling MW
+dimwishlist:item=233896077&perks=466087222,106909392,706527188,957782887#notes:PvP Excellent - Handling MW
+dimwishlist:item=233896077&perks=1332244541,106909392,706527188,957782887#notes:PvP Excellent - Handling MW
+dimwishlist:item=233896077&perks=4090651448,106909392,706527188,957782887#notes:PvP Excellent - Handling MW
+dimwishlist:item=233896077&perks=1300023272,3142289711,706527188,957782887#notes:PvP - Handling MW
+dimwishlist:item=233896077&perks=1482024992,3142289711,706527188,957782887#notes:PvP - Handling MW
+dimwishlist:item=233896077&perks=466087222,3142289711,706527188,957782887#notes:PvP - Handling MW
+dimwishlist:item=233896077&perks=1332244541,3142289711,706527188,957782887#notes:PvP - Handling MW
+dimwishlist:item=233896077&perks=4090651448,3142289711,706527188,957782887#notes:PvP - Handling MW
+dimwishlist:item=233896077&perks=1300023272,1087426260,706527188,957782887#notes:PvP - Handling MW
+dimwishlist:item=233896077&perks=1482024992,1087426260,706527188,957782887#notes:PvP - Handling MW
+dimwishlist:item=233896077&perks=466087222,1087426260,706527188,957782887#notes:PvP - Handling MW
+dimwishlist:item=233896077&perks=1332244541,1087426260,706527188,957782887#notes:PvP - Handling MW
+dimwishlist:item=233896077&perks=4090651448,1087426260,706527188,957782887#notes:PvP - Handling MW
+dimwishlist:item=233896077&perks=1300023272,679225683,706527188,957782887#notes:PvP - Handling MW
+dimwishlist:item=233896077&perks=1482024992,679225683,706527188,957782887#notes:PvP - Handling MW
+dimwishlist:item=233896077&perks=466087222,679225683,706527188,957782887#notes:PvP - Handling MW
+dimwishlist:item=233896077&perks=1332244541,679225683,706527188,957782887#notes:PvP - Handling MW
+dimwishlist:item=233896077&perks=4090651448,679225683,706527188,957782887#notes:PvP - Handling MW
+dimwishlist:item=233896077&perks=791862061,706527188,957782887#notes:PvP - Handling MW
+dimwishlist:item=233896077&perks=106909392,706527188,957782887#notes:PvP - Handling MW
+dimwishlist:item=233896077&perks=3142289711,706527188,957782887#notes:PvP - Handling MW
+dimwishlist:item=233896077&perks=1087426260,706527188,957782887#notes:PvP - Handling MW
+dimwishlist:item=233896077&perks=679225683,706527188,957782887#notes:PvP - Handling MW
+dimwishlist:item=233896077&perks=1300023272,706527188,957782887#notes:PvP - Handling MW
+dimwishlist:item=233896077&perks=1482024992,706527188,957782887#notes:PvP - Handling MW
+dimwishlist:item=233896077&perks=466087222,706527188,957782887#notes:PvP - Handling MW
+dimwishlist:item=233896077&perks=1332244541,706527188,957782887#notes:PvP - Handling MW
+dimwishlist:item=233896077&perks=4090651448,706527188,957782887#notes:PvP - Handling MW
+dimwishlist:item=233896077&perks=706527188,957782887#notes:PvP - Handling MW
 // Seventh Seraph CQC 12
 dimwishlist:item=1821724780&perks=1332244541,791862061,3300816228,1546637391#notes:PvE Flawless - Handling MW
 dimwishlist:item=1821724780&perks=1047830412,791862061,3300816228,1546637391#notes:PvE Excellent - Handling MW
@@ -18010,6 +18047,7 @@ dimwishlist:item=-318443586
 dimwishlist:item=-4225322581
 dimwishlist:item=-108221785
 dimwishlist:item=-1679868061
+dimwishlist:item=-233896077
 dimwishlist:item=-1179141605
 dimwishlist:item=-1821724780
 dimwishlist:item=-599895591
@@ -18250,6 +18288,7 @@ dimwishlist:item=-2782847179
 dimwishlist:item=-2821430069
 dimwishlist:item=-3216652511
 dimwishlist:item=-2957367743
+dimwishlist:item=-2591111628
 dimwishlist:item=-1096206669
 dimwishlist:item=-1168625549
 dimwishlist:item=-4287947559
@@ -18261,7 +18300,6 @@ dimwishlist:item=-2531963421
 dimwishlist:item=-1019000888
 dimwishlist:item=-4037745684
 dimwishlist:item=-1028582252
-dimwishlist:item=-2591111628
 dimwishlist:item=-217140611
 dimwishlist:item=-522366885
 dimwishlist:item=-346136302
