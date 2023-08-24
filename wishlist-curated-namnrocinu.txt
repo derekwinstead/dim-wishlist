@@ -1,5 +1,4 @@
 title: Nam's Curated Rolls
-// TBD
 dimwishlist:item=888872889
 dimwishlist:item=3347946548
 dimwishlist:item=2738601016
@@ -54,7 +53,6 @@ dimwishlist:item=1606497639&perks=1844523823,2822142346,968510818,2048641572#not
 dimwishlist:item=3165547384&perks=951095735,2396489472#notes:PvP - Blast Radius MW
 dimwishlist:item=3165547384&perks=951095735,960810156#notes:PvP - Blast Radius MW
 dimwishlist:item=268260372&perks=1478423395,3301904089,3528046508,2275087323#notes:PvE Crafted - Handling MW
-dimwishlist:item=1757202961&perks=#notes:PvE
 dimwishlist:item=2534546147&perks=580685494,3142289711,3674673997,3102670337#notes:PvE Crafted - Shield MW
 dimwishlist:item=1466006054&perks=5699512,1431678320,1631667848,4082225868#notes:PvE Excellent - Shield MW
 dimwishlist:item=372697604&perks=839105230,3142289711,699525795,2846385770#notes:PvP Flawless - Range MW
