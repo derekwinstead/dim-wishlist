@@ -1,4 +1,32 @@
 title: Nam's Curated Rolls
+// TBD
+dimwishlist:item=888872889
+dimwishlist:item=3347946548
+dimwishlist:item=2738601016
+dimwishlist:item=874623537
+dimwishlist:item=413901114
+dimwishlist:item=1757202961
+dimwishlist:item=1821529912
+dimwishlist:item=267089201
+dimwishlist:item=1973107014
+dimwishlist:item=2314610827
+dimwishlist:item=1875512595
+dimwishlist:item=105306149
+dimwishlist:item=1975125963
+dimwishlist:item=3103255595
+dimwishlist:item=358788212
+dimwishlist:item=1974641289
+dimwishlist:item=2922749929
+dimwishlist:item=1161561386
+dimwishlist:item=2779821308
+dimwishlist:item=1296429091
+dimwishlist:item=3998080529
+dimwishlist:item=1999754402
+dimwishlist:item=2510526114
+dimwishlist:item=3871226707
+dimwishlist:item=1948035256
+dimwishlist:item=4132072834
+dimwishlist:item=781498181
 // Unique and Crafted Weapons
 dimwishlist:item=2119346509&perks=839105230,1885400500,3060983774,2675184851#notes:PvE Crafted - Range MW
 dimwishlist:item=392008588&perks=1482024992,3142289711,2450788523,2610012052#notes:PvE Crafted - Range MW
@@ -2182,8 +2210,6 @@ dimwishlist:item=821154603&perks=839105230,3142289711,2387244414,3425386926#note
 // Arsenic Bite 4b
 dimwishlist:item=720351795&perks=2801223209,16392701,3425386926,3365897133#notes:PvE Flawless - Draw MW
 dimwishlist:item=720351795&perks=3768438372,16392701,3425386926,3365897133#notes:PvE Excellent - Draw MW
-// Point of the Stag
-dimwishlist:item=888872889#notes:
 // Wolftone Draw
 dimwishlist:item=3472875143&perks=2801223209,3429800428,201365942,438098033#notes:PvP Flawless - Draw MW
 dimwishlist:item=3472875143&perks=1784898267,3429800428,201365942,438098033#notes:PvP - Draw MW
@@ -3243,8 +3269,6 @@ dimwishlist:item=2290416&perks=3661387068,1645158859,2213355989#notes:PvP - Stab
 dimwishlist:item=2290416&perks=4090651448,1645158859,2213355989#notes:PvP - Stability MW
 dimwishlist:item=2290416&perks=1467527085,1645158859,2213355989#notes:PvP - Stability MW
 dimwishlist:item=2290416&perks=1645158859,2213355989#notes:PvP - Stability MW
-// Eremite
-dimwishlist:item=3347946548#notes:
 // Timelines Vertex
 dimwishlist:item=3055192515&perks=194952923,689005463,280464955,957782887#notes:PvP Flawless - Stability MW
 dimwishlist:item=3055192515&perks=194952923,689005463,280464955,3523296417#notes:PvP Flawless - Stability MW
@@ -3723,11 +3747,6 @@ dimwishlist:item=1125217994&perks=1844523823,2822142346,3108830275,11612903#note
 dimwishlist:item=1125217994&perks=2822142346,3108830275,11612903#notes:PvE - Velocity MW
 dimwishlist:item=1125217994&perks=3525010810,2822142346,3108830275,1015611457#notes:PvE Flawless - Velocity MW
 dimwishlist:item=1125217994&perks=3798852852,2822142346,3108830275,1015611457#notes:PvE - Velocity MW
-// Cataphract GL3
-dimwishlist:item=874623537#notes:
-dimwishlist:item=2738601016#notes:
-// Acosmic GSP
-dimwishlist:item=413901114#notes:
 // Truthteller
 dimwishlist:item=1946491241&perks=3525010810,3032599245,3300816228,1683379515#notes:PvE Flawless - Handling MW
 // Wilderflight
@@ -4322,12 +4341,6 @@ dimwishlist:item=2742838700&perks=1926090094,3643424744,3425386926#notes:PvP - R
 dimwishlist:item=2742838700&perks=1926090092,3643424744,3425386926#notes:PvP - Range MW
 dimwishlist:item=2742838700&perks=1926090093,3643424744,3425386926#notes:PvP - Range MW
 dimwishlist:item=2742838700&perks=3643424744,3425386926#notes:PvP - Range MW
-// Wardens Law
-dimwishlist:item=267089201#notes:
-dimwishlist:item=1821529912#notes:
-// Igneous Hammer
-dimwishlist:item=2314610827#notes:
-dimwishlist:item=1973107014#notes:
 // Eyasluna
 dimwishlist:item=235827225&perks=1926090095,1885400500,2846385770,1015611457#notes:PvP Flawless - Range MW
 dimwishlist:item=235827225&perks=1926090094,1885400500,2846385770,1015611457#notes:PvP Excellent - Range MW
@@ -4426,8 +4439,6 @@ dimwishlist:item=235827225&perks=1926090092,247725512,124408337#notes:PvE - Stab
 dimwishlist:item=235827225&perks=1926090093,247725512,124408337#notes:PvE - Stability MW
 dimwishlist:item=235827225&perks=247725512,124408337#notes:PvE - Stability MW
 dimwishlist:item=235827225&perks=1926090095,1885400500,1168162263,124408337#notes:PvE Flawless - Stability MW
-// Kept Confidence
-dimwishlist:item=1875512595#notes:
 // Bottom Dollar
 dimwishlist:item=1046651176&perks=3250034553,3142289711,247725512,3038247973#notes:PvE Flawless - Stability MW
 dimwishlist:item=1046651176&perks=1482024992,3142289711,247725512,3038247973#notes:PvE Excellent - Stability MW
@@ -5489,8 +5500,6 @@ dimwishlist:item=2890082420&perks=1840239774,1523832109,2213355989#notes:PvE - C
 dimwishlist:item=2890082420&perks=202670084,1523832109,2213355989#notes:PvE - Charge MW
 dimwishlist:item=2890082420&perks=1467527085,1523832109,2213355989#notes:PvE - Charge MW
 dimwishlist:item=2890082420&perks=1523832109,2213355989#notes:PvE - Charge MW
-// Eleatic Principle
-dimwishlist:item=105306149#notes:
 // Seventh Seraph SAW
 dimwishlist:item=2582755344&perks=839105230,2420895100,3300816228,1546637391#notes:PvE Flawless - Stability MW
 dimwishlist:item=2582755344&perks=839105230,2420895100,3300816228,1771339417#notes:PvE Flawless - Stability MW
@@ -7540,8 +7549,6 @@ dimwishlist:item=3796510434&perks=3250034553,1359896290,2213355989#notes:PvP - R
 dimwishlist:item=471518543&perks=3250034553,1359896290,2213355989#notes:PvP - Range MW
 dimwishlist:item=3796510434&perks=1359896290,2213355989#notes:PvP - Range MW
 dimwishlist:item=471518543&perks=1359896290,2213355989#notes:PvP - Range MW
-// Qua Xaphan V
-dimwishlist:item=1975125963#notes:
 // Darkest Before
 dimwishlist:item=2481758391&perks=839105230,1885400500,3643424744,3425386926#notes:PvP Flawless - Range MW
 dimwishlist:item=2481758391&perks=3661387068,1885400500,3643424744,3425386926#notes:PvP Excellent - Range MW
@@ -9052,8 +9059,6 @@ dimwishlist:item=2708806099&perks=1482024992,1428297954,4293542123#notes:PvE - S
 dimwishlist:item=2708806099&perks=1840239774,1428297954,4293542123#notes:PvE - Stability MW
 dimwishlist:item=2708806099&perks=3250034553,1428297954,4293542123#notes:PvE - Stability MW
 dimwishlist:item=2708806099&perks=1428297954,4293542123#notes:PvE - Stability MW
-// Jurassic Green
-dimwishlist:item=3103255595#notes:
 // Ogma PR6
 dimwishlist:item=2342054803&perks=839105230,3142289711,3523296417,3592538738#notes:PvE Flawless - Range MW
 dimwishlist:item=2342054803&perks=3661387068,3142289711,3523296417,3592538738#notes:PvE Excellent - Range MW
@@ -9204,10 +9209,6 @@ dimwishlist:item=1780464822&perks=1840239774,1968497646,2779035018,3047969693#no
 dimwishlist:item=1780464822&perks=3250034553,1968497646,2779035018,3047969693#notes:PvE - Range MW
 dimwishlist:item=1780464822&perks=1467527085,1968497646,2779035018,3047969693#notes:PvE - Range MW
 dimwishlist:item=1780464822&perks=839105230,1087426260,2779035018,3047969693#notes:PvE - Range MW
-// Psi Hermetic V
-dimwishlist:item=358788212#notes:
-// Nightshade
-dimwishlist:item=1974641289#notes:
 // Last Perdition
 dimwishlist:item=188882152&perks=3151536501,3142289711,1168162263,1015611457#notes:PvP Flawless - Range MW
 dimwishlist:item=188882152&perks=360593483,3142289711,1168162263,1015611457#notes:PvP Excellent - Range MW
@@ -10264,8 +10265,6 @@ dimwishlist:item=839786290&perks=666,968510818#notes:PvE Flawless
 dimwishlist:item=839786290&perks=968510818#notes:PvE
 dimwishlist:item=839786290&perks=666,1439600632#notes:PvE Flawless
 dimwishlist:item=839786290&perks=1439600632#notes:PvE
-// Semiotician
-dimwishlist:item=2922749929#notes:
 // Contingency Plan
 dimwishlist:item=577528837&perks=839105230,3142289711,280464955,1015611457#notes:PvP Flawless - Range MW
 dimwishlist:item=577528837&perks=3661387068,3142289711,280464955,1015611457#notes:PvP Excellent - Range MW
@@ -11122,8 +11121,6 @@ dimwishlist:item=4019668921&perks=839105230,3142289711,3400784728,3038247973#not
 dimwishlist:item=4019668921&perks=839105230,106909392,3400784728,3038247973#notes:PvE Flawless - Stability MW
 dimwishlist:item=4019668921&perks=839105230,3142289711,3700496672,3038247973#notes:PvE Flawless - Stability MW
 dimwishlist:item=4019668921&perks=839105230,106909392,3700496672,3038247973#notes:PvE Flawless - Stability MW
-// Guiding Sight
-dimwishlist:item=1161561386#notes:
 // Taraxippos
 dimwishlist:item=1389546626&perks=839105230,106909392,1365187766,3038247973#notes:PvP Flawless - Range MW
 dimwishlist:item=1389546626&perks=4090651448,106909392,1365187766,3038247973#notes:PvP Excellent - Range MW
@@ -11245,10 +11242,6 @@ dimwishlist:item=1389546626&perks=3661387068,2387244414,3038247973#notes:PvP - R
 dimwishlist:item=1389546626&perks=1467527085,2387244414,3038247973#notes:PvP - Range MW
 dimwishlist:item=1389546626&perks=1840239774,2387244414,3038247973#notes:PvP - Range MW
 dimwishlist:item=1389546626&perks=2387244414,3038247973#notes:PvP - Range MW
-// Bryas Love
-dimwishlist:item=2779821308#notes:
-// Deadpan Delivery
-dimwishlist:item=1296429091#notes:
 // First In Last Out
 dimwishlist:item=3616586446&perks=3250034553,791862061,3300816228,1546637391#notes:PvE Flawless - Range MW
 dimwishlist:item=3616586446&perks=1482024992,791862061,3300816228,1546637391#notes:PvE Excellent - Range MW
@@ -12358,8 +12351,6 @@ dimwishlist:item=2199171672&perks=1840239774,247725512,2458213969#notes:PvE - Ra
 dimwishlist:item=2199171672&perks=3250034553,247725512,2458213969#notes:PvE - Range MW
 dimwishlist:item=2199171672&perks=202670084,247725512,2458213969#notes:PvE - Range MW
 dimwishlist:item=2199171672&perks=247725512,2458213969#notes:PvE - Range MW
-// Heliocentric QSC
-dimwishlist:item=3998080529#notes:
 // Peacebond
 dimwishlist:item=829330711&perks=1482024992,3142289711,2846385770,124408337#notes:PvP Flawless - Range MW
 dimwishlist:item=829330711&perks=3250034553,3142289711,2846385770,124408337#notes:PvP Excellent - Range MW
@@ -12936,8 +12927,6 @@ dimwishlist:item=1626503676&perks=445755707,2450788523,2846385770#notes:PvP - Ra
 dimwishlist:item=1626503676&perks=445755705,2450788523,2846385770#notes:PvP - Range MW
 dimwishlist:item=1626503676&perks=445755704,2450788523,2846385770#notes:PvP - Range MW
 dimwishlist:item=1626503676&perks=2450788523,2846385770#notes:PvP - Range MW
-// Showrunner
-dimwishlist:item=1999754402#notes:
 // Submission (Adept)
 dimwishlist:item=1941816543&perks=4090651448,3142289711,1820235745,4104185692#notes:PvE Flawless - Range MW
 dimwishlist:item=1941816543&perks=839105230,3142289711,1820235745,4104185692#notes:PvE Excellent - Range MW
@@ -13166,8 +13155,6 @@ dimwishlist:item=2349907931&perks=1840239774,2779035018,4104185692#notes:PvE - R
 dimwishlist:item=2349907931&perks=1467527085,2779035018,4104185692#notes:PvE - Range MW
 dimwishlist:item=2349907931&perks=202670084,2779035018,4104185692#notes:PvE - Range MW
 dimwishlist:item=2349907931&perks=2779035018,4104185692#notes:PvE - Range MW
-// Unending Tempest
-dimwishlist:item=2510526114#notes:
 // Immortal
 dimwishlist:item=3193598749&perks=3250034553,1885400500,2846385770,365154968#notes:PvP Flawless - Range MW
 dimwishlist:item=4039572196&perks=3250034553,1885400500,2846385770,365154968#notes:PvP Flawless - Range MW
@@ -16890,8 +16877,6 @@ dimwishlist:item=676270382&perks=839105230,3142289711,2284787283,1771339417#note
 dimwishlist:item=676270382&perks=3661387068,3142289711,2284787283,1771339417#notes:PvE - Stability MW
 dimwishlist:item=676270382&perks=4090651448,3142289711,2284787283,1771339417#notes:PvE - Stability MW
 dimwishlist:item=676270382&perks=1392496348,3142289711,2284787283,1771339417#notes:PvE - Stability MW
-// Mechabre
-dimwishlist:item=3871226707#notes:
 // Mercurial Overreach
 dimwishlist:item=2073794990&perks=1840239774,1885400500,957782887,47981717#notes:PvP Flawless - Handling MW
 dimwishlist:item=2073794990&perks=839105230,1885400500,957782887,47981717#notes:PvP Excellent - Handling MW
@@ -16964,8 +16949,6 @@ dimwishlist:item=1387987271&perks=2420895100,3400784728,1771339417#notes:PvE - S
 dimwishlist:item=1387987271&perks=1885400500,3400784728,1771339417#notes:PvE - Stability MW
 dimwishlist:item=1387987271&perks=1561002382,3400784728,1771339417#notes:PvE - Stability MW
 dimwishlist:item=1387987271&perks=1968497646,3400784728,1771339417#notes:PvE - Stability MW
-// Luna Regolith
-dimwishlist:item=1948035256#notes:
 // Irukandji
 dimwishlist:item=2673925403&perks=839105230,106909392,1354429876,1771339417#notes:PvE Flawless - Range MW
 dimwishlist:item=2673925403&perks=4090651448,106909392,1354429876,1771339417#notes:PvE Excellent - Range MW
@@ -16977,8 +16960,6 @@ dimwishlist:item=2673925403&perks=4090651448,1087426260,1354429876,1771339417#no
 dimwishlist:item=2673925403&perks=1840239774,1087426260,1354429876,1771339417#notes:PvE Excellent - Range MW
 dimwishlist:item=2673925403&perks=3661387068,1087426260,1354429876,1771339417#notes:PvE Excellent - Range MW
 dimwishlist:item=2673925403&perks=3250034553,1087426260,1354429876,1771339417#notes:PvE Excellent - Range MW
-// Locus Locutus
-dimwishlist:item=4132072834#notes:
 // 1000 Yard Stare
 dimwishlist:item=4164201232&perks=839105230,3142289711,706527188,957782887#notes:PvP Flawless - Range MW
 dimwishlist:item=4164201232&perks=3661387068,3142289711,706527188,957782887#notes:PvP Excellent - Range MW
@@ -17062,8 +17043,6 @@ dimwishlist:item=2233545123&perks=1840239774,2420895100,3300816228,1771339417#no
 dimwishlist:item=2233545123&perks=3661387068,2420895100,3300816228,1771339417#notes:PvE Excellent - Stability MW
 dimwishlist:item=2233545123&perks=3250034553,2420895100,3300816228,1771339417#notes:PvE Excellent - Stability MW
 dimwishlist:item=2233545123&perks=1482024992,2420895100,3300816228,1771339417#notes:PvE Excellent - Stability MW
-// Persuader
-dimwishlist:item=781498181#notes:
 // Trashlist
 dimwishlist:item=-2496875173
 dimwishlist:item=-1119734784
