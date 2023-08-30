@@ -1,12 +1,6 @@
 title: Nam's Curated Rolls
 dimwishlist:item=888872889
-dimwishlist:item=2738601016
-dimwishlist:item=874623537
 dimwishlist:item=413901114
-dimwishlist:item=1821529912
-dimwishlist:item=267089201
-dimwishlist:item=1973107014
-dimwishlist:item=2314610827
 dimwishlist:item=1875512595
 dimwishlist:item=105306149
 dimwishlist:item=3103255595
@@ -3744,6 +3738,9 @@ dimwishlist:item=1125217994&perks=1844523823,2822142346,3108830275,11612903#note
 dimwishlist:item=1125217994&perks=2822142346,3108830275,11612903#notes:PvE - Velocity MW
 dimwishlist:item=1125217994&perks=3525010810,2822142346,3108830275,1015611457#notes:PvE Flawless - Velocity MW
 dimwishlist:item=1125217994&perks=3798852852,2822142346,3108830275,1015611457#notes:PvE - Velocity MW
+// Cataphract GL3
+dimwishlist:item=874623537#notes:
+dimwishlist:item=2738601016#notes:
 // Truthteller
 dimwishlist:item=1946491241&perks=3525010810,3032599245,3300816228,1683379515#notes:PvE Flawless - Handling MW
 // Wilderflight
@@ -4338,6 +4335,12 @@ dimwishlist:item=2742838700&perks=1926090094,3643424744,3425386926#notes:PvP - R
 dimwishlist:item=2742838700&perks=1926090092,3643424744,3425386926#notes:PvP - Range MW
 dimwishlist:item=2742838700&perks=1926090093,3643424744,3425386926#notes:PvP - Range MW
 dimwishlist:item=2742838700&perks=3643424744,3425386926#notes:PvP - Range MW
+// Wardens Law
+dimwishlist:item=267089201#notes:
+dimwishlist:item=1821529912#notes:
+// Igneous Hammer
+dimwishlist:item=2314610827#notes:
+dimwishlist:item=1973107014#notes:
 // Eyasluna
 dimwishlist:item=235827225&perks=1926090095,1885400500,2846385770,1015611457#notes:PvP Flawless - Range MW
 dimwishlist:item=235827225&perks=1926090094,1885400500,2846385770,1015611457#notes:PvP Excellent - Range MW
