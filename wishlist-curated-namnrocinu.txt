@@ -7,7 +7,6 @@ dimwishlist:item=3103255595
 dimwishlist:item=358788212
 dimwishlist:item=3016891299
 dimwishlist:item=1974641289
-dimwishlist:item=2922749929
 dimwishlist:item=1161561386
 dimwishlist:item=3998080529
 dimwishlist:item=1999754402
@@ -84,6 +83,7 @@ dimwishlist:item=1751893422&perks=839105230,3142289711,3719974635,4045335048#not
 dimwishlist:item=1851777734&perks=3525010810,3796465595,1523832109,3078487919#notes:PvE Crafted - Handling MW
 dimwishlist:item=1959650777&perks=1478423395,3796465595,1906147653,2978966579#notes:PvE Crafted - Blast Radius MW
 dimwishlist:item=3489657138&perks=1478423395,3796465595,3528046508,2275087323#notes:PvE Crafted - Handling MW
+dimwishlist:item=2922749929&perks=981914802,3796465595,2308090567,1439600632#notes:PvE Crafted - Velocity MW
 dimwishlist:item=3175851496&perks=1478423395,3796465595,406461158,3007133316#notes:PvE Crafted - Blast Radius MW
 dimwishlist:item=2448907086&perks=3809316345,2822142346,2869569095,2284787283#notes:PvE - Handling MW
 dimwishlist:item=2448907086&perks=2284787283#notes:PvE - Handling MW
