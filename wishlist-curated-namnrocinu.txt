@@ -4,7 +4,6 @@ dimwishlist:item=413901114
 dimwishlist:item=105306149
 dimwishlist:item=3103255595
 dimwishlist:item=358788212
-dimwishlist:item=3016891299
 dimwishlist:item=1974641289
 dimwishlist:item=1161561386
 dimwishlist:item=3998080529
