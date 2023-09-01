@@ -44,7 +44,8 @@ dimwishlist:item=2972949637&perks=1478423395,3301904089,461595545,102912326#note
 dimwishlist:item=1606497639&perks=1844523823,2822142346,968510818,2048641572#notes:PvE Flawless - Handling MW
 dimwishlist:item=3165547384&perks=951095735,2396489472#notes:PvP - Blast Radius MW
 dimwishlist:item=3165547384&perks=951095735,960810156#notes:PvP - Blast Radius MW
-dimwishlist:item=268260372&perks=1478423395,3301904089,3528046508,2275087323#notes:PvE Crafted - Handling MW
+dimwishlist:item=268260372&perks=981914802,3301904089,3528046508,2275087323#notes:PvE Crafted - Velocity MW
+dimwishlist:item=268260372&perks=981914802,3301904089,424370782,2275087323#notes:PvE Crafted - Velocity MW
 dimwishlist:item=2534546147&perks=580685494,3142289711,3674673997,3102670337#notes:PvE Crafted - Shield MW
 dimwishlist:item=1466006054&perks=5699512,1431678320,1631667848,4082225868#notes:PvE Excellent - Shield MW
 dimwishlist:item=2595497736&perks=2713678205,3721627275,4245865861,3007133316#notes:PvE Crafted - Shield MW
@@ -3652,8 +3653,102 @@ dimwishlist:item=1125217994&perks=2822142346,3108830275,11612903#notes:PvE - Vel
 dimwishlist:item=1125217994&perks=3525010810,2822142346,3108830275,1015611457#notes:PvE Flawless - Velocity MW
 dimwishlist:item=1125217994&perks=3798852852,2822142346,3108830275,1015611457#notes:PvE - Velocity MW
 // Cataphract GL3
-dimwishlist:item=874623537#notes:
-dimwishlist:item=2738601016#notes:
+dimwishlist:item=874623537&perks=981914802,3301904089,968510818,3194351027#notes:PvE Flawless - Velocity MW
+dimwishlist:item=2738601016&perks=981914802,3301904089,968510818,3194351027#notes:PvE Flawless - Velocity MW
+dimwishlist:item=874623537&perks=3525010810,3301904089,968510818,3194351027#notes:PvE Excellent - Velocity MW
+dimwishlist:item=2738601016&perks=3525010810,3301904089,968510818,3194351027#notes:PvE Excellent - Velocity MW
+dimwishlist:item=874623537&perks=3809316345,3301904089,968510818,3194351027#notes:PvE Excellent - Velocity MW
+dimwishlist:item=2738601016&perks=3809316345,3301904089,968510818,3194351027#notes:PvE Excellent - Velocity MW
+dimwishlist:item=874623537&perks=3798852852,3301904089,968510818,3194351027#notes:PvE Excellent - Velocity MW
+dimwishlist:item=2738601016&perks=3798852852,3301904089,968510818,3194351027#notes:PvE Excellent - Velocity MW
+dimwishlist:item=874623537&perks=1441682018,3301904089,968510818,3194351027#notes:PvE Excellent - Velocity MW
+dimwishlist:item=2738601016&perks=1441682018,3301904089,968510818,3194351027#notes:PvE Excellent - Velocity MW
+dimwishlist:item=874623537&perks=981914802,2985827016,968510818,3194351027#notes:PvE - Velocity MW
+dimwishlist:item=2738601016&perks=981914802,2985827016,968510818,3194351027#notes:PvE - Velocity MW
+dimwishlist:item=874623537&perks=3525010810,2985827016,968510818,3194351027#notes:PvE - Velocity MW
+dimwishlist:item=2738601016&perks=3525010810,2985827016,968510818,3194351027#notes:PvE - Velocity MW
+dimwishlist:item=874623537&perks=3809316345,2985827016,968510818,3194351027#notes:PvE - Velocity MW
+dimwishlist:item=2738601016&perks=3809316345,2985827016,968510818,3194351027#notes:PvE - Velocity MW
+dimwishlist:item=874623537&perks=3798852852,2985827016,968510818,3194351027#notes:PvE - Velocity MW
+dimwishlist:item=2738601016&perks=3798852852,2985827016,968510818,3194351027#notes:PvE - Velocity MW
+dimwishlist:item=874623537&perks=1441682018,2985827016,968510818,3194351027#notes:PvE - Velocity MW
+dimwishlist:item=2738601016&perks=1441682018,2985827016,968510818,3194351027#notes:PvE - Velocity MW
+dimwishlist:item=874623537&perks=981914802,2822142346,968510818,3194351027#notes:PvE - Velocity MW
+dimwishlist:item=2738601016&perks=981914802,2822142346,968510818,3194351027#notes:PvE - Velocity MW
+dimwishlist:item=874623537&perks=3525010810,2822142346,968510818,3194351027#notes:PvE - Velocity MW
+dimwishlist:item=2738601016&perks=3525010810,2822142346,968510818,3194351027#notes:PvE - Velocity MW
+dimwishlist:item=874623537&perks=3809316345,2822142346,968510818,3194351027#notes:PvE - Velocity MW
+dimwishlist:item=2738601016&perks=3809316345,2822142346,968510818,3194351027#notes:PvE - Velocity MW
+dimwishlist:item=874623537&perks=3798852852,2822142346,968510818,3194351027#notes:PvE - Velocity MW
+dimwishlist:item=2738601016&perks=3798852852,2822142346,968510818,3194351027#notes:PvE - Velocity MW
+dimwishlist:item=874623537&perks=1441682018,2822142346,968510818,3194351027#notes:PvE - Velocity MW
+dimwishlist:item=2738601016&perks=1441682018,2822142346,968510818,3194351027#notes:PvE - Velocity MW
+dimwishlist:item=874623537&perks=3301904089,968510818,3194351027#notes:PvE - Velocity MW
+dimwishlist:item=2738601016&perks=3301904089,968510818,3194351027#notes:PvE - Velocity MW
+dimwishlist:item=874623537&perks=2985827016,968510818,3194351027#notes:PvE - Velocity MW
+dimwishlist:item=2738601016&perks=2985827016,968510818,3194351027#notes:PvE - Velocity MW
+dimwishlist:item=874623537&perks=2822142346,968510818,3194351027#notes:PvE - Velocity MW
+dimwishlist:item=2738601016&perks=2822142346,968510818,3194351027#notes:PvE - Velocity MW
+dimwishlist:item=874623537&perks=981914802,968510818,3194351027#notes:PvE - Velocity MW
+dimwishlist:item=2738601016&perks=981914802,968510818,3194351027#notes:PvE - Velocity MW
+dimwishlist:item=874623537&perks=3525010810,968510818,3194351027#notes:PvE - Velocity MW
+dimwishlist:item=2738601016&perks=3525010810,968510818,3194351027#notes:PvE - Velocity MW
+dimwishlist:item=874623537&perks=3809316345,968510818,3194351027#notes:PvE - Velocity MW
+dimwishlist:item=2738601016&perks=3809316345,968510818,3194351027#notes:PvE - Velocity MW
+dimwishlist:item=874623537&perks=3798852852,968510818,3194351027#notes:PvE - Velocity MW
+dimwishlist:item=2738601016&perks=3798852852,968510818,3194351027#notes:PvE - Velocity MW
+dimwishlist:item=874623537&perks=1441682018,968510818,3194351027#notes:PvE - Velocity MW
+dimwishlist:item=2738601016&perks=1441682018,968510818,3194351027#notes:PvE - Velocity MW
+dimwishlist:item=874623537&perks=968510818,3194351027#notes:PvE - Velocity MW
+dimwishlist:item=2738601016&perks=968510818,3194351027#notes:PvE - Velocity MW
+dimwishlist:item=874623537&perks=981914802,3301904089,968510818,3078487919#notes:PvE Flawless - Velocity MW
+dimwishlist:item=2738601016&perks=981914802,3301904089,968510818,3078487919#notes:PvE Flawless - Velocity MW
+dimwishlist:item=874623537&perks=3525010810,3301904089,968510818,3078487919#notes:PvE Excellent - Velocity MW
+dimwishlist:item=2738601016&perks=3525010810,3301904089,968510818,3078487919#notes:PvE Excellent - Velocity MW
+dimwishlist:item=874623537&perks=3809316345,3301904089,968510818,3078487919#notes:PvE Excellent - Velocity MW
+dimwishlist:item=2738601016&perks=3809316345,3301904089,968510818,3078487919#notes:PvE Excellent - Velocity MW
+dimwishlist:item=874623537&perks=3798852852,3301904089,968510818,3078487919#notes:PvE Excellent - Velocity MW
+dimwishlist:item=2738601016&perks=3798852852,3301904089,968510818,3078487919#notes:PvE Excellent - Velocity MW
+dimwishlist:item=874623537&perks=1441682018,3301904089,968510818,3078487919#notes:PvE Excellent - Velocity MW
+dimwishlist:item=2738601016&perks=1441682018,3301904089,968510818,3078487919#notes:PvE Excellent - Velocity MW
+dimwishlist:item=874623537&perks=981914802,2985827016,968510818,3078487919#notes:PvE - Velocity MW
+dimwishlist:item=2738601016&perks=981914802,2985827016,968510818,3078487919#notes:PvE - Velocity MW
+dimwishlist:item=874623537&perks=3525010810,2985827016,968510818,3078487919#notes:PvE - Velocity MW
+dimwishlist:item=2738601016&perks=3525010810,2985827016,968510818,3078487919#notes:PvE - Velocity MW
+dimwishlist:item=874623537&perks=3809316345,2985827016,968510818,3078487919#notes:PvE - Velocity MW
+dimwishlist:item=2738601016&perks=3809316345,2985827016,968510818,3078487919#notes:PvE - Velocity MW
+dimwishlist:item=874623537&perks=3798852852,2985827016,968510818,3078487919#notes:PvE - Velocity MW
+dimwishlist:item=2738601016&perks=3798852852,2985827016,968510818,3078487919#notes:PvE - Velocity MW
+dimwishlist:item=874623537&perks=1441682018,2985827016,968510818,3078487919#notes:PvE - Velocity MW
+dimwishlist:item=2738601016&perks=1441682018,2985827016,968510818,3078487919#notes:PvE - Velocity MW
+dimwishlist:item=874623537&perks=981914802,2822142346,968510818,3078487919#notes:PvE - Velocity MW
+dimwishlist:item=2738601016&perks=981914802,2822142346,968510818,3078487919#notes:PvE - Velocity MW
+dimwishlist:item=874623537&perks=3525010810,2822142346,968510818,3078487919#notes:PvE - Velocity MW
+dimwishlist:item=2738601016&perks=3525010810,2822142346,968510818,3078487919#notes:PvE - Velocity MW
+dimwishlist:item=874623537&perks=3809316345,2822142346,968510818,3078487919#notes:PvE - Velocity MW
+dimwishlist:item=2738601016&perks=3809316345,2822142346,968510818,3078487919#notes:PvE - Velocity MW
+dimwishlist:item=874623537&perks=3798852852,2822142346,968510818,3078487919#notes:PvE - Velocity MW
+dimwishlist:item=2738601016&perks=3798852852,2822142346,968510818,3078487919#notes:PvE - Velocity MW
+dimwishlist:item=874623537&perks=1441682018,2822142346,968510818,3078487919#notes:PvE - Velocity MW
+dimwishlist:item=2738601016&perks=1441682018,2822142346,968510818,3078487919#notes:PvE - Velocity MW
+dimwishlist:item=874623537&perks=3301904089,968510818,3078487919#notes:PvE - Velocity MW
+dimwishlist:item=2738601016&perks=3301904089,968510818,3078487919#notes:PvE - Velocity MW
+dimwishlist:item=874623537&perks=2985827016,968510818,3078487919#notes:PvE - Velocity MW
+dimwishlist:item=2738601016&perks=2985827016,968510818,3078487919#notes:PvE - Velocity MW
+dimwishlist:item=874623537&perks=2822142346,968510818,3078487919#notes:PvE - Velocity MW
+dimwishlist:item=2738601016&perks=2822142346,968510818,3078487919#notes:PvE - Velocity MW
+dimwishlist:item=874623537&perks=981914802,968510818,3078487919#notes:PvE - Velocity MW
+dimwishlist:item=2738601016&perks=981914802,968510818,3078487919#notes:PvE - Velocity MW
+dimwishlist:item=874623537&perks=3525010810,968510818,3078487919#notes:PvE - Velocity MW
+dimwishlist:item=2738601016&perks=3525010810,968510818,3078487919#notes:PvE - Velocity MW
+dimwishlist:item=874623537&perks=3809316345,968510818,3078487919#notes:PvE - Velocity MW
+dimwishlist:item=2738601016&perks=3809316345,968510818,3078487919#notes:PvE - Velocity MW
+dimwishlist:item=874623537&perks=3798852852,968510818,3078487919#notes:PvE - Velocity MW
+dimwishlist:item=2738601016&perks=3798852852,968510818,3078487919#notes:PvE - Velocity MW
+dimwishlist:item=874623537&perks=1441682018,968510818,3078487919#notes:PvE - Velocity MW
+dimwishlist:item=2738601016&perks=1441682018,968510818,3078487919#notes:PvE - Velocity MW
+dimwishlist:item=874623537&perks=968510818,3078487919#notes:PvE - Velocity MW
+dimwishlist:item=2738601016&perks=968510818,3078487919#notes:PvE - Velocity MW
 // Truthteller
 dimwishlist:item=1946491241&perks=3525010810,3032599245,3300816228,1683379515#notes:PvE Flawless - Handling MW
 // Wilderflight
@@ -17106,7 +17201,6 @@ dimwishlist:item=-2342054803
 dimwishlist:item=-1751893422
 dimwishlist:item=-1780464822
 dimwishlist:item=-358788212
-dimwishlist:item=-3016891299
 dimwishlist:item=-1974641289
 dimwishlist:item=-188882152
 dimwishlist:item=-1141927949
@@ -17354,6 +17448,7 @@ dimwishlist:item=-1678205741
 dimwishlist:item=-2050789284
 dimwishlist:item=-2812100428
 dimwishlist:item=-2856514843
+dimwishlist:item=-3016891299
 dimwishlist:item=-1621558458
 dimwishlist:item=-208088207
 dimwishlist:item=-2276328320
