@@ -84,8 +84,6 @@ dimwishlist:item=2448907086&perks=3809316345,2822142346,2869569095,2284787283#no
 dimwishlist:item=2448907086&perks=2284787283#notes:PvE - Handling MW
 dimwishlist:item=2448907086&perks=3300816228#notes:PvE Crafted
 dimwishlist:item=2218569744&perks=1482024992,3142289711,1906147653,1720528630#notes:PvE Crafted - Range MW
-dimwishlist:item=681067419&perks=4090651448,106909392,247725512,3038247973#notes:PvE Flawless - Range MW
-dimwishlist:item=772231794&perks=3250034553,3230963543,1820235745,3038247973#notes:PvE - Range MW
 dimwishlist:item=3504336176&perks=4090651448,2420895100,3643424744,3038247973#notes:Curated - Handling MW
 dimwishlist:item=1366394399&perks=839105230,106909392,3400784728,3038247973#notes:PvE Crafted - Handling MW
 dimwishlist:item=3885259140&perks=839105230,3142289711,247725512,3891536761#notes:PvE Crafted - Range MW
@@ -11742,56 +11740,6 @@ dimwishlist:item=3832743906&perks=3661387068,106909392,247725512,3891536761#note
 dimwishlist:item=2883684343&perks=4090651448,3142289711,247725512,3891536761#notes:PvE Flawless - Range MW
 dimwishlist:item=3832743906&perks=4090651448,3142289711,247725512,3891536761#notes:PvE Flawless - Range MW
 dimwishlist:item=2883684343&perks=1482024992,3142289711,247725512,3891536761#notes:PvE Excellent - Range MW
-dimwishlist:item=2883684343&perks=4090651448,106909392,3700496672,4104185692#notes:PvE Flawless - Range MW
-dimwishlist:item=3832743906&perks=4090651448,106909392,3700496672,4104185692#notes:PvE Flawless - Range MW
-dimwishlist:item=2883684343&perks=1482024992,106909392,3700496672,4104185692#notes:PvE Excellent - Range MW
-dimwishlist:item=3832743906&perks=1482024992,106909392,3700496672,4104185692#notes:PvE Excellent - Range MW
-dimwishlist:item=2883684343&perks=839105230,106909392,3700496672,4104185692#notes:PvE Excellent - Range MW
-dimwishlist:item=3832743906&perks=839105230,106909392,3700496672,4104185692#notes:PvE Excellent - Range MW
-dimwishlist:item=2883684343&perks=1840239774,106909392,3700496672,4104185692#notes:PvE Excellent - Range MW
-dimwishlist:item=3832743906&perks=1840239774,106909392,3700496672,4104185692#notes:PvE Excellent - Range MW
-dimwishlist:item=2883684343&perks=3250034553,106909392,3700496672,4104185692#notes:PvE Excellent - Range MW
-dimwishlist:item=3832743906&perks=3250034553,106909392,3700496672,4104185692#notes:PvE Excellent - Range MW
-dimwishlist:item=2883684343&perks=3661387068,106909392,3700496672,4104185692#notes:PvE Excellent - Range MW
-dimwishlist:item=3832743906&perks=3661387068,106909392,3700496672,4104185692#notes:PvE Excellent - Range MW
-dimwishlist:item=2883684343&perks=4090651448,3142289711,3700496672,4104185692#notes:PvE Flawless - Range MW
-dimwishlist:item=3832743906&perks=4090651448,3142289711,3700496672,4104185692#notes:PvE Flawless - Range MW
-dimwishlist:item=2883684343&perks=1482024992,3142289711,3700496672,4104185692#notes:PvE Excellent - Range MW
-dimwishlist:item=3832743906&perks=1482024992,3142289711,3700496672,4104185692#notes:PvE Excellent - Range MW
-dimwishlist:item=2883684343&perks=839105230,3142289711,3700496672,4104185692#notes:PvE Excellent - Range MW
-dimwishlist:item=3832743906&perks=839105230,3142289711,3700496672,4104185692#notes:PvE Excellent - Range MW
-dimwishlist:item=2883684343&perks=1840239774,3142289711,3700496672,4104185692#notes:PvE Excellent - Range MW
-dimwishlist:item=3832743906&perks=1840239774,3142289711,3700496672,4104185692#notes:PvE Excellent - Range MW
-dimwishlist:item=2883684343&perks=3250034553,3142289711,3700496672,4104185692#notes:PvE Excellent - Range MW
-dimwishlist:item=3832743906&perks=3250034553,3142289711,3700496672,4104185692#notes:PvE Excellent - Range MW
-dimwishlist:item=2883684343&perks=3661387068,3142289711,3700496672,4104185692#notes:PvE Excellent - Range MW
-dimwishlist:item=3832743906&perks=3661387068,3142289711,3700496672,4104185692#notes:PvE Excellent - Range MW
-dimwishlist:item=2883684343&perks=4090651448,1087426260,3700496672,4104185692#notes:PvE - Range MW
-dimwishlist:item=2883684343&perks=4090651448,106909392,247725512,4104185692#notes:PvE Flawless - Range MW
-dimwishlist:item=3832743906&perks=4090651448,106909392,247725512,4104185692#notes:PvE Flawless - Range MW
-dimwishlist:item=2883684343&perks=1482024992,106909392,247725512,4104185692#notes:PvE Excellent - Range MW
-dimwishlist:item=3832743906&perks=1482024992,106909392,247725512,4104185692#notes:PvE Excellent - Range MW
-dimwishlist:item=2883684343&perks=839105230,106909392,247725512,4104185692#notes:PvE Excellent - Range MW
-dimwishlist:item=3832743906&perks=839105230,106909392,247725512,4104185692#notes:PvE Excellent - Range MW
-dimwishlist:item=2883684343&perks=1840239774,106909392,247725512,4104185692#notes:PvE Excellent - Range MW
-dimwishlist:item=3832743906&perks=1840239774,106909392,247725512,4104185692#notes:PvE Excellent - Range MW
-dimwishlist:item=2883684343&perks=3250034553,106909392,247725512,4104185692#notes:PvE Excellent - Range MW
-dimwishlist:item=3832743906&perks=3250034553,106909392,247725512,4104185692#notes:PvE Excellent - Range MW
-dimwishlist:item=2883684343&perks=3661387068,106909392,247725512,4104185692#notes:PvE Excellent - Range MW
-dimwishlist:item=3832743906&perks=3661387068,106909392,247725512,4104185692#notes:PvE Excellent - Range MW
-dimwishlist:item=2883684343&perks=4090651448,3142289711,247725512,4104185692#notes:PvE Flawless - Range MW
-dimwishlist:item=3832743906&perks=4090651448,3142289711,247725512,4104185692#notes:PvE Flawless - Range MW
-dimwishlist:item=2883684343&perks=1482024992,3142289711,247725512,4104185692#notes:PvE Excellent - Range MW
-dimwishlist:item=3832743906&perks=1482024992,3142289711,247725512,4104185692#notes:PvE Excellent - Range MW
-dimwishlist:item=2883684343&perks=839105230,3142289711,247725512,4104185692#notes:PvE Excellent - Range MW
-dimwishlist:item=3832743906&perks=839105230,3142289711,247725512,4104185692#notes:PvE Excellent - Range MW
-dimwishlist:item=2883684343&perks=1840239774,3142289711,247725512,4104185692#notes:PvE Excellent - Range MW
-dimwishlist:item=3832743906&perks=1840239774,3142289711,247725512,4104185692#notes:PvE Excellent - Range MW
-dimwishlist:item=2883684343&perks=3250034553,3142289711,247725512,4104185692#notes:PvE Excellent - Range MW
-dimwishlist:item=3832743906&perks=3250034553,3142289711,247725512,4104185692#notes:PvE Excellent - Range MW
-dimwishlist:item=2883684343&perks=3661387068,3142289711,247725512,4104185692#notes:PvE Excellent - Range MW
-dimwishlist:item=3832743906&perks=3661387068,3142289711,247725512,4104185692#notes:PvE Excellent - Range MW
-dimwishlist:item=2883684343&perks=4090651448,1087426260,247725512,4104185692#notes:PvE - Range MW
 // Night Watch
 dimwishlist:item=3504336176&perks=839105230,106909392,247725512,3038247973#notes:PvE Flawless - Range MW
 dimwishlist:item=3504336176&perks=3250034553,106909392,247725512,3038247973#notes:PvE Excellent - Range MW
@@ -18716,8 +18664,6 @@ dimwishlist:item=-2448907086
 dimwishlist:item=-577528837
 dimwishlist:item=-2218569744
 dimwishlist:item=-3654674561
-dimwishlist:item=-681067419
-dimwishlist:item=-772231794
 dimwishlist:item=-3832743906
 dimwishlist:item=-2883684343
 dimwishlist:item=-3504336176
@@ -18971,6 +18917,8 @@ dimwishlist:item=-3514096004
 dimwishlist:item=-8293111
 dimwishlist:item=-1641430382
 dimwishlist:item=-4281371574
+dimwishlist:item=-681067419
+dimwishlist:item=-772231794
 dimwishlist:item=-4074251943
 dimwishlist:item=-542573208
 dimwishlist:item=-996109059
