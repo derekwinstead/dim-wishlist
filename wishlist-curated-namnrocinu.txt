@@ -13009,6 +13009,31 @@ dimwishlist:item=2563012876&perks=1482024992,972757866,47981717#notes:PvP - Rang
 dimwishlist:item=2563012876&perks=1332244541,972757866,47981717#notes:PvP - Range MW
 dimwishlist:item=2563012876&perks=1300023272,972757866,47981717#notes:PvP - Range MW
 dimwishlist:item=2563012876&perks=972757866,47981717#notes:PvP - Range MW
+// Astral Horizon
+dimwishlist:item=854379020&perks=1482024992,3142289711,3161816588,47981717#notes:PvP Flawless - Range MW
+dimwishlist:item=2653171213&perks=1482024992,3142289711,3161816588,47981717#notes:PvP Flawless - Range MW
+dimwishlist:item=854379020&perks=466087222,3142289711,3161816588,47981717#notes:PvP Excellent - Range MW
+dimwishlist:item=2653171213&perks=466087222,3142289711,3161816588,47981717#notes:PvP Excellent - Range MW
+dimwishlist:item=854379020&perks=4090651448,3142289711,3161816588,47981717#notes:PvP Excellent - Range MW
+dimwishlist:item=2653171213&perks=4090651448,3142289711,3161816588,47981717#notes:PvP Excellent - Range MW
+dimwishlist:item=854379020&perks=1332244541,3142289711,3161816588,47981717#notes:PvP Excellent - Range MW
+dimwishlist:item=2653171213&perks=1332244541,3142289711,3161816588,47981717#notes:PvP Excellent - Range MW
+dimwishlist:item=854379020&perks=1300023272,3142289711,3161816588,47981717#notes:PvP Excellent - Range MW
+dimwishlist:item=2653171213&perks=1300023272,3142289711,3161816588,47981717#notes:PvP Excellent - Range MW
+dimwishlist:item=854379020&perks=3142289711,3161816588,47981717#notes:PvP - Range MW
+dimwishlist:item=2653171213&perks=3142289711,3161816588,47981717#notes:PvP - Range MW
+dimwishlist:item=854379020&perks=1482024992,3161816588,47981717#notes:PvP - Range MW
+dimwishlist:item=2653171213&perks=1482024992,3161816588,47981717#notes:PvP - Range MW
+dimwishlist:item=854379020&perks=466087222,3161816588,47981717#notes:PvP - Range MW
+dimwishlist:item=2653171213&perks=466087222,3161816588,47981717#notes:PvP - Range MW
+dimwishlist:item=854379020&perks=4090651448,3161816588,47981717#notes:PvP - Range MW
+dimwishlist:item=2653171213&perks=4090651448,3161816588,47981717#notes:PvP - Range MW
+dimwishlist:item=854379020&perks=1332244541,3161816588,47981717#notes:PvP - Range MW
+dimwishlist:item=2653171213&perks=1332244541,3161816588,47981717#notes:PvP - Range MW
+dimwishlist:item=854379020&perks=1300023272,3161816588,47981717#notes:PvP - Range MW
+dimwishlist:item=2653171213&perks=1300023272,3161816588,47981717#notes:PvP - Range MW
+dimwishlist:item=854379020&perks=3161816588,47981717#notes:PvP - Range MW
+dimwishlist:item=2653171213&perks=3161816588,47981717#notes:PvP - Range MW
 // Riiswalker
 dimwishlist:item=108221785&perks=1332244541,3142289711,2039302152,591790007#notes:PvP Flawless - Range MW
 dimwishlist:item=108221785&perks=1482024992,3142289711,2039302152,591790007#notes:PvP Excellent - Range MW
@@ -18588,6 +18613,8 @@ dimwishlist:item=-631439337
 dimwishlist:item=-2653171212
 dimwishlist:item=-825554997
 dimwishlist:item=-2563012876
+dimwishlist:item=-2653171213
+dimwishlist:item=-854379020
 dimwishlist:item=-4248569242
 dimwishlist:item=-318443586
 dimwishlist:item=-4225322581
