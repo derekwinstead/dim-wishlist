@@ -1,7 +1,6 @@
 title: Nam's Curated Rolls
 dimwishlist:item=177568179
 dimwishlist:item=413901114
-dimwishlist:item=3103255595
 dimwishlist:item=3871226707
 // Unique and Crafted Weapons
 dimwishlist:item=3782662983&perks=1523832109,365154968#notes:PvE Crafted - Range MW
@@ -73,7 +72,6 @@ dimwishlist:item=2221264583&perks=839105230,3142289711,1906147653,1183436451#not
 dimwishlist:item=3407395594&perks=3523296417,3824105627#notes:PvE - Stability MW
 dimwishlist:item=2708806099&perks=839105230,1885400500,1906147653,2675184851#notes:PvE Crafted - Stability MW
 dimwishlist:item=2708806099&perks=839105230,1885400500,2014892510,2923251173#notes:PvP Crafted - Range MW
-dimwishlist:item=2603335652&perks=3661387068,1885400500,1820235745,4293542123#notes:PvE Excellent - Range MW
 dimwishlist:item=1751893422&perks=839105230,3142289711,3719974635,4045335048#notes:PvP Crafted - Range MW
 dimwishlist:item=1851777734&perks=3525010810,3796465595,1523832109,3078487919#notes:PvE Crafted - Handling MW
 dimwishlist:item=1959650777&perks=1478423395,3796465595,1906147653,2978966579#notes:PvE Crafted - Blast Radius MW
@@ -17063,8 +17061,6 @@ dimwishlist:item=-2097055732
 dimwishlist:item=-2221264583
 dimwishlist:item=-3407395594
 dimwishlist:item=-2708806099
-dimwishlist:item=-2603335652
-dimwishlist:item=-3103255595
 dimwishlist:item=-2342054803
 dimwishlist:item=-1751893422
 dimwishlist:item=-1780464822
@@ -17318,6 +17314,8 @@ dimwishlist:item=-3593598010
 dimwishlist:item=-1076810832
 dimwishlist:item=-62937067
 dimwishlist:item=-2261046232
+dimwishlist:item=-2603335652
+dimwishlist:item=-3103255595
 dimwishlist:item=-1678205741
 dimwishlist:item=-2050789284
 dimwishlist:item=-358788212
