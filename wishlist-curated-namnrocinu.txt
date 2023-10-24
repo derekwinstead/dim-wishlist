@@ -71,6 +71,7 @@ dimwishlist:item=3407395594&perks=3523296417,3824105627#notes:PvE - Stability MW
 dimwishlist:item=2708806099&perks=839105230,1885400500,1906147653,2675184851#notes:PvE Crafted - Stability MW
 dimwishlist:item=2708806099&perks=839105230,1885400500,2014892510,2923251173#notes:PvP Crafted - Range MW
 dimwishlist:item=1751893422&perks=839105230,3142289711,3719974635,4045335048#notes:PvP Crafted - Range MW
+dimwishlist:item=1903182562&perks=2869569095,3194351027#notes:PvE
 dimwishlist:item=1851777734&perks=3525010810,3796465595,1523832109,3078487919#notes:PvE Crafted - Handling MW
 dimwishlist:item=1959650777&perks=1478423395,3796465595,1906147653,2978966579#notes:PvE Crafted - Blast Radius MW
 dimwishlist:item=3489657138&perks=1478423395,3796465595,3528046508,2275087323#notes:PvE Crafted - Handling MW
