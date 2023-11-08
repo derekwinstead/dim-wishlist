@@ -1053,33 +1053,6 @@ dimwishlist:item=2591241074&perks=1196733167,3827198035,2846385770,1546637391#no
 dimwishlist:item=2591241074&perks=1196733167,16392701,2846385770,1546637391#notes:PvE - Draw MW
 dimwishlist:item=2591241074&perks=1196733167,2154191829,2846385770,1546637391#notes:PvE - Draw MW
 dimwishlist:item=2591241074&perks=852209214,3429800428,2846385770,1546637391#notes:PvE - Draw MW
-// Lunulata 4b
-dimwishlist:item=2513965917&perks=2801223209,3429800428,2846385770,124408337#notes:PvE Flawless - Draw MW
-dimwishlist:item=2513965917&perks=2801223209,3429800428,3700496672,124408337#notes:PvE Flawless - Draw MW
-dimwishlist:item=2513965917&perks=2801223209,3827198035,3700496672,124408337#notes:PvE Excellent - Draw MW
-dimwishlist:item=2513965917&perks=2801223209,16392701,3700496672,124408337#notes:PvE Excellent - Draw MW
-dimwishlist:item=2513965917&perks=2801223209,2154191829,3700496672,124408337#notes:PvE Excellent - Draw MW
-dimwishlist:item=2513965917&perks=3768438372,3429800428,3700496672,124408337#notes:PvE Excellent - Draw MW
-dimwishlist:item=2513965917&perks=3768438372,3827198035,3700496672,124408337#notes:PvE - Draw MW
-dimwishlist:item=2513965917&perks=3768438372,16392701,3700496672,124408337#notes:PvE - Draw MW
-dimwishlist:item=2513965917&perks=3768438372,2154191829,3700496672,124408337#notes:PvE - Draw MW
-dimwishlist:item=2513965917&perks=1196733167,3429800428,3700496672,124408337#notes:PvE - Draw MW
-dimwishlist:item=2513965917&perks=1196733167,3827198035,3700496672,124408337#notes:PvE - Draw MW
-dimwishlist:item=2513965917&perks=1196733167,16392701,3700496672,124408337#notes:PvE - Draw MW
-dimwishlist:item=2513965917&perks=1196733167,2154191829,3700496672,124408337#notes:PvE - Draw MW
-dimwishlist:item=2513965917&perks=852209214,3429800428,3700496672,124408337#notes:PvE - Draw MW
-dimwishlist:item=2513965917&perks=852209214,3827198035,3700496672,124408337#notes:PvE - Draw MW
-dimwishlist:item=2513965917&perks=852209214,16392701,3700496672,124408337#notes:PvE - Draw MW
-dimwishlist:item=2513965917&perks=852209214,2154191829,3700496672,124408337#notes:PvE - Draw MW
-dimwishlist:item=2513965917&perks=2801223209,3700496672,124408337#notes:PvE - Draw MW
-dimwishlist:item=2513965917&perks=3768438372,3700496672,124408337#notes:PvE - Draw MW
-dimwishlist:item=2513965917&perks=1196733167,3700496672,124408337#notes:PvE - Draw MW
-dimwishlist:item=2513965917&perks=852209214,3700496672,124408337#notes:PvE - Draw MW
-dimwishlist:item=2513965917&perks=3429800428,3700496672,124408337#notes:PvE - Draw MW
-dimwishlist:item=2513965917&perks=3827198035,3700496672,124408337#notes:PvE - Draw MW
-dimwishlist:item=2513965917&perks=16392701,3700496672,124408337#notes:PvE - Draw MW
-dimwishlist:item=2513965917&perks=2154191829,3700496672,124408337#notes:PvE - Draw MW
-dimwishlist:item=2513965917&perks=3700496672,124408337#notes:PvE - Draw MW
 // Imperial Needle
 dimwishlist:item=3460122497&perks=2801223209,3429800428,201365942,4104185692#notes:PvE Flawless - Draw MW
 dimwishlist:item=3460122497&perks=2801223209,3827198035,201365942,4104185692#notes:PvE Excellent - Draw MW
@@ -14968,7 +14941,6 @@ dimwishlist:item=-192784503
 dimwishlist:item=-496556698
 dimwishlist:item=-2591241074
 dimwishlist:item=-3388655311
-dimwishlist:item=-2513965917
 dimwishlist:item=-45643573
 dimwishlist:item=-3460122497
 dimwishlist:item=-232928045
@@ -15235,6 +15207,7 @@ dimwishlist:item=-711889599
 dimwishlist:item=-161675590
 dimwishlist:item=-3165143747
 dimwishlist:item=-2721249463
+dimwishlist:item=-2513965917
 dimwishlist:item=-607191995
 dimwishlist:item=-3969066556
 dimwishlist:item=-3904516037
