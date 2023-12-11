@@ -18,7 +18,6 @@ dimwishlist:item=1401300690
 dimwishlist:item=2059255495
 dimwishlist:item=1874424704
 dimwishlist:item=2806569825
-dimwishlist:item=3668817296
 dimwishlist:item=105164264
 // Unique and Crafted Weapons
 dimwishlist:item=3782662983&perks=1523832109,365154968#notes:PvE Crafted - Range MW
@@ -14364,7 +14363,6 @@ dimwishlist:item=-2233545123
 dimwishlist:item=-3366545721
 dimwishlist:item=-3371413057
 dimwishlist:item=-3371413059
-dimwishlist:item=-3668817296
 dimwishlist:item=-3438139008
 dimwishlist:item=-3371413056
 dimwishlist:item=-105164264
@@ -14701,6 +14699,7 @@ dimwishlist:item=-1313528549
 dimwishlist:item=-3847137620
 dimwishlist:item=-3400256755
 dimwishlist:item=-396910433
+dimwishlist:item=-3668817296
 dimwishlist:item=-4066778670
 dimwishlist:item=-2782325302
 dimwishlist:item=-2782325300
