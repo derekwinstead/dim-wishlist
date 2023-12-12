@@ -1,6 +1,5 @@
 title: Nam's Curated Rolls
 dimwishlist:item=2026755633
-dimwishlist:item=2465372924
 dimwishlist:item=2189073092
 dimwishlist:item=3583275737
 dimwishlist:item=839344841
@@ -234,6 +233,9 @@ dimwishlist:item=2496875173&perks=1840239774,1820235745,3425386926#notes:PvE - R
 dimwishlist:item=2496875173&perks=3250034553,1820235745,3425386926#notes:PvE - Range MW
 dimwishlist:item=2496875173&perks=202670084,1820235745,3425386926#notes:PvE - Range MW
 dimwishlist:item=2496875173&perks=1820235745,3425386926#notes:PvE - Range MW
+// Tigerspite
+dimwishlist:item=2465372924&perks=3643424744,3891536761#notes:PvE
+dimwishlist:item=2465372924&perks=1820235745,3891536761#notes:PvE
 // Gnawing Hunger
 dimwishlist:item=821154603&perks=839105230,1087426260,1820235745,3523296417#notes:PvE Flawless - Range MW
 dimwishlist:item=821154603&perks=839105230,106909392,1820235745,3523296417#notes:PvE Flawless - Range MW
