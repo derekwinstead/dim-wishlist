@@ -1,28 +1,22 @@
 title: Nam's Curated Rolls
-dimwishlist:item=2026755633
 dimwishlist:item=2189073092
-dimwishlist:item=3583275737
-dimwishlist:item=839344841
 dimwishlist:item=2728851518
+dimwishlist:item=1151688091
+dimwishlist:item=672957262
 dimwishlist:item=2680976411
 dimwishlist:item=3723679465
 dimwishlist:item=4220529694
 dimwishlist:item=4233375372
 dimwishlist:item=1891321753
 dimwishlist:item=2313726158
-dimwishlist:item=1719687748
 dimwishlist:item=355922321
 dimwishlist:item=1764868900
-dimwishlist:item=871900124
 dimwishlist:item=3381450498
 dimwishlist:item=3206190066
 dimwishlist:item=3926811686
 dimwishlist:item=1401300690
 dimwishlist:item=2059255495
-dimwishlist:item=1874424704
-dimwishlist:item=2806569825
 dimwishlist:item=1911078836
-dimwishlist:item=105164264
 dimwishlist:item=666
 // Unique and Crafted Weapons
 dimwishlist:item=3782662983&perks=1523832109,365154968#notes:PvE Crafted - Range MW
@@ -234,6 +228,10 @@ dimwishlist:item=2496875173&perks=1840239774,1820235745,3425386926#notes:PvE - R
 dimwishlist:item=2496875173&perks=3250034553,1820235745,3425386926#notes:PvE - Range MW
 dimwishlist:item=2496875173&perks=202670084,1820235745,3425386926#notes:PvE - Range MW
 dimwishlist:item=2496875173&perks=1820235745,3425386926#notes:PvE - Range MW
+// Breakneck
+dimwishlist:item=2026755633&perks=1820235745,95528736#notes:PvE
+dimwishlist:item=2026755633&perks=1820235745,3891536761#notes:PvE
+dimwishlist:item=2026755633&perks=1820235745,3523296417#notes:PvE
 // Tigerspite
 dimwishlist:item=2465372924&perks=3643424744,3891536761#notes:PvE
 dimwishlist:item=2465372924&perks=1820235745,3891536761#notes:PvE
@@ -282,6 +280,8 @@ dimwishlist:item=821154603&perks=3250034553,1820235745,3523296417#notes:PvE - Ra
 dimwishlist:item=821154603&perks=1820235745,3523296417#notes:PvE - Range MW
 dimwishlist:item=821154603&perks=839105230,3142289711,1890422124,3425386926#notes:PvP Flawless - Range MW
 dimwishlist:item=821154603&perks=839105230,3142289711,2387244414,3425386926#notes:PvP Flawless - Range MW
+// Ros Arago IV
+dimwishlist:item=3583275737&perks=3418782618,95528736#notes:PvE
 // Arsenic Bite 4b
 dimwishlist:item=720351795&perks=2801223209,3429800428,3425386926,3365897133#notes:PvE Flawless - Draw MW
 dimwishlist:item=720351795&perks=2801223209,3827198035,3425386926,3365897133#notes:PvE Excellent - Draw MW
@@ -907,6 +907,22 @@ dimwishlist:item=2591241074&perks=3827198035,2846385770,1546637391#notes:PvE - D
 dimwishlist:item=2591241074&perks=16392701,2846385770,1546637391#notes:PvE - Draw MW
 dimwishlist:item=2591241074&perks=2154191829,2846385770,1546637391#notes:PvE - Draw MW
 dimwishlist:item=2591241074&perks=2846385770,1546637391#notes:PvE - Draw MW
+// Vengeful Whisper
+dimwishlist:item=839344841&perks=3365897133,831391274#notes:PvE Flawless - Draw MW
+dimwishlist:item=839344841&perks=201365942,831391274#notes:PvE Excellent - Draw MW
+dimwishlist:item=839344841&perks=923806249,831391274#notes:PvE Excellent - Draw MW
+dimwishlist:item=839344841&perks=3365897133,555281244#notes:PvE Excellent - Draw MW
+dimwishlist:item=839344841&perks=201365942,555281244#notes:PvE - Draw MW
+dimwishlist:item=839344841&perks=923806249,555281244#notes:PvE - Draw MW
+dimwishlist:item=839344841&perks=3365897133,2652708987#notes:PvE - Draw MW
+dimwishlist:item=839344841&perks=201365942,2652708987#notes:PvE - Draw MW
+dimwishlist:item=839344841&perks=923806249,2652708987#notes:PvE - Draw MW
+dimwishlist:item=839344841&perks=831391274#notes:PvE - Draw MW
+dimwishlist:item=839344841&perks=555281244#notes:PvE - Draw MW
+dimwishlist:item=839344841&perks=2652708987#notes:PvE - Draw MW
+dimwishlist:item=839344841&perks=3365897133#notes:PvE - Draw MW
+dimwishlist:item=839344841&perks=201365942#notes:PvE - Draw MW
+dimwishlist:item=839344841&perks=923806249#notes:PvE - Draw MW
 // Loaded Question
 dimwishlist:item=2914913838&perks=839105230,689005463,968510818,1427256713#notes:PvE Flawless - Charge MW
 dimwishlist:item=3125454907&perks=839105230,689005463,968510818,1427256713#notes:PvE Flawless - Charge MW
@@ -9946,6 +9962,10 @@ dimwishlist:item=2573900604&perks=1332244541,1631667848,2679249093#notes:PvE - R
 dimwishlist:item=2573900604&perks=466087222,1631667848,2679249093#notes:PvE - Range MW
 dimwishlist:item=2573900604&perks=1482024992,1631667848,2679249093#notes:PvE - Range MW
 dimwishlist:item=2573900604&perks=1300023272,1631667848,2679249093#notes:PvE - Range MW
+// Basso Ostinato
+dimwishlist:item=871900124&perks=3161816588,2679249093#notes:PvE Excellent
+dimwishlist:item=871900124&perks=706527188,2679249093#notes:PvE Excellent
+dimwishlist:item=871900124&perks=1556840489,2679249093#notes:PvE Excellent
 // Liminal Vigil
 dimwishlist:item=3138208275&perks=3661387068,1885400500,1890422124,1015611457#notes:PvP Flawless - Range MW
 dimwishlist:item=3138208275&perks=4090651448,1885400500,1890422124,1015611457#notes:PvP Excellent - Range MW
@@ -13988,6 +14008,8 @@ dimwishlist:item=2073794990&perks=3250034553,957782887,47981717#notes:PvP - Hand
 dimwishlist:item=2073794990&perks=3661387068,957782887,47981717#notes:PvP - Handling MW
 dimwishlist:item=2073794990&perks=1482024992,957782887,47981717#notes:PvP - Handling MW
 dimwishlist:item=2073794990&perks=957782887,47981717#notes:PvP - Handling MW
+// Twilight Oath
+dimwishlist:item=1874424704&perks=47981717,957782887#notes:PvP
 // Irukandji
 dimwishlist:item=2673925403&perks=1467527085,106909392,1354429876,1771339417#notes:PvE Flawless - Stability MW
 // 1000 Yard Stare
@@ -14122,6 +14144,8 @@ dimwishlist:item=-1994645182
 dimwishlist:item=-4114929480
 dimwishlist:item=-613334176
 dimwishlist:item=-2060863616
+dimwishlist:item=-1151688091
+dimwishlist:item=-672957262
 dimwishlist:item=-3849810018
 dimwishlist:item=-4255586669
 dimwishlist:item=-4096943616
@@ -14226,7 +14250,6 @@ dimwishlist:item=-2313726158
 dimwishlist:item=-188882152
 dimwishlist:item=-1141927949
 dimwishlist:item=-1903182562
-dimwishlist:item=-1719687748
 dimwishlist:item=-4255171531
 dimwishlist:item=-1866778462
 dimwishlist:item=-1851777734
@@ -14328,7 +14351,6 @@ dimwishlist:item=-1874424704
 dimwishlist:item=-1769847435
 dimwishlist:item=-2673925403
 dimwishlist:item=-4067556514
-dimwishlist:item=-2806569825
 dimwishlist:item=-3920310144
 dimwishlist:item=-4164201232
 dimwishlist:item=-2233545123
@@ -14338,7 +14360,6 @@ dimwishlist:item=-3371413059
 dimwishlist:item=-1911078836
 dimwishlist:item=-3438139008
 dimwishlist:item=-3371413056
-dimwishlist:item=-105164264
 dimwishlist:item=-614426548
 dimwishlist:item=-3637669759
 dimwishlist:item=-3257091167
@@ -14515,9 +14536,11 @@ dimwishlist:item=-1974641289
 dimwishlist:item=-1621558458
 dimwishlist:item=-208088207
 dimwishlist:item=-2276328320
+dimwishlist:item=-1719687748
 dimwishlist:item=-3067821200
 dimwishlist:item=-3669616453
 dimwishlist:item=-136525518
+dimwishlist:item=-2140635451
 dimwishlist:item=-3740842661
 dimwishlist:item=-42351395
 dimwishlist:item=-2545083870
@@ -14656,6 +14679,7 @@ dimwishlist:item=-2065081837
 dimwishlist:item=-852228780
 dimwishlist:item=-1271343896
 dimwishlist:item=-4132072834
+dimwishlist:item=-2806569825
 dimwishlist:item=-3865728990
 dimwishlist:item=-3473290087
 dimwishlist:item=-781498181
@@ -14676,6 +14700,7 @@ dimwishlist:item=-396910433
 dimwishlist:item=-3668817296
 dimwishlist:item=-4066778670
 dimwishlist:item=-2782325302
+dimwishlist:item=-105164264
 dimwishlist:item=-2782325300
 dimwishlist:item=-1796949035
 dimwishlist:item=-4230993599
