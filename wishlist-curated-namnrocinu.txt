@@ -13,7 +13,6 @@ dimwishlist:item=3381450498
 dimwishlist:item=3926811686
 dimwishlist:item=1401300690
 dimwishlist:item=2059255495
-dimwishlist:item=1911078836
 dimwishlist:item=666
 // Unique and Crafted Weapons
 dimwishlist:item=3782662983&perks=1523832109,365154968#notes:PvE Crafted - Range MW
@@ -32,12 +31,11 @@ dimwishlist:item=232928045&perks=2801223209,16392701,3523746922,1551736345#notes
 dimwishlist:item=1289796511&perks=839105230,2969185026,3755250867,711234314#notes:PvP Crafted - Range MW
 dimwishlist:item=3591141932&perks=3418782618,2594592626#notes:PvE - Range MW
 dimwishlist:item=2481881293&perks=13792279,689005463,1556840489,1546637391#notes:PvE Flawless - Charge MW
-dimwishlist:item=3347946548&perks=1840239774,689005463,968510818,1427256713#notes:PvE Crafted - Charge MW
 dimwishlist:item=3347946548&perks=1840239774,689005463,424370782,2037312142#notes:PvE Crafted - Charge MW
 dimwishlist:item=1720503118&perks=968510818,1427256713#notes:PvE - Range MW
 dimwishlist:item=768621510&perks=839105230,689005463,1906147653,3744057135#notes:PvE Crafted - Charge MW
 dimwishlist:item=2943293195&perks=3523296417,2978966579#notes:PvE - Stability MW
-dimwishlist:item=2558925366&perks=839105230,689005463,2682205016,2037312142#notes:PvE Crafted - Charge MW
+dimwishlist:item=2558925366&perks=1840239774,2680121939,2682205016,2037312142#notes:PvE Crafted - Handling MW
 dimwishlist:item=1030895163&perks=3250034553,1687452232,1820235745,1427256713#notes:PvE - Range MW
 dimwishlist:item=3573686365&perks=3661387068,1687452232,3161816588,1427256713#notes:PvE - Stability MW
 dimwishlist:item=1994645182&perks=839105230,689005463,3920370755,617966211#notes:PvP Crafted - Reload MW
@@ -140,7 +138,7 @@ dimwishlist:item=2149683300&perks=202670084,1140096971,494941759,1720528630#note
 dimwishlist:item=2149683300&perks=202670084,1140096971,4207509907,509594246#notes:PvP Crafted - Range MW
 dimwishlist:item=46524085&perks=1392496348,3230963543,4015745376,990298390#notes:PvE Crafted
 dimwishlist:item=3886416794&perks=4090651448,3142289711,2682205016,3007133316#notes:PvE Crafted - Range MW
-dimwishlist:item=2490988246&perks=4090651448,3142289711,494941759,2675184851#notes:PvE Crafted - Range MW
+dimwishlist:item=2490988246&perks=3250034553,3230963543,494941759,2675184851#notes:PvE Crafted - Range MW
 dimwishlist:item=2490988246&perks=4090651448,3142289711,494941759,781192741#notes:PvE Crafted - Range MW
 dimwishlist:item=1280894514&perks=4090651448,3142289711,957782887,47981717#notes:PvP Excellent - Range MW
 dimwishlist:item=3228096719&perks=1556840489,1771339417#notes:PvE - Range MW
@@ -158,6 +156,7 @@ dimwishlist:item=4067556514&perks=839105230,1087426260,2682205016,395388285#note
 dimwishlist:item=3366545721&perks=1749209109,3708227201#notes:PvE Crafted
 dimwishlist:item=3371413057&perks=3666208348,269888150,1749209109,3913600130#notes:PvE Crafted - Impact MW
 dimwishlist:item=3371413059&perks=3666208348,2349202967,3705817207,3708227201#notes:PvE Crafted - Impact MW
+dimwishlist:item=1911078836&perks=1749209109,3650930298#notes:PvE
 dimwishlist:item=3438139008&perks=938542991,52780822,776531651,2048641572#notes:Pinnacle - Impact MW
 dimwishlist:item=3371413056&perks=3666208348,2363751990,1749209109,3913600130#notes:PvE Crafted - Impact MW
 dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3913600130#notes:PvE Flawless
@@ -14686,6 +14685,7 @@ dimwishlist:item=-2857348871
 dimwishlist:item=-1456017061
 dimwishlist:item=-35794111
 dimwishlist:item=-1644160541
+dimwishlist:item=-250721843
 dimwishlist:item=-2508948099
 dimwishlist:item=-2782325301
 dimwishlist:item=-1139727256
