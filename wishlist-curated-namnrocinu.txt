@@ -1,5 +1,4 @@
 title: Nam's Curated Rolls
-dimwishlist:item=2189073092
 dimwishlist:item=2728851518
 dimwishlist:item=1151688091
 dimwishlist:item=672957262
@@ -136,6 +135,7 @@ dimwishlist:item=231031173&perks=839105230,1885400500,1563455254,102912326#notes
 dimwishlist:item=2222560548&perks=1482024992,106909392,4071163871,3708227201#notes:PvE
 dimwishlist:item=2149683300&perks=202670084,1140096971,494941759,1720528630#notes:PvE Crafted - Range MW
 dimwishlist:item=2149683300&perks=202670084,1140096971,4207509907,509594246#notes:PvP Crafted - Range MW
+dimwishlist:item=1447836603&perks=3250034553,3230963543,4071163871,2173046394#notes:PvE Crafted - Reload MW
 dimwishlist:item=46524085&perks=1392496348,3230963543,4015745376,990298390#notes:PvE Crafted
 dimwishlist:item=3886416794&perks=4090651448,3142289711,2682205016,3007133316#notes:PvE Crafted - Range MW
 dimwishlist:item=2490988246&perks=3250034553,3230963543,494941759,2675184851#notes:PvE Crafted - Range MW
@@ -231,6 +231,10 @@ dimwishlist:item=2026755633&perks=1820235745,3523296417#notes:PvE
 // Tigerspite
 dimwishlist:item=2465372924&perks=3643424744,3891536761#notes:PvE
 dimwishlist:item=2465372924&perks=1820235745,3891536761#notes:PvE
+// Lethal Abundance
+dimwishlist:item=2189073092&perks=923806249,95528736#notes:PvE
+dimwishlist:item=2189073092&perks=923806249,831391274#notes:PvE
+dimwishlist:item=2189073092&perks=923806249,365154968#notes:PvE
 // Gnawing Hunger
 dimwishlist:item=821154603&perks=839105230,1087426260,1820235745,3523296417#notes:PvE Flawless - Range MW
 dimwishlist:item=821154603&perks=839105230,106909392,1820235745,3523296417#notes:PvE Flawless - Range MW
@@ -7992,6 +7996,10 @@ dimwishlist:item=1780464822&perks=1840239774,1968497646,2779035018,3047969693#no
 dimwishlist:item=1780464822&perks=3250034553,1968497646,2779035018,3047969693#notes:PvE - Range MW
 dimwishlist:item=1780464822&perks=1467527085,1968497646,2779035018,3047969693#notes:PvE - Range MW
 dimwishlist:item=1780464822&perks=839105230,1087426260,2779035018,3047969693#notes:PvE - Range MW
+// Stay Frosty S23
+dimwishlist:item=1891321753&perks=3828510309,1870851715#notes:PvE - Range MW
+dimwishlist:item=1891321753&perks=202670084,689005463,1195158366,1015611457#notes:PvP - Range MW
+dimwishlist:item=1891321753&perks=1195158366,1015611457#notes:PvP - Range MW
 // Last Perdition
 dimwishlist:item=188882152&perks=3151536501,3142289711,1168162263,1015611457#notes:PvP Flawless - Range MW
 dimwishlist:item=188882152&perks=360593483,3142289711,1168162263,1015611457#notes:PvP Excellent - Range MW
@@ -14240,6 +14248,7 @@ dimwishlist:item=-2708806099
 dimwishlist:item=-2342054803
 dimwishlist:item=-1751893422
 dimwishlist:item=-1780464822
+dimwishlist:item=-1891321753
 dimwishlist:item=-2313726158
 dimwishlist:item=-188882152
 dimwishlist:item=-1141927949
@@ -14523,7 +14532,6 @@ dimwishlist:item=-1678205741
 dimwishlist:item=-2050789284
 dimwishlist:item=-358788212
 dimwishlist:item=-2812100428
-dimwishlist:item=-1891321753
 dimwishlist:item=-2856514843
 dimwishlist:item=-3016891299
 dimwishlist:item=-1974641289
