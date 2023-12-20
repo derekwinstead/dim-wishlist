@@ -1,5 +1,4 @@
 title: Nam's Curated Rolls
-dimwishlist:item=2728851518
 dimwishlist:item=1151688091
 dimwishlist:item=672957262
 dimwishlist:item=3723679465
@@ -1495,6 +1494,27 @@ dimwishlist:item=2767393525&perks=3250034553,968510818,2594592626#notes:PvE - Ch
 dimwishlist:item=2767393525&perks=202670084,968510818,2594592626#notes:PvE - Charge MW
 dimwishlist:item=2767393525&perks=1840239774,968510818,2594592626#notes:PvE - Charge MW
 dimwishlist:item=2767393525&perks=968510818,2594592626#notes:PvE - Charge MW
+// Glacioclasm
+dimwishlist:item=2728851518&perks=1840239774,2680121939,3643424744,1427256713#notes:PvE - Charge MW
+dimwishlist:item=2728851518&perks=4090651448,2680121939,3643424744,1427256713#notes:PvE - Charge MW
+dimwishlist:item=2728851518&perks=839105230,2680121939,3643424744,1427256713#notes:PvE - Charge MW
+dimwishlist:item=2728851518&perks=3643424744,1427256713#notes:PvE - Charge MW
+dimwishlist:item=2728851518&perks=1840239774,2680121939,3161816588,1427256713#notes:PvE - Charge MW
+dimwishlist:item=2728851518&perks=4090651448,2680121939,3161816588,1427256713#notes:PvE - Charge MW
+dimwishlist:item=2728851518&perks=839105230,2680121939,3161816588,1427256713#notes:PvE - Charge MW
+dimwishlist:item=2728851518&perks=3161816588,1427256713#notes:PvE - Charge MW
+dimwishlist:item=2728851518&perks=1840239774,2680121939,1820235745,1427256713#notes:PvE - Charge MW
+dimwishlist:item=2728851518&perks=4090651448,2680121939,1820235745,1427256713#notes:PvE - Charge MW
+dimwishlist:item=2728851518&perks=839105230,2680121939,1820235745,1427256713#notes:PvE - Charge MW
+dimwishlist:item=2728851518&perks=1820235745,1427256713#notes:PvE - Charge MW
+dimwishlist:item=2728851518&perks=1840239774,2680121939,776531651,2594592626#notes:PvE - Charge MW
+dimwishlist:item=2728851518&perks=4090651448,2680121939,776531651,2594592626#notes:PvE - Charge MW
+dimwishlist:item=2728851518&perks=839105230,2680121939,776531651,2594592626#notes:PvE - Charge MW
+dimwishlist:item=2728851518&perks=776531651,2594592626#notes:PvE - Charge MW
+dimwishlist:item=2728851518&perks=202670084,2969185026,1645158859,2652708987#notes:PvP - Charge MW
+dimwishlist:item=2728851518&perks=3250034553,2969185026,1645158859,2652708987#notes:PvP - Charge MW
+dimwishlist:item=2728851518&perks=1467527085,2969185026,1645158859,2652708987#notes:PvP - Charge MW
+dimwishlist:item=2728851518&perks=1645158859,2652708987#notes:PvP - Charge MW
 // Snorri FR5
 dimwishlist:item=4114929480&perks=839105230,689005463,280464955,2213355989#notes:PvP Flawless - Stability MW
 dimwishlist:item=4114929480&perks=3661387068,689005463,280464955,2213355989#notes:PvP Excellent - Stability MW
