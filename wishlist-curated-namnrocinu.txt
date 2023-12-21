@@ -1,10 +1,7 @@
 title: Nam's Curated Rolls
 dimwishlist:item=1151688091
 dimwishlist:item=672957262
-dimwishlist:item=2313726158
 dimwishlist:item=1764868900
-dimwishlist:item=3381450498
-dimwishlist:item=3926811686
 dimwishlist:item=1401300690
 dimwishlist:item=2059255495
 dimwishlist:item=666
@@ -7215,7 +7212,7 @@ dimwishlist:item=1780464822&perks=1840239774,1968497646,2779035018,3047969693#no
 dimwishlist:item=1780464822&perks=3250034553,1968497646,2779035018,3047969693#notes:PvE - Range MW
 dimwishlist:item=1780464822&perks=1467527085,1968497646,2779035018,3047969693#notes:PvE - Range MW
 dimwishlist:item=1780464822&perks=839105230,1087426260,2779035018,3047969693#notes:PvE - Range MW
-// Stay Frosty S23
+// Stay Frosty
 dimwishlist:item=1891321753&perks=3828510309,1870851715#notes:PvE - Range MW
 dimwishlist:item=1891321753&perks=202670084,689005463,1195158366,1015611457#notes:PvP - Range MW
 dimwishlist:item=1891321753&perks=1195158366,1015611457#notes:PvP - Range MW
@@ -9185,10 +9182,15 @@ dimwishlist:item=2573900604&perks=1332244541,1631667848,2679249093#notes:PvE - R
 dimwishlist:item=2573900604&perks=466087222,1631667848,2679249093#notes:PvE - Range MW
 dimwishlist:item=2573900604&perks=1482024992,1631667848,2679249093#notes:PvE - Range MW
 dimwishlist:item=2573900604&perks=1300023272,1631667848,2679249093#notes:PvE - Range MW
-// Basso Ostinato
+// Retold Tale
 dimwishlist:item=871900124&perks=3161816588,2679249093#notes:PvE Excellent
 dimwishlist:item=871900124&perks=706527188,2679249093#notes:PvE Excellent
 dimwishlist:item=871900124&perks=1556840489,2679249093#notes:PvE Excellent
+// Indebted Kindness
+dimwishlist:item=3381450498&perks=2859149211,2173046394#notes:PvE
+dimwishlist:item=3381450498&perks=951095735,2173046394#notes:PvE
+dimwishlist:item=3381450498&perks=3828510309,2173046394#notes:PvE
+dimwishlist:item=3381450498&perks=1556840489,2173046394#notes:PvE
 // Liminal Vigil
 dimwishlist:item=3138208275&perks=3661387068,1885400500,1890422124,1015611457#notes:PvP Flawless - Range MW
 dimwishlist:item=3138208275&perks=4090651448,1885400500,1890422124,1015611457#notes:PvP Excellent - Range MW
@@ -13465,7 +13467,6 @@ dimwishlist:item=-2342054803
 dimwishlist:item=-1751893422
 dimwishlist:item=-1780464822
 dimwishlist:item=-1891321753
-dimwishlist:item=-2313726158
 dimwishlist:item=-188882152
 dimwishlist:item=-1141927949
 dimwishlist:item=-1903182562
@@ -13539,7 +13540,6 @@ dimwishlist:item=-3886416794
 dimwishlist:item=-1941816543
 dimwishlist:item=-2490988246
 dimwishlist:item=-3262192268
-dimwishlist:item=-3926811686
 dimwishlist:item=-1081724548
 dimwishlist:item=-2510526114
 dimwishlist:item=-4039572196
@@ -13753,6 +13753,7 @@ dimwishlist:item=-2050789284
 dimwishlist:item=-358788212
 dimwishlist:item=-2812100428
 dimwishlist:item=-2856514843
+dimwishlist:item=-2313726158
 dimwishlist:item=-3016891299
 dimwishlist:item=-1974641289
 dimwishlist:item=-1621558458
@@ -13872,6 +13873,7 @@ dimwishlist:item=-4100775158
 dimwishlist:item=-875848769
 dimwishlist:item=-2832639510
 dimwishlist:item=-2742490609
+dimwishlist:item=-3926811686
 dimwishlist:item=-1509167284
 dimwishlist:item=-1526296434
 dimwishlist:item=-2349907931
