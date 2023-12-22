@@ -1,6 +1,4 @@
 title: Nam's Curated Rolls
-dimwishlist:item=1151688091
-dimwishlist:item=672957262
 dimwishlist:item=1764868900
 dimwishlist:item=1401300690
 dimwishlist:item=2059255495
@@ -1527,6 +1525,11 @@ dimwishlist:item=4114929480&perks=839105230,2969185026,280464955,2213355989#note
 dimwishlist:item=4114929480&perks=3661387068,2969185026,280464955,2213355989#notes:PvP - Stability MW
 dimwishlist:item=4114929480&perks=4090651448,2969185026,280464955,2213355989#notes:PvP - Stability MW
 dimwishlist:item=4114929480&perks=1467527085,2969185026,280464955,2213355989#notes:PvP - Stability MW
+// Undercurrent
+dimwishlist:item=672957262&perks=2822142346,3523296417,2173046394#notes:PvE - Handling MW
+dimwishlist:item=1151688091&perks=2822142346,3523296417,2173046394#notes:PvE - Handling MW
+dimwishlist:item=672957262&perks=2822142346,2010801679,2173046394#notes:PvE - Handling MW
+dimwishlist:item=1151688091&perks=2822142346,2010801679,2173046394#notes:PvE - Handling MW
 // Empty Vessel
 dimwishlist:item=4255586669&perks=3525010810,3032599245,3300816228,1546637391#notes:PvE Flawless - Handling MW
 dimwishlist:item=4255586669&perks=981914802,3032599245,3300816228,1546637391#notes:PvE Excellent - Handling MW
