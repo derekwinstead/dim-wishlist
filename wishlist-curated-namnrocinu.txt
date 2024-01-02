@@ -14,11 +14,9 @@ dimwishlist:item=342514437&perks=839105230,1885400500,1523832109,365154968#notes
 dimwishlist:item=3434944005&perks=2801223209,1500996326,201365942,1546637391#notes:Pinnacle - Accuracy MW
 dimwishlist:item=4095896073&perks=3768438372,3311977193,201365942,3365897133#notes:PvE - Draw MW
 dimwishlist:item=4095896073&perks=201365942,3365897133#notes:PvE - Draw MW
-dimwishlist:item=3388655311&perks=2801223209,2154191829,169755979,2675184851#notes:PvE Crafted - Draw MW
+dimwishlist:item=3388655311&perks=2801223209,2154191829,2848615171,4293542123#notes:PvE Crafted - Draw MW
 dimwishlist:item=45643573&perks=2801223209,3429800428,201365942,3365897133#notes:PvE Crafted - Draw MW
-dimwishlist:item=3710082365&perks=852209214,3429800428,951095735,1683379515#notes:PvP Crafted - Accuracy MW
-dimwishlist:item=3710082365&perks=852209214,3429800428,509074078,1683379515#notes:PvP Crafted - Accuracy MW
-dimwishlist:item=232928045&perks=2801223209,16392701,3523746922,1551736345#notes:PvE Crafted - Draw MW
+dimwishlist:item=232928045&perks=2801223209,16392701,201365942,3365897133#notes:PvE Crafted - Draw MW
 dimwishlist:item=1289796511&perks=839105230,2969185026,3755250867,711234314#notes:PvP Crafted - Range MW
 dimwishlist:item=3591141932&perks=3418782618,2594592626#notes:PvE - Range MW
 dimwishlist:item=2481881293&perks=13792279,689005463,1556840489,1546637391#notes:PvE Flawless - Charge MW
@@ -181,24 +179,15 @@ dimwishlist:item=720351795&perks=2801223209,2154191829,3425386926,3365897133#not
 dimwishlist:item=720351795&perks=3768438372,3429800428,3425386926,3365897133#notes:PvE - Draw MW
 dimwishlist:item=720351795&perks=3768438372,3827198035,3425386926,3365897133#notes:PvE - Draw MW
 dimwishlist:item=720351795&perks=3768438372,16392701,3425386926,3365897133#notes:PvE - Draw MW
-dimwishlist:item=720351795&perks=3768438372,2154191829,3425386926,3365897133#notes:PvE - Draw MW
-dimwishlist:item=720351795&perks=1196733167,3429800428,3425386926,3365897133#notes:PvE - Draw MW
-dimwishlist:item=720351795&perks=1196733167,3827198035,3425386926,3365897133#notes:PvE - Draw MW
-dimwishlist:item=720351795&perks=1196733167,16392701,3425386926,3365897133#notes:PvE - Draw MW
-dimwishlist:item=720351795&perks=1196733167,2154191829,3425386926,3365897133#notes:PvE - Draw MW
-dimwishlist:item=720351795&perks=852209214,3429800428,3425386926,3365897133#notes:PvE - Draw MW
-dimwishlist:item=720351795&perks=852209214,3827198035,3425386926,3365897133#notes:PvE - Draw MW
-dimwishlist:item=720351795&perks=852209214,16392701,3425386926,3365897133#notes:PvE - Draw MW
-dimwishlist:item=720351795&perks=852209214,2154191829,3425386926,3365897133#notes:PvE - Draw MW
-dimwishlist:item=720351795&perks=2801223209,3425386926,3365897133#notes:PvE - Draw MW
-dimwishlist:item=720351795&perks=3768438372,3425386926,3365897133#notes:PvE - Draw MW
-dimwishlist:item=720351795&perks=1196733167,3425386926,3365897133#notes:PvE - Draw MW
-dimwishlist:item=720351795&perks=852209214,3425386926,3365897133#notes:PvE - Draw MW
-dimwishlist:item=720351795&perks=3429800428,3425386926,3365897133#notes:PvE - Draw MW
-dimwishlist:item=720351795&perks=3827198035,3425386926,3365897133#notes:PvE - Draw MW
-dimwishlist:item=720351795&perks=16392701,3425386926,3365897133#notes:PvE - Draw MW
-dimwishlist:item=720351795&perks=2154191829,3425386926,3365897133#notes:PvE - Draw MW
-dimwishlist:item=720351795&perks=3425386926,3365897133#notes:PvE - Draw MW
+dimwishlist:item=720351795&perks=2801223209,3429800428,2848615171,3365897133#notes:PvE Flawless - Draw MW
+dimwishlist:item=720351795&perks=2801223209,3827198035,2848615171,3365897133#notes:PvE Excellent - Draw MW
+dimwishlist:item=720351795&perks=2801223209,16392701,2848615171,3365897133#notes:PvE Excellent - Draw MW
+dimwishlist:item=720351795&perks=2801223209,2154191829,2848615171,3365897133#notes:PvE Excellent - Draw MW
+dimwishlist:item=720351795&perks=3768438372,3429800428,2848615171,3365897133#notes:PvE - Draw MW
+dimwishlist:item=720351795&perks=3768438372,3827198035,2848615171,3365897133#notes:PvE - Draw MW
+dimwishlist:item=720351795&perks=3768438372,16392701,2848615171,3365897133#notes:PvE - Draw MW
+dimwishlist:item=720351795&perks=3768438372,2154191829,2848615171,3365897133#notes:PvE - Draw MW
+dimwishlist:item=720351795&perks=1196733167,3429800428,2848615171,3365897133#notes:PvE - Draw MW
 // Point of the Stag
 dimwishlist:item=888872889&perks=2801223209,3429800428,201365942,4082225868#notes:PvP Flawless - Draw MW
 dimwishlist:item=888872889&perks=2801223209,3827198035,201365942,4082225868#notes:PvP Excellent - Draw MW
@@ -803,20 +792,7 @@ dimwishlist:item=2591241074&perks=16392701,2846385770,1546637391#notes:PvE - Dra
 dimwishlist:item=2591241074&perks=2154191829,2846385770,1546637391#notes:PvE - Draw MW
 dimwishlist:item=2591241074&perks=2846385770,1546637391#notes:PvE - Draw MW
 // Vengeful Whisper
-dimwishlist:item=839344841&perks=3365897133,831391274#notes:PvE Flawless - Draw MW
-dimwishlist:item=839344841&perks=201365942,831391274#notes:PvE Excellent - Draw MW
 dimwishlist:item=839344841&perks=923806249,831391274#notes:PvE Excellent - Draw MW
-dimwishlist:item=839344841&perks=3365897133,555281244#notes:PvE Excellent - Draw MW
-dimwishlist:item=839344841&perks=201365942,555281244#notes:PvE - Draw MW
-dimwishlist:item=839344841&perks=923806249,555281244#notes:PvE - Draw MW
-dimwishlist:item=839344841&perks=3365897133,2652708987#notes:PvE - Draw MW
-dimwishlist:item=839344841&perks=201365942,2652708987#notes:PvE - Draw MW
-dimwishlist:item=839344841&perks=923806249,2652708987#notes:PvE - Draw MW
-dimwishlist:item=839344841&perks=831391274#notes:PvE - Draw MW
-dimwishlist:item=839344841&perks=555281244#notes:PvE - Draw MW
-dimwishlist:item=839344841&perks=3365897133#notes:PvE - Draw MW
-dimwishlist:item=839344841&perks=201365942#notes:PvE - Draw MW
-dimwishlist:item=839344841&perks=923806249#notes:PvE - Draw MW
 // Loaded Question
 dimwishlist:item=2914913838&perks=839105230,689005463,968510818,1427256713#notes:PvE Flawless - Charge MW
 dimwishlist:item=3125454907&perks=839105230,689005463,968510818,1427256713#notes:PvE Flawless - Charge MW
