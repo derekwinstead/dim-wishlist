@@ -80,7 +80,7 @@ dimwishlist:item=3292795429&perks=1870851715,3891536761#notes:PvE - Stability MW
 dimwishlist:item=3292795429&perks=1870851715,1048183818#notes:PvE - Stability MW
 dimwishlist:item=3799980700&perks=3661387068,106909392,3425386926,1015611457#notes:PvE Excellent - Range MW
 dimwishlist:item=1937552980&perks=839105230,3142289711,3824105627,2848615171#notes:PvE - Range MW
-dimwishlist:item=1937552980&perks=839105230,106909392,3824105627,4104185692#notes:PvE Crafted - Range MW
+dimwishlist:item=1937552980&perks=839105230,106909392,3038247973,4104185692#notes:PvE Crafted - Range MW
 dimwishlist:item=297296830&perks=839105230,1968497646,3096702027,1048183818#notes:PvE Crafted - Reload MW
 dimwishlist:item=355922321&perks=247725512,3038247973#notes:PvE
 dimwishlist:item=3738678140&perks=1631667848,2679249093#notes:PvE
