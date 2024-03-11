@@ -1485,6 +1485,11 @@ dimwishlist:item=2306182339&perks=1844523823,3032599245,3523296417,4104185692#no
 dimwishlist:item=2306182339&perks=1478423395,3032599245,3523296417,4104185692#notes:PvE Excellent - Handling MW
 dimwishlist:item=2306182339&perks=1441682018,3032599245,3523296417,4104185692#notes:PvE Excellent - Handling MW
 dimwishlist:item=2306182339&perks=981914802,3032599245,3523296417,4104185692#notes:PvE Excellent - Handling MW
+// Hullabaloo
+dimwishlist:item=657927352&perks=3300816228,2396489472#notes:PvE
+dimwishlist:item=657927352&perks=3300816228,2610012052#notes:PvE
+dimwishlist:item=657927352&perks=2173046394,2396489472#notes:PvE
+dimwishlist:item=657927352&perks=2173046394,2610012052#notes:PvE
 // Wendigo
 dimwishlist:item=3915197957&perks=3525010810,3301904089,3300816228,3194351027#notes:PvE Flawless - Handling MW
 dimwishlist:item=1854753404&perks=3525010810,3301904089,3300816228,3194351027#notes:PvE Flawless - Handling MW
@@ -5608,6 +5613,8 @@ dimwishlist:item=3341893443&perks=4090651448,106909392,1820235745,4104185692#not
 dimwishlist:item=3341893443&perks=3661387068,106909392,1820235745,4104185692#notes:PvE Excellent - Range MW
 dimwishlist:item=3341893443&perks=1467527085,106909392,1820235745,4104185692#notes:PvE Excellent - Range MW
 dimwishlist:item=3341893443&perks=1840239774,106909392,1820235745,4104185692#notes:PvE Excellent - Range MW
+// Title
+dimwishlist:item=655712834&perks=776531651,2048641572#notes:PvE
 // Unforgiven
 dimwishlist:item=3000847393&perks=4090651448,1885400500,3523296417,4104185692#notes:PvE Flawless - Range MW
 dimwishlist:item=3000847393&perks=3661387068,1885400500,3523296417,4104185692#notes:PvE Excellent - Range MW
@@ -5992,6 +5999,7 @@ dimwishlist:item=-4255586669
 dimwishlist:item=-4096943616
 dimwishlist:item=-1606497639
 dimwishlist:item=-2306182339
+dimwishlist:item=-657927352
 dimwishlist:item=-555148853
 dimwishlist:item=-1854753404
 dimwishlist:item=-3915197957
@@ -6120,6 +6128,7 @@ dimwishlist:item=-3193598749
 dimwishlist:item=-3341893443
 dimwishlist:item=-3682803680
 dimwishlist:item=-4023807721
+dimwishlist:item=-655712834
 dimwishlist:item=-3000847393
 dimwishlist:item=-1280894514
 dimwishlist:item=-3871226707
@@ -6406,6 +6415,7 @@ dimwishlist:item=-1851521408
 dimwishlist:item=-222606050
 dimwishlist:item=-1161561386
 dimwishlist:item=-1389546626
+dimwishlist:item=-3007479950
 dimwishlist:item=-2638190703
 dimwishlist:item=-3245493570
 dimwishlist:item=-2779821308
