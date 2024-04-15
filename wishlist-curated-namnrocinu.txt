@@ -17,8 +17,6 @@ dimwishlist:item=1453235079
 dimwishlist:item=205225492
 dimwishlist:item=1050806815
 dimwishlist:item=3098328572
-dimwishlist:item=3612338554
-dimwishlist:item=570866107
 dimwishlist:item=1815105249
 dimwishlist:item=243425374
 dimwishlist:item=666
@@ -5654,6 +5652,13 @@ dimwishlist:item=2059255495&perks=1482024992,1087426260,2866798147,957782887#not
 dimwishlist:item=2059255495&perks=3661387068,1087426260,2866798147,957782887#notes:PvP - Range MW
 dimwishlist:item=2059255495&perks=3661387068,1087426260,2866798147,957782887#notes:PvP - Range MW
 dimwishlist:item=2059255495&perks=1840239774,3177308360,2866798147,957782887#notes:PvP - Range MW
+// Succession
+dimwishlist:item=570866107&perks=1523832109,1546637391#notes:PvE
+dimwishlist:item=3612338554&perks=1523832109,1546637391#notes:PvE
+dimwishlist:item=570866107&perks=1523832109,469285294#notes:PvE
+dimwishlist:item=3612338554&perks=1523832109,469285294#notes:PvE
+dimwishlist:item=570866107&perks=1523832109,1771339417#notes:PvE
+dimwishlist:item=3612338554&perks=1523832109,1771339417#notes:PvE
 // Twilight Oath
 dimwishlist:item=1874424704&perks=47981717,957782887#notes:PvP
 dimwishlist:item=1874424704&perks=968510818,1546637391#notes:PvE
