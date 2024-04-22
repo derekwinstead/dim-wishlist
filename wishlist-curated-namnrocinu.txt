@@ -7716,6 +7716,12 @@ dimwishlist:item=570866107&perks=1392496348,3978468247,3201496230#notes:PvE - Ha
 dimwishlist:item=3612338554&perks=1392496348,3978468247,3201496230#notes:PvE - Handling MW
 dimwishlist:item=570866107&perks=3978468247,3201496230#notes:PvE - Handling MW
 dimwishlist:item=3612338554&perks=3978468247,3201496230#notes:PvE - Handling MW
+dimwishlist:item=570866107&perks=666#notes:PvE Flawless - Handling MW
+dimwishlist:item=3612338554&perks=666#notes:PvE Flawless - Handling MW
+dimwishlist:item=570866107&perks=1523832109,1771339417#notes:PvE - Handling MW
+dimwishlist:item=3612338554&perks=1523832109,1771339417#notes:PvE - Handling MW
+dimwishlist:item=570866107&perks=1523832109,1546637391#notes:PvE - Handling MW
+dimwishlist:item=3612338554&perks=1523832109,1546637391#notes:PvE - Handling MW
 // Irukandji
 dimwishlist:item=2673925403&perks=1467527085,106909392,1354429876,1771339417#notes:PvE Flawless - Stability MW
 // 1000 Yard Stare
