@@ -10,6 +10,7 @@ dimwishlist:item=2533990645
 dimwishlist:item=3438139008
 dimwishlist:item=666
 // Unique and Crafted Weapons
+dimwishlist:item=3483591058&perks=1365187766,365154968#notes:PvP - Range MW
 dimwishlist:item=3782662983&perks=1523832109,365154968#notes:PvE
 dimwishlist:item=2119346509&perks=839105230,1885400500,1359896290,1365187766#notes:PvP Crafted - Range MW
 dimwishlist:item=392008588&perks=1482024992,3142289711,2450788523,2610012052#notes:PvE Crafted - Range MW
@@ -7965,6 +7966,7 @@ dimwishlist:item=1815105249&perks=3666208348,1749209109,3913600130#notes:PvE Exc
 dimwishlist:item=243425374&perks=1749209109,3913600130#notes:PvE - Impact MW
 dimwishlist:item=1815105249&perks=1749209109,3913600130#notes:PvE - Impact MW
 // Trashlist
+dimwishlist:item=-3483591058
 dimwishlist:item=-2026755633
 dimwishlist:item=-2465372924
 dimwishlist:item=-3782662983
