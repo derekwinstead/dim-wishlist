@@ -36,6 +36,9 @@ dimwishlist:item=555148853&perks=981914802,2822142346,3300816228,3194351027#note
 dimwishlist:item=3165547384&perks=951095735,2396489472#notes:PvP - Blast Radius MW
 dimwishlist:item=3165547384&perks=951095735,960810156#notes:PvP - Blast Radius MW
 dimwishlist:item=268260372&perks=1478423395,3301904089,968510818,3751912585#notes:PvE Crafted - Velocity MW
+dimwishlist:item=254636484&perks=3523296417,4104185692#notes:PvE Crafted
+dimwishlist:item=4005780578&perks=3300816228,4104185692#notes:PvE
+dimwishlist:item=1141586039&perks=3300816228,4104185692#notes:PvE
 dimwishlist:item=2595497736&perks=2713678205,3721627275,1820235745,4104185692#notes:PvE Crafted - Shield MW
 dimwishlist:item=70083888&perks=1482024992,3230963543,2848615171,2173046394#notes:PvE Crafted - Range MW
 dimwishlist:item=3055790362&perks=1482024992,1885400500,699525795,2387244414#notes:PvP Crafted - Range MW
@@ -11947,6 +11950,9 @@ dimwishlist:item=-568611923
 dimwishlist:item=-2228325504
 dimwishlist:item=-3165547384
 dimwishlist:item=-268260372
+dimwishlist:item=-254636484
+dimwishlist:item=-4005780578
+dimwishlist:item=-1141586039
 dimwishlist:item=-2595497736
 dimwishlist:item=-70083888
 dimwishlist:item=-3055790362
@@ -12217,9 +12223,6 @@ dimwishlist:item=-867154247
 dimwishlist:item=-2972949637
 dimwishlist:item=-495442100
 dimwishlist:item=-2680976411
-dimwishlist:item=-254636484
-dimwishlist:item=-4005780578
-dimwishlist:item=-1141586039
 dimwishlist:item=-1757202961
 dimwishlist:item=-2978226043
 dimwishlist:item=-2534546147
