@@ -24,9 +24,8 @@ dimwishlist:item=45643573&perks=2801223209,3429800428,201365942,3365897133#notes
 dimwishlist:item=1289796511&perks=839105230,2969185026,1645158859,3511092054#notes:PvP Crafted - Range MW
 dimwishlist:item=2481881293&perks=2405638015,689005463,1556840489,1546637391#notes:PvE Flawless - Charge MW
 dimwishlist:item=3347946548&perks=1840239774,689005463,968510818,2594592626#notes:PvE Crafted - Charge MW
-dimwishlist:item=1720503118&perks=968510818,1427256713#notes:PvE Crafted - Range MW
+dimwishlist:item=1720503118&perks=839105230,689005463,968510818,1427256713#notes:PvE Crafted - Range MW
 dimwishlist:item=768621510&perks=839105230,689005463,3523296417,3078487919#notes:PvE Crafted - Charge MW
-dimwishlist:item=2943293195&perks=3523296417,2978966579#notes:PvE - Charge MW
 dimwishlist:item=2558925366&perks=1840239774,2680121939,3643424744,2594592626#notes:PvE Crafted - Handling MW
 dimwishlist:item=1030895163&perks=3250034553,1687452232,1820235745,1427256713#notes:PvE - Range MW
 dimwishlist:item=3573686365&perks=3661387068,1687452232,3161816588,1427256713#notes:PvE - Stability MW
@@ -540,22 +539,6 @@ dimwishlist:item=253196586&perks=2405638014,1687452232,1645158859,1890422124#not
 dimwishlist:item=253196586&perks=2405638015,1687452232,1645158859,1890422124#notes:PvP Excellent - Stability MW
 dimwishlist:item=253196586&perks=13792279,1687452232,1645158859,1890422124#notes:PvP Excellent - Stability MW
 dimwishlist:item=253196586&perks=2405638014,3868766766,1645158859,1890422124#notes:PvP - Stability MW
-dimwishlist:item=253196586&perks=2405638015,3868766766,1645158859,1890422124#notes:PvP - Stability MW
-dimwishlist:item=253196586&perks=13792279,3868766766,1645158859,1890422124#notes:PvP - Stability MW
-dimwishlist:item=253196586&perks=2405638014,2969185026,1645158859,1890422124#notes:PvP - Stability MW
-dimwishlist:item=253196586&perks=2405638015,2969185026,1645158859,1890422124#notes:PvP - Stability MW
-dimwishlist:item=253196586&perks=13792279,2969185026,1645158859,1890422124#notes:PvP - Stability MW
-dimwishlist:item=253196586&perks=2405638014,689005463,1645158859,1890422124#notes:PvP - Stability MW
-dimwishlist:item=253196586&perks=2405638015,689005463,1645158859,1890422124#notes:PvP - Stability MW
-dimwishlist:item=253196586&perks=13792279,689005463,1645158859,1890422124#notes:PvP - Stability MW
-dimwishlist:item=253196586&perks=1687452232,1645158859,1890422124#notes:PvP - Stability MW
-dimwishlist:item=253196586&perks=3868766766,1645158859,1890422124#notes:PvP - Stability MW
-dimwishlist:item=253196586&perks=2969185026,1645158859,1890422124#notes:PvP - Stability MW
-dimwishlist:item=253196586&perks=689005463,1645158859,1890422124#notes:PvP - Stability MW
-dimwishlist:item=253196586&perks=2405638014,1645158859,1890422124#notes:PvP - Stability MW
-dimwishlist:item=253196586&perks=2405638015,1645158859,1890422124#notes:PvP - Stability MW
-dimwishlist:item=253196586&perks=13792279,1645158859,1890422124#notes:PvP - Stability MW
-dimwishlist:item=253196586&perks=1645158859,1890422124#notes:PvP - Stability MW
 dimwishlist:item=253196586&perks=2405638014,1687452232,1645158859,2213355989#notes:PvP Flawless - Stability MW
 dimwishlist:item=253196586&perks=2405638015,1687452232,1645158859,2213355989#notes:PvP Excellent - Stability MW
 dimwishlist:item=253196586&perks=13792279,1687452232,1645158859,2213355989#notes:PvP Excellent - Stability MW
@@ -578,53 +561,6 @@ dimwishlist:item=253196586&perks=13792279,1645158859,2213355989#notes:PvP - Stab
 dimwishlist:item=253196586&perks=1645158859,2213355989#notes:PvP - Stability MW
 // Riptide
 dimwishlist:item=2715240478&perks=839105230,689005463,3300816228,2978966579#notes:PvE Flawless - Charge MW
-dimwishlist:item=2715240478&perks=3661387068,689005463,3300816228,2978966579#notes:PvE Excellent - Charge MW
-dimwishlist:item=2715240478&perks=4090651448,689005463,3300816228,2978966579#notes:PvE Excellent - Charge MW
-dimwishlist:item=2715240478&perks=1467527085,689005463,3300816228,2978966579#notes:PvE Excellent - Charge MW
-dimwishlist:item=2715240478&perks=3250034553,689005463,3300816228,2978966579#notes:PvE Excellent - Charge MW
-dimwishlist:item=2715240478&perks=202670084,689005463,3300816228,2978966579#notes:PvE Excellent - Charge MW
-dimwishlist:item=2715240478&perks=1840239774,689005463,3300816228,2978966579#notes:PvE Excellent - Charge MW
-dimwishlist:item=2715240478&perks=839105230,2680121939,3300816228,2978966579#notes:PvE Excellent - Charge MW
-dimwishlist:item=2715240478&perks=3661387068,2680121939,3300816228,2978966579#notes:PvE Excellent - Charge MW
-dimwishlist:item=2715240478&perks=4090651448,2680121939,3300816228,2978966579#notes:PvE Excellent - Charge MW
-dimwishlist:item=2715240478&perks=1467527085,2680121939,3300816228,2978966579#notes:PvE Excellent - Charge MW
-dimwishlist:item=2715240478&perks=3250034553,2680121939,3300816228,2978966579#notes:PvE Excellent - Charge MW
-dimwishlist:item=2715240478&perks=202670084,2680121939,3300816228,2978966579#notes:PvE Excellent - Charge MW
-dimwishlist:item=2715240478&perks=1840239774,2680121939,3300816228,2978966579#notes:PvE Excellent - Charge MW
-dimwishlist:item=2715240478&perks=839105230,1687452232,3300816228,2978966579#notes:PvE Excellent - Charge MW
-dimwishlist:item=2715240478&perks=3661387068,1687452232,3300816228,2978966579#notes:PvE Excellent - Charge MW
-dimwishlist:item=2715240478&perks=4090651448,1687452232,3300816228,2978966579#notes:PvE Excellent - Charge MW
-dimwishlist:item=2715240478&perks=1467527085,1687452232,3300816228,2978966579#notes:PvE Excellent - Charge MW
-dimwishlist:item=2715240478&perks=3250034553,1687452232,3300816228,2978966579#notes:PvE Excellent - Charge MW
-dimwishlist:item=2715240478&perks=202670084,1687452232,3300816228,2978966579#notes:PvE Excellent - Charge MW
-dimwishlist:item=2715240478&perks=1840239774,1687452232,3300816228,2978966579#notes:PvE Excellent - Charge MW
-dimwishlist:item=2715240478&perks=839105230,1483536627,3300816228,2978966579#notes:PvE - Charge MW
-dimwishlist:item=2715240478&perks=3661387068,1483536627,3300816228,2978966579#notes:PvE - Charge MW
-dimwishlist:item=2715240478&perks=4090651448,1483536627,3300816228,2978966579#notes:PvE - Charge MW
-dimwishlist:item=2715240478&perks=1467527085,1483536627,3300816228,2978966579#notes:PvE - Charge MW
-dimwishlist:item=2715240478&perks=3250034553,1483536627,3300816228,2978966579#notes:PvE - Charge MW
-dimwishlist:item=2715240478&perks=202670084,1483536627,3300816228,2978966579#notes:PvE - Charge MW
-dimwishlist:item=2715240478&perks=1840239774,1483536627,3300816228,2978966579#notes:PvE - Charge MW
-dimwishlist:item=2715240478&perks=839105230,3868766766,3300816228,2978966579#notes:PvE - Charge MW
-dimwishlist:item=2715240478&perks=3661387068,3868766766,3300816228,2978966579#notes:PvE - Charge MW
-dimwishlist:item=2715240478&perks=4090651448,3868766766,3300816228,2978966579#notes:PvE - Charge MW
-dimwishlist:item=2715240478&perks=1467527085,3868766766,3300816228,2978966579#notes:PvE - Charge MW
-dimwishlist:item=2715240478&perks=3250034553,3868766766,3300816228,2978966579#notes:PvE - Charge MW
-dimwishlist:item=2715240478&perks=202670084,3868766766,3300816228,2978966579#notes:PvE - Charge MW
-dimwishlist:item=2715240478&perks=1840239774,3868766766,3300816228,2978966579#notes:PvE - Charge MW
-dimwishlist:item=2715240478&perks=689005463,3300816228,2978966579#notes:PvE - Charge MW
-dimwishlist:item=2715240478&perks=2680121939,3300816228,2978966579#notes:PvE - Charge MW
-dimwishlist:item=2715240478&perks=1687452232,3300816228,2978966579#notes:PvE - Charge MW
-dimwishlist:item=2715240478&perks=1483536627,3300816228,2978966579#notes:PvE - Charge MW
-dimwishlist:item=2715240478&perks=3868766766,3300816228,2978966579#notes:PvE - Charge MW
-dimwishlist:item=2715240478&perks=839105230,3300816228,2978966579#notes:PvE - Charge MW
-dimwishlist:item=2715240478&perks=3661387068,3300816228,2978966579#notes:PvE - Charge MW
-dimwishlist:item=2715240478&perks=4090651448,3300816228,2978966579#notes:PvE - Charge MW
-dimwishlist:item=2715240478&perks=1467527085,3300816228,2978966579#notes:PvE - Charge MW
-dimwishlist:item=2715240478&perks=3250034553,3300816228,2978966579#notes:PvE - Charge MW
-dimwishlist:item=2715240478&perks=202670084,3300816228,2978966579#notes:PvE - Charge MW
-dimwishlist:item=2715240478&perks=1840239774,3300816228,2978966579#notes:PvE - Charge MW
-dimwishlist:item=2715240478&perks=3300816228,2978966579#notes:PvE - Charge MW
 // Glacioclasm
 dimwishlist:item=2728851518&perks=1840239774,2680121939,3643424744,1427256713#notes:PvE Flawless - Charge MW
 dimwishlist:item=2728851518&perks=4090651448,2680121939,3643424744,1427256713#notes:PvE - Charge MW
@@ -638,18 +574,6 @@ dimwishlist:item=2728851518&perks=1840239774,2680121939,1820235745,1427256713#no
 dimwishlist:item=2728851518&perks=4090651448,2680121939,1820235745,1427256713#notes:PvE - Charge MW
 dimwishlist:item=2728851518&perks=839105230,2680121939,1820235745,1427256713#notes:PvE - Charge MW
 dimwishlist:item=2728851518&perks=1820235745,1427256713#notes:PvE - Charge MW
-dimwishlist:item=2728851518&perks=1840239774,2680121939,776531651,2594592626#notes:PvE Flawless - Charge MW
-dimwishlist:item=2728851518&perks=4090651448,2680121939,776531651,2594592626#notes:PvE - Charge MW
-dimwishlist:item=2728851518&perks=839105230,2680121939,776531651,2594592626#notes:PvE - Charge MW
-dimwishlist:item=2728851518&perks=776531651,2594592626#notes:PvE - Charge MW
-dimwishlist:item=2728851518&perks=202670084,2969185026,1570042021,2652708987#notes:PvP Flawless - Range MW
-dimwishlist:item=2728851518&perks=3250034553,2969185026,1570042021,2652708987#notes:PvP - Charge MW
-dimwishlist:item=2728851518&perks=1467527085,2969185026,1570042021,2652708987#notes:PvP - Charge MW
-dimwishlist:item=2728851518&perks=1570042021,2652708987#notes:PvP - Charge MW
-dimwishlist:item=2728851518&perks=202670084,2969185026,1645158859,2652708987#notes:PvP Flawless - Charge MW
-dimwishlist:item=2728851518&perks=3250034553,2969185026,1645158859,2652708987#notes:PvP - Charge MW
-dimwishlist:item=2728851518&perks=1467527085,2969185026,1645158859,2652708987#notes:PvP - Charge MW
-dimwishlist:item=2728851518&perks=1645158859,2652708987#notes:PvP - Charge MW
 // Forbearance
 dimwishlist:item=2480074702&perks=3525010810,2822142346,3523296417,4049631843#notes:PvE Flawless - Reload MW
 dimwishlist:item=568611921&perks=3525010810,2822142346,3523296417,4049631843#notes:PvE Flawless - Reload MW
@@ -12195,12 +12119,10 @@ dimwishlist:item=-3388655311
 dimwishlist:item=-45643573
 dimwishlist:item=-1289796511
 dimwishlist:item=-253196586
-dimwishlist:item=-3591141932
 dimwishlist:item=-2481881293
 dimwishlist:item=-3347946548
 dimwishlist:item=-1720503118
 dimwishlist:item=-768621510
-dimwishlist:item=-2943293195
 dimwishlist:item=-2715240478
 dimwishlist:item=-2558925366
 dimwishlist:item=-1030895163
@@ -12439,6 +12361,7 @@ dimwishlist:item=-3969066556
 dimwishlist:item=-3904516037
 dimwishlist:item=-1289000550
 dimwishlist:item=-534775659
+dimwishlist:item=-3591141932
 dimwishlist:item=-4094657108
 dimwishlist:item=-1999697514
 dimwishlist:item=-2290416
@@ -12449,6 +12372,7 @@ dimwishlist:item=-3258665412
 dimwishlist:item=-963710795
 dimwishlist:item=-933455006
 dimwishlist:item=-2002522739
+dimwishlist:item=-2943293195
 dimwishlist:item=-2767393525
 dimwishlist:item=-1084190509
 dimwishlist:item=-3512349612
