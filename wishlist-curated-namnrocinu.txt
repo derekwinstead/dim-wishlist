@@ -1,6 +1,4 @@
 title: Nam's Curated Rolls
-dimwishlist:item=2763843899
-dimwishlist:item=3757612024
 dimwishlist:item=1896309757
 dimwishlist:item=211732170
 dimwishlist:item=2372514508
@@ -2840,6 +2838,9 @@ dimwishlist:item=2314610827&perks=839105230,247725512,47981717#notes:PvP - Range
 dimwishlist:item=1973107014&perks=839105230,247725512,47981717#notes:PvP - Range MW
 dimwishlist:item=2314610827&perks=247725512,47981717#notes:PvP - Range MW
 dimwishlist:item=1973107014&perks=247725512,47981717#notes:PvP - Range MW
+// Lunas Howl
+dimwishlist:item=3757612024#notes:
+dimwishlist:item=2763843899#notes:
 // Eyasluna
 dimwishlist:item=235827225&perks=1926090095,1885400500,2846385770,124408337#notes:PvE Flawless - Stability MW
 dimwishlist:item=235827225&perks=1926090094,1885400500,2846385770,124408337#notes:PvE Excellent - Stability MW
