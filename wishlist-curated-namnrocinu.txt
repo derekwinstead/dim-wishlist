@@ -1,6 +1,4 @@
 title: Nam's Curated Rolls
-dimwishlist:item=2372514508
-dimwishlist:item=2533990645
 dimwishlist:item=3438139008
 dimwishlist:item=666
 // Unique and Crafted Weapons
@@ -88,8 +86,6 @@ dimwishlist:item=1298815317&perks=839105230,106909392,4071163871,2173046394#note
 dimwishlist:item=3166250992&perks=247725512,4104185692#notes:PvE - Range MW
 dimwishlist:item=1916287826&perks=4071163871,4104185692#notes:PvE - Range MW
 dimwishlist:item=502356570&perks=3250034553,3142289711,588594999,4082225868#notes:PvP Crafted - Range MW
-dimwishlist:item=3998080529&perks=3523296417,4104185692#notes:PvE - Range MW
-dimwishlist:item=3998080529&perks=3017780555,4104185692#notes:PvE
 dimwishlist:item=231031173&perks=839105230,1885400500,3418782618,4104185692#notes:PvE Crafted - Range MW
 dimwishlist:item=2149683300&perks=202670084,1140096971,4071163871,2173046394#notes:PvE Crafted - Range MW
 dimwishlist:item=2149683300&perks=202670084,1140096971,2450788523,2846385770#notes:PvP Crafted - Range MW
@@ -3838,6 +3834,9 @@ dimwishlist:item=2099894368&perks=1482024992,106909392,1428297954,3891536761#not
 dimwishlist:item=2099894368&perks=1840239774,106909392,1428297954,3891536761#notes:PvE Excellent - Handling MW
 dimwishlist:item=2099894368&perks=3250034553,106909392,1428297954,3891536761#notes:PvE Excellent - Handling MW
 dimwishlist:item=2099894368&perks=839105230,3142289711,1428297954,3891536761#notes:PvE - Handling MW
+// Blast Furnace
+dimwishlist:item=2533990645#notes:
+dimwishlist:item=2372514508#notes:
 // Messenger
 dimwishlist:item=364665267&perks=839105230,1885400500,247725512,460017080#notes:PvP Flawless - Range MW
 dimwishlist:item=3796795102&perks=839105230,1885400500,247725512,460017080#notes:PvP Flawless - Range MW
@@ -5214,6 +5213,9 @@ dimwishlist:item=3138208275&perks=1392496348,1968497646,124408337,1015611457#not
 dimwishlist:item=3138208275&perks=839105230,1968497646,124408337,1015611457#notes:PvE - Range MW
 dimwishlist:item=3138208275&perks=3250034553,1968497646,124408337,1015611457#notes:PvE - Range MW
 dimwishlist:item=3138208275&perks=3661387068,1087426260,124408337,1015611457#notes:PvE - Range MW
+// Heliocentric QSC
+dimwishlist:item=3998080529&perks=3523296417,4104185692#notes:PvE - Range MW
+dimwishlist:item=3998080529&perks=3017780555,4104185692#notes:PvE - Range MW
 // Peacebond
 dimwishlist:item=829330711&perks=1482024992,3142289711,2846385770,124408337#notes:PvP Flawless - Range MW
 dimwishlist:item=829330711&perks=3250034553,3142289711,2846385770,124408337#notes:PvP Excellent - Range MW
