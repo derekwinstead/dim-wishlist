@@ -1,5 +1,4 @@
 title: Nam's Curated Rolls
-dimwishlist:item=3438139008
 dimwishlist:item=666
 // Unique and Crafted Weapons
 dimwishlist:item=3483591058&perks=1365187766,365154968#notes:PvP - Range MW
@@ -4263,70 +4262,6 @@ dimwishlist:item=211732170&perks=1467527085,1431678320,3418782618,365154968#note
 dimwishlist:item=1896309757&perks=1467527085,1431678320,3418782618,365154968#notes:PvE - Reload MW
 dimwishlist:item=211732170&perks=3250034553,1431678320,3418782618,365154968#notes:PvE - Reload MW
 dimwishlist:item=1896309757&perks=3250034553,1431678320,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=211732170&perks=839105230,3230963543,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=1896309757&perks=839105230,3230963543,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=211732170&perks=3661387068,3230963543,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=1896309757&perks=3661387068,3230963543,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=211732170&perks=4090651448,3230963543,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=1896309757&perks=4090651448,3230963543,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=211732170&perks=1840239774,3230963543,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=1896309757&perks=1840239774,3230963543,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=211732170&perks=1467527085,3230963543,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=1896309757&perks=1467527085,3230963543,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=211732170&perks=3250034553,3230963543,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=1896309757&perks=3250034553,3230963543,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=211732170&perks=839105230,1561002382,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=1896309757&perks=839105230,1561002382,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=211732170&perks=3661387068,1561002382,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=1896309757&perks=3661387068,1561002382,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=211732170&perks=4090651448,1561002382,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=1896309757&perks=4090651448,1561002382,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=211732170&perks=1840239774,1561002382,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=1896309757&perks=1840239774,1561002382,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=211732170&perks=1467527085,1561002382,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=1896309757&perks=1467527085,1561002382,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=211732170&perks=3250034553,1561002382,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=1896309757&perks=3250034553,1561002382,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=211732170&perks=839105230,1968497646,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=1896309757&perks=839105230,1968497646,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=211732170&perks=3661387068,1968497646,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=1896309757&perks=3661387068,1968497646,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=211732170&perks=4090651448,1968497646,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=1896309757&perks=4090651448,1968497646,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=211732170&perks=1840239774,1968497646,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=1896309757&perks=1840239774,1968497646,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=211732170&perks=1467527085,1968497646,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=1896309757&perks=1467527085,1968497646,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=211732170&perks=3250034553,1968497646,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=1896309757&perks=3250034553,1968497646,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=211732170&perks=2420895100,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=1896309757&perks=2420895100,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=211732170&perks=1087426260,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=1896309757&perks=1087426260,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=211732170&perks=1885400500,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=1896309757&perks=1885400500,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=211732170&perks=1431678320,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=1896309757&perks=1431678320,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=211732170&perks=3230963543,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=1896309757&perks=3230963543,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=211732170&perks=1561002382,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=1896309757&perks=1561002382,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=211732170&perks=1968497646,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=1896309757&perks=1968497646,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=211732170&perks=839105230,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=1896309757&perks=839105230,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=211732170&perks=3661387068,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=1896309757&perks=3661387068,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=211732170&perks=4090651448,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=1896309757&perks=4090651448,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=211732170&perks=1840239774,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=1896309757&perks=1840239774,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=211732170&perks=1467527085,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=1896309757&perks=1467527085,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=211732170&perks=3250034553,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=1896309757&perks=3250034553,3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=211732170&perks=3418782618,365154968#notes:PvE - Reload MW
-dimwishlist:item=1896309757&perks=3418782618,365154968#notes:PvE - Reload MW
 // Battle Scar
 dimwishlist:item=2099894368&perks=839105230,106909392,3700496672,3891536761#notes:PvE Flawless - Handling MW
 dimwishlist:item=2099894368&perks=3661387068,106909392,3700496672,3891536761#notes:PvE Excellent - Handling MW
@@ -8599,7 +8534,6 @@ dimwishlist:item=-3371413059
 dimwishlist:item=-2889501828
 dimwishlist:item=-1354727549
 dimwishlist:item=-1911078836
-dimwishlist:item=-3438139008
 dimwishlist:item=-3371413056
 dimwishlist:item=-614426548
 dimwishlist:item=-1815105249
@@ -9055,6 +8989,7 @@ dimwishlist:item=-3400256755
 dimwishlist:item=-396910433
 dimwishlist:item=-3668817296
 dimwishlist:item=-4066778670
+dimwishlist:item=-3438139008
 dimwishlist:item=-2782325302
 dimwishlist:item=-105164264
 dimwishlist:item=-2782325300
