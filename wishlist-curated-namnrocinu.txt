@@ -1138,11 +1138,6 @@ dimwishlist:item=4255586669&perks=3032599245,3300816228,3523296417#notes:PvE - H
 // Tusk of the Boar
 dimwishlist:item=1218113510&perks=3525010810,2822142346,923806249,2396489472#notes:PvE Flawless - Handling MW
 dimwishlist:item=1218113510&perks=3809316345,2822142346,923806249,2396489472#notes:PvE Excellent - Handling MW
-dimwishlist:item=1218113510&perks=3798852852,2822142346,923806249,2396489472#notes:PvE Excellent - Handling MW
-dimwishlist:item=1218113510&perks=981914802,2822142346,923806249,2396489472#notes:PvE Excellent - Handling MW
-dimwishlist:item=1218113510&perks=1478423395,2822142346,923806249,2396489472#notes:PvE Excellent - Handling MW
-dimwishlist:item=1218113510&perks=1441682018,2822142346,923806249,2396489472#notes:PvE Excellent - Handling MW
-dimwishlist:item=1218113510&perks=2822142346,923806249,2396489472#notes:PvE - Handling MW
 dimwishlist:item=1218113510&perks=3525010810,2822142346,968510818,2396489472#notes:PvE Flawless - Handling MW
 dimwishlist:item=1218113510&perks=3809316345,2822142346,968510818,2396489472#notes:PvE Excellent - Handling MW
 dimwishlist:item=1218113510&perks=3798852852,2822142346,968510818,2396489472#notes:PvE Excellent - Handling MW
