@@ -105,7 +105,7 @@ dimwishlist:item=3107853529&perks=1840239774,1885400500,957782887,588594999#note
 dimwishlist:item=2807687156&perks=2284787283,1771339417#notes:PvE - Range MW
 dimwishlist:item=2807687156&perks=1556840489,1771339417#notes:PvE - Range MW
 dimwishlist:item=2302346155&perks=1354429876,2896038713#notes:PvE - Range MW
-dimwishlist:item=1983149589&perks=3661387068,3177308360,2869569095,990298390#notes:PvE Crafted - Stability MW
+dimwishlist:item=1983149589&perks=3661387068,3177308360,777589559,990298390#notes:PvE Crafted - Stability MW
 dimwishlist:item=3366545721&perks=436053704,52780822,1749209109,3708227201#notes:PvE Crafted - Impact MW
 dimwishlist:item=3366545721&perks=436053704,52780822,1749209109,1546637391#notes:PvE Crafted - Impact MW
 dimwishlist:item=3371413057&perks=3666208348,269888150,1749209109,3913600130#notes:PvE Crafted - Impact MW
