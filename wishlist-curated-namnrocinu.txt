@@ -1190,14 +1190,6 @@ dimwishlist:item=2738601016&perks=1478423395,2985827016,968510818,3078487919#not
 // Edge Transit
 dimwishlist:item=2228325504&perks=981914802,3301904089,968510818,3078487919#notes:PvE Flawless - Velocity MW
 dimwishlist:item=568611923&perks=981914802,3301904089,968510818,3078487919#notes:PvE Flawless - Velocity MW
-dimwishlist:item=2228325504&perks=3525010810,3301904089,968510818,3078487919#notes:PvE Excellent - Velocity MW
-dimwishlist:item=568611923&perks=3525010810,3301904089,968510818,3078487919#notes:PvE Excellent - Velocity MW
-dimwishlist:item=2228325504&perks=3809316345,3301904089,968510818,3078487919#notes:PvE Excellent - Velocity MW
-dimwishlist:item=568611923&perks=3809316345,3301904089,968510818,3078487919#notes:PvE Excellent - Velocity MW
-dimwishlist:item=2228325504&perks=3798852852,3301904089,968510818,3078487919#notes:PvE Excellent - Velocity MW
-dimwishlist:item=568611923&perks=3798852852,3301904089,968510818,3078487919#notes:PvE Excellent - Velocity MW
-dimwishlist:item=2228325504&perks=1441682018,3301904089,968510818,3078487919#notes:PvE Excellent - Velocity MW
-dimwishlist:item=568611923&perks=1441682018,3301904089,968510818,3078487919#notes:PvE Excellent - Velocity MW
 dimwishlist:item=2228325504&perks=981914802,3301904089,968510818,3194351027#notes:PvE Flawless - Velocity MW
 dimwishlist:item=568611923&perks=981914802,3301904089,968510818,3194351027#notes:PvE Flawless - Velocity MW
 dimwishlist:item=2228325504&perks=3525010810,3301904089,968510818,3194351027#notes:PvE Excellent - Velocity MW
