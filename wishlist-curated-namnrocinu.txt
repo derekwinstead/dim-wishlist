@@ -169,12 +169,6 @@ dimwishlist:item=1916287826&perks=4071163871,4104185692#notes:PvE - Range MW
 dimwishlist:item=502356570&perks=3250034553,3142289711,588594999,4082225868#notes:PvP Crafted - Range MW
 dimwishlist:item=231031173&perks=839105230,1885400500,3418782618,4104185692#notes:PvE Crafted - Range MW
 dimwishlist:item=3947966653&perks=1820235745,4049631843#notes:PvE - Reload MW
-dimwishlist:item=3947966653&perks=1820235745,2109543898#notes:PvE - Reload MW
-dimwishlist:item=3947966653&perks=3523296417,2610012052#notes:PvE - Reload MW
-dimwishlist:item=3947966653&perks=3523296417,831391274#notes:PvE - Reload MW
-dimwishlist:item=3947966653&perks=923806249,4049631843#notes:PvE - Reload MW
-dimwishlist:item=3947966653&perks=923806249,2109543898#notes:PvE - Reload MW
-dimwishlist:item=3947966653&perks=1583705720,4049631843#notes:PvE - Reload MW
 dimwishlist:item=2149683300&perks=202670084,1140096971,4071163871,2173046394#notes:PvE Crafted - Range MW
 dimwishlist:item=1447836603&perks=3250034553,3230963543,4071163871,2173046394#notes:PvE Crafted - Reload MW
 dimwishlist:item=3717177717&perks=663495154,3142289711,1359896290,1015611457#notes:PvP Flawless - Range MW
