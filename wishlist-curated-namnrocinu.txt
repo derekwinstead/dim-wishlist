@@ -3783,7 +3783,7 @@ dimwishlist:item=3652506829&perks=666#notes:PvE Flawless - Charge MW
 dimwishlist:item=3652506829&perks=1771339417#notes:PvE - Charge MW
 dimwishlist:item=3652506829&perks=666#notes:PvE Flawless - Charge MW
 dimwishlist:item=3652506829&perks=3250034553,689005463,247725512,1546637391#notes:PvE - Charge MW
-// Unwavering Duty S20
+// Unwavering Duty
 dimwishlist:item=3444632029&perks=839105230,1885400500,3300816228,4293542123#notes:PvE Flawless - Handling MW
 dimwishlist:item=906840740&perks=839105230,1885400500,3300816228,4293542123#notes:PvE Flawless - Handling MW
 dimwishlist:item=3444632029&perks=3661387068,1885400500,3300816228,4293542123#notes:PvE Excellent - Handling MW
