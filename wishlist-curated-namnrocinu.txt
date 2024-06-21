@@ -9637,10 +9637,38 @@ dimwishlist:item=2673925403&perks=1467527085,106909392,1354429876,1771339417#not
 // 1000 Yard Stare
 dimwishlist:item=4164201232&perks=839105230,3142289711,706527188,957782887#notes:PvP Flawless - Range MW
 // Ergo Sum
-dimwishlist:item=1681583613&perks=1522566605#notes:
-dimwishlist:item=1681583613&perks=1959135343#notes:
-dimwishlist:item=1681583613&perks=519046634#notes:
-dimwishlist:item=1681583613#notes:
+dimwishlist:item=1681583613&perks=666#notes:PvE Flawless
+dimwishlist:item=1681583613&perks=666#notes:PvE Flawless
+dimwishlist:item=1681583613&perks=3666208348,269888150,519046634#notes:PvE Flawless
+dimwishlist:item=1681583613&perks=2827049491,269888150,519046634#notes:PvE Excellent
+dimwishlist:item=1681583613&perks=436053704,269888150,519046634#notes:PvE Excellent
+dimwishlist:item=1681583613&perks=3666208348,519046634#notes:PvE
+dimwishlist:item=1681583613&perks=2827049491,519046634#notes:PvE
+dimwishlist:item=1681583613&perks=436053704,519046634#notes:PvE
+dimwishlist:item=1681583613&perks=269888150,519046634#notes:PvE
+dimwishlist:item=1681583613&perks=269888150,519046634#notes:PvE
+dimwishlist:item=1681583613&perks=269888150,519046634#notes:PvE
+dimwishlist:item=1681583613&perks=519046634#notes:PvE
+dimwishlist:item=1681583613&perks=3666208348,269888150,289811733#notes:PvE Flawless
+dimwishlist:item=1681583613&perks=2827049491,269888150,289811733#notes:PvE Excellent
+dimwishlist:item=1681583613&perks=436053704,269888150,289811733#notes:PvE Excellent
+dimwishlist:item=1681583613&perks=3666208348,289811733#notes:PvE
+dimwishlist:item=1681583613&perks=2827049491,289811733#notes:PvE
+dimwishlist:item=1681583613&perks=436053704,289811733#notes:PvE
+dimwishlist:item=1681583613&perks=269888150,289811733#notes:PvE
+dimwishlist:item=1681583613&perks=269888150,289811733#notes:PvE
+dimwishlist:item=1681583613&perks=269888150,289811733#notes:PvE
+dimwishlist:item=1681583613&perks=289811733#notes:PvE
+dimwishlist:item=1681583613&perks=3666208348,269888150,2753228730#notes:PvE Flawless
+dimwishlist:item=1681583613&perks=2827049491,269888150,2753228730#notes:PvE Excellent
+dimwishlist:item=1681583613&perks=436053704,269888150,2753228730#notes:PvE Excellent
+dimwishlist:item=1681583613&perks=3666208348,2753228730#notes:PvE
+dimwishlist:item=1681583613&perks=2827049491,2753228730#notes:PvE
+dimwishlist:item=1681583613&perks=436053704,2753228730#notes:PvE
+dimwishlist:item=1681583613&perks=269888150,2753228730#notes:PvE
+dimwishlist:item=1681583613&perks=269888150,2753228730#notes:PvE
+dimwishlist:item=1681583613&perks=269888150,2753228730#notes:PvE
+dimwishlist:item=1681583613&perks=2753228730#notes:PvE
 // Slammer
 dimwishlist:item=1354727549&perks=3666208348,269888150,2077819806,3650930298#notes:PvE Flawless - Impact MW
 dimwishlist:item=2889501828&perks=3666208348,269888150,2077819806,3650930298#notes:PvE Flawless - Impact MW
@@ -10015,6 +10043,8 @@ dimwishlist:item=-3366545721
 dimwishlist:item=-3371413057
 dimwishlist:item=-3569407878
 dimwishlist:item=-2001697739
+dimwishlist:item=-1681583613
+dimwishlist:item=-1681583613
 dimwishlist:item=-1681583613
 dimwishlist:item=-3371413059
 dimwishlist:item=-3794274730
