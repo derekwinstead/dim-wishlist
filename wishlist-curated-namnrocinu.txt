@@ -9775,6 +9775,41 @@ dimwishlist:item=243425374&perks=3666208348,269888150,1749209109,3913600130#note
 dimwishlist:item=1815105249&perks=3666208348,269888150,1749209109,3913600130#notes:PvE Flawless - Impact MW
 dimwishlist:item=243425374&perks=3666208348,1749209109,3913600130#notes:PvE Excellent - Impact MW
 dimwishlist:item=1815105249&perks=3666208348,1749209109,3913600130#notes:PvE Excellent - Impact MW
+// Hunter - Relativism
+dimwishlist:item=2809120022&perks=3751917996,3751917992#notes:PvE
+dimwishlist:item=2809120022&perks=3751917996,1476923956#notes:PvE
+dimwishlist:item=2809120022&perks=3751917996,1476923955#notes:PvE
+dimwishlist:item=2809120022&perks=3751917996,1476923957#notes:PvE
+dimwishlist:item=2809120022&perks=3751917998,3751917992#notes:PvE
+dimwishlist:item=2809120022&perks=3751917998,1476923956#notes:PvE
+dimwishlist:item=2809120022&perks=3751917998,1476923957#notes:PvE
+dimwishlist:item=2809120022&perks=3751917998,1476923955#notes:PvE
+dimwishlist:item=2809120022&perks=1476923953,1476923957#notes:PvE
+dimwishlist:item=2809120022&perks=1476923953,1476923956#notes:PvE
+dimwishlist:item=2809120022&perks=3751917995,1476923956#notes:PvE
+dimwishlist:item=2809120022&perks=3751917995,3751917992#notes:PvE
+dimwishlist:item=2809120022&perks=3751917995,3751917994#notes:PvE
+dimwishlist:item=2809120022&perks=1476923953,3751917994#notes:PvE
+// Titan - Stoicism
+dimwishlist:item=266021826&perks=1476923953,1476923956#notes:PvE
+dimwishlist:item=266021826&perks=1476923953,1476923955#notes:PvE
+dimwishlist:item=266021826&perks=3573490510,1476923955#notes:PvE
+dimwishlist:item=266021826&perks=3573490510,1476923956#notes:PvE
+dimwishlist:item=266021826&perks=3573490510,3573490504#notes:PvE
+dimwishlist:item=266021826&perks=3573490510,3573490507#notes:PvE
+dimwishlist:item=266021826&perks=1476923953,3573490507#notes:PvE
+dimwishlist:item=266021826&perks=1476923953,3573490504#notes:PvE
+// Warlock - Solipsism
+dimwishlist:item=2273643087&perks=1476923952,1476923956#notes:PvE
+dimwishlist:item=2273643087&perks=1476923953,183430254#notes:PvE
+dimwishlist:item=2273643087&perks=1476923953,1476923955#notes:PvE
+dimwishlist:item=2273643087&perks=1476923953,1476923956#notes:PvE
+dimwishlist:item=2273643087&perks=1476923953,1476923957#notes:PvE
+dimwishlist:item=2273643087&perks=183430253,183430254#notes:PvE
+dimwishlist:item=2273643087&perks=183430253,1476923955#notes:PvE
+dimwishlist:item=2273643087&perks=183430253,1476923957#notes:PvE
+dimwishlist:item=2273643087&perks=1476923952,1476923957#notes:PvE
+dimwishlist:item=2273643087&perks=183430253,1476923956#notes:PvE
 // Trashlist
 dimwishlist:item=-3483591058
 dimwishlist:item=-2322926844
@@ -10043,6 +10078,9 @@ dimwishlist:item=-1711056134
 dimwishlist:item=-2839600459
 dimwishlist:item=-1886840007
 dimwishlist:item=-548958835
+dimwishlist:item=-2809120022
+dimwishlist:item=-266021826
+dimwishlist:item=-2273643087
 dimwishlist:item=-666
 dimwishlist:item=-2723909519
 dimwishlist:item=-927567426
