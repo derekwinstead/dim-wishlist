@@ -2,7 +2,6 @@ title: Nam's Curated Rolls
 dimwishlist:item=2322926844
 dimwishlist:item=1056103557
 dimwishlist:item=2826850739
-dimwishlist:item=3428407746
 dimwishlist:item=3754408118
 dimwishlist:item=3465233192
 dimwishlist:item=2932922810
@@ -36,6 +35,8 @@ dimwishlist:item=3782662983&perks=839105230,1885400500,1523832109,365154968#note
 dimwishlist:item=2119346509&perks=839105230,1885400500,1359896290,1365187766#notes:PvP Crafted - Range MW
 dimwishlist:item=2189073092&perks=4090651448,1561002382,923806249,365154968#notes:PvE - Range MW
 dimwishlist:item=2189073092&perks=1482024992,1885400500,923806249,95528736#notes:PvE Excellent - Range MW
+dimwishlist:item=3428407746&perks=923806249,365154968#notes:PvE - Range MW
+dimwishlist:item=3428407746&perks=923806249,95528736#notes:PvE - Range MW
 dimwishlist:item=392008588&perks=1482024992,3142289711,2450788523,2610012052#notes:PvE Crafted - Range MW
 dimwishlist:item=484515708&perks=839105230,1561002382,3523296417,4104185692#notes:PvE Crafted - Range MW
 dimwishlist:item=342514437&perks=3523296417,4104185692#notes:PvE Crafted - Range MW
