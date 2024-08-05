@@ -83,6 +83,10 @@ dimwishlist:item=859869931&perks=3017780555,4293542123#notes:PvE Crafted
 dimwishlist:item=859869931&perks=3017780555,4293542123#notes:PvE Crafted
 dimwishlist:item=859869931&perks=3824105627,3640170453#notes:PvE Crafted
 dimwishlist:item=859869931&perks=3824105627,3640170453#notes:PvE Crafted
+dimwishlist:item=892183998&perks=3017780555,4293542123#notes:PvE
+dimwishlist:item=892183998&perks=3017780555,4293542123#notes:PvE
+dimwishlist:item=892183998&perks=3824105627,3640170453#notes:PvE
+dimwishlist:item=892183998&perks=3824105627,3640170453#notes:PvE
 dimwishlist:item=1891321753&perks=3828510309,1870851715#notes:PvE - Range MW
 dimwishlist:item=1505862304&perks=460017080,1015611457#notes:PvP - Stability MW
 dimwishlist:item=1505862304&perks=460017080,2387244414#notes:PvP - Stability MW
