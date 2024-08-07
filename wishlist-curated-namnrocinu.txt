@@ -73,11 +73,7 @@ dimwishlist:item=3407395594&perks=3523296417,3824105627#notes:PvE - Stability MW
 dimwishlist:item=2993554824&perks=839105230,3230963543,3017780555,4293542123#notes:PvE Crafted - Reload MW
 dimwishlist:item=2708806099&perks=839105230,1885400500,3523296417,4293542123#notes:PvE Crafted - Stability MW
 dimwishlist:item=2708806099&perks=839105230,1885400500,1428297954,1015611457#notes:PvP Crafted - Range MW
-dimwishlist:item=859869931&perks=3017780555,4293542123#notes:PvE Crafted
-dimwishlist:item=859869931&perks=3017780555,3640170453#notes:PvE Crafted
-dimwishlist:item=859869931&perks=3824105627,4293542123#notes:PvE Crafted
-dimwishlist:item=859869931&perks=3824105627,3640170453#notes:PvE Crafted
-dimwishlist:item=892183998&perks=3017780555,4293542123#notes:PvE
+dimwishlist:item=892183998&perks=839105230,3230963543,3017780555,4293542123#notes:PvE Crafted - Reload MW
 dimwishlist:item=892183998&perks=3017780555,3640170453#notes:PvE
 dimwishlist:item=892183998&perks=3824105627,4293542123#notes:PvE
 dimwishlist:item=892183998&perks=3824105627,3640170453#notes:PvE
