@@ -2358,6 +2358,8 @@ dimwishlist:item=3250744600&perks=1840239774,1354429876,1546637391#notes:PvE - R
 dimwishlist:item=2152484073&perks=1840239774,1354429876,1546637391#notes:PvE - Range MW
 dimwishlist:item=3250744600&perks=1354429876,1546637391#notes:PvE - Range MW
 dimwishlist:item=2152484073&perks=1354429876,1546637391#notes:PvE - Range MW
+dimwishlist:item=3250744600&perks=1354429876#notes:PvE - Range MW
+dimwishlist:item=2152484073&perks=1354429876#notes:PvE - Range MW
 // Igneous Hammer
 dimwishlist:item=2314610827&perks=1482024992,1885400500,3619207468,699525795#notes:PvP Flawless - Range MW
 dimwishlist:item=1973107014&perks=1482024992,1885400500,3619207468,699525795#notes:PvP Flawless - Range MW
