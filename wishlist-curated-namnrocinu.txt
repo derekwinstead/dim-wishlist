@@ -151,6 +151,7 @@ dimwishlist:item=1911078836&perks=1749209109,3650930298#notes:PvE - Impact MW
 dimwishlist:item=3371413056&perks=3666208348,2363751990,1749209109,3913600130#notes:PvE Crafted - Impact MW
 dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3913600130#notes:PvE Flawless - Impact MW
 dimwishlist:item=243425374&perks=1261178282,2349202967,1749209109,3913600130#notes:Curated - Impact MW
+dimwishlist:item=3637669759&perks=1261178282,269888150,1749209109,354401740#notes:PvE Flawless - Impact MW
 dimwishlist:item=3257091167&perks=436053704,269888150,2077819806,1546637391#notes:PvE Crafted - Impact MW
 dimwishlist:item=2827764482&perks=3661387068,2680121939,3700496672,2173046394#notes:PvE Crafted - Range MW
 dimwishlist:item=3493494807&perks=4090651448,2680121939,1523832109,1546637391#notes:PvE - Range MW
@@ -10764,10 +10765,6 @@ dimwishlist:item=243425374&perks=3666208348,269888150,1749209109,3913600130#note
 dimwishlist:item=1815105249&perks=3666208348,269888150,1749209109,3913600130#notes:PvE Flawless - Impact MW
 dimwishlist:item=243425374&perks=3666208348,1749209109,3913600130#notes:PvE Excellent - Impact MW
 dimwishlist:item=1815105249&perks=3666208348,1749209109,3913600130#notes:PvE Excellent - Impact MW
-// Geodetic HSm
-dimwishlist:item=3637669759&perks=1261178282,269888150,1749209109,354401740#notes:PvE Flawless - Impact MW
-dimwishlist:item=3637669759&perks=1261178282,3625355092,1749209109,354401740#notes:PvE Excellent - Impact MW
-dimwishlist:item=3637669759&perks=1261178282,52780822,1749209109,354401740#notes:PvE Excellent - Impact MW
 // Trashlist
 dimwishlist:item=-3483591058
 dimwishlist:item=-2026755633
