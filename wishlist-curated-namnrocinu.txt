@@ -31,6 +31,7 @@ dimwishlist:item=3573686365&perks=3661387068,1687452232,3161816588,1427256713#no
 dimwishlist:item=613334176&perks=3525010810,2822142346,2010801679,2396489472#notes:PvE Crafted - Reload MW
 dimwishlist:item=3849810018&perks=3525010810,3032599245,3300816228,3523296417#notes:PvE Crafted - Handling MW
 dimwishlist:item=4096943616&perks=3525010810,2822142346,3300816228,4104185692#notes:PvE Crafted - Handling MW
+dimwishlist:item=1197771438&perks=3525010810,2822142346,3300816228,3523296417#notes:PvE Crafted - Handling MW
 dimwishlist:item=555148853&perks=981914802,2822142346,3300816228,3194351027#notes:PvE - Blast Radius MW
 dimwishlist:item=3165547384&perks=951095735,2396489472#notes:PvP - Blast Radius MW
 dimwishlist:item=3165547384&perks=951095735,960810156#notes:PvP - Blast Radius MW
