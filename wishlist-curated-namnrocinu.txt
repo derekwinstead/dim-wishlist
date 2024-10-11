@@ -1,4 +1,5 @@
 title: Nam's Curated Rolls
+dimwishlist:item=2598420927
 dimwishlist:item=1711056134
 dimwishlist:item=2839600459
 dimwishlist:item=666
@@ -563,27 +564,6 @@ dimwishlist:item=2932922810&perks=852209214,3429800428,3700496672,3365897133#not
 dimwishlist:item=2063217087&perks=852209214,3827198035,3700496672,3365897133#notes:PvE - Draw MW
 dimwishlist:item=2932922810&perks=852209214,3827198035,3700496672,3365897133#notes:PvE - Draw MW
 dimwishlist:item=2063217087&perks=852209214,16392701,3700496672,3365897133#notes:PvE - Draw MW
-dimwishlist:item=2932922810&perks=852209214,16392701,3700496672,3365897133#notes:PvE - Draw MW
-dimwishlist:item=2063217087&perks=852209214,2154191829,3700496672,3365897133#notes:PvE - Draw MW
-dimwishlist:item=2932922810&perks=852209214,2154191829,3700496672,3365897133#notes:PvE - Draw MW
-dimwishlist:item=2063217087&perks=2801223209,3700496672,3365897133#notes:PvE - Draw MW
-dimwishlist:item=2932922810&perks=2801223209,3700496672,3365897133#notes:PvE - Draw MW
-dimwishlist:item=2063217087&perks=3768438372,3700496672,3365897133#notes:PvE - Draw MW
-dimwishlist:item=2932922810&perks=3768438372,3700496672,3365897133#notes:PvE - Draw MW
-dimwishlist:item=2063217087&perks=1196733167,3700496672,3365897133#notes:PvE - Draw MW
-dimwishlist:item=2932922810&perks=1196733167,3700496672,3365897133#notes:PvE - Draw MW
-dimwishlist:item=2063217087&perks=852209214,3700496672,3365897133#notes:PvE - Draw MW
-dimwishlist:item=2932922810&perks=852209214,3700496672,3365897133#notes:PvE - Draw MW
-dimwishlist:item=2063217087&perks=3429800428,3700496672,3365897133#notes:PvE - Draw MW
-dimwishlist:item=2932922810&perks=3429800428,3700496672,3365897133#notes:PvE - Draw MW
-dimwishlist:item=2063217087&perks=3827198035,3700496672,3365897133#notes:PvE - Draw MW
-dimwishlist:item=2932922810&perks=3827198035,3700496672,3365897133#notes:PvE - Draw MW
-dimwishlist:item=2063217087&perks=16392701,3700496672,3365897133#notes:PvE - Draw MW
-dimwishlist:item=2932922810&perks=16392701,3700496672,3365897133#notes:PvE - Draw MW
-dimwishlist:item=2063217087&perks=2154191829,3700496672,3365897133#notes:PvE - Draw MW
-dimwishlist:item=2932922810&perks=2154191829,3700496672,3365897133#notes:PvE - Draw MW
-dimwishlist:item=2063217087&perks=3700496672,3365897133#notes:PvE - Draw MW
-dimwishlist:item=2932922810&perks=3700496672,3365897133#notes:PvE - Draw MW
 dimwishlist:item=2063217087&perks=2801223209,3429800428,201365942,3365897133#notes:PvE Flawless - Draw MW
 dimwishlist:item=2932922810&perks=2801223209,3429800428,201365942,3365897133#notes:PvE Flawless - Draw MW
 dimwishlist:item=2063217087&perks=2801223209,3827198035,201365942,3365897133#notes:PvE Excellent - Draw MW
@@ -10640,6 +10620,26 @@ dimwishlist:item=1681583613&perks=269888150,2753228730#notes:PvE - Impact MW
 dimwishlist:item=1681583613&perks=269888150,2753228730#notes:PvE - Impact MW
 dimwishlist:item=1681583613&perks=269888150,2753228730#notes:PvE - Impact MW
 dimwishlist:item=1681583613&perks=2753228730#notes:PvE - Impact MW
+dimwishlist:item=1681583613&perks=3666208348,269888150,289811733#notes:PvE Flawless - Impact MW
+dimwishlist:item=1681583613&perks=2827049491,269888150,289811733#notes:PvE Excellent - Impact MW
+dimwishlist:item=1681583613&perks=436053704,269888150,289811733#notes:PvE Excellent - Impact MW
+dimwishlist:item=1681583613&perks=3666208348,289811733#notes:PvE - Impact MW
+dimwishlist:item=1681583613&perks=2827049491,289811733#notes:PvE - Impact MW
+dimwishlist:item=1681583613&perks=436053704,289811733#notes:PvE - Impact MW
+dimwishlist:item=1681583613&perks=269888150,289811733#notes:PvE - Impact MW
+dimwishlist:item=1681583613&perks=269888150,289811733#notes:PvE - Impact MW
+dimwishlist:item=1681583613&perks=269888150,289811733#notes:PvE - Impact MW
+dimwishlist:item=1681583613&perks=289811733#notes:PvE - Impact MW
+dimwishlist:item=1681583613&perks=3666208348,269888150#notes:PvE - Impact MW
+dimwishlist:item=1681583613&perks=2827049491,269888150#notes:PvE - Impact MW
+dimwishlist:item=1681583613&perks=436053704,269888150#notes:PvE - Impact MW
+dimwishlist:item=1681583613&perks=3666208348#notes:PvE - Impact MW
+dimwishlist:item=1681583613&perks=2827049491#notes:PvE - Impact MW
+dimwishlist:item=1681583613&perks=436053704#notes:PvE - Impact MW
+dimwishlist:item=1681583613&perks=269888150#notes:PvE - Impact MW
+dimwishlist:item=1681583613&perks=269888150#notes:PvE - Impact MW
+dimwishlist:item=1681583613&perks=269888150#notes:PvE - Impact MW
+dimwishlist:item=1681583613#notes:PvE - Impact MW
 // Slammer
 dimwishlist:item=1354727549&perks=3666208348,269888150,2077819806,3650930298#notes:PvE Flawless - Impact MW
 dimwishlist:item=2889501828&perks=3666208348,269888150,2077819806,3650930298#notes:PvE Flawless - Impact MW
@@ -10768,6 +10768,7 @@ dimwishlist:item=1815105249&perks=3666208348,1749209109,3913600130#notes:PvE Exc
 // Trashlist
 dimwishlist:item=-3483591058
 dimwishlist:item=-2026755633
+dimwishlist:item=-2598420927
 dimwishlist:item=-2465372924
 dimwishlist:item=-833898322
 dimwishlist:item=-3782662983
@@ -10985,6 +10986,7 @@ dimwishlist:item=-3366545721
 dimwishlist:item=-3371413057
 dimwishlist:item=-3569407878
 dimwishlist:item=-2001697739
+dimwishlist:item=-1681583613
 dimwishlist:item=-1681583613
 dimwishlist:item=-1681583613
 dimwishlist:item=-1681583613
