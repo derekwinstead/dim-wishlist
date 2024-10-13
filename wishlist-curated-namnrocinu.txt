@@ -18,7 +18,6 @@ dimwishlist:item=2300143112
 dimwishlist:item=2378785953
 dimwishlist:item=2823644677
 dimwishlist:item=963574173
-dimwishlist:item=3483485727
 dimwishlist:item=2896109856
 dimwishlist:item=1845978721
 dimwishlist:item=3830941962
@@ -4864,6 +4863,10 @@ dimwishlist:item=1492522228&perks=1482024992,3418782618,3708227201#notes:PvE - C
 dimwishlist:item=2591257541&perks=1482024992,3418782618,3708227201#notes:PvE - Charge MW
 dimwishlist:item=1492522228&perks=3418782618,3708227201#notes:PvE - Charge MW
 dimwishlist:item=2591257541&perks=3418782618,3708227201#notes:PvE - Charge MW
+// Mistral Lift
+dimwishlist:item=3483485727&perks=968510818,3078487919#notes:PvE - Charge MW
+dimwishlist:item=3483485727&perks=1134488199,3078487919#notes:PvE - Charge MW
+dimwishlist:item=3483485727&perks=1523832109,3078487919#notes:PvE - Charge MW
 // Unwavering Duty
 dimwishlist:item=3444632029&perks=839105230,1885400500,3300816228,4293542123#notes:PvE Flawless - Handling MW
 dimwishlist:item=906840740&perks=839105230,1885400500,3300816228,4293542123#notes:PvE Flawless - Handling MW
