@@ -77,7 +77,6 @@ dimwishlist:item=1197771438&perks=3525010810,2822142346,3300816228,3523296417#no
 dimwishlist:item=555148853&perks=981914802,2822142346,3300816228,3194351027#notes:PvE - Blast Radius MW
 dimwishlist:item=3165547384&perks=951095735,2396489472#notes:PvP - Blast Radius MW
 dimwishlist:item=3165547384&perks=951095735,960810156#notes:PvP - Blast Radius MW
-dimwishlist:item=268260372&perks=1478423395,3301904089,968510818,3751912585#notes:PvE Crafted - Velocity MW
 dimwishlist:item=254636484&perks=3523296417,4104185692#notes:PvE Crafted
 dimwishlist:item=4005780578&perks=3300816228,4104185692#notes:PvE
 dimwishlist:item=1141586039&perks=3300816228,4104185692#notes:PvE
@@ -157,7 +156,7 @@ dimwishlist:item=2198166292&perks=981914802,3230963543,3017780555,4293542123#not
 dimwishlist:item=2198166292&perks=981914802,3230963543,691659142,4293542123#notes:PvE Crafted - Velocity MW
 dimwishlist:item=502356570&perks=3250034553,3142289711,588594999,4082225868#notes:PvP Crafted - Range MW
 dimwishlist:item=231031173&perks=839105230,1885400500,3418782618,4104185692#notes:PvE Crafted - Range MW
-dimwishlist:item=3947966653&perks=3525010810,3230963543,3523296417,4049631843#notes:PvE Crafted - Reload MW
+dimwishlist:item=3947966653&perks=1478423395,106909392,923806249,2109543898#notes:PvE Crafted - Velocity MW
 dimwishlist:item=2149683300&perks=202670084,1140096971,4071163871,2173046394#notes:PvE Crafted - Range MW
 dimwishlist:item=1447836603&perks=3250034553,3230963543,4071163871,2173046394#notes:PvE Crafted - Reload MW
 dimwishlist:item=3717177717&perks=663495154,3142289711,1359896290,1015611457#notes:PvP Flawless - Range MW
@@ -1259,34 +1258,161 @@ dimwishlist:item=3915197957&perks=1844523823,3300816228,3751912585#notes:PvE - H
 dimwishlist:item=1854753404&perks=1844523823,3300816228,3751912585#notes:PvE - Handling MW
 dimwishlist:item=3915197957&perks=3300816228,3751912585#notes:PvE - Handling MW
 dimwishlist:item=1854753404&perks=3300816228,3751912585#notes:PvE - Handling MW
-dimwishlist:item=3915197957&perks=3525010810,3301904089,3300816228,2610012052#notes:PvE Flawless - Reload MW
-dimwishlist:item=1854753404&perks=3525010810,3301904089,3300816228,2610012052#notes:PvE Flawless - Reload MW
-dimwishlist:item=3915197957&perks=1478423395,3301904089,3300816228,2610012052#notes:PvE Excellent - Reload MW
-dimwishlist:item=1854753404&perks=1478423395,3301904089,3300816228,2610012052#notes:PvE Excellent - Reload MW
-dimwishlist:item=3915197957&perks=981914802,3301904089,3300816228,2610012052#notes:PvE Excellent - Reload MW
-dimwishlist:item=1854753404&perks=981914802,3301904089,3300816228,2610012052#notes:PvE Excellent - Reload MW
-dimwishlist:item=3915197957&perks=3809316345,3301904089,3300816228,2610012052#notes:PvE Excellent - Reload MW
-dimwishlist:item=1854753404&perks=3809316345,3301904089,3300816228,2610012052#notes:PvE Excellent - Reload MW
-dimwishlist:item=3915197957&perks=1441682018,3301904089,3300816228,2610012052#notes:PvE Excellent - Reload MW
-dimwishlist:item=1854753404&perks=1441682018,3301904089,3300816228,2610012052#notes:PvE Excellent - Reload MW
-dimwishlist:item=3915197957&perks=1844523823,3301904089,3300816228,2610012052#notes:PvE Excellent - Reload MW
-dimwishlist:item=1854753404&perks=1844523823,3301904089,3300816228,2610012052#notes:PvE Excellent - Reload MW
-dimwishlist:item=3915197957&perks=3301904089,3300816228,2610012052#notes:PvE - Reload MW
-dimwishlist:item=1854753404&perks=3301904089,3300816228,2610012052#notes:PvE - Reload MW
-dimwishlist:item=3915197957&perks=3525010810,3300816228,2610012052#notes:PvE - Reload MW
-dimwishlist:item=1854753404&perks=3525010810,3300816228,2610012052#notes:PvE - Reload MW
-dimwishlist:item=3915197957&perks=1478423395,3300816228,2610012052#notes:PvE - Reload MW
-dimwishlist:item=1854753404&perks=1478423395,3300816228,2610012052#notes:PvE - Reload MW
-dimwishlist:item=3915197957&perks=981914802,3300816228,2610012052#notes:PvE - Reload MW
-dimwishlist:item=1854753404&perks=981914802,3300816228,2610012052#notes:PvE - Reload MW
-dimwishlist:item=3915197957&perks=3809316345,3300816228,2610012052#notes:PvE - Reload MW
-dimwishlist:item=1854753404&perks=3809316345,3300816228,2610012052#notes:PvE - Reload MW
-dimwishlist:item=3915197957&perks=1441682018,3300816228,2610012052#notes:PvE - Reload MW
-dimwishlist:item=1854753404&perks=1441682018,3300816228,2610012052#notes:PvE - Reload MW
-dimwishlist:item=3915197957&perks=1844523823,3300816228,2610012052#notes:PvE - Reload MW
-dimwishlist:item=1854753404&perks=1844523823,3300816228,2610012052#notes:PvE - Reload MW
-dimwishlist:item=3915197957&perks=3300816228,2610012052#notes:PvE - Reload MW
-dimwishlist:item=1854753404&perks=3300816228,2610012052#notes:PvE - Reload MW
+dimwishlist:item=3915197957&perks=3525010810,3301904089,3300816228,3194351027#notes:PvE Flawless - Handling MW
+dimwishlist:item=1854753404&perks=3525010810,3301904089,3300816228,3194351027#notes:PvE Flawless - Handling MW
+dimwishlist:item=3915197957&perks=1478423395,3301904089,3300816228,3194351027#notes:PvE Excellent - Handling MW
+dimwishlist:item=1854753404&perks=1478423395,3301904089,3300816228,3194351027#notes:PvE Excellent - Handling MW
+dimwishlist:item=3915197957&perks=981914802,3301904089,3300816228,3194351027#notes:PvE Excellent - Handling MW
+dimwishlist:item=1854753404&perks=981914802,3301904089,3300816228,3194351027#notes:PvE Excellent - Handling MW
+dimwishlist:item=3915197957&perks=3809316345,3301904089,3300816228,3194351027#notes:PvE Excellent - Handling MW
+dimwishlist:item=1854753404&perks=3809316345,3301904089,3300816228,3194351027#notes:PvE Excellent - Handling MW
+dimwishlist:item=3915197957&perks=1441682018,3301904089,3300816228,3194351027#notes:PvE Excellent - Handling MW
+dimwishlist:item=1854753404&perks=1441682018,3301904089,3300816228,3194351027#notes:PvE Excellent - Handling MW
+dimwishlist:item=3915197957&perks=1844523823,3301904089,3300816228,3194351027#notes:PvE Excellent - Handling MW
+dimwishlist:item=1854753404&perks=1844523823,3301904089,3300816228,3194351027#notes:PvE Excellent - Handling MW
+dimwishlist:item=3915197957&perks=3301904089,3300816228,3194351027#notes:PvE - Handling MW
+dimwishlist:item=1854753404&perks=3301904089,3300816228,3194351027#notes:PvE - Handling MW
+dimwishlist:item=3915197957&perks=3525010810,3300816228,3194351027#notes:PvE - Handling MW
+dimwishlist:item=1854753404&perks=3525010810,3300816228,3194351027#notes:PvE - Handling MW
+dimwishlist:item=3915197957&perks=1478423395,3300816228,3194351027#notes:PvE - Handling MW
+dimwishlist:item=1854753404&perks=1478423395,3300816228,3194351027#notes:PvE - Handling MW
+dimwishlist:item=3915197957&perks=981914802,3300816228,3194351027#notes:PvE - Handling MW
+dimwishlist:item=1854753404&perks=981914802,3300816228,3194351027#notes:PvE - Handling MW
+dimwishlist:item=3915197957&perks=3809316345,3300816228,3194351027#notes:PvE - Handling MW
+dimwishlist:item=1854753404&perks=3809316345,3300816228,3194351027#notes:PvE - Handling MW
+dimwishlist:item=3915197957&perks=1441682018,3300816228,3194351027#notes:PvE - Handling MW
+dimwishlist:item=1854753404&perks=1441682018,3300816228,3194351027#notes:PvE - Handling MW
+dimwishlist:item=3915197957&perks=1844523823,3300816228,3194351027#notes:PvE - Handling MW
+dimwishlist:item=1854753404&perks=1844523823,3300816228,3194351027#notes:PvE - Handling MW
+dimwishlist:item=3915197957&perks=3300816228,3194351027#notes:PvE - Handling MW
+dimwishlist:item=1854753404&perks=3300816228,3194351027#notes:PvE - Handling MW
+// VS Chill Inhibitor
+dimwishlist:item=1762785662&perks=3525010810,3301904089,3987942396,3078487919#notes:PvE Flawless - Handling MW
+dimwishlist:item=1762785662&perks=1478423395,3301904089,3987942396,3078487919#notes:PvE Excellent - Handling MW
+dimwishlist:item=1762785662&perks=981914802,3301904089,3987942396,3078487919#notes:PvE Excellent - Handling MW
+dimwishlist:item=1762785662&perks=3809316345,3301904089,3987942396,3078487919#notes:PvE Excellent - Handling MW
+dimwishlist:item=1762785662&perks=1441682018,3301904089,3987942396,3078487919#notes:PvE Excellent - Handling MW
+dimwishlist:item=1762785662&perks=1844523823,3301904089,3987942396,3078487919#notes:PvE Excellent - Handling MW
+dimwishlist:item=1762785662&perks=3301904089,3987942396,3078487919#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=3525010810,3987942396,3078487919#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=1478423395,3987942396,3078487919#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=981914802,3987942396,3078487919#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=3809316345,3987942396,3078487919#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=1441682018,3987942396,3078487919#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=1844523823,3987942396,3078487919#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=3987942396,3078487919#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=3525010810,3301904089,3987942396,3194351027#notes:PvE Flawless - Handling MW
+dimwishlist:item=1762785662&perks=1478423395,3301904089,3987942396,3194351027#notes:PvE Excellent - Handling MW
+dimwishlist:item=1762785662&perks=981914802,3301904089,3987942396,3194351027#notes:PvE Excellent - Handling MW
+dimwishlist:item=1762785662&perks=3809316345,3301904089,3987942396,3194351027#notes:PvE Excellent - Handling MW
+dimwishlist:item=1762785662&perks=1441682018,3301904089,3987942396,3194351027#notes:PvE Excellent - Handling MW
+dimwishlist:item=1762785662&perks=1844523823,3301904089,3987942396,3194351027#notes:PvE Excellent - Handling MW
+dimwishlist:item=1762785662&perks=3301904089,3987942396,3194351027#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=3525010810,3987942396,3194351027#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=1478423395,3987942396,3194351027#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=981914802,3987942396,3194351027#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=3809316345,3987942396,3194351027#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=1441682018,3987942396,3194351027#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=1844523823,3987942396,3194351027#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=3987942396,3194351027#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=3525010810,3301904089,3987942396,3708227201#notes:PvE Flawless - Handling MW
+dimwishlist:item=1762785662&perks=1478423395,3301904089,3987942396,3708227201#notes:PvE Excellent - Handling MW
+dimwishlist:item=1762785662&perks=981914802,3301904089,3987942396,3708227201#notes:PvE Excellent - Handling MW
+dimwishlist:item=1762785662&perks=3809316345,3301904089,3987942396,3708227201#notes:PvE Excellent - Handling MW
+dimwishlist:item=1762785662&perks=1441682018,3301904089,3987942396,3708227201#notes:PvE Excellent - Handling MW
+dimwishlist:item=1762785662&perks=1844523823,3301904089,3987942396,3708227201#notes:PvE Excellent - Handling MW
+dimwishlist:item=1762785662&perks=3301904089,3987942396,3708227201#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=3525010810,3987942396,3708227201#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=1478423395,3987942396,3708227201#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=981914802,3987942396,3708227201#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=3809316345,3987942396,3708227201#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=1441682018,3987942396,3708227201#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=1844523823,3987942396,3708227201#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=3987942396,3708227201#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=3525010810,3301904089,3751912585,3078487919#notes:PvE Flawless - Handling MW
+dimwishlist:item=1762785662&perks=1478423395,3301904089,3751912585,3078487919#notes:PvE Excellent - Handling MW
+dimwishlist:item=1762785662&perks=981914802,3301904089,3751912585,3078487919#notes:PvE Excellent - Handling MW
+dimwishlist:item=1762785662&perks=3809316345,3301904089,3751912585,3078487919#notes:PvE Excellent - Handling MW
+dimwishlist:item=1762785662&perks=1441682018,3301904089,3751912585,3078487919#notes:PvE Excellent - Handling MW
+dimwishlist:item=1762785662&perks=1844523823,3301904089,3751912585,3078487919#notes:PvE Excellent - Handling MW
+dimwishlist:item=1762785662&perks=3301904089,3751912585,3078487919#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=3525010810,3751912585,3078487919#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=1478423395,3751912585,3078487919#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=981914802,3751912585,3078487919#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=3809316345,3751912585,3078487919#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=1441682018,3751912585,3078487919#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=1844523823,3751912585,3078487919#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=3751912585,3078487919#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=3525010810,3301904089,3751912585,3194351027#notes:PvE Flawless - Handling MW
+dimwishlist:item=1762785662&perks=1478423395,3301904089,3751912585,3194351027#notes:PvE Excellent - Handling MW
+dimwishlist:item=1762785662&perks=981914802,3301904089,3751912585,3194351027#notes:PvE Excellent - Handling MW
+dimwishlist:item=1762785662&perks=3809316345,3301904089,3751912585,3194351027#notes:PvE Excellent - Handling MW
+dimwishlist:item=1762785662&perks=1441682018,3301904089,3751912585,3194351027#notes:PvE Excellent - Handling MW
+dimwishlist:item=1762785662&perks=1844523823,3301904089,3751912585,3194351027#notes:PvE Excellent - Handling MW
+dimwishlist:item=1762785662&perks=3301904089,3751912585,3194351027#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=3525010810,3751912585,3194351027#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=1478423395,3751912585,3194351027#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=981914802,3751912585,3194351027#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=3809316345,3751912585,3194351027#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=1441682018,3751912585,3194351027#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=1844523823,3751912585,3194351027#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=3751912585,3194351027#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=3525010810,3301904089,3751912585,3708227201#notes:PvE Flawless - Handling MW
+dimwishlist:item=1762785662&perks=1478423395,3301904089,3751912585,3708227201#notes:PvE Excellent - Handling MW
+dimwishlist:item=1762785662&perks=981914802,3301904089,3751912585,3708227201#notes:PvE Excellent - Handling MW
+dimwishlist:item=1762785662&perks=3809316345,3301904089,3751912585,3708227201#notes:PvE Excellent - Handling MW
+dimwishlist:item=1762785662&perks=1441682018,3301904089,3751912585,3708227201#notes:PvE Excellent - Handling MW
+dimwishlist:item=1762785662&perks=1844523823,3301904089,3751912585,3708227201#notes:PvE Excellent - Handling MW
+dimwishlist:item=1762785662&perks=3301904089,3751912585,3708227201#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=3525010810,3751912585,3708227201#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=1478423395,3751912585,3708227201#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=981914802,3751912585,3708227201#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=3809316345,3751912585,3708227201#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=1441682018,3751912585,3708227201#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=1844523823,3751912585,3708227201#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=3751912585,3708227201#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=3525010810,3301904089,243981275,3078487919#notes:PvE Flawless - Handling MW
+dimwishlist:item=1762785662&perks=1478423395,3301904089,243981275,3078487919#notes:PvE Excellent - Handling MW
+dimwishlist:item=1762785662&perks=981914802,3301904089,243981275,3078487919#notes:PvE Excellent - Handling MW
+dimwishlist:item=1762785662&perks=3809316345,3301904089,243981275,3078487919#notes:PvE Excellent - Handling MW
+dimwishlist:item=1762785662&perks=1441682018,3301904089,243981275,3078487919#notes:PvE Excellent - Handling MW
+dimwishlist:item=1762785662&perks=1844523823,3301904089,243981275,3078487919#notes:PvE Excellent - Handling MW
+dimwishlist:item=1762785662&perks=3301904089,243981275,3078487919#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=3525010810,243981275,3078487919#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=1478423395,243981275,3078487919#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=981914802,243981275,3078487919#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=3809316345,243981275,3078487919#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=1441682018,243981275,3078487919#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=1844523823,243981275,3078487919#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=243981275,3078487919#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=3525010810,3301904089,243981275,3194351027#notes:PvE Flawless - Handling MW
+dimwishlist:item=1762785662&perks=1478423395,3301904089,243981275,3194351027#notes:PvE Excellent - Handling MW
+dimwishlist:item=1762785662&perks=981914802,3301904089,243981275,3194351027#notes:PvE Excellent - Handling MW
+dimwishlist:item=1762785662&perks=3809316345,3301904089,243981275,3194351027#notes:PvE Excellent - Handling MW
+dimwishlist:item=1762785662&perks=1441682018,3301904089,243981275,3194351027#notes:PvE Excellent - Handling MW
+dimwishlist:item=1762785662&perks=1844523823,3301904089,243981275,3194351027#notes:PvE Excellent - Handling MW
+dimwishlist:item=1762785662&perks=3301904089,243981275,3194351027#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=3525010810,243981275,3194351027#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=1478423395,243981275,3194351027#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=981914802,243981275,3194351027#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=3809316345,243981275,3194351027#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=1441682018,243981275,3194351027#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=1844523823,243981275,3194351027#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=243981275,3194351027#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=3525010810,3301904089,243981275,3708227201#notes:PvE Flawless - Handling MW
+dimwishlist:item=1762785662&perks=1478423395,3301904089,243981275,3708227201#notes:PvE Excellent - Handling MW
+dimwishlist:item=1762785662&perks=981914802,3301904089,243981275,3708227201#notes:PvE Excellent - Handling MW
+dimwishlist:item=1762785662&perks=3809316345,3301904089,243981275,3708227201#notes:PvE Excellent - Handling MW
+dimwishlist:item=1762785662&perks=1441682018,3301904089,243981275,3708227201#notes:PvE Excellent - Handling MW
+dimwishlist:item=1762785662&perks=1844523823,3301904089,243981275,3708227201#notes:PvE Excellent - Handling MW
+dimwishlist:item=1762785662&perks=3301904089,243981275,3708227201#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=3525010810,243981275,3708227201#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=1478423395,243981275,3708227201#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=981914802,243981275,3708227201#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=3809316345,243981275,3708227201#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=1441682018,243981275,3708227201#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=1844523823,243981275,3708227201#notes:PvE - Handling MW
+dimwishlist:item=1762785662&perks=243981275,3708227201#notes:PvE - Handling MW
 // Cataphract GL3
 dimwishlist:item=874623537&perks=3525010810,3301904089,968510818,3078487919#notes:PvE Flawless - Velocity MW
 dimwishlist:item=2738601016&perks=3525010810,3301904089,968510818,3078487919#notes:PvE Flawless - Velocity MW
@@ -7596,37 +7722,6 @@ dimwishlist:item=3381450498&perks=1441682018,1556840489,2173046394#notes:PvE - H
 dimwishlist:item=3381450498&perks=3525010810,1556840489,2173046394#notes:PvE - Handling MW
 dimwishlist:item=3381450498&perks=3809316345,1556840489,2173046394#notes:PvE - Handling MW
 dimwishlist:item=3381450498&perks=1556840489,2173046394#notes:PvE - Handling MW
-dimwishlist:item=3381450498&perks=1478423395,106909392,2859149211,2173046394#notes:PvE Flawless - Handling MW
-dimwishlist:item=3381450498&perks=1844523823,106909392,2859149211,2173046394#notes:PvE Excellent - Handling MW
-dimwishlist:item=3381450498&perks=1441682018,106909392,2859149211,2173046394#notes:PvE Excellent - Handling MW
-dimwishlist:item=3381450498&perks=3525010810,106909392,2859149211,2173046394#notes:PvE Excellent - Handling MW
-dimwishlist:item=3381450498&perks=3809316345,106909392,2859149211,2173046394#notes:PvE Excellent - Handling MW
-dimwishlist:item=3381450498&perks=1478423395,3230963543,2859149211,2173046394#notes:PvE - Handling MW
-dimwishlist:item=3381450498&perks=1844523823,3230963543,2859149211,2173046394#notes:PvE - Handling MW
-dimwishlist:item=3381450498&perks=1441682018,3230963543,2859149211,2173046394#notes:PvE - Handling MW
-dimwishlist:item=3381450498&perks=3525010810,3230963543,2859149211,2173046394#notes:PvE - Handling MW
-dimwishlist:item=3381450498&perks=3809316345,3230963543,2859149211,2173046394#notes:PvE - Handling MW
-dimwishlist:item=3381450498&perks=1478423395,1087426260,2859149211,2173046394#notes:PvE - Handling MW
-dimwishlist:item=3381450498&perks=1844523823,1087426260,2859149211,2173046394#notes:PvE - Handling MW
-dimwishlist:item=3381450498&perks=1441682018,1087426260,2859149211,2173046394#notes:PvE - Handling MW
-dimwishlist:item=3381450498&perks=3525010810,1087426260,2859149211,2173046394#notes:PvE - Handling MW
-dimwishlist:item=3381450498&perks=3809316345,1087426260,2859149211,2173046394#notes:PvE - Handling MW
-dimwishlist:item=3381450498&perks=1478423395,2822142346,2859149211,2173046394#notes:PvE - Handling MW
-dimwishlist:item=3381450498&perks=1844523823,2822142346,2859149211,2173046394#notes:PvE - Handling MW
-dimwishlist:item=3381450498&perks=1441682018,2822142346,2859149211,2173046394#notes:PvE - Handling MW
-dimwishlist:item=3381450498&perks=3525010810,2822142346,2859149211,2173046394#notes:PvE - Handling MW
-dimwishlist:item=3381450498&perks=3809316345,2822142346,2859149211,2173046394#notes:PvE - Handling MW
-dimwishlist:item=3381450498&perks=1478423395,1380253176,2859149211,2173046394#notes:PvE - Handling MW
-dimwishlist:item=3381450498&perks=1844523823,1380253176,2859149211,2173046394#notes:PvE - Handling MW
-dimwishlist:item=3381450498&perks=1441682018,1380253176,2859149211,2173046394#notes:PvE - Handling MW
-dimwishlist:item=3381450498&perks=3525010810,1380253176,2859149211,2173046394#notes:PvE - Handling MW
-dimwishlist:item=3381450498&perks=3809316345,1380253176,2859149211,2173046394#notes:PvE - Handling MW
-dimwishlist:item=3381450498&perks=106909392,2859149211,2173046394#notes:PvE - Handling MW
-dimwishlist:item=3381450498&perks=3230963543,2859149211,2173046394#notes:PvE - Handling MW
-dimwishlist:item=3381450498&perks=1087426260,2859149211,2173046394#notes:PvE - Handling MW
-dimwishlist:item=3381450498&perks=2822142346,2859149211,2173046394#notes:PvE - Handling MW
-dimwishlist:item=3381450498&perks=1380253176,2859149211,2173046394#notes:PvE - Handling MW
-dimwishlist:item=3381450498&perks=1478423395,2859149211,2173046394#notes:PvE - Handling MW
 dimwishlist:item=3381450498&perks=1478423395,106909392,951095735,2173046394#notes:PvE Flawless - Handling MW
 dimwishlist:item=3381450498&perks=1844523823,106909392,951095735,2173046394#notes:PvE Excellent - Handling MW
 dimwishlist:item=3381450498&perks=1441682018,106909392,951095735,2173046394#notes:PvE Excellent - Handling MW
@@ -7663,6 +7758,37 @@ dimwishlist:item=3381450498&perks=1441682018,951095735,2173046394#notes:PvE - Ha
 dimwishlist:item=3381450498&perks=3525010810,951095735,2173046394#notes:PvE - Handling MW
 dimwishlist:item=3381450498&perks=3809316345,951095735,2173046394#notes:PvE - Handling MW
 dimwishlist:item=3381450498&perks=951095735,2173046394#notes:PvE - Handling MW
+dimwishlist:item=3381450498&perks=1478423395,106909392,2859149211,2173046394#notes:PvE Flawless - Handling MW
+dimwishlist:item=3381450498&perks=1844523823,106909392,2859149211,2173046394#notes:PvE Excellent - Handling MW
+dimwishlist:item=3381450498&perks=1441682018,106909392,2859149211,2173046394#notes:PvE Excellent - Handling MW
+dimwishlist:item=3381450498&perks=3525010810,106909392,2859149211,2173046394#notes:PvE Excellent - Handling MW
+dimwishlist:item=3381450498&perks=3809316345,106909392,2859149211,2173046394#notes:PvE Excellent - Handling MW
+dimwishlist:item=3381450498&perks=1478423395,3230963543,2859149211,2173046394#notes:PvE - Handling MW
+dimwishlist:item=3381450498&perks=1844523823,3230963543,2859149211,2173046394#notes:PvE - Handling MW
+dimwishlist:item=3381450498&perks=1441682018,3230963543,2859149211,2173046394#notes:PvE - Handling MW
+dimwishlist:item=3381450498&perks=3525010810,3230963543,2859149211,2173046394#notes:PvE - Handling MW
+dimwishlist:item=3381450498&perks=3809316345,3230963543,2859149211,2173046394#notes:PvE - Handling MW
+dimwishlist:item=3381450498&perks=1478423395,1087426260,2859149211,2173046394#notes:PvE - Handling MW
+dimwishlist:item=3381450498&perks=1844523823,1087426260,2859149211,2173046394#notes:PvE - Handling MW
+dimwishlist:item=3381450498&perks=1441682018,1087426260,2859149211,2173046394#notes:PvE - Handling MW
+dimwishlist:item=3381450498&perks=3525010810,1087426260,2859149211,2173046394#notes:PvE - Handling MW
+dimwishlist:item=3381450498&perks=3809316345,1087426260,2859149211,2173046394#notes:PvE - Handling MW
+dimwishlist:item=3381450498&perks=1478423395,2822142346,2859149211,2173046394#notes:PvE - Handling MW
+dimwishlist:item=3381450498&perks=1844523823,2822142346,2859149211,2173046394#notes:PvE - Handling MW
+dimwishlist:item=3381450498&perks=1441682018,2822142346,2859149211,2173046394#notes:PvE - Handling MW
+dimwishlist:item=3381450498&perks=3525010810,2822142346,2859149211,2173046394#notes:PvE - Handling MW
+dimwishlist:item=3381450498&perks=3809316345,2822142346,2859149211,2173046394#notes:PvE - Handling MW
+dimwishlist:item=3381450498&perks=1478423395,1380253176,2859149211,2173046394#notes:PvE - Handling MW
+dimwishlist:item=3381450498&perks=1844523823,1380253176,2859149211,2173046394#notes:PvE - Handling MW
+dimwishlist:item=3381450498&perks=1441682018,1380253176,2859149211,2173046394#notes:PvE - Handling MW
+dimwishlist:item=3381450498&perks=3525010810,1380253176,2859149211,2173046394#notes:PvE - Handling MW
+dimwishlist:item=3381450498&perks=3809316345,1380253176,2859149211,2173046394#notes:PvE - Handling MW
+dimwishlist:item=3381450498&perks=106909392,2859149211,2173046394#notes:PvE - Handling MW
+dimwishlist:item=3381450498&perks=3230963543,2859149211,2173046394#notes:PvE - Handling MW
+dimwishlist:item=3381450498&perks=1087426260,2859149211,2173046394#notes:PvE - Handling MW
+dimwishlist:item=3381450498&perks=2822142346,2859149211,2173046394#notes:PvE - Handling MW
+dimwishlist:item=3381450498&perks=1380253176,2859149211,2173046394#notes:PvE - Handling MW
+dimwishlist:item=3381450498&perks=1478423395,2859149211,2173046394#notes:PvE - Handling MW
 dimwishlist:item=3381450498&perks=1478423395,106909392,1556840489,3708227201#notes:PvE Flawless - Handling MW
 dimwishlist:item=3381450498&perks=1844523823,106909392,1556840489,3708227201#notes:PvE Excellent - Handling MW
 dimwishlist:item=3381450498&perks=1441682018,106909392,1556840489,3708227201#notes:PvE Excellent - Handling MW
@@ -7696,42 +7822,6 @@ dimwishlist:item=3381450498&perks=1380253176,1556840489,3708227201#notes:PvE - H
 dimwishlist:item=3381450498&perks=1478423395,1556840489,3708227201#notes:PvE - Handling MW
 dimwishlist:item=3381450498&perks=1844523823,1556840489,3708227201#notes:PvE - Handling MW
 dimwishlist:item=3381450498&perks=1441682018,1556840489,3708227201#notes:PvE - Handling MW
-dimwishlist:item=3381450498&perks=1478423395,106909392,2859149211,3708227201#notes:PvE Flawless - Handling MW
-dimwishlist:item=3381450498&perks=1844523823,106909392,2859149211,3708227201#notes:PvE Excellent - Handling MW
-dimwishlist:item=3381450498&perks=1441682018,106909392,2859149211,3708227201#notes:PvE Excellent - Handling MW
-dimwishlist:item=3381450498&perks=3525010810,106909392,2859149211,3708227201#notes:PvE Excellent - Handling MW
-dimwishlist:item=3381450498&perks=3809316345,106909392,2859149211,3708227201#notes:PvE Excellent - Handling MW
-dimwishlist:item=3381450498&perks=1478423395,3230963543,2859149211,3708227201#notes:PvE - Handling MW
-dimwishlist:item=3381450498&perks=1844523823,3230963543,2859149211,3708227201#notes:PvE - Handling MW
-dimwishlist:item=3381450498&perks=1441682018,3230963543,2859149211,3708227201#notes:PvE - Handling MW
-dimwishlist:item=3381450498&perks=3525010810,3230963543,2859149211,3708227201#notes:PvE - Handling MW
-dimwishlist:item=3381450498&perks=3809316345,3230963543,2859149211,3708227201#notes:PvE - Handling MW
-dimwishlist:item=3381450498&perks=1478423395,1087426260,2859149211,3708227201#notes:PvE - Handling MW
-dimwishlist:item=3381450498&perks=1844523823,1087426260,2859149211,3708227201#notes:PvE - Handling MW
-dimwishlist:item=3381450498&perks=1441682018,1087426260,2859149211,3708227201#notes:PvE - Handling MW
-dimwishlist:item=3381450498&perks=3525010810,1087426260,2859149211,3708227201#notes:PvE - Handling MW
-dimwishlist:item=3381450498&perks=3809316345,1087426260,2859149211,3708227201#notes:PvE - Handling MW
-dimwishlist:item=3381450498&perks=1478423395,2822142346,2859149211,3708227201#notes:PvE - Handling MW
-dimwishlist:item=3381450498&perks=1844523823,2822142346,2859149211,3708227201#notes:PvE - Handling MW
-dimwishlist:item=3381450498&perks=1441682018,2822142346,2859149211,3708227201#notes:PvE - Handling MW
-dimwishlist:item=3381450498&perks=3525010810,2822142346,2859149211,3708227201#notes:PvE - Handling MW
-dimwishlist:item=3381450498&perks=3809316345,2822142346,2859149211,3708227201#notes:PvE - Handling MW
-dimwishlist:item=3381450498&perks=1478423395,1380253176,2859149211,3708227201#notes:PvE - Handling MW
-dimwishlist:item=3381450498&perks=1844523823,1380253176,2859149211,3708227201#notes:PvE - Handling MW
-dimwishlist:item=3381450498&perks=1441682018,1380253176,2859149211,3708227201#notes:PvE - Handling MW
-dimwishlist:item=3381450498&perks=3525010810,1380253176,2859149211,3708227201#notes:PvE - Handling MW
-dimwishlist:item=3381450498&perks=3809316345,1380253176,2859149211,3708227201#notes:PvE - Handling MW
-dimwishlist:item=3381450498&perks=106909392,2859149211,3708227201#notes:PvE - Handling MW
-dimwishlist:item=3381450498&perks=3230963543,2859149211,3708227201#notes:PvE - Handling MW
-dimwishlist:item=3381450498&perks=1087426260,2859149211,3708227201#notes:PvE - Handling MW
-dimwishlist:item=3381450498&perks=2822142346,2859149211,3708227201#notes:PvE - Handling MW
-dimwishlist:item=3381450498&perks=1380253176,2859149211,3708227201#notes:PvE - Handling MW
-dimwishlist:item=3381450498&perks=1478423395,2859149211,3708227201#notes:PvE - Handling MW
-dimwishlist:item=3381450498&perks=1844523823,2859149211,3708227201#notes:PvE - Handling MW
-dimwishlist:item=3381450498&perks=1441682018,2859149211,3708227201#notes:PvE - Handling MW
-dimwishlist:item=3381450498&perks=3525010810,2859149211,3708227201#notes:PvE - Handling MW
-dimwishlist:item=3381450498&perks=3809316345,2859149211,3708227201#notes:PvE - Handling MW
-dimwishlist:item=3381450498&perks=2859149211,3708227201#notes:PvE - Handling MW
 dimwishlist:item=3381450498&perks=1478423395,106909392,951095735,3708227201#notes:PvE Flawless - Handling MW
 dimwishlist:item=3381450498&perks=1844523823,106909392,951095735,3708227201#notes:PvE Excellent - Handling MW
 dimwishlist:item=3381450498&perks=1441682018,106909392,951095735,3708227201#notes:PvE Excellent - Handling MW
@@ -7768,6 +7858,42 @@ dimwishlist:item=3381450498&perks=1441682018,951095735,3708227201#notes:PvE - Ha
 dimwishlist:item=3381450498&perks=3525010810,951095735,3708227201#notes:PvE - Handling MW
 dimwishlist:item=3381450498&perks=3809316345,951095735,3708227201#notes:PvE - Handling MW
 dimwishlist:item=3381450498&perks=951095735,3708227201#notes:PvE - Handling MW
+dimwishlist:item=3381450498&perks=1478423395,106909392,2859149211,3708227201#notes:PvE Flawless - Handling MW
+dimwishlist:item=3381450498&perks=1844523823,106909392,2859149211,3708227201#notes:PvE Excellent - Handling MW
+dimwishlist:item=3381450498&perks=1441682018,106909392,2859149211,3708227201#notes:PvE Excellent - Handling MW
+dimwishlist:item=3381450498&perks=3525010810,106909392,2859149211,3708227201#notes:PvE Excellent - Handling MW
+dimwishlist:item=3381450498&perks=3809316345,106909392,2859149211,3708227201#notes:PvE Excellent - Handling MW
+dimwishlist:item=3381450498&perks=1478423395,3230963543,2859149211,3708227201#notes:PvE - Handling MW
+dimwishlist:item=3381450498&perks=1844523823,3230963543,2859149211,3708227201#notes:PvE - Handling MW
+dimwishlist:item=3381450498&perks=1441682018,3230963543,2859149211,3708227201#notes:PvE - Handling MW
+dimwishlist:item=3381450498&perks=3525010810,3230963543,2859149211,3708227201#notes:PvE - Handling MW
+dimwishlist:item=3381450498&perks=3809316345,3230963543,2859149211,3708227201#notes:PvE - Handling MW
+dimwishlist:item=3381450498&perks=1478423395,1087426260,2859149211,3708227201#notes:PvE - Handling MW
+dimwishlist:item=3381450498&perks=1844523823,1087426260,2859149211,3708227201#notes:PvE - Handling MW
+dimwishlist:item=3381450498&perks=1441682018,1087426260,2859149211,3708227201#notes:PvE - Handling MW
+dimwishlist:item=3381450498&perks=3525010810,1087426260,2859149211,3708227201#notes:PvE - Handling MW
+dimwishlist:item=3381450498&perks=3809316345,1087426260,2859149211,3708227201#notes:PvE - Handling MW
+dimwishlist:item=3381450498&perks=1478423395,2822142346,2859149211,3708227201#notes:PvE - Handling MW
+dimwishlist:item=3381450498&perks=1844523823,2822142346,2859149211,3708227201#notes:PvE - Handling MW
+dimwishlist:item=3381450498&perks=1441682018,2822142346,2859149211,3708227201#notes:PvE - Handling MW
+dimwishlist:item=3381450498&perks=3525010810,2822142346,2859149211,3708227201#notes:PvE - Handling MW
+dimwishlist:item=3381450498&perks=3809316345,2822142346,2859149211,3708227201#notes:PvE - Handling MW
+dimwishlist:item=3381450498&perks=1478423395,1380253176,2859149211,3708227201#notes:PvE - Handling MW
+dimwishlist:item=3381450498&perks=1844523823,1380253176,2859149211,3708227201#notes:PvE - Handling MW
+dimwishlist:item=3381450498&perks=1441682018,1380253176,2859149211,3708227201#notes:PvE - Handling MW
+dimwishlist:item=3381450498&perks=3525010810,1380253176,2859149211,3708227201#notes:PvE - Handling MW
+dimwishlist:item=3381450498&perks=3809316345,1380253176,2859149211,3708227201#notes:PvE - Handling MW
+dimwishlist:item=3381450498&perks=106909392,2859149211,3708227201#notes:PvE - Handling MW
+dimwishlist:item=3381450498&perks=3230963543,2859149211,3708227201#notes:PvE - Handling MW
+dimwishlist:item=3381450498&perks=1087426260,2859149211,3708227201#notes:PvE - Handling MW
+dimwishlist:item=3381450498&perks=2822142346,2859149211,3708227201#notes:PvE - Handling MW
+dimwishlist:item=3381450498&perks=1380253176,2859149211,3708227201#notes:PvE - Handling MW
+dimwishlist:item=3381450498&perks=1478423395,2859149211,3708227201#notes:PvE - Handling MW
+dimwishlist:item=3381450498&perks=1844523823,2859149211,3708227201#notes:PvE - Handling MW
+dimwishlist:item=3381450498&perks=1441682018,2859149211,3708227201#notes:PvE - Handling MW
+dimwishlist:item=3381450498&perks=3525010810,2859149211,3708227201#notes:PvE - Handling MW
+dimwishlist:item=3381450498&perks=3809316345,2859149211,3708227201#notes:PvE - Handling MW
+dimwishlist:item=3381450498&perks=2859149211,3708227201#notes:PvE - Handling MW
 // Buzzard
 dimwishlist:item=927835311&perks=4090651448,3230963543,3643424744,3891536761#notes:PvE Flawless - Reload MW
 dimwishlist:item=213264394&perks=4090651448,3230963543,3643424744,3891536761#notes:PvE Flawless - Reload MW
@@ -11149,13 +11275,13 @@ dimwishlist:item=-2599338625
 dimwishlist:item=-555148853
 dimwishlist:item=-1854753404
 dimwishlist:item=-3915197957
+dimwishlist:item=-1762785662
 dimwishlist:item=-2738601016
 dimwishlist:item=-874623537
 dimwishlist:item=-2039776723
 dimwishlist:item=-568611923
 dimwishlist:item=-2228325504
 dimwishlist:item=-3165547384
-dimwishlist:item=-268260372
 dimwishlist:item=-1845372864
 dimwishlist:item=-254636484
 dimwishlist:item=-4005780578
@@ -11504,6 +11630,7 @@ dimwishlist:item=-3183283212
 dimwishlist:item=-867154247
 dimwishlist:item=-2972949637
 dimwishlist:item=-495442100
+dimwishlist:item=-268260372
 dimwishlist:item=-2680976411
 dimwishlist:item=-1757202961
 dimwishlist:item=-2978226043
