@@ -2,8 +2,6 @@ title: Nam's Curated Rolls
 dimwishlist:item=3558681245
 dimwishlist:item=2598420927
 dimwishlist:item=1183116657
-dimwishlist:item=2761869150
-dimwishlist:item=425681240
 dimwishlist:item=1845372864
 dimwishlist:item=2298039571
 dimwishlist:item=3997086838
@@ -17,7 +15,6 @@ dimwishlist:item=2199554524
 dimwishlist:item=689294985
 dimwishlist:item=3433930495
 dimwishlist:item=4224667951
-dimwishlist:item=3612142623
 dimwishlist:item=3423493037
 dimwishlist:item=3649985571
 dimwishlist:item=2130875369
@@ -1587,6 +1584,63 @@ dimwishlist:item=568611921&perks=3809316345,2822142346,1583705720,2396489472#not
 dimwishlist:item=2480074702&perks=1441682018,2822142346,1583705720,2396489472#notes:PvE - Reload MW
 dimwishlist:item=568611921&perks=1441682018,2822142346,1583705720,2396489472#notes:PvE - Reload MW
 dimwishlist:item=2480074702&perks=1583705720,2396489472#notes:PvE - Reload MW
+// Ignition Code
+dimwishlist:item=2761869150&perks=3525010810,3032599245,3161816588,4104185692#notes:PvE Flawless - Handling MW
+dimwishlist:item=2761869150&perks=3809316345,3032599245,3161816588,4104185692#notes:PvE Excellent - Handling MW
+dimwishlist:item=2761869150&perks=1844523823,3032599245,3161816588,4104185692#notes:PvE Excellent - Handling MW
+dimwishlist:item=2761869150&perks=1478423395,3032599245,3161816588,4104185692#notes:PvE Excellent - Handling MW
+dimwishlist:item=2761869150&perks=1441682018,3032599245,3161816588,4104185692#notes:PvE Excellent - Handling MW
+dimwishlist:item=2761869150&perks=981914802,3032599245,3161816588,4104185692#notes:PvE Excellent - Handling MW
+dimwishlist:item=2761869150&perks=3032599245,3161816588,4104185692#notes:PvE - Handling MW
+dimwishlist:item=2761869150&perks=3525010810,3032599245,1556840489,4104185692#notes:PvE Flawless - Handling MW
+dimwishlist:item=2761869150&perks=3809316345,3032599245,1556840489,4104185692#notes:PvE Excellent - Handling MW
+dimwishlist:item=2761869150&perks=1844523823,3032599245,1556840489,4104185692#notes:PvE Excellent - Handling MW
+dimwishlist:item=2761869150&perks=1478423395,3032599245,1556840489,4104185692#notes:PvE Excellent - Handling MW
+dimwishlist:item=2761869150&perks=1441682018,3032599245,1556840489,4104185692#notes:PvE Excellent - Handling MW
+dimwishlist:item=2761869150&perks=981914802,3032599245,1556840489,4104185692#notes:PvE Excellent - Handling MW
+dimwishlist:item=2761869150&perks=3032599245,1556840489,4104185692#notes:PvE - Handling MW
+dimwishlist:item=2761869150&perks=3525010810,3301904089,3161816588,4104185692#notes:PvE Flawless - Handling MW
+dimwishlist:item=2761869150&perks=3809316345,3301904089,3161816588,4104185692#notes:PvE Excellent - Handling MW
+dimwishlist:item=2761869150&perks=1844523823,3301904089,3161816588,4104185692#notes:PvE Excellent - Handling MW
+dimwishlist:item=2761869150&perks=1478423395,3301904089,3161816588,4104185692#notes:PvE Excellent - Handling MW
+dimwishlist:item=2761869150&perks=1441682018,3301904089,3161816588,4104185692#notes:PvE Excellent - Handling MW
+dimwishlist:item=2761869150&perks=981914802,3301904089,3161816588,4104185692#notes:PvE Excellent - Handling MW
+dimwishlist:item=2761869150&perks=3301904089,3161816588,4104185692#notes:PvE - Handling MW
+dimwishlist:item=2761869150&perks=3525010810,3301904089,1556840489,4104185692#notes:PvE Flawless - Handling MW
+dimwishlist:item=2761869150&perks=3809316345,3301904089,1556840489,4104185692#notes:PvE Excellent - Handling MW
+dimwishlist:item=2761869150&perks=1844523823,3301904089,1556840489,4104185692#notes:PvE Excellent - Handling MW
+dimwishlist:item=2761869150&perks=1478423395,3301904089,1556840489,4104185692#notes:PvE Excellent - Handling MW
+dimwishlist:item=2761869150&perks=1441682018,3301904089,1556840489,4104185692#notes:PvE Excellent - Handling MW
+dimwishlist:item=2761869150&perks=981914802,3301904089,1556840489,4104185692#notes:PvE Excellent - Handling MW
+dimwishlist:item=2761869150&perks=3301904089,1556840489,4104185692#notes:PvE - Handling MW
+dimwishlist:item=2761869150&perks=3525010810,3032599245,3161816588,1546637391#notes:PvE Flawless - Handling MW
+dimwishlist:item=2761869150&perks=3809316345,3032599245,3161816588,1546637391#notes:PvE Excellent - Handling MW
+dimwishlist:item=2761869150&perks=1844523823,3032599245,3161816588,1546637391#notes:PvE Excellent - Handling MW
+dimwishlist:item=2761869150&perks=1478423395,3032599245,3161816588,1546637391#notes:PvE Excellent - Handling MW
+dimwishlist:item=2761869150&perks=1441682018,3032599245,3161816588,1546637391#notes:PvE Excellent - Handling MW
+dimwishlist:item=2761869150&perks=981914802,3032599245,3161816588,1546637391#notes:PvE Excellent - Handling MW
+dimwishlist:item=2761869150&perks=3032599245,3161816588,1546637391#notes:PvE - Handling MW
+dimwishlist:item=2761869150&perks=3525010810,3032599245,1556840489,1546637391#notes:PvE Flawless - Handling MW
+dimwishlist:item=2761869150&perks=3809316345,3032599245,1556840489,1546637391#notes:PvE Excellent - Handling MW
+dimwishlist:item=2761869150&perks=1844523823,3032599245,1556840489,1546637391#notes:PvE Excellent - Handling MW
+dimwishlist:item=2761869150&perks=1478423395,3032599245,1556840489,1546637391#notes:PvE Excellent - Handling MW
+dimwishlist:item=2761869150&perks=1441682018,3032599245,1556840489,1546637391#notes:PvE Excellent - Handling MW
+dimwishlist:item=2761869150&perks=981914802,3032599245,1556840489,1546637391#notes:PvE Excellent - Handling MW
+dimwishlist:item=2761869150&perks=3032599245,1556840489,1546637391#notes:PvE - Handling MW
+dimwishlist:item=2761869150&perks=3525010810,3301904089,3161816588,1546637391#notes:PvE Flawless - Handling MW
+dimwishlist:item=2761869150&perks=3809316345,3301904089,3161816588,1546637391#notes:PvE Excellent - Handling MW
+dimwishlist:item=2761869150&perks=1844523823,3301904089,3161816588,1546637391#notes:PvE Excellent - Handling MW
+dimwishlist:item=2761869150&perks=1478423395,3301904089,3161816588,1546637391#notes:PvE Excellent - Handling MW
+dimwishlist:item=2761869150&perks=1441682018,3301904089,3161816588,1546637391#notes:PvE Excellent - Handling MW
+dimwishlist:item=2761869150&perks=981914802,3301904089,3161816588,1546637391#notes:PvE Excellent - Handling MW
+dimwishlist:item=2761869150&perks=3301904089,3161816588,1546637391#notes:PvE - Handling MW
+dimwishlist:item=2761869150&perks=3525010810,3301904089,1556840489,1546637391#notes:PvE Flawless - Handling MW
+dimwishlist:item=2761869150&perks=3809316345,3301904089,1556840489,1546637391#notes:PvE Excellent - Handling MW
+dimwishlist:item=2761869150&perks=1844523823,3301904089,1556840489,1546637391#notes:PvE Excellent - Handling MW
+dimwishlist:item=2761869150&perks=1478423395,3301904089,1556840489,1546637391#notes:PvE Excellent - Handling MW
+dimwishlist:item=2761869150&perks=1441682018,3301904089,1556840489,1546637391#notes:PvE Excellent - Handling MW
+dimwishlist:item=2761869150&perks=981914802,3301904089,1556840489,1546637391#notes:PvE Excellent - Handling MW
+dimwishlist:item=2761869150&perks=3301904089,1556840489,1546637391#notes:PvE - Handling MW
 // Mountaintop
 dimwishlist:item=4043921923&perks=981914802,3492396210,3300816228,4104185692#notes:PvE Flawless - Handling MW
 dimwishlist:item=568611922&perks=981914802,3492396210,3300816228,4104185692#notes:PvE Flawless - Handling MW
@@ -8002,6 +8056,133 @@ dimwishlist:item=4019668921&perks=4090651448,3142289711,3700496672,1048183818#no
 dimwishlist:item=4019668921&perks=839105230,3142289711,3700496672,4293542123#notes:PvE Flawless - Stability MW
 dimwishlist:item=4019668921&perks=4090651448,3142289711,3700496672,4293542123#notes:PvE Excellent - Stability MW
 dimwishlist:item=4019668921&perks=839105230,3142289711,3700496672,3038247973#notes:PvE Flawless - Stability MW
+// Live Fire
+dimwishlist:item=3612142623&perks=839105230,1885400500,1955165503,124408337#notes:PvE Flawless - Stability MW
+dimwishlist:item=3612142623&perks=4090651448,1885400500,1955165503,124408337#notes:PvE Excellent - Stability MW
+dimwishlist:item=3612142623&perks=3661387068,1885400500,1955165503,124408337#notes:PvE Excellent - Stability MW
+dimwishlist:item=3612142623&perks=1840239774,1885400500,1955165503,124408337#notes:PvE Excellent - Stability MW
+dimwishlist:item=3612142623&perks=1467527085,1885400500,1955165503,124408337#notes:PvE Excellent - Stability MW
+dimwishlist:item=3612142623&perks=202670084,1885400500,1955165503,124408337#notes:PvE Excellent - Stability MW
+dimwishlist:item=3612142623&perks=839105230,1561002382,1955165503,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=4090651448,1561002382,1955165503,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=3661387068,1561002382,1955165503,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=1840239774,1561002382,1955165503,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=1467527085,1561002382,1955165503,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=202670084,1561002382,1955165503,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=839105230,3230963543,1955165503,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=4090651448,3230963543,1955165503,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=3661387068,3230963543,1955165503,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=1840239774,3230963543,1955165503,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=1467527085,3230963543,1955165503,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=202670084,3230963543,1955165503,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=839105230,1968497646,1955165503,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=4090651448,1968497646,1955165503,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=3661387068,1968497646,1955165503,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=1840239774,1968497646,1955165503,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=1467527085,1968497646,1955165503,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=202670084,1968497646,1955165503,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=839105230,679225683,1955165503,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=4090651448,679225683,1955165503,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=3661387068,679225683,1955165503,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=1840239774,679225683,1955165503,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=1467527085,679225683,1955165503,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=202670084,679225683,1955165503,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=1885400500,1955165503,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=1561002382,1955165503,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=3230963543,1955165503,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=1968497646,1955165503,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=679225683,1955165503,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=839105230,1955165503,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=4090651448,1955165503,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=3661387068,1955165503,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=1840239774,1955165503,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=1467527085,1955165503,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=202670084,1955165503,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=1955165503,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=839105230,3142289711,247725512,124408337#notes:PvE Flawless - Stability MW
+dimwishlist:item=3612142623&perks=4090651448,3142289711,247725512,124408337#notes:PvE Excellent - Stability MW
+dimwishlist:item=3612142623&perks=3661387068,3142289711,247725512,124408337#notes:PvE Excellent - Stability MW
+dimwishlist:item=3612142623&perks=1840239774,3142289711,247725512,124408337#notes:PvE Excellent - Stability MW
+dimwishlist:item=3612142623&perks=1467527085,3142289711,247725512,124408337#notes:PvE Excellent - Stability MW
+dimwishlist:item=3612142623&perks=202670084,3142289711,247725512,124408337#notes:PvE Excellent - Stability MW
+dimwishlist:item=3612142623&perks=839105230,106909392,247725512,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=4090651448,106909392,247725512,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=3661387068,106909392,247725512,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=1840239774,106909392,247725512,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=1467527085,106909392,247725512,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=202670084,106909392,247725512,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=839105230,1087426260,247725512,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=4090651448,1087426260,247725512,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=3661387068,1087426260,247725512,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=1840239774,1087426260,247725512,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=1467527085,1087426260,247725512,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=202670084,1087426260,247725512,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=839105230,3230963543,247725512,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=4090651448,3230963543,247725512,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=3661387068,3230963543,247725512,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=1840239774,3230963543,247725512,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=1467527085,3230963543,247725512,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=202670084,3230963543,247725512,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=839105230,2420895100,247725512,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=4090651448,2420895100,247725512,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=3661387068,2420895100,247725512,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=1840239774,2420895100,247725512,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=1467527085,2420895100,247725512,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=202670084,2420895100,247725512,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=3142289711,247725512,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=106909392,247725512,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=1087426260,247725512,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=3230963543,247725512,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=2420895100,247725512,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=839105230,247725512,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=4090651448,247725512,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=3661387068,247725512,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=1840239774,247725512,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=1467527085,247725512,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=202670084,247725512,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=247725512,124408337#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=839105230,3142289711,247725512,3700496672#notes:PvE Flawless - Stability MW
+dimwishlist:item=3612142623&perks=4090651448,3142289711,247725512,3700496672#notes:PvE Excellent - Stability MW
+dimwishlist:item=3612142623&perks=3661387068,3142289711,247725512,3700496672#notes:PvE Excellent - Stability MW
+dimwishlist:item=3612142623&perks=1840239774,3142289711,247725512,3700496672#notes:PvE Excellent - Stability MW
+dimwishlist:item=3612142623&perks=1467527085,3142289711,247725512,3700496672#notes:PvE Excellent - Stability MW
+dimwishlist:item=3612142623&perks=202670084,3142289711,247725512,3700496672#notes:PvE Excellent - Stability MW
+dimwishlist:item=3612142623&perks=839105230,106909392,247725512,3700496672#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=4090651448,106909392,247725512,3700496672#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=3661387068,106909392,247725512,3700496672#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=1840239774,106909392,247725512,3700496672#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=1467527085,106909392,247725512,3700496672#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=202670084,106909392,247725512,3700496672#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=839105230,1087426260,247725512,3700496672#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=4090651448,1087426260,247725512,3700496672#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=3661387068,1087426260,247725512,3700496672#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=1840239774,1087426260,247725512,3700496672#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=1467527085,1087426260,247725512,3700496672#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=202670084,1087426260,247725512,3700496672#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=839105230,3230963543,247725512,3700496672#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=4090651448,3230963543,247725512,3700496672#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=3661387068,3230963543,247725512,3700496672#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=1840239774,3230963543,247725512,3700496672#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=1467527085,3230963543,247725512,3700496672#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=202670084,3230963543,247725512,3700496672#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=839105230,2420895100,247725512,3700496672#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=4090651448,2420895100,247725512,3700496672#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=3661387068,2420895100,247725512,3700496672#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=1840239774,2420895100,247725512,3700496672#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=1467527085,2420895100,247725512,3700496672#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=202670084,2420895100,247725512,3700496672#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=3142289711,247725512,3700496672#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=106909392,247725512,3700496672#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=1087426260,247725512,3700496672#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=3230963543,247725512,3700496672#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=2420895100,247725512,3700496672#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=839105230,247725512,3700496672#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=4090651448,247725512,3700496672#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=3661387068,247725512,3700496672#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=1840239774,247725512,3700496672#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=1467527085,247725512,3700496672#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=202670084,247725512,3700496672#notes:PvE - Stability MW
+dimwishlist:item=3612142623&perks=247725512,3700496672#notes:PvE - Stability MW
 // First In Last Out
 dimwishlist:item=3616586446&perks=3250034553,791862061,3300816228,1546637391#notes:PvE Flawless - Range MW
 dimwishlist:item=3616586446&perks=1482024992,791862061,3300816228,1546637391#notes:PvE Excellent - Range MW
@@ -8391,24 +8572,7 @@ dimwishlist:item=3753063346&perks=4090651448,1087426260,3300816228,1546637391#no
 dimwishlist:item=3753063346&perks=1467527085,1087426260,3300816228,1546637391#notes:PvE - Range MW
 dimwishlist:item=3753063346&perks=202670084,1087426260,3300816228,1546637391#notes:PvE - Range MW
 dimwishlist:item=3753063346&perks=1332244541,1087426260,3300816228,1546637391#notes:PvE - Range MW
-dimwishlist:item=3753063346&perks=3250034553,679225683,3300816228,1546637391#notes:PvE - Range MW
-dimwishlist:item=3753063346&perks=1482024992,679225683,3300816228,1546637391#notes:PvE - Range MW
-dimwishlist:item=3753063346&perks=4090651448,679225683,3300816228,1546637391#notes:PvE - Range MW
-dimwishlist:item=3753063346&perks=1467527085,679225683,3300816228,1546637391#notes:PvE - Range MW
-dimwishlist:item=3753063346&perks=202670084,679225683,3300816228,1546637391#notes:PvE - Range MW
-dimwishlist:item=3753063346&perks=1332244541,679225683,3300816228,1546637391#notes:PvE - Range MW
-dimwishlist:item=3753063346&perks=791862061,3300816228,1546637391#notes:PvE - Range MW
-dimwishlist:item=3753063346&perks=3142289711,3300816228,1546637391#notes:PvE - Range MW
-dimwishlist:item=3753063346&perks=106909392,3300816228,1546637391#notes:PvE - Range MW
-dimwishlist:item=3753063346&perks=1087426260,3300816228,1546637391#notes:PvE - Range MW
-dimwishlist:item=3753063346&perks=679225683,3300816228,1546637391#notes:PvE - Range MW
-dimwishlist:item=3753063346&perks=3250034553,3300816228,1546637391#notes:PvE - Range MW
-dimwishlist:item=3753063346&perks=1482024992,3300816228,1546637391#notes:PvE - Range MW
-dimwishlist:item=3753063346&perks=4090651448,3300816228,1546637391#notes:PvE - Range MW
-dimwishlist:item=3753063346&perks=1467527085,3300816228,1546637391#notes:PvE - Range MW
-dimwishlist:item=3753063346&perks=202670084,3300816228,1546637391#notes:PvE - Range MW
-dimwishlist:item=3753063346&perks=1332244541,3300816228,1546637391#notes:PvE - Range MW
-dimwishlist:item=3753063346&perks=3300816228,1546637391#notes:PvE - Range MW
+dimwishlist:item=3753063346&perks=3250034553,2420895100,3300816228,1546637391#notes:PvE - Range MW
 // Seventh Seraph CQC 12
 dimwishlist:item=1821724780&perks=1332244541,791862061,706527188,957782887#notes:PvP Flawless - Handling MW
 dimwishlist:item=1821724780&perks=1047830412,791862061,706527188,957782887#notes:PvP Excellent - Handling MW
@@ -12016,7 +12180,6 @@ dimwishlist:item=-1332123064
 dimwishlist:item=-959037361
 dimwishlist:item=-2599338624
 dimwishlist:item=-1197771438
-dimwishlist:item=-425681240
 dimwishlist:item=-1762785663
 dimwishlist:item=-2306182339
 dimwishlist:item=-2599338625
@@ -12362,6 +12525,7 @@ dimwishlist:item=-1125217994
 dimwishlist:item=-3568377122
 dimwishlist:item=-1218113510
 dimwishlist:item=-413901114
+dimwishlist:item=-425681240
 dimwishlist:item=-407621213
 dimwishlist:item=-3565520715
 dimwishlist:item=-981718087
