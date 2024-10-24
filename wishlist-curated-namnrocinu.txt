@@ -5609,6 +5609,8 @@ dimwishlist:item=1246793994&perks=1482024992,3828510309,4104185692#notes:PvE - R
 dimwishlist:item=1246793994&perks=3250034553,3828510309,4104185692#notes:PvE - Range MW
 dimwishlist:item=1246793994&perks=1840239774,3828510309,4104185692#notes:PvE - Range MW
 dimwishlist:item=1246793994&perks=3828510309,4104185692#notes:PvE - Range MW
+dimwishlist:item=1246793994&perks=839105230,3142289711,247725512,4104185692#notes:PvE Flawless - Range MW
+dimwishlist:item=1246793994&perks=3661387068,3142289711,247725512,4104185692#notes:PvE Excellent - Range MW
 // Line in the Sand
 dimwishlist:item=2450049485&perks=839105230,689005463,2284787283,3078487919#notes:PvE Flawless - Charge MW
 dimwishlist:item=2450049485&perks=4090651448,689005463,2284787283,3078487919#notes:PvE Excellent - Charge MW
