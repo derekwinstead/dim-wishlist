@@ -15026,14 +15026,6 @@ dimwishlist:item=1681583613&perks=666#notes:PvE Flawless - Impact MW
 dimwishlist:item=1681583613&perks=666#notes:PvE Flawless - Impact MW
 dimwishlist:item=1681583613&perks=3666208348,269888150,519046634#notes:PvE Flawless - Impact MW
 dimwishlist:item=1681583613&perks=2827049491,269888150,519046634#notes:PvE Excellent - Impact MW
-dimwishlist:item=1681583613&perks=436053704,269888150,519046634#notes:PvE Excellent - Impact MW
-dimwishlist:item=1681583613&perks=3666208348,519046634#notes:PvE - Impact MW
-dimwishlist:item=1681583613&perks=2827049491,519046634#notes:PvE - Impact MW
-dimwishlist:item=1681583613&perks=436053704,519046634#notes:PvE - Impact MW
-dimwishlist:item=1681583613&perks=269888150,519046634#notes:PvE - Impact MW
-dimwishlist:item=1681583613&perks=269888150,519046634#notes:PvE - Impact MW
-dimwishlist:item=1681583613&perks=269888150,519046634#notes:PvE - Impact MW
-dimwishlist:item=1681583613&perks=519046634#notes:PvE - Impact MW
 dimwishlist:item=1681583613&perks=3666208348,269888150,289811733#notes:PvE Flawless - Impact MW
 dimwishlist:item=1681583613&perks=2827049491,269888150,289811733#notes:PvE Excellent - Impact MW
 dimwishlist:item=1681583613&perks=436053704,269888150,289811733#notes:PvE Excellent - Impact MW
@@ -15054,26 +15046,20 @@ dimwishlist:item=1681583613&perks=269888150,2753228730#notes:PvE - Impact MW
 dimwishlist:item=1681583613&perks=269888150,2753228730#notes:PvE - Impact MW
 dimwishlist:item=1681583613&perks=269888150,2753228730#notes:PvE - Impact MW
 dimwishlist:item=1681583613&perks=2753228730#notes:PvE - Impact MW
-dimwishlist:item=1681583613&perks=3666208348,269888150,289811733#notes:PvE Flawless - Impact MW
-dimwishlist:item=1681583613&perks=2827049491,269888150,289811733#notes:PvE Excellent - Impact MW
+dimwishlist:item=1681583613&perks=1261178282,269888150,289811733#notes:PvE Flawless - Impact MW
 dimwishlist:item=1681583613&perks=436053704,269888150,289811733#notes:PvE Excellent - Impact MW
-dimwishlist:item=1681583613&perks=3666208348,289811733#notes:PvE - Impact MW
-dimwishlist:item=1681583613&perks=2827049491,289811733#notes:PvE - Impact MW
+dimwishlist:item=1681583613&perks=938542991,269888150,289811733#notes:PvE Excellent - Impact MW
+dimwishlist:item=1681583613&perks=1261178282,289811733#notes:PvE - Impact MW
 dimwishlist:item=1681583613&perks=436053704,289811733#notes:PvE - Impact MW
+dimwishlist:item=1681583613&perks=938542991,289811733#notes:PvE - Impact MW
 dimwishlist:item=1681583613&perks=269888150,289811733#notes:PvE - Impact MW
 dimwishlist:item=1681583613&perks=269888150,289811733#notes:PvE - Impact MW
 dimwishlist:item=1681583613&perks=269888150,289811733#notes:PvE - Impact MW
 dimwishlist:item=1681583613&perks=289811733#notes:PvE - Impact MW
-dimwishlist:item=1681583613&perks=3666208348,269888150#notes:PvE - Impact MW
-dimwishlist:item=1681583613&perks=2827049491,269888150#notes:PvE - Impact MW
+dimwishlist:item=1681583613&perks=1261178282,269888150#notes:PvE - Impact MW
 dimwishlist:item=1681583613&perks=436053704,269888150#notes:PvE - Impact MW
-dimwishlist:item=1681583613&perks=3666208348#notes:PvE - Impact MW
-dimwishlist:item=1681583613&perks=2827049491#notes:PvE - Impact MW
-dimwishlist:item=1681583613&perks=436053704#notes:PvE - Impact MW
-dimwishlist:item=1681583613&perks=269888150#notes:PvE - Impact MW
-dimwishlist:item=1681583613&perks=269888150#notes:PvE - Impact MW
-dimwishlist:item=1681583613&perks=269888150#notes:PvE - Impact MW
-dimwishlist:item=1681583613#notes:PvE - Impact MW
+dimwishlist:item=1681583613&perks=938542991,269888150#notes:PvE - Impact MW
+dimwishlist:item=1681583613&perks=1261178282#notes:PvE - Impact MW
 // Slammer
 dimwishlist:item=1354727549&perks=3666208348,269888150,2077819806,3650930298#notes:PvE Flawless - Impact MW
 dimwishlist:item=2889501828&perks=3666208348,269888150,2077819806,3650930298#notes:PvE Flawless - Impact MW
