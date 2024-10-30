@@ -1,6 +1,7 @@
 title: Nam's Curated Rolls
 dimwishlist:item=3558681245
 dimwishlist:item=4176873718
+dimwishlist:item=425681240
 dimwishlist:item=2300143112
 dimwishlist:item=2378785953
 dimwishlist:item=689294985
@@ -8,6 +9,7 @@ dimwishlist:item=3433930495
 dimwishlist:item=3423493037
 dimwishlist:item=3649985571
 dimwishlist:item=825495813
+dimwishlist:item=2477980485
 dimwishlist:item=1711056134
 dimwishlist:item=2839600459
 dimwishlist:item=666
@@ -102,6 +104,7 @@ dimwishlist:item=1432682459&perks=839105230,1885400500,247725512,31345821#notes:
 dimwishlist:item=2779821308&perks=839105230,106909392,3700496672,3038247973#notes:PvE Crafted - Range MW
 dimwishlist:item=1937552980&perks=839105230,3142289711,3824105627,2848615171#notes:PvE - Range MW
 dimwishlist:item=1937552980&perks=839105230,106909392,3038247973,4104185692#notes:PvE Crafted - Range MW
+dimwishlist:item=3649985571&perks=4090651448,106909392,25606670,2360754333#notes:Pinnacle - Handling MW
 dimwishlist:item=3738678140&perks=1631667848,2679249093#notes:PvE - Range MW
 dimwishlist:item=4248569242&perks=3250034553,791862061,1523832109,2896038713#notes:PvE Crafted - Range MW
 dimwishlist:item=4248569242&perks=3250034553,791862061,1523832109,469285294#notes:PvE Crafted - Range MW
@@ -15140,6 +15143,7 @@ dimwishlist:item=-1332123064
 dimwishlist:item=-959037361
 dimwishlist:item=-2599338624
 dimwishlist:item=-1197771438
+dimwishlist:item=-425681240
 dimwishlist:item=-1762785663
 dimwishlist:item=-2306182339
 dimwishlist:item=-2599338625
@@ -15297,6 +15301,7 @@ dimwishlist:item=-3098328572
 dimwishlist:item=-2022294213
 dimwishlist:item=-501345268
 dimwishlist:item=-3000847393
+dimwishlist:item=-2477980485
 dimwishlist:item=-3637570176
 dimwishlist:item=-2059255495
 dimwishlist:item=-627188188
@@ -15463,7 +15468,6 @@ dimwishlist:item=-1125217994
 dimwishlist:item=-3568377122
 dimwishlist:item=-1218113510
 dimwishlist:item=-413901114
-dimwishlist:item=-425681240
 dimwishlist:item=-407621213
 dimwishlist:item=-3565520715
 dimwishlist:item=-981718087
@@ -15804,7 +15808,6 @@ dimwishlist:item=-676270382
 dimwishlist:item=-617501162
 dimwishlist:item=-1280894514
 dimwishlist:item=-3871226707
-dimwishlist:item=-2477980485
 dimwishlist:item=-2073794990
 dimwishlist:item=-852551895
 dimwishlist:item=-1150492185
