@@ -3,6 +3,7 @@ dimwishlist:item=4176873718
 dimwishlist:item=2300143112
 dimwishlist:item=2378785953
 dimwishlist:item=3433930495
+dimwishlist:item=480368036
 dimwishlist:item=3423493037
 dimwishlist:item=2913577176
 dimwishlist:item=825495813
@@ -71,7 +72,7 @@ dimwishlist:item=4230965989&perks=1392496348,106909392,1523832109,557221067#note
 dimwishlist:item=3103325054&perks=1392496348,2420895100,1354429876,365154968#notes:PvE Crafted - Stability MW
 dimwishlist:item=2126178511&perks=1840239774,3230963543,3828510309,2173046394#notes:PvE Crafted - Reload MW
 dimwishlist:item=3635821806&perks=1467527085,1885400500,3619207468,460017080#notes:PvP Crafted - Range MW
-dimwishlist:item=3830941962&perks=4090651448,3177308360,1583705720,2173046394#notes:PvE - Range MW
+dimwishlist:item=3830941962&perks=1583705720,2173046394#notes:PvE - Range MW
 dimwishlist:item=3830941962&perks=684456054,3966416502#notes:PvE - Range MW
 dimwishlist:item=2097055732&perks=839105230,1561002382,1428297954,588594999#notes:PvP Crafted - Range MW
 dimwishlist:item=2221264583&perks=839105230,3142289711,3523296417,3824105627#notes:PvE Crafted - Stability MW
@@ -917,23 +918,6 @@ dimwishlist:item=2598420927&perks=1482024992,106909392,1570042021,1015611457#not
 dimwishlist:item=2598420927&perks=1840239774,106909392,1570042021,1015611457#notes:PvP - Range MW
 dimwishlist:item=2598420927&perks=839105230,1087426260,1570042021,1015611457#notes:PvP - Range MW
 dimwishlist:item=2598420927&perks=4090651448,1087426260,1570042021,1015611457#notes:PvP - Range MW
-dimwishlist:item=2598420927&perks=3661387068,1087426260,1570042021,1015611457#notes:PvP - Range MW
-dimwishlist:item=2598420927&perks=1467527085,1087426260,1570042021,1015611457#notes:PvP - Range MW
-dimwishlist:item=2598420927&perks=3250034553,1087426260,1570042021,1015611457#notes:PvP - Range MW
-dimwishlist:item=2598420927&perks=1482024992,1087426260,1570042021,1015611457#notes:PvP - Range MW
-dimwishlist:item=2598420927&perks=1840239774,1087426260,1570042021,1015611457#notes:PvP - Range MW
-dimwishlist:item=2598420927&perks=3142289711,1570042021,1015611457#notes:PvP - Range MW
-dimwishlist:item=2598420927&perks=3230963543,1570042021,1015611457#notes:PvP - Range MW
-dimwishlist:item=2598420927&perks=106909392,1570042021,1015611457#notes:PvP - Range MW
-dimwishlist:item=2598420927&perks=1087426260,1570042021,1015611457#notes:PvP - Range MW
-dimwishlist:item=2598420927&perks=839105230,1570042021,1015611457#notes:PvP - Range MW
-dimwishlist:item=2598420927&perks=4090651448,1570042021,1015611457#notes:PvP - Range MW
-dimwishlist:item=2598420927&perks=3661387068,1570042021,1015611457#notes:PvP - Range MW
-dimwishlist:item=2598420927&perks=1467527085,1570042021,1015611457#notes:PvP - Range MW
-dimwishlist:item=2598420927&perks=3250034553,1570042021,1015611457#notes:PvP - Range MW
-dimwishlist:item=2598420927&perks=1482024992,1570042021,1015611457#notes:PvP - Range MW
-dimwishlist:item=2598420927&perks=1840239774,1570042021,1015611457#notes:PvP - Range MW
-dimwishlist:item=2598420927&perks=1570042021,1015611457#notes:PvP - Range MW
 dimwishlist:item=2598420927&perks=839105230,3142289711,2450788523,1015611457#notes:PvP Flawless - Range MW
 dimwishlist:item=2598420927&perks=4090651448,3142289711,2450788523,1015611457#notes:PvP Excellent - Range MW
 dimwishlist:item=2598420927&perks=3661387068,3142289711,2450788523,1015611457#notes:PvP Excellent - Range MW
@@ -9244,16 +9228,6 @@ dimwishlist:item=3381450498&perks=1441682018,2859149211,3673922083#notes:PvE - H
 dimwishlist:item=3381450498&perks=3525010810,2859149211,3673922083#notes:PvE - Handling MW
 dimwishlist:item=3381450498&perks=3809316345,2859149211,3673922083#notes:PvE - Handling MW
 dimwishlist:item=3381450498&perks=2859149211,3673922083#notes:PvE - Handling MW
-// Tinashas Mastery
-dimwishlist:item=480368036&perks=1421772400,2978966579#notes:PvE - Handling MW
-dimwishlist:item=480368036&perks=563069569,2978966579#notes:PvE - Handling MW
-dimwishlist:item=480368036&perks=3993379141,2978966579#notes:PvE - Handling MW
-dimwishlist:item=480368036&perks=1421772400,2109543898#notes:PvE - Handling MW
-dimwishlist:item=480368036&perks=563069569,2109543898#notes:PvE - Handling MW
-dimwishlist:item=480368036&perks=3993379141,2109543898#notes:PvE - Handling MW
-dimwishlist:item=480368036&perks=1421772400,3708227201#notes:PvE - Handling MW
-dimwishlist:item=480368036&perks=563069569,3708227201#notes:PvE - Handling MW
-dimwishlist:item=480368036&perks=3993379141,3708227201#notes:PvE - Handling MW
 // Crux Termination
 dimwishlist:item=1719687748&perks=1478423395,3796465595,1523832109,1439600632#notes:PvE Flawless - Handling MW
 dimwishlist:item=1719687748&perks=1478423395,3796465595,2284787283,1439600632#notes:PvE Flawless - Handling MW
