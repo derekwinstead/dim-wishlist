@@ -10778,6 +10778,8 @@ dimwishlist:item=3292795429&perks=1467527085,1870851715,1048183818#notes:PvE - S
 dimwishlist:item=3292795429&perks=3250034553,1870851715,1048183818#notes:PvE - Stability MW
 dimwishlist:item=3292795429&perks=1482024992,1870851715,1048183818#notes:PvE - Stability MW
 dimwishlist:item=3292795429&perks=1870851715,1048183818#notes:PvE - Stability MW
+dimwishlist:item=3292795429&perks=666#notes:PvE Flawless - Stability MW
+dimwishlist:item=3292795429&perks=3891536761#notes:PvE - Stability MW
 // Staccato-46
 dimwishlist:item=4019668921&perks=839105230,3142289711,3700496672,3038247973#notes:PvE Flawless - Stability MW
 dimwishlist:item=4019668921&perks=839105230,3142289711,3700496672,4293542123#notes:PvE Flawless - Stability MW
