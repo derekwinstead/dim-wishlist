@@ -4,8 +4,8 @@ dimwishlist:item=2378785953
 dimwishlist:item=3483485727
 dimwishlist:item=4224667951
 dimwishlist:item=3423493037
-dimwishlist:item=1711056134
-dimwishlist:item=2839600459
+dimwishlist:item=3612338554
+dimwishlist:item=1911078836
 // Unique and Crafted Weapons
 dimwishlist:item=3558681245&perks=839105230,1087426260,2579169598,1890422124#notes:PvP - Range MW
 dimwishlist:item=833898322&perks=839105230,1885400500,3017780555,4293542123#notes:PvE Crafted - Range MW
@@ -159,11 +159,10 @@ dimwishlist:item=3371413056&perks=3666208348,2363751990,1749209109,3913600130#no
 dimwishlist:item=3637669759&perks=1749209109,3913600130#notes:PvE - Impact MW
 dimwishlist:item=3637669759&perks=1261178282,269888150,1749209109,354401740#notes:PvE Flawless - Impact MW
 dimwishlist:item=3257091167&perks=436053704,269888150,2077819806,4104185692#notes:PvE Crafted - Impact MW
-dimwishlist:item=2827764482&perks=3661387068,2680121939,3700496672,2173046394#notes:PvE Crafted - Range MW
-dimwishlist:item=3493494807&perks=4090651448,2680121939,1523832109,1546637391#notes:PvE - Range MW
+dimwishlist:item=2827764482&perks=1840239774,2680121939,3700496672,2173046394#notes:PvE Crafted - Range MW
 dimwishlist:item=3493494807&perks=4090651448,2680121939,1523832109,4104185692#notes:PvE - Stability MW
-dimwishlist:item=1886840007&perks=839105230,2680121939,3700496672,2048641572#notes:PvE Crafted - Range MW
 dimwishlist:item=548958835&perks=839105230,2680121939,3700496672,3523296417#notes:PvE Crafted - Range MW
+dimwishlist:item=1886840007&perks=839105230,2680121939,3700496672,2048641572#notes:PvE Crafted - Range MW
 // VS Pyroelectric Propellant
 dimwishlist:item=4232480042&perks=839105230,1885400500,243981275,3966416502#notes:PvE Flawless - Range MW
 dimwishlist:item=4232480042&perks=4090651448,1885400500,243981275,3966416502#notes:PvE Excellent - Range MW
@@ -15577,10 +15576,11 @@ dimwishlist:item=-811403305
 dimwishlist:item=-655712834
 dimwishlist:item=-3959549446
 dimwishlist:item=-2477980485
-dimwishlist:item=-3637570176
-dimwishlist:item=-2059255495
 dimwishlist:item=-627188188
 dimwishlist:item=-1321626661
+dimwishlist:item=-3637570176
+dimwishlist:item=-2059255495
+dimwishlist:item=-3612338554
 dimwishlist:item=-2990047042
 dimwishlist:item=-2884596447
 dimwishlist:item=-3107853529
@@ -15620,9 +15620,6 @@ dimwishlist:item=-3743729616
 dimwishlist:item=-3355385170
 dimwishlist:item=-1387987271
 dimwishlist:item=-1150492185
-dimwishlist:item=-3612338554
-dimwishlist:item=-570866107
-dimwishlist:item=-686951703
 dimwishlist:item=-2800870005
 dimwishlist:item=-4067556514
 dimwishlist:item=-1645386487
@@ -15640,7 +15637,6 @@ dimwishlist:item=-1681583613
 dimwishlist:item=-1681583613
 dimwishlist:item=-1681583613
 dimwishlist:item=-3371413059
-dimwishlist:item=-3794274730
 dimwishlist:item=-2889501828
 dimwishlist:item=-1354727549
 dimwishlist:item=-1911078836
@@ -15650,32 +15646,22 @@ dimwishlist:item=-243425374
 dimwishlist:item=-3637669759
 dimwishlist:item=-3257091167
 dimwishlist:item=-250721843
-dimwishlist:item=-2508948099
-dimwishlist:item=-3438139008
-dimwishlist:item=-2782325302
 dimwishlist:item=-105164264
-dimwishlist:item=-3668817296
-dimwishlist:item=-2782325301
 dimwishlist:item=-4207120603
 dimwishlist:item=-3257091166
-dimwishlist:item=-2139640995
 dimwishlist:item=-2857348871
+dimwishlist:item=-3794274730
 dimwishlist:item=-1139727256
 dimwishlist:item=-1456017061
 dimwishlist:item=-3629968765
-dimwishlist:item=-2782325300
-dimwishlist:item=-1796949035
 dimwishlist:item=-1313528549
 dimwishlist:item=-3847137620
-dimwishlist:item=-4230993599
-dimwishlist:item=-35794111
-dimwishlist:item=-4066778670
 dimwishlist:item=-2827764482
 dimwishlist:item=-3493494807
-dimwishlist:item=-1711056134
-dimwishlist:item=-2839600459
-dimwishlist:item=-1886840007
 dimwishlist:item=-548958835
+dimwishlist:item=-1886840007
 dimwishlist:item=-1471212226
 dimwishlist:item=-4153087276
 dimwishlist:item=-2323544076
+dimwishlist:item=-1711056134
+dimwishlist:item=-2839600459
