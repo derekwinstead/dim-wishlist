@@ -154,7 +154,6 @@ dimwishlist:item=3569407878&perks=3666208348,269888150,243981275,3640170453#note
 dimwishlist:item=2001697739&perks=1749209109,3640170453#notes:PvE - Impact MW
 dimwishlist:item=2001697739&perks=243981275,3640170453#notes:PvE - Impact MW
 dimwishlist:item=3371413059&perks=3666208348,2349202967,3705817207,3708227201#notes:PvE Crafted - Impact MW
-dimwishlist:item=1911078836&perks=1749209109,3650930298#notes:PvE - Impact MW
 dimwishlist:item=3371413056&perks=3666208348,2363751990,1749209109,3913600130#notes:PvE Crafted - Impact MW
 dimwishlist:item=3637669759&perks=1749209109,3913600130#notes:PvE - Impact MW
 dimwishlist:item=3637669759&perks=1261178282,269888150,1749209109,354401740#notes:PvE Flawless - Impact MW
