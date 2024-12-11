@@ -141,7 +141,7 @@ dimwishlist:item=2884596447&perks=1840239774,1087426260,3418782618,3078487919#no
 dimwishlist:item=2884596447&perks=1840239774,1087426260,3418782618,3891536761#notes:PvE Crafted - Handling MW
 dimwishlist:item=2884596447&perks=1840239774,3230963543,957782887,47981717#notes:PvP Crafted - Handling MW
 dimwishlist:item=3107853529&perks=1840239774,1885400500,957782887,588594999#notes:PvP Crafted - Range MW
-dimwishlist:item=147444292&perks=1354429876,555281244#notes:PvE Crafted
+dimwishlist:item=147444292&perks=1840239774,3230963543,1354429876,555281244#notes:PvE Crafted - Handling MW
 dimwishlist:item=147444292&perks=1354429876,1546637391#notes:PvE Crafted
 dimwishlist:item=147444292&perks=3987942396,555281244#notes:PvE Crafted
 dimwishlist:item=147444292&perks=3987942396,1546637391#notes:PvE Crafted
@@ -15387,6 +15387,7 @@ dimwishlist:item=-542573208
 dimwishlist:item=-8293111
 dimwishlist:item=-996109059
 dimwishlist:item=-3504336176
+dimwishlist:item=-1019000888
 dimwishlist:item=-3556999246
 dimwishlist:item=-297296830
 dimwishlist:item=-1968410628
