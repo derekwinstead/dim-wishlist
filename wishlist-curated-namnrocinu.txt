@@ -5339,7 +5339,6 @@ dimwishlist:item=3652506829&perks=1482024992,3300816228,1546637391#notes:PvE [Ch
 dimwishlist:item=3652506829&perks=3300816228,1546637391#notes:PvE [Charge]
 dimwishlist:item=3652506829&perks=666#notes:PvE Godroll [Charge]
 dimwishlist:item=3652506829&perks=1771339417#notes:PvE [Charge]
-dimwishlist:item=3652506829&perks=666#notes:PvE Godroll [Charge]
 dimwishlist:item=3652506829&perks=3250034553,689005463,247725512,1546637391#notes:PvE [Charge]
 // Scintillation
 dimwishlist:item=1492522228&perks=839105230,689005463,3418782618,3078487919#notes:PvE Godroll [Charge] [Adept Mag]
