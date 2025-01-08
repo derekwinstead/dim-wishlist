@@ -7,7 +7,6 @@ dimwishlist:item=4224667951
 dimwishlist:item=3423493037
 dimwishlist:item=3206190066
 dimwishlist:item=3612338554
-dimwishlist:item=601948197
 // Unique and Crafted Weapons
 dimwishlist:item=833898322&perks=839105230,1885400500,3017780555,4293542123#notes:PvE Crafted [Range] [Tactical]
 dimwishlist:item=3782662983&perks=839105230,1885400500,1523832109,365154968#notes:PvE [Range] [Heavy Ammo Finder]
@@ -13733,7 +13732,6 @@ dimwishlist:item=-1681583613
 dimwishlist:item=-3371413059
 dimwishlist:item=-2889501828
 dimwishlist:item=-1354727549
-dimwishlist:item=-601948197
 dimwishlist:item=-3371413056
 dimwishlist:item=-1815105249
 dimwishlist:item=-3637669759
@@ -13749,6 +13747,7 @@ dimwishlist:item=-1456017061
 dimwishlist:item=-3629968765
 dimwishlist:item=-1313528549
 dimwishlist:item=-3847137620
+dimwishlist:item=-601948197
 dimwishlist:item=-2827764482
 dimwishlist:item=-3493494807
 dimwishlist:item=-548958835
