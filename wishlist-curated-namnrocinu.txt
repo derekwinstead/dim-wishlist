@@ -4,7 +4,6 @@ dimwishlist:item=1183116657
 dimwishlist:item=1845978721
 dimwishlist:item=1123433952
 dimwishlist:item=4224667951
-dimwishlist:item=3423493037
 dimwishlist:item=3206190066
 dimwishlist:item=3612338554
 // Unique and Crafted Weapons
@@ -10102,6 +10101,37 @@ dimwishlist:item=3612142623&perks=106909392,247725512,3700496672#notes:PvE [Stab
 dimwishlist:item=3612142623&perks=1087426260,247725512,3700496672#notes:PvE [Stability] [Heavy Ammo Finder]
 dimwishlist:item=3612142623&perks=3230963543,247725512,3700496672#notes:PvE [Stability] [Heavy Ammo Finder]
 dimwishlist:item=3612142623&perks=2420895100,247725512,3700496672#notes:PvE [Stability] [Heavy Ammo Finder]
+// Red Tape
+dimwishlist:item=3423493037&perks=839105230,3142289711,1955165503,124408337#notes:PvE Godroll [Stability] [Heavy Ammo Finder]
+dimwishlist:item=3423493037&perks=3661387068,3142289711,1955165503,124408337#notes:PvE Excellent [Stability] [Heavy Ammo Finder]
+dimwishlist:item=3423493037&perks=4090651448,3142289711,1955165503,124408337#notes:PvE Excellent [Stability] [Heavy Ammo Finder]
+dimwishlist:item=3423493037&perks=1467527085,3142289711,1955165503,124408337#notes:PvE Excellent [Stability] [Heavy Ammo Finder]
+dimwishlist:item=3423493037&perks=1840239774,3142289711,1955165503,124408337#notes:PvE Excellent [Stability] [Heavy Ammo Finder]
+dimwishlist:item=3423493037&perks=839105230,106909392,1955165503,124408337#notes:PvE [Stability] [Heavy Ammo Finder]
+dimwishlist:item=3423493037&perks=3661387068,106909392,1955165503,124408337#notes:PvE [Stability] [Heavy Ammo Finder]
+dimwishlist:item=3423493037&perks=4090651448,106909392,1955165503,124408337#notes:PvE [Stability] [Heavy Ammo Finder]
+dimwishlist:item=3423493037&perks=1467527085,106909392,1955165503,124408337#notes:PvE [Stability] [Heavy Ammo Finder]
+dimwishlist:item=3423493037&perks=1840239774,106909392,1955165503,124408337#notes:PvE [Stability] [Heavy Ammo Finder]
+dimwishlist:item=3423493037&perks=839105230,3230963543,1955165503,124408337#notes:PvE [Stability] [Heavy Ammo Finder]
+dimwishlist:item=3423493037&perks=3661387068,3230963543,1955165503,124408337#notes:PvE [Stability] [Heavy Ammo Finder]
+dimwishlist:item=3423493037&perks=4090651448,3230963543,1955165503,124408337#notes:PvE [Stability] [Heavy Ammo Finder]
+dimwishlist:item=3423493037&perks=1467527085,3230963543,1955165503,124408337#notes:PvE [Stability] [Heavy Ammo Finder]
+dimwishlist:item=3423493037&perks=1840239774,3230963543,1955165503,124408337#notes:PvE [Stability] [Heavy Ammo Finder]
+dimwishlist:item=3423493037&perks=839105230,1087426260,1955165503,124408337#notes:PvE [Stability] [Heavy Ammo Finder]
+dimwishlist:item=3423493037&perks=3661387068,1087426260,1955165503,124408337#notes:PvE [Stability] [Heavy Ammo Finder]
+dimwishlist:item=3423493037&perks=4090651448,1087426260,1955165503,124408337#notes:PvE [Stability] [Heavy Ammo Finder]
+dimwishlist:item=3423493037&perks=1467527085,1087426260,1955165503,124408337#notes:PvE [Stability] [Heavy Ammo Finder]
+dimwishlist:item=3423493037&perks=1840239774,1087426260,1955165503,124408337#notes:PvE [Stability] [Heavy Ammo Finder]
+dimwishlist:item=3423493037&perks=3142289711,1955165503,124408337#notes:PvE [Stability] [Heavy Ammo Finder]
+dimwishlist:item=3423493037&perks=106909392,1955165503,124408337#notes:PvE [Stability] [Heavy Ammo Finder]
+dimwishlist:item=3423493037&perks=3230963543,1955165503,124408337#notes:PvE [Stability] [Heavy Ammo Finder]
+dimwishlist:item=3423493037&perks=1087426260,1955165503,124408337#notes:PvE [Stability] [Heavy Ammo Finder]
+dimwishlist:item=3423493037&perks=839105230,1955165503,124408337#notes:PvE [Stability] [Heavy Ammo Finder]
+dimwishlist:item=3423493037&perks=3661387068,1955165503,124408337#notes:PvE [Stability] [Heavy Ammo Finder]
+dimwishlist:item=3423493037&perks=4090651448,1955165503,124408337#notes:PvE [Stability] [Heavy Ammo Finder]
+dimwishlist:item=3423493037&perks=1467527085,1955165503,124408337#notes:PvE [Stability] [Heavy Ammo Finder]
+dimwishlist:item=3423493037&perks=1840239774,1955165503,124408337#notes:PvE [Stability] [Heavy Ammo Finder]
+dimwishlist:item=3423493037&perks=1955165503,124408337#notes:PvE [Stability] [Heavy Ammo Finder]
 // First In Last Out
 dimwishlist:item=3616586446&perks=3250034553,791862061,3300816228,1546637391#notes:PvE Godroll [Range] [Backup Mag]
 dimwishlist:item=3616586446&perks=1482024992,791862061,3300816228,1546637391#notes:PvE Excellent [Range] [Backup Mag]
