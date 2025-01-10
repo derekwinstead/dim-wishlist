@@ -4521,6 +4521,12 @@ dimwishlist:item=2823644677&perks=4090651448,3142289711,1955165503,124408337#not
 dimwishlist:item=2823644677&perks=1482024992,3142289711,1955165503,124408337#notes:PvE Excellent [Range] [Tactical]
 dimwishlist:item=2823644677&perks=3250034553,3142289711,1955165503,124408337#notes:PvE Excellent [Range] [Tactical]
 dimwishlist:item=2823644677&perks=1840239774,3142289711,1955165503,124408337#notes:PvE Excellent [Range] [Tactical]
+dimwishlist:item=2823644677&perks=839105230,106909392,1955165503,124408337#notes:PvE Godroll [Range] [Tactical]
+dimwishlist:item=2823644677&perks=3661387068,106909392,1955165503,124408337#notes:PvE Excellent [Range] [Tactical]
+dimwishlist:item=2823644677&perks=4090651448,106909392,1955165503,124408337#notes:PvE Excellent [Range] [Tactical]
+dimwishlist:item=2823644677&perks=1482024992,106909392,1955165503,124408337#notes:PvE Excellent [Range] [Tactical]
+dimwishlist:item=2823644677&perks=3250034553,106909392,1955165503,124408337#notes:PvE Excellent [Range] [Tactical]
+dimwishlist:item=2823644677&perks=1840239774,106909392,1955165503,124408337#notes:PvE Excellent [Range] [Tactical]
 // Eyasluna
 dimwishlist:item=235827225&perks=1926090095,1885400500,1168162263,124408337#notes:PvE Godroll [Stability] [Tactical]
 dimwishlist:item=235827225&perks=1926090094,1885400500,1168162263,124408337#notes:PvE Excellent [Stability] [Tactical]
