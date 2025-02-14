@@ -1,5 +1,4 @@
 title: Nam's Curated Rolls
-dimwishlist:item=1390080550
 dimwishlist:item=568611921
 dimwishlist:item=690341468
 dimwishlist:item=3417731926
@@ -10,7 +9,6 @@ dimwishlist:item=1824586582
 dimwishlist:item=1834313033
 dimwishlist:item=3953163559
 dimwishlist:item=861521336
-dimwishlist:item=267672635
 dimwishlist:item=2671849376
 dimwishlist:item=2755584425
 dimwishlist:item=25228802
@@ -23,7 +21,6 @@ dimwishlist:item=1201528146
 dimwishlist:item=2666273249
 dimwishlist:item=751880654
 dimwishlist:item=2334480463
-dimwishlist:item=558794124
 dimwishlist:item=3218364298
 dimwishlist:item=3922217119
 dimwishlist:item=2697143634
@@ -32,7 +29,6 @@ dimwishlist:item=694275488
 dimwishlist:item=2226158470
 dimwishlist:item=337578911
 dimwishlist:item=2595813005
-dimwishlist:item=3776430252
 dimwishlist:item=851296754
 dimwishlist:item=3360937899
 dimwishlist:item=2992463569
@@ -133,6 +129,7 @@ dimwishlist:item=2126178511&perks=1840239774,3230963543,3828510309,2173046394#no
 dimwishlist:item=1924276978&perks=839105230,3142289711,1428297954,1015611457#notes:PvP [Stability]
 dimwishlist:item=3635821806&perks=1467527085,1885400500,3619207468,460017080#notes:PvP Crafted [Range] [Targeting Adjuster]
 dimwishlist:item=2533990645&perks=839105230,3230963543,2387244414,1015611457#notes:PvP [Reload] [Targeting Adjuster]
+dimwishlist:item=558794124&perks=2387244414,460017080#notes:PvP
 dimwishlist:item=2097055732&perks=839105230,1561002382,1428297954,588594999#notes:PvP Crafted [Range] [Targeting Adjuster]
 dimwishlist:item=2221264583&perks=839105230,3142289711,3523296417,3824105627#notes:PvE Crafted [Stability] [Heavy Ammo Finder]
 dimwishlist:item=3407395594&perks=3523296417,3824105627#notes:PvE [Stability] [Heavy Ammo Finder]
@@ -155,6 +152,10 @@ dimwishlist:item=1058098236&perks=839105230,106909392,3017780555,4293542123#note
 dimwishlist:item=1058098236&perks=839105230,106909392,3700496672,4293542123#notes:PvE Crafted [Reload]
 dimwishlist:item=3444688218&perks=839105230,3142289711,3017780555,4104185692#notes:PvE Godroll Crafted [Range] [Heavy Ammo Finder]
 dimwishlist:item=1432682459&perks=839105230,1885400500,247725512,31345821#notes:PvE Crafted [Range] [Heavy Ammo Finder]
+dimwishlist:item=3776430252&perks=776531651,1464081238#notes:PvE
+dimwishlist:item=3776430252&perks=776531651,4104185692#notes:PvE
+dimwishlist:item=3776430252&perks=247725512,1464081238#notes:PvE
+dimwishlist:item=3776430252&perks=247725512,4104185692#notes:PvE
 dimwishlist:item=2779821308&perks=839105230,106909392,3700496672,3038247973#notes:PvE Crafted [Range]
 dimwishlist:item=1937552980&perks=839105230,3142289711,3824105627,2848615171#notes:PvE [Range] [Heavy Ammo Finder]
 dimwishlist:item=1937552980&perks=839105230,106909392,3038247973,4104185692#notes:PvE Crafted [Range] [Heavy Ammo Finder]
@@ -15729,7 +15730,6 @@ dimwishlist:item=-2119346509
 dimwishlist:item=-1801007332
 dimwishlist:item=-1820994983
 dimwishlist:item=-1292594730
-dimwishlist:item=-1390080550
 dimwishlist:item=-3685470415
 dimwishlist:item=-3229982889
 dimwishlist:item=-3485029080
@@ -15748,6 +15748,7 @@ dimwishlist:item=-927567426
 dimwishlist:item=-355382946
 dimwishlist:item=-435216110
 dimwishlist:item=-1135050595
+dimwishlist:item=-1390080550
 dimwishlist:item=-2778013407
 dimwishlist:item=-1690783811
 dimwishlist:item=-1788603939
@@ -15886,7 +15887,7 @@ dimwishlist:item=-4114929480
 dimwishlist:item=-3055192515
 dimwishlist:item=-3258665412
 dimwishlist:item=-2290416
-dimwishlist:item=-267672635
+dimwishlist:item=-254636484
 dimwishlist:item=-4005780578
 dimwishlist:item=-1141586039
 dimwishlist:item=-2298039571
@@ -15894,8 +15895,10 @@ dimwishlist:item=-3997086838
 dimwishlist:item=-2671849376
 dimwishlist:item=-2755584425
 dimwishlist:item=-25228802
+dimwishlist:item=-2595497736
 dimwishlist:item=-535198113
 dimwishlist:item=-1845372864
+dimwishlist:item=-267672635
 dimwishlist:item=-3001205424
 dimwishlist:item=-3123651616
 dimwishlist:item=-1757202961
