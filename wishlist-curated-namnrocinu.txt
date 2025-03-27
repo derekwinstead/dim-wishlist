@@ -19645,8 +19645,6 @@ dimwishlist:item=2029899814&perks=3661387068,2680121939,3643424744,3218042543#no
 dimwishlist:item=2029899814&perks=1840239774,2680121939,3643424744,3218042543#notes:PvE Excellent [Range] [Heavy Ammo Finder]
 dimwishlist:item=2029899814&perks=1467527085,2680121939,3643424744,3218042543#notes:PvE Excellent [Range] [Heavy Ammo Finder]
 dimwishlist:item=2029899814&perks=202670084,2680121939,3643424744,3218042543#notes:PvE Excellent [Range] [Heavy Ammo Finder]
-dimwishlist:item=2029899814&perks=839105230,732557052,3643424744,3218042543#notes:PvE [Range] [Heavy Ammo Finder]
-dimwishlist:item=2029899814&perks=4090651448,732557052,3643424744,3218042543#notes:PvE [Range] [Heavy Ammo Finder]
 dimwishlist:item=2029899814&perks=839105230,2680121939,3713215006,3966416502#notes:PvE Godroll [Range] [Heavy Ammo Finder]
 dimwishlist:item=2029899814&perks=4090651448,2680121939,3713215006,3966416502#notes:PvE Excellent [Range] [Heavy Ammo Finder]
 dimwishlist:item=2029899814&perks=3661387068,2680121939,3713215006,3966416502#notes:PvE Excellent [Range] [Heavy Ammo Finder]
