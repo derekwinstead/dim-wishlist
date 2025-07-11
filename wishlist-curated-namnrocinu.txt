@@ -1,14 +1,10 @@
 title: Nam's Curated Rolls
-dimwishlist:item=2129814338
-dimwishlist:item=880829467
-dimwishlist:item=749483159
-dimwishlist:item=4025177550
 dimwishlist:item=568611921
 dimwishlist:item=1824586582
-dimwishlist:item=1685406703
 dimwishlist:item=2934305134
-dimwishlist:item=1050582210
 dimwishlist:item=3210739171
+dimwishlist:item=1050582210
+dimwishlist:item=1685406703
 dimwishlist:item=4219826183
 dimwishlist:item=2226572694
 dimwishlist:item=1773934241
@@ -20,10 +16,6 @@ dimwishlist:item=4267192886
 dimwishlist:item=2210806903
 dimwishlist:item=1845978721
 dimwishlist:item=2334480463
-dimwishlist:item=3681280908
-dimwishlist:item=3733988413
-dimwishlist:item=1066598837
-dimwishlist:item=1827058652
 dimwishlist:item=3623686757
 dimwishlist:item=337578911
 dimwishlist:item=851296754
@@ -1703,20 +1695,6 @@ dimwishlist:item=559523765&perks=1844523823,3301904089,3987942396,1556840489#not
 dimwishlist:item=1206729100&perks=1844523823,3301904089,3987942396,1556840489#notes:PvE Excellent [Velocity] [Quick Access Sling]
 dimwishlist:item=2477408004&perks=3809316345,3301904089,3987942396,1556840489#notes:PvE Excellent [Velocity] [Quick Access Sling]
 dimwishlist:item=2982006965&perks=3809316345,3301904089,3987942396,1556840489#notes:PvE Excellent [Velocity] [Quick Access Sling]
-dimwishlist:item=559523765&perks=3809316345,3301904089,3987942396,1556840489#notes:PvE Excellent [Velocity] [Quick Access Sling]
-dimwishlist:item=1206729100&perks=3809316345,3301904089,3987942396,1556840489#notes:PvE Excellent [Velocity] [Quick Access Sling]
-dimwishlist:item=2477408004&perks=981914802,3301904089,3987942396,1556840489#notes:PvE Excellent [Velocity] [Quick Access Sling]
-dimwishlist:item=2982006965&perks=981914802,3301904089,3987942396,1556840489#notes:PvE Excellent [Velocity] [Quick Access Sling]
-dimwishlist:item=559523765&perks=981914802,3301904089,3987942396,1556840489#notes:PvE Excellent [Velocity] [Quick Access Sling]
-dimwishlist:item=1206729100&perks=981914802,3301904089,3987942396,1556840489#notes:PvE Excellent [Velocity] [Quick Access Sling]
-dimwishlist:item=2477408004&perks=1441682018,3301904089,3987942396,1556840489#notes:PvE Excellent [Velocity] [Quick Access Sling]
-dimwishlist:item=2982006965&perks=1441682018,3301904089,3987942396,1556840489#notes:PvE Excellent [Velocity] [Quick Access Sling]
-dimwishlist:item=559523765&perks=1441682018,3301904089,3987942396,1556840489#notes:PvE Excellent [Velocity] [Quick Access Sling]
-dimwishlist:item=1206729100&perks=1441682018,3301904089,3987942396,1556840489#notes:PvE Excellent [Velocity] [Quick Access Sling]
-dimwishlist:item=2477408004&perks=3525010810,3301904089,3987942396,1556840489#notes:PvE Excellent [Velocity] [Quick Access Sling]
-dimwishlist:item=2982006965&perks=3525010810,3301904089,3987942396,1556840489#notes:PvE Excellent [Velocity] [Quick Access Sling]
-dimwishlist:item=559523765&perks=3525010810,3301904089,3987942396,1556840489#notes:PvE Excellent [Velocity] [Quick Access Sling]
-dimwishlist:item=1206729100&perks=3525010810,3301904089,3987942396,1556840489#notes:PvE Excellent [Velocity] [Quick Access Sling]
 dimwishlist:item=2477408004&perks=1478423395,3301904089,3300816228,1556840489#notes:PvE Godroll [Velocity] [Quick Access Sling]
 dimwishlist:item=2982006965&perks=1478423395,3301904089,3300816228,1556840489#notes:PvE Godroll [Velocity] [Quick Access Sling]
 dimwishlist:item=559523765&perks=1478423395,3301904089,3300816228,1556840489#notes:PvE Godroll [Velocity] [Quick Access Sling]
@@ -1837,22 +1815,6 @@ dimwishlist:item=2477408004&perks=1844523823,3032599245,3523296417,4104185692#no
 dimwishlist:item=2982006965&perks=1844523823,3032599245,3523296417,4104185692#notes:PvE Excellent [Velocity] [Quick Access Sling]
 dimwishlist:item=559523765&perks=1844523823,3032599245,3523296417,4104185692#notes:PvE Excellent [Velocity] [Quick Access Sling]
 dimwishlist:item=1206729100&perks=1844523823,3032599245,3523296417,4104185692#notes:PvE Excellent [Velocity] [Quick Access Sling]
-dimwishlist:item=2477408004&perks=3809316345,3032599245,3523296417,4104185692#notes:PvE Excellent [Velocity] [Quick Access Sling]
-dimwishlist:item=2982006965&perks=3809316345,3032599245,3523296417,4104185692#notes:PvE Excellent [Velocity] [Quick Access Sling]
-dimwishlist:item=559523765&perks=3809316345,3032599245,3523296417,4104185692#notes:PvE Excellent [Velocity] [Quick Access Sling]
-dimwishlist:item=1206729100&perks=3809316345,3032599245,3523296417,4104185692#notes:PvE Excellent [Velocity] [Quick Access Sling]
-dimwishlist:item=2477408004&perks=981914802,3032599245,3523296417,4104185692#notes:PvE Excellent [Velocity] [Quick Access Sling]
-dimwishlist:item=2982006965&perks=981914802,3032599245,3523296417,4104185692#notes:PvE Excellent [Velocity] [Quick Access Sling]
-dimwishlist:item=559523765&perks=981914802,3032599245,3523296417,4104185692#notes:PvE Excellent [Velocity] [Quick Access Sling]
-dimwishlist:item=1206729100&perks=981914802,3032599245,3523296417,4104185692#notes:PvE Excellent [Velocity] [Quick Access Sling]
-dimwishlist:item=2477408004&perks=1441682018,3032599245,3523296417,4104185692#notes:PvE Excellent [Velocity] [Quick Access Sling]
-dimwishlist:item=2982006965&perks=1441682018,3032599245,3523296417,4104185692#notes:PvE Excellent [Velocity] [Quick Access Sling]
-dimwishlist:item=559523765&perks=1441682018,3032599245,3523296417,4104185692#notes:PvE Excellent [Velocity] [Quick Access Sling]
-dimwishlist:item=1206729100&perks=1441682018,3032599245,3523296417,4104185692#notes:PvE Excellent [Velocity] [Quick Access Sling]
-dimwishlist:item=2477408004&perks=3525010810,3032599245,3523296417,4104185692#notes:PvE Excellent [Velocity] [Quick Access Sling]
-dimwishlist:item=2982006965&perks=3525010810,3032599245,3523296417,4104185692#notes:PvE Excellent [Velocity] [Quick Access Sling]
-dimwishlist:item=559523765&perks=3525010810,3032599245,3523296417,4104185692#notes:PvE Excellent [Velocity] [Quick Access Sling]
-dimwishlist:item=1206729100&perks=3525010810,3032599245,3523296417,4104185692#notes:PvE Excellent [Velocity] [Quick Access Sling]
 dimwishlist:item=2477408004&perks=666,3032599245,4104185692#notes:PvE Godroll
 dimwishlist:item=2982006965&perks=666,3032599245,4104185692#notes:PvE Godroll
 dimwishlist:item=559523765&perks=666,3032599245,4104185692#notes:PvE Godroll
@@ -13369,125 +13331,6 @@ dimwishlist:item=2760833884&perks=3987942396,1089671869#notes:PvE [Velocity] [Qu
 dimwishlist:item=1817605554&perks=3987942396,1089671869#notes:PvE [Velocity] [Quick Access Sling]
 dimwishlist:item=291447487&perks=3987942396,1089671869#notes:PvE [Velocity] [Quick Access Sling]
 dimwishlist:item=2126543269&perks=1478423395,3796465595,3987942396,3078487919#notes:PvE Godroll [Velocity] [Quick Access Sling]
-dimwishlist:item=2760833884&perks=1478423395,3796465595,3987942396,3078487919#notes:PvE Godroll [Velocity] [Quick Access Sling]
-dimwishlist:item=1817605554&perks=1478423395,3796465595,3987942396,3078487919#notes:PvE Godroll [Velocity] [Quick Access Sling]
-dimwishlist:item=291447487&perks=1478423395,3796465595,3987942396,3078487919#notes:PvE Godroll [Velocity] [Quick Access Sling]
-dimwishlist:item=2126543269&perks=1844523823,3796465595,3987942396,3078487919#notes:PvE Excellent [Velocity] [Quick Access Sling]
-dimwishlist:item=2760833884&perks=1844523823,3796465595,3987942396,3078487919#notes:PvE Excellent [Velocity] [Quick Access Sling]
-dimwishlist:item=1817605554&perks=1844523823,3796465595,3987942396,3078487919#notes:PvE Excellent [Velocity] [Quick Access Sling]
-dimwishlist:item=291447487&perks=1844523823,3796465595,3987942396,3078487919#notes:PvE Excellent [Velocity] [Quick Access Sling]
-dimwishlist:item=2126543269&perks=3809316345,3796465595,3987942396,3078487919#notes:PvE Excellent [Velocity] [Quick Access Sling]
-dimwishlist:item=2760833884&perks=3809316345,3796465595,3987942396,3078487919#notes:PvE Excellent [Velocity] [Quick Access Sling]
-dimwishlist:item=1817605554&perks=3809316345,3796465595,3987942396,3078487919#notes:PvE Excellent [Velocity] [Quick Access Sling]
-dimwishlist:item=291447487&perks=3809316345,3796465595,3987942396,3078487919#notes:PvE Excellent [Velocity] [Quick Access Sling]
-dimwishlist:item=2126543269&perks=3525010810,3796465595,3987942396,3078487919#notes:PvE Excellent [Velocity] [Quick Access Sling]
-dimwishlist:item=2760833884&perks=3525010810,3796465595,3987942396,3078487919#notes:PvE Excellent [Velocity] [Quick Access Sling]
-dimwishlist:item=1817605554&perks=3525010810,3796465595,3987942396,3078487919#notes:PvE Excellent [Velocity] [Quick Access Sling]
-dimwishlist:item=291447487&perks=3525010810,3796465595,3987942396,3078487919#notes:PvE Excellent [Velocity] [Quick Access Sling]
-dimwishlist:item=2126543269&perks=981914802,3796465595,3987942396,3078487919#notes:PvE Excellent [Velocity] [Quick Access Sling]
-dimwishlist:item=2760833884&perks=981914802,3796465595,3987942396,3078487919#notes:PvE Excellent [Velocity] [Quick Access Sling]
-dimwishlist:item=1817605554&perks=981914802,3796465595,3987942396,3078487919#notes:PvE Excellent [Velocity] [Quick Access Sling]
-dimwishlist:item=291447487&perks=981914802,3796465595,3987942396,3078487919#notes:PvE Excellent [Velocity] [Quick Access Sling]
-dimwishlist:item=2126543269&perks=1478423395,2985827016,3987942396,3078487919#notes:PvE Excellent [Velocity] [Quick Access Sling]
-dimwishlist:item=2760833884&perks=1478423395,2985827016,3987942396,3078487919#notes:PvE Excellent [Velocity] [Quick Access Sling]
-dimwishlist:item=1817605554&perks=1478423395,2985827016,3987942396,3078487919#notes:PvE Excellent [Velocity] [Quick Access Sling]
-dimwishlist:item=291447487&perks=1478423395,2985827016,3987942396,3078487919#notes:PvE Excellent [Velocity] [Quick Access Sling]
-dimwishlist:item=2126543269&perks=1844523823,2985827016,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=2760833884&perks=1844523823,2985827016,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=1817605554&perks=1844523823,2985827016,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=291447487&perks=1844523823,2985827016,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=2126543269&perks=3809316345,2985827016,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=2760833884&perks=3809316345,2985827016,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=1817605554&perks=3809316345,2985827016,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=291447487&perks=3809316345,2985827016,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=2126543269&perks=3525010810,2985827016,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=2760833884&perks=3525010810,2985827016,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=1817605554&perks=3525010810,2985827016,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=291447487&perks=3525010810,2985827016,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=2126543269&perks=981914802,2985827016,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=2760833884&perks=981914802,2985827016,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=1817605554&perks=981914802,2985827016,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=291447487&perks=981914802,2985827016,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=2126543269&perks=1478423395,2822142346,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=2760833884&perks=1478423395,2822142346,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=1817605554&perks=1478423395,2822142346,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=291447487&perks=1478423395,2822142346,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=2126543269&perks=1844523823,2822142346,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=2760833884&perks=1844523823,2822142346,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=1817605554&perks=1844523823,2822142346,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=291447487&perks=1844523823,2822142346,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=2126543269&perks=3809316345,2822142346,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=2760833884&perks=3809316345,2822142346,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=1817605554&perks=3809316345,2822142346,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=291447487&perks=3809316345,2822142346,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=2126543269&perks=3525010810,2822142346,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=2760833884&perks=3525010810,2822142346,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=1817605554&perks=3525010810,2822142346,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=291447487&perks=3525010810,2822142346,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=2126543269&perks=981914802,2822142346,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=2760833884&perks=981914802,2822142346,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=1817605554&perks=981914802,2822142346,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=291447487&perks=981914802,2822142346,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=2126543269&perks=1478423395,1996142143,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=2760833884&perks=1478423395,1996142143,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=1817605554&perks=1478423395,1996142143,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=291447487&perks=1478423395,1996142143,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=2126543269&perks=1844523823,1996142143,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=2760833884&perks=1844523823,1996142143,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=1817605554&perks=1844523823,1996142143,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=291447487&perks=1844523823,1996142143,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=2126543269&perks=3809316345,1996142143,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=2760833884&perks=3809316345,1996142143,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=1817605554&perks=3809316345,1996142143,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=291447487&perks=3809316345,1996142143,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=2126543269&perks=3525010810,1996142143,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=2760833884&perks=3525010810,1996142143,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=1817605554&perks=3525010810,1996142143,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=291447487&perks=3525010810,1996142143,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=2126543269&perks=981914802,1996142143,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=2760833884&perks=981914802,1996142143,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=1817605554&perks=981914802,1996142143,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=291447487&perks=981914802,1996142143,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=2126543269&perks=3796465595,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=2760833884&perks=3796465595,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=1817605554&perks=3796465595,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=291447487&perks=3796465595,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=2126543269&perks=2985827016,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=2760833884&perks=2985827016,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=1817605554&perks=2985827016,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=291447487&perks=2985827016,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=2126543269&perks=2822142346,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=2760833884&perks=2822142346,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=1817605554&perks=2822142346,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=291447487&perks=2822142346,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=2126543269&perks=1996142143,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=2760833884&perks=1996142143,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=1817605554&perks=1996142143,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=291447487&perks=1996142143,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=2126543269&perks=1478423395,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=2760833884&perks=1478423395,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=1817605554&perks=1478423395,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=291447487&perks=1478423395,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=2126543269&perks=1844523823,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=2760833884&perks=1844523823,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=1817605554&perks=1844523823,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=291447487&perks=1844523823,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=2126543269&perks=3809316345,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=2760833884&perks=3809316345,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=1817605554&perks=3809316345,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=291447487&perks=3809316345,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=2126543269&perks=3525010810,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=2760833884&perks=3525010810,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=1817605554&perks=3525010810,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=291447487&perks=3525010810,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=2126543269&perks=981914802,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=2760833884&perks=981914802,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=1817605554&perks=981914802,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=291447487&perks=981914802,3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=2126543269&perks=3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=2760833884&perks=3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=1817605554&perks=3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=291447487&perks=3987942396,3078487919#notes:PvE [Velocity] [Quick Access Sling]
 dimwishlist:item=2126543269&perks=1478423395,3796465595,3987942396,1439600632#notes:PvE Godroll [Velocity] [Quick Access Sling]
 dimwishlist:item=2760833884&perks=1478423395,3796465595,3987942396,1439600632#notes:PvE Godroll [Velocity] [Quick Access Sling]
 dimwishlist:item=1817605554&perks=1478423395,3796465595,3987942396,1439600632#notes:PvE Godroll [Velocity] [Quick Access Sling]
@@ -22037,10 +21880,6 @@ dimwishlist:item=1303313141&perks=3250034553,3418782618,557221067#notes:PvE [Ran
 dimwishlist:item=1303313141&perks=202670084,3418782618,557221067#notes:PvE [Range] [Backup Mag]
 dimwishlist:item=1303313141&perks=1482024992,3418782618,557221067#notes:PvE [Range] [Backup Mag]
 dimwishlist:item=1303313141&perks=3418782618,557221067#notes:PvE [Range] [Backup Mag]
-dimwishlist:item=-2129814338
-dimwishlist:item=-880829467
-dimwishlist:item=-749483159
-dimwishlist:item=-4025177550
 dimwishlist:item=-4232480042
 dimwishlist:item=-2026755633
 dimwishlist:item=-2598420927
@@ -22084,7 +21923,11 @@ dimwishlist:item=-3678653083
 dimwishlist:item=-2826850739
 dimwishlist:item=-392008588
 dimwishlist:item=-491078457
+dimwishlist:item=-880829467
 dimwishlist:item=-3483591058
+dimwishlist:item=-4025177550
+dimwishlist:item=-749483159
+dimwishlist:item=-2129814338
 dimwishlist:item=-1992309064
 dimwishlist:item=-3754408118
 dimwishlist:item=-602618796
@@ -22222,10 +22065,10 @@ dimwishlist:item=-2290416
 dimwishlist:item=-254636484
 dimwishlist:item=-4005780578
 dimwishlist:item=-1141586039
-dimwishlist:item=-1685406703
 dimwishlist:item=-2934305134
-dimwishlist:item=-1050582210
 dimwishlist:item=-3210739171
+dimwishlist:item=-1050582210
+dimwishlist:item=-1685406703
 dimwishlist:item=-2298039571
 dimwishlist:item=-3997086838
 dimwishlist:item=-3269398063
@@ -22409,10 +22252,6 @@ dimwishlist:item=-2708806099
 dimwishlist:item=-859869931
 dimwishlist:item=-892183998
 dimwishlist:item=-3218364298
-dimwishlist:item=-3681280908
-dimwishlist:item=-3733988413
-dimwishlist:item=-1066598837
-dimwishlist:item=-1827058652
 dimwishlist:item=-1505862304
 dimwishlist:item=-2372514509
 dimwishlist:item=-3433930495
@@ -22449,6 +22288,10 @@ dimwishlist:item=-1098171824
 dimwishlist:item=-578105049
 dimwishlist:item=-208088207
 dimwishlist:item=-358788212
+dimwishlist:item=-3733988413
+dimwishlist:item=-1827058652
+dimwishlist:item=-1066598837
+dimwishlist:item=-3681280908
 dimwishlist:item=-435821041
 dimwishlist:item=-2241507890
 dimwishlist:item=-2563668388
