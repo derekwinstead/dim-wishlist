@@ -1,5 +1,4 @@
 title: Nam's Curated Rolls
-dimwishlist:item=970034755
 dimwishlist:item=1411560894
 dimwishlist:item=702001725
 dimwishlist:item=568611921
@@ -48,6 +47,7 @@ dimwishlist:item=2362652544
 dimwishlist:item=3612338554
 dimwishlist:item=1193318082
 dimwishlist:item=2111625436
+dimwishlist:item=970034755&perks=3891536761#notes:PvE
 dimwishlist:item=833898322&perks=839105230,1885400500,3017780555,4293542123#notes:PvE Crafted [Range] [Tactical]
 dimwishlist:item=3782662983&perks=839105230,1885400500,1523832109,365154968#notes:PvE [Range] [Heavy Ammo Finder]
 dimwishlist:item=2119346509&perks=839105230,1885400500,1359896290,1365187766#notes:PvP Crafted [Range] [Targeting Adjuster]
