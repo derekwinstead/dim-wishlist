@@ -3,8 +3,6 @@ dimwishlist:item=1411560894
 dimwishlist:item=702001725
 dimwishlist:item=568611921
 dimwishlist:item=4146673635
-dimwishlist:item=4019651319
-dimwishlist:item=3977654524
 dimwishlist:item=1553681400
 dimwishlist:item=2838279629
 dimwishlist:item=471764396
@@ -24,7 +22,6 @@ dimwishlist:item=3602242905
 dimwishlist:item=42435996
 dimwishlist:item=3623686757
 dimwishlist:item=337578911
-dimwishlist:item=4090134063
 dimwishlist:item=3709368142
 dimwishlist:item=851296754
 dimwishlist:item=51129316
@@ -34,7 +31,6 @@ dimwishlist:item=2888021253
 dimwishlist:item=1956186483
 dimwishlist:item=1552443158
 dimwishlist:item=4049127142
-dimwishlist:item=1663482635
 dimwishlist:item=1435808083
 dimwishlist:item=3293207827
 dimwishlist:item=2965080304
@@ -1126,6 +1122,126 @@ dimwishlist:item=2059741649&perks=1478423395,2822142346,1556840489,2396489472#no
 dimwishlist:item=3185151619&perks=1844523823,2822142346,1556840489,2396489472#notes:PvE Excellent [Reload] [Quick Access Sling]
 dimwishlist:item=492673102&perks=1844523823,2822142346,1556840489,2396489472#notes:PvE Excellent [Reload] [Quick Access Sling]
 dimwishlist:item=233402416&perks=1844523823,2822142346,1556840489,2396489472#notes:PvE Excellent [Reload] [Quick Access Sling]
+dimwishlist:item=3977654524&perks=1478423395,2822142346,3523296417,243981275#notes:PvE Godroll [Velocity] [Temporal Blast]
+dimwishlist:item=4019651319&perks=1478423395,2822142346,3523296417,243981275#notes:PvE Godroll [Velocity] [Temporal Blast]
+dimwishlist:item=3977654524&perks=3809316345,2822142346,3523296417,243981275#notes:PvE Excellent [Velocity] [Temporal Blast]
+dimwishlist:item=4019651319&perks=3809316345,2822142346,3523296417,243981275#notes:PvE Excellent [Velocity] [Temporal Blast]
+dimwishlist:item=3977654524&perks=1844523823,2822142346,3523296417,243981275#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=4019651319&perks=1844523823,2822142346,3523296417,243981275#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=3977654524&perks=981914802,2822142346,3523296417,243981275#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=4019651319&perks=981914802,2822142346,3523296417,243981275#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=3977654524&perks=3525010810,2822142346,3523296417,243981275#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=4019651319&perks=3525010810,2822142346,3523296417,243981275#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=3977654524&perks=1441682018,2822142346,3523296417,243981275#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=4019651319&perks=1441682018,2822142346,3523296417,243981275#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=3977654524&perks=1478423395,2822142346,3523296417,4049631843#notes:PvE Godroll [Velocity] [Temporal Blast]
+dimwishlist:item=4019651319&perks=1478423395,2822142346,3523296417,4049631843#notes:PvE Godroll [Velocity] [Temporal Blast]
+dimwishlist:item=3977654524&perks=3809316345,2822142346,3523296417,4049631843#notes:PvE Excellent [Velocity] [Temporal Blast]
+dimwishlist:item=4019651319&perks=3809316345,2822142346,3523296417,4049631843#notes:PvE Excellent [Velocity] [Temporal Blast]
+dimwishlist:item=3977654524&perks=1844523823,2822142346,3523296417,4049631843#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=4019651319&perks=1844523823,2822142346,3523296417,4049631843#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=3977654524&perks=981914802,2822142346,3523296417,4049631843#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=4019651319&perks=981914802,2822142346,3523296417,4049631843#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=3977654524&perks=3525010810,2822142346,3523296417,4049631843#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=4019651319&perks=3525010810,2822142346,3523296417,4049631843#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=3977654524&perks=1441682018,2822142346,3523296417,4049631843#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=4019651319&perks=1441682018,2822142346,3523296417,4049631843#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=3977654524&perks=1478423395,2822142346,3523296417,1089671869#notes:PvE Godroll [Velocity] [Temporal Blast]
+dimwishlist:item=4019651319&perks=1478423395,2822142346,3523296417,1089671869#notes:PvE Godroll [Velocity] [Temporal Blast]
+dimwishlist:item=3977654524&perks=3809316345,2822142346,3523296417,1089671869#notes:PvE Excellent [Velocity] [Temporal Blast]
+dimwishlist:item=4019651319&perks=3809316345,2822142346,3523296417,1089671869#notes:PvE Excellent [Velocity] [Temporal Blast]
+dimwishlist:item=3977654524&perks=1844523823,2822142346,3523296417,1089671869#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=4019651319&perks=1844523823,2822142346,3523296417,1089671869#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=3977654524&perks=981914802,2822142346,3523296417,1089671869#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=4019651319&perks=981914802,2822142346,3523296417,1089671869#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=3977654524&perks=3525010810,2822142346,3523296417,1089671869#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=4019651319&perks=3525010810,2822142346,3523296417,1089671869#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=3977654524&perks=1441682018,2822142346,3523296417,1089671869#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=4019651319&perks=1441682018,2822142346,3523296417,1089671869#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=3977654524&perks=1478423395,2822142346,3523296417,831391274#notes:PvE Godroll [Velocity] [Temporal Blast]
+dimwishlist:item=4019651319&perks=1478423395,2822142346,3523296417,831391274#notes:PvE Godroll [Velocity] [Temporal Blast]
+dimwishlist:item=3977654524&perks=3809316345,2822142346,3523296417,831391274#notes:PvE Excellent [Velocity] [Temporal Blast]
+dimwishlist:item=4019651319&perks=3809316345,2822142346,3523296417,831391274#notes:PvE Excellent [Velocity] [Temporal Blast]
+dimwishlist:item=3977654524&perks=1844523823,2822142346,3523296417,831391274#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=4019651319&perks=1844523823,2822142346,3523296417,831391274#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=3977654524&perks=981914802,2822142346,3523296417,831391274#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=4019651319&perks=981914802,2822142346,3523296417,831391274#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=3977654524&perks=3525010810,2822142346,3523296417,831391274#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=4019651319&perks=3525010810,2822142346,3523296417,831391274#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=3977654524&perks=1441682018,2822142346,3523296417,831391274#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=4019651319&perks=1441682018,2822142346,3523296417,831391274#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=3977654524&perks=1478423395,2822142346,1017229899,4049631843#notes:PvE Godroll [Velocity] [Temporal Blast]
+dimwishlist:item=4019651319&perks=1478423395,2822142346,1017229899,4049631843#notes:PvE Godroll [Velocity] [Temporal Blast]
+dimwishlist:item=3977654524&perks=3809316345,2822142346,1017229899,4049631843#notes:PvE Excellent [Velocity] [Temporal Blast]
+dimwishlist:item=4019651319&perks=3809316345,2822142346,1017229899,4049631843#notes:PvE Excellent [Velocity] [Temporal Blast]
+dimwishlist:item=3977654524&perks=1844523823,2822142346,1017229899,4049631843#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=4019651319&perks=1844523823,2822142346,1017229899,4049631843#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=3977654524&perks=981914802,2822142346,1017229899,4049631843#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=4019651319&perks=981914802,2822142346,1017229899,4049631843#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=3977654524&perks=3525010810,2822142346,1017229899,4049631843#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=4019651319&perks=3525010810,2822142346,1017229899,4049631843#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=3977654524&perks=1441682018,2822142346,1017229899,4049631843#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=4019651319&perks=1441682018,2822142346,1017229899,4049631843#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=3977654524&perks=1478423395,2822142346,1017229899,1089671869#notes:PvE Godroll [Velocity] [Temporal Blast]
+dimwishlist:item=4019651319&perks=1478423395,2822142346,1017229899,1089671869#notes:PvE Godroll [Velocity] [Temporal Blast]
+dimwishlist:item=3977654524&perks=3809316345,2822142346,1017229899,1089671869#notes:PvE Excellent [Velocity] [Temporal Blast]
+dimwishlist:item=4019651319&perks=3809316345,2822142346,1017229899,1089671869#notes:PvE Excellent [Velocity] [Temporal Blast]
+dimwishlist:item=3977654524&perks=1844523823,2822142346,1017229899,1089671869#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=4019651319&perks=1844523823,2822142346,1017229899,1089671869#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=3977654524&perks=981914802,2822142346,1017229899,1089671869#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=4019651319&perks=981914802,2822142346,1017229899,1089671869#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=3977654524&perks=3525010810,2822142346,1017229899,1089671869#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=4019651319&perks=3525010810,2822142346,1017229899,1089671869#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=3977654524&perks=1441682018,2822142346,1017229899,1089671869#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=4019651319&perks=1441682018,2822142346,1017229899,1089671869#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=3977654524&perks=1478423395,2822142346,1017229899,831391274#notes:PvE Godroll [Velocity] [Temporal Blast]
+dimwishlist:item=4019651319&perks=1478423395,2822142346,1017229899,831391274#notes:PvE Godroll [Velocity] [Temporal Blast]
+dimwishlist:item=3977654524&perks=3809316345,2822142346,1017229899,831391274#notes:PvE Excellent [Velocity] [Temporal Blast]
+dimwishlist:item=4019651319&perks=3809316345,2822142346,1017229899,831391274#notes:PvE Excellent [Velocity] [Temporal Blast]
+dimwishlist:item=3977654524&perks=1844523823,2822142346,1017229899,831391274#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=4019651319&perks=1844523823,2822142346,1017229899,831391274#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=3977654524&perks=981914802,2822142346,1017229899,831391274#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=4019651319&perks=981914802,2822142346,1017229899,831391274#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=3977654524&perks=3525010810,2822142346,1017229899,831391274#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=4019651319&perks=3525010810,2822142346,1017229899,831391274#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=3977654524&perks=1441682018,2822142346,1017229899,831391274#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=4019651319&perks=1441682018,2822142346,1017229899,831391274#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=3977654524&perks=1478423395,2822142346,923806249,4049631843#notes:PvE Godroll [Velocity] [Temporal Blast]
+dimwishlist:item=4019651319&perks=1478423395,2822142346,923806249,4049631843#notes:PvE Godroll [Velocity] [Temporal Blast]
+dimwishlist:item=3977654524&perks=3809316345,2822142346,923806249,4049631843#notes:PvE Excellent [Velocity] [Temporal Blast]
+dimwishlist:item=4019651319&perks=3809316345,2822142346,923806249,4049631843#notes:PvE Excellent [Velocity] [Temporal Blast]
+dimwishlist:item=3977654524&perks=1844523823,2822142346,923806249,4049631843#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=4019651319&perks=1844523823,2822142346,923806249,4049631843#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=3977654524&perks=981914802,2822142346,923806249,4049631843#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=4019651319&perks=981914802,2822142346,923806249,4049631843#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=3977654524&perks=3525010810,2822142346,923806249,4049631843#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=4019651319&perks=3525010810,2822142346,923806249,4049631843#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=3977654524&perks=1441682018,2822142346,923806249,4049631843#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=4019651319&perks=1441682018,2822142346,923806249,4049631843#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=3977654524&perks=1478423395,2822142346,923806249,1089671869#notes:PvE Godroll [Velocity] [Temporal Blast]
+dimwishlist:item=4019651319&perks=1478423395,2822142346,923806249,1089671869#notes:PvE Godroll [Velocity] [Temporal Blast]
+dimwishlist:item=3977654524&perks=3809316345,2822142346,923806249,1089671869#notes:PvE Excellent [Velocity] [Temporal Blast]
+dimwishlist:item=4019651319&perks=3809316345,2822142346,923806249,1089671869#notes:PvE Excellent [Velocity] [Temporal Blast]
+dimwishlist:item=3977654524&perks=1844523823,2822142346,923806249,1089671869#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=4019651319&perks=1844523823,2822142346,923806249,1089671869#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=3977654524&perks=981914802,2822142346,923806249,1089671869#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=4019651319&perks=981914802,2822142346,923806249,1089671869#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=3977654524&perks=3525010810,2822142346,923806249,1089671869#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=4019651319&perks=3525010810,2822142346,923806249,1089671869#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=3977654524&perks=1441682018,2822142346,923806249,1089671869#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=4019651319&perks=1441682018,2822142346,923806249,1089671869#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=3977654524&perks=1478423395,2822142346,923806249,831391274#notes:PvE Godroll [Velocity] [Temporal Blast]
+dimwishlist:item=4019651319&perks=1478423395,2822142346,923806249,831391274#notes:PvE Godroll [Velocity] [Temporal Blast]
+dimwishlist:item=3977654524&perks=3809316345,2822142346,923806249,831391274#notes:PvE Excellent [Velocity] [Temporal Blast]
+dimwishlist:item=4019651319&perks=3809316345,2822142346,923806249,831391274#notes:PvE Excellent [Velocity] [Temporal Blast]
+dimwishlist:item=3977654524&perks=1844523823,2822142346,923806249,831391274#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=4019651319&perks=1844523823,2822142346,923806249,831391274#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=3977654524&perks=981914802,2822142346,923806249,831391274#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=4019651319&perks=981914802,2822142346,923806249,831391274#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=3977654524&perks=3525010810,2822142346,923806249,831391274#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=4019651319&perks=3525010810,2822142346,923806249,831391274#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=3977654524&perks=1441682018,2822142346,923806249,831391274#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=4019651319&perks=1441682018,2822142346,923806249,831391274#notes:PvE [Velocity] [Temporal Blast]
 dimwishlist:item=1762785663&perks=1478423395,2822142346,3523296417,243981275#notes:PvE Godroll [Handling] [Tactical]
 dimwishlist:item=1762785663&perks=3525010810,2822142346,3523296417,243981275#notes:PvE [Handling] [Tactical]
 dimwishlist:item=1762785663&perks=1844523823,2822142346,3523296417,243981275#notes:PvE [Handling] [Tactical]
@@ -24049,7 +24165,6 @@ dimwishlist:item=-1058098236
 dimwishlist:item=-1392919471
 dimwishlist:item=-3444688218
 dimwishlist:item=-337578911
-dimwishlist:item=-4090134063
 dimwishlist:item=-3612142623
 dimwishlist:item=-3423493037
 dimwishlist:item=-1432682459
@@ -24069,6 +24184,7 @@ dimwishlist:item=-222606050
 dimwishlist:item=-417100299
 dimwishlist:item=-2045811635
 dimwishlist:item=-1851521408
+dimwishlist:item=-4090134063
 dimwishlist:item=-542573208
 dimwishlist:item=-4249949938
 dimwishlist:item=-8293111
@@ -24165,7 +24281,6 @@ dimwishlist:item=-927835311
 dimwishlist:item=-502356570
 dimwishlist:item=-3998080529
 dimwishlist:item=-4049127142
-dimwishlist:item=-1663482635
 dimwishlist:item=-2575844666
 dimwishlist:item=-1905934655
 dimwishlist:item=-3421639790
@@ -24182,6 +24297,7 @@ dimwishlist:item=-423343404
 dimwishlist:item=-2607304614
 dimwishlist:item=-1723380073
 dimwishlist:item=-541188001
+dimwishlist:item=-1663482635
 dimwishlist:item=-2566006935
 dimwishlist:item=-65611680
 dimwishlist:item=-2345794502
