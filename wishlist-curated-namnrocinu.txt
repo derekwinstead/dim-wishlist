@@ -1,5 +1,4 @@
 title: Nam's Curated Rolls
-dimwishlist:item=1411560894
 dimwishlist:item=702001725
 dimwishlist:item=568611921
 dimwishlist:item=4146673635
@@ -34,10 +33,8 @@ dimwishlist:item=4049127142
 dimwishlist:item=1435808083
 dimwishlist:item=3293207827
 dimwishlist:item=2965080304
-dimwishlist:item=190747610
 dimwishlist:item=2362652544
 dimwishlist:item=3612338554
-dimwishlist:item=1193318082
 dimwishlist:item=2111625436
 dimwishlist:item=970034755&perks=3891536761#notes:PvE
 dimwishlist:item=833898322&perks=839105230,1885400500,3017780555,4293542123#notes:PvE Crafted [Range] [Tactical]
@@ -1250,10 +1247,6 @@ dimwishlist:item=3977654524&perks=1844523823,2822142346,2010801679,243981275#not
 dimwishlist:item=4019651319&perks=1844523823,2822142346,2010801679,243981275#notes:PvE [Velocity] [Temporal Blast]
 dimwishlist:item=3977654524&perks=981914802,2822142346,2010801679,243981275#notes:PvE [Velocity] [Temporal Blast]
 dimwishlist:item=4019651319&perks=981914802,2822142346,2010801679,243981275#notes:PvE [Velocity] [Temporal Blast]
-dimwishlist:item=3977654524&perks=3525010810,2822142346,2010801679,243981275#notes:PvE [Velocity] [Temporal Blast]
-dimwishlist:item=4019651319&perks=3525010810,2822142346,2010801679,243981275#notes:PvE [Velocity] [Temporal Blast]
-dimwishlist:item=3977654524&perks=1441682018,2822142346,2010801679,243981275#notes:PvE [Velocity] [Temporal Blast]
-dimwishlist:item=4019651319&perks=1441682018,2822142346,2010801679,243981275#notes:PvE [Velocity] [Temporal Blast]
 dimwishlist:item=1762785663&perks=1478423395,2822142346,3523296417,243981275#notes:PvE Godroll [Handling] [Tactical]
 dimwishlist:item=1762785663&perks=3525010810,2822142346,3523296417,243981275#notes:PvE [Handling] [Tactical]
 dimwishlist:item=1762785663&perks=1844523823,2822142346,3523296417,243981275#notes:PvE [Handling] [Tactical]
@@ -23688,7 +23681,6 @@ dimwishlist:item=-2598420927
 dimwishlist:item=-970034755
 dimwishlist:item=-833898322
 dimwishlist:item=-3782662983
-dimwishlist:item=-1411560894
 dimwishlist:item=-2119346509
 dimwishlist:item=-1801007332
 dimwishlist:item=-1820994983
@@ -23703,6 +23695,7 @@ dimwishlist:item=-484515708
 dimwishlist:item=-342514437
 dimwishlist:item=-821154603
 dimwishlist:item=-424291879
+dimwishlist:item=-1411560894
 dimwishlist:item=-2723909519
 dimwishlist:item=-20935540
 dimwishlist:item=-3558681245
@@ -24340,7 +24333,6 @@ dimwishlist:item=-3293207827
 dimwishlist:item=-2965080304
 dimwishlist:item=-1258168956
 dimwishlist:item=-3951511045
-dimwishlist:item=-190747610
 dimwishlist:item=-3341893443
 dimwishlist:item=-1050806815
 dimwishlist:item=-3098328572
@@ -24374,6 +24366,7 @@ dimwishlist:item=-3926811686
 dimwishlist:item=-3276304504
 dimwishlist:item=-4100775158
 dimwishlist:item=-2349907931
+dimwishlist:item=-190747610
 dimwishlist:item=-1081724548
 dimwishlist:item=-766323545
 dimwishlist:item=-1999754402
@@ -24402,7 +24395,6 @@ dimwishlist:item=-445197843
 dimwishlist:item=-172461430
 dimwishlist:item=-2673925403
 dimwishlist:item=-4164201232
-dimwishlist:item=-1193318082
 dimwishlist:item=-3818198556
 dimwishlist:item=-4200122994
 dimwishlist:item=-4184808992
@@ -24429,6 +24421,7 @@ dimwishlist:item=-2806569825
 dimwishlist:item=-852551895
 dimwishlist:item=-781498181
 dimwishlist:item=-3743729616
+dimwishlist:item=-1193318082
 dimwishlist:item=-3355385170
 dimwishlist:item=-1387987271
 dimwishlist:item=-1150492185
