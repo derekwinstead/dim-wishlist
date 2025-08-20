@@ -1,5 +1,4 @@
 title: Nam's Curated Rolls
-dimwishlist:item=702001725
 dimwishlist:item=568611921
 dimwishlist:item=4146673635
 dimwishlist:item=1553681400
@@ -45,6 +44,7 @@ dimwishlist:item=3685470415&perks=839105230,3142289711,3700496672,2109543898#not
 dimwishlist:item=484515708&perks=839105230,1561002382,3523296417,4104185692#notes:PvE Crafted [Range] [Heavy Ammo Finder]
 dimwishlist:item=342514437&perks=3523296417,4104185692#notes:PvE [Range]
 dimwishlist:item=342514437&perks=839105230,1885400500,1523832109,365154968#notes:PvE [Range] [Heavy Ammo Finder]
+dimwishlist:item=1992309064&perks=839105230,1885400500,2048641572,776531651#notes:PvE Crafted [Range] [Backup Mag]
 dimwishlist:item=613334176&perks=3525010810,2822142346,2010801679,2396489472#notes:PvE Crafted [Reload] [Tactical]
 dimwishlist:item=4038592169&perks=2010801679,2396489472#notes:PvE [Reload] [Tactical]
 dimwishlist:item=4043921923&perks=981914802,3301904089,3300816228,4104185692#notes:PvE Excellent [Blast Radius] [Quick Access Sling]
@@ -440,20 +440,6 @@ dimwishlist:item=2026755633&perks=3250034553,1820235745,3523296417#notes:PvE [Ra
 dimwishlist:item=2026755633&perks=1482024992,1820235745,3523296417#notes:PvE [Range] [Backup Mag]
 dimwishlist:item=2026755633&perks=1840239774,1820235745,3523296417#notes:PvE [Range] [Backup Mag]
 dimwishlist:item=2026755633&perks=1820235745,3523296417#notes:PvE [Range] [Backup Mag]
-dimwishlist:item=2598420927&perks=839105230,3142289711,1570042021,1015611457#notes:PvP Godroll [Range] [Targeting Adjuster]
-dimwishlist:item=2598420927&perks=4090651448,3142289711,1570042021,1015611457#notes:PvP Excellent [Range] [Targeting Adjuster]
-dimwishlist:item=2598420927&perks=3661387068,3142289711,1570042021,1015611457#notes:PvP Excellent [Range] [Targeting Adjuster]
-dimwishlist:item=2598420927&perks=1467527085,3142289711,1570042021,1015611457#notes:PvP Excellent [Range] [Targeting Adjuster]
-dimwishlist:item=2598420927&perks=3250034553,3142289711,1570042021,1015611457#notes:PvP Excellent [Range] [Targeting Adjuster]
-dimwishlist:item=2598420927&perks=1482024992,3142289711,1570042021,1015611457#notes:PvP Excellent [Range] [Targeting Adjuster]
-dimwishlist:item=2598420927&perks=1840239774,3142289711,1570042021,1015611457#notes:PvP Excellent [Range] [Targeting Adjuster]
-dimwishlist:item=2598420927&perks=839105230,3142289711,2450788523,1015611457#notes:PvP Godroll [Range] [Targeting Adjuster]
-dimwishlist:item=2598420927&perks=4090651448,3142289711,2450788523,1015611457#notes:PvP Excellent [Range] [Targeting Adjuster]
-dimwishlist:item=2598420927&perks=3661387068,3142289711,2450788523,1015611457#notes:PvP Excellent [Range] [Targeting Adjuster]
-dimwishlist:item=2598420927&perks=1467527085,3142289711,2450788523,1015611457#notes:PvP Excellent [Range] [Targeting Adjuster]
-dimwishlist:item=2598420927&perks=3250034553,3142289711,2450788523,1015611457#notes:PvP Excellent [Range] [Targeting Adjuster]
-dimwishlist:item=2598420927&perks=1482024992,3142289711,2450788523,1015611457#notes:PvP Excellent [Range] [Targeting Adjuster]
-dimwishlist:item=2598420927&perks=1840239774,3142289711,2450788523,1015611457#notes:PvP Excellent [Range] [Targeting Adjuster]
 dimwishlist:item=1292594730&perks=839105230,1885400500,3017780555,4293542123#notes:PvE Godroll [Range] [Tactical]
 dimwishlist:item=1820994983&perks=839105230,1885400500,3017780555,4293542123#notes:PvE Godroll [Range] [Tactical]
 dimwishlist:item=1292594730&perks=4090651448,1885400500,3017780555,4293542123#notes:PvE Excellent [Range] [Tactical]
@@ -23677,7 +23663,6 @@ dimwishlist:item=1303313141&perks=1482024992,3418782618,557221067#notes:PvE [Ran
 dimwishlist:item=1303313141&perks=3418782618,557221067#notes:PvE [Range] [Backup Mag]
 dimwishlist:item=-4232480042
 dimwishlist:item=-2026755633
-dimwishlist:item=-2598420927
 dimwishlist:item=-970034755
 dimwishlist:item=-833898322
 dimwishlist:item=-3782662983
@@ -23690,15 +23675,17 @@ dimwishlist:item=-3229982889
 dimwishlist:item=-3485029080
 dimwishlist:item=-601574723
 dimwishlist:item=-2987244302
-dimwishlist:item=-702001725
 dimwishlist:item=-484515708
 dimwishlist:item=-342514437
 dimwishlist:item=-821154603
+dimwishlist:item=-1992309064
 dimwishlist:item=-424291879
 dimwishlist:item=-1411560894
 dimwishlist:item=-2723909519
 dimwishlist:item=-20935540
+dimwishlist:item=-702001725
 dimwishlist:item=-3558681245
+dimwishlist:item=-2598420927
 dimwishlist:item=-1337707096
 dimwishlist:item=-927567426
 dimwishlist:item=-355382946
@@ -23724,7 +23711,6 @@ dimwishlist:item=-3483591058
 dimwishlist:item=-4025177550
 dimwishlist:item=-749483159
 dimwishlist:item=-2129814338
-dimwishlist:item=-1992309064
 dimwishlist:item=-3754408118
 dimwishlist:item=-3583275737
 dimwishlist:item=-602618796
