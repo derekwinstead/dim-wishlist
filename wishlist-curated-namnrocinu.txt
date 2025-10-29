@@ -87,15 +87,14 @@ dimwishlist:item=2828278545&perks=1840239774,1087426260,1523832109,31345821#note
 dimwishlist:item=2828278545&perks=1840239774,1087426260,3523296417,31345821#notes:PvE Crafted [Handling] [Backup Mag]
 dimwishlist:item=407511664&perks=1523832109,31345821#notes:PvE [Handling] [Adept Mag]
 dimwishlist:item=407511664&perks=3523296417,31345821#notes:PvE [Handling] [Adept Mag]
-dimwishlist:item=1757177186&perks=4090651448,1087426260,3643424744,3218042543#notes:PvE [Range] [Backup Mag]
-dimwishlist:item=1757177186&perks=1482024992,1885400500,3643424744,3966416502#notes:PvE Excellent [Range] [Backup Mag]
-dimwishlist:item=1757177186&perks=4090651448,1885400500,3643424744,557221067#notes:PvE Excellent [Range] [Backup Mag]
-dimwishlist:item=906840740&perks=4090651448,1968497646,3300816228,4293542123#notes:PvE [Handling] [Backup Mag]
 dimwishlist:item=3605603507&perks=839105230,1087426260,3523296417,2109543898#notes:PvE Crafted [Range] [Backup Mag]
 dimwishlist:item=3605603507&perks=839105230,1087426260,1523832109,2109543898#notes:PvE Crafted [Range] [Backup Mag]
 dimwishlist:item=4230965989&perks=1392496348,106909392,1523832109,557221067#notes:PvE Crafted [Handling] [Backup Mag]
 dimwishlist:item=3654744298&perks=839105230,1087426260,2048641572,4049631843#notes:PvE Crafted [Reload] [Backup Mag]
-dimwishlist:item=3103325054&perks=1392496348,2420895100,1354429876,365154968#notes:PvE Crafted [Stability] [Backup Mag]
+dimwishlist:item=906840740&perks=4090651448,1968497646,3300816228,4293542123#notes:PvE [Handling] [Backup Mag]
+dimwishlist:item=1757177186&perks=4090651448,1087426260,3643424744,3218042543#notes:PvE [Range] [Backup Mag]
+dimwishlist:item=1757177186&perks=1482024992,1885400500,3643424744,3966416502#notes:PvE Excellent [Range] [Backup Mag]
+dimwishlist:item=1757177186&perks=4090651448,1885400500,3643424744,557221067#notes:PvE Excellent [Range] [Backup Mag]
 dimwishlist:item=578105049&perks=684456054,2173046394#notes:PvE
 dimwishlist:item=3635821806&perks=1467527085,1885400500,3619207468,460017080#notes:PvP Crafted [Range] [Targeting Adjuster]
 dimwishlist:item=2533990645&perks=839105230,3230963543,2387244414,1015611457#notes:PvP [Reload] [Targeting Adjuster]
@@ -23393,10 +23392,8 @@ dimwishlist:item=-3984556130
 dimwishlist:item=-2210806903
 dimwishlist:item=-4267192886
 dimwishlist:item=-2730671571
-dimwishlist:item=-1757177186
 dimwishlist:item=-1845978721
 dimwishlist:item=-3489054606
-dimwishlist:item=-906840740
 dimwishlist:item=-1079872540
 dimwishlist:item=-3605603507
 dimwishlist:item=-4230965989
@@ -23424,6 +23421,8 @@ dimwishlist:item=-2759590322
 dimwishlist:item=-566740455
 dimwishlist:item=-487205709
 dimwishlist:item=-1766088024
+dimwishlist:item=-906840740
+dimwishlist:item=-1757177186
 dimwishlist:item=-737409399
 dimwishlist:item=-2856225832
 dimwishlist:item=-768610585
