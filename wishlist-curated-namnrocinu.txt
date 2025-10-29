@@ -3,6 +3,7 @@ dimwishlist:item=2857870254
 dimwishlist:item=568611921
 dimwishlist:item=1824586582
 dimwishlist:item=4219826183
+dimwishlist:item=3496887154
 dimwishlist:item=1845978721
 dimwishlist:item=3489054606
 dimwishlist:item=2334480463
@@ -14,10 +15,6 @@ dimwishlist:item=1197073834
 dimwishlist:item=337578911
 dimwishlist:item=3709368142
 dimwishlist:item=851296754
-dimwishlist:item=51129316
-dimwishlist:item=2330860573
-dimwishlist:item=3635232671
-dimwishlist:item=2888021253
 dimwishlist:item=1956186483
 dimwishlist:item=1552443158
 dimwishlist:item=4049127142
@@ -2478,54 +2475,6 @@ dimwishlist:item=1724104236&perks=1890040155,3603807747,4042220767,124408337#not
 dimwishlist:item=3524386983&perks=1890040155,3603807747,4042220767,124408337#notes:PvE [Reload] [Tactical]
 dimwishlist:item=1724104236&perks=1776069409,2955427634,4042220767,124408337#notes:PvE [Reload] [Tactical]
 dimwishlist:item=3524386983&perks=1776069409,2955427634,4042220767,124408337#notes:PvE [Reload] [Tactical]
-dimwishlist:item=1724104236&perks=4196967425,2955427634,4042220767,124408337#notes:PvE [Reload] [Tactical]
-dimwishlist:item=3524386983&perks=4196967425,2955427634,4042220767,124408337#notes:PvE [Reload] [Tactical]
-dimwishlist:item=1724104236&perks=4088731040,2955427634,4042220767,124408337#notes:PvE [Reload] [Tactical]
-dimwishlist:item=3524386983&perks=4088731040,2955427634,4042220767,124408337#notes:PvE [Reload] [Tactical]
-dimwishlist:item=1724104236&perks=1220787353,2955427634,4042220767,124408337#notes:PvE [Reload] [Tactical]
-dimwishlist:item=3524386983&perks=1220787353,2955427634,4042220767,124408337#notes:PvE [Reload] [Tactical]
-dimwishlist:item=1724104236&perks=1890040155,2955427634,4042220767,124408337#notes:PvE [Reload] [Tactical]
-dimwishlist:item=3524386983&perks=1890040155,2955427634,4042220767,124408337#notes:PvE [Reload] [Tactical]
-dimwishlist:item=1724104236&perks=1776069409,2136073194,4042220767,124408337#notes:PvE [Reload] [Tactical]
-dimwishlist:item=3524386983&perks=1776069409,2136073194,4042220767,124408337#notes:PvE [Reload] [Tactical]
-dimwishlist:item=1724104236&perks=4196967425,2136073194,4042220767,124408337#notes:PvE [Reload] [Tactical]
-dimwishlist:item=3524386983&perks=4196967425,2136073194,4042220767,124408337#notes:PvE [Reload] [Tactical]
-dimwishlist:item=1724104236&perks=4088731040,2136073194,4042220767,124408337#notes:PvE [Reload] [Tactical]
-dimwishlist:item=3524386983&perks=4088731040,2136073194,4042220767,124408337#notes:PvE [Reload] [Tactical]
-dimwishlist:item=1724104236&perks=1220787353,2136073194,4042220767,124408337#notes:PvE [Reload] [Tactical]
-dimwishlist:item=3524386983&perks=1220787353,2136073194,4042220767,124408337#notes:PvE [Reload] [Tactical]
-dimwishlist:item=1724104236&perks=1890040155,2136073194,4042220767,124408337#notes:PvE [Reload] [Tactical]
-dimwishlist:item=3524386983&perks=1890040155,2136073194,4042220767,124408337#notes:PvE [Reload] [Tactical]
-dimwishlist:item=1724104236&perks=1776069409,1202133695,4042220767,124408337#notes:PvE [Reload] [Tactical]
-dimwishlist:item=3524386983&perks=1776069409,1202133695,4042220767,124408337#notes:PvE [Reload] [Tactical]
-dimwishlist:item=1724104236&perks=4196967425,1202133695,4042220767,124408337#notes:PvE [Reload] [Tactical]
-dimwishlist:item=3524386983&perks=4196967425,1202133695,4042220767,124408337#notes:PvE [Reload] [Tactical]
-dimwishlist:item=1724104236&perks=4088731040,1202133695,4042220767,124408337#notes:PvE [Reload] [Tactical]
-dimwishlist:item=3524386983&perks=4088731040,1202133695,4042220767,124408337#notes:PvE [Reload] [Tactical]
-dimwishlist:item=1724104236&perks=1220787353,1202133695,4042220767,124408337#notes:PvE [Reload] [Tactical]
-dimwishlist:item=3524386983&perks=1220787353,1202133695,4042220767,124408337#notes:PvE [Reload] [Tactical]
-dimwishlist:item=1724104236&perks=1890040155,1202133695,4042220767,124408337#notes:PvE [Reload] [Tactical]
-dimwishlist:item=3524386983&perks=1890040155,1202133695,4042220767,124408337#notes:PvE [Reload] [Tactical]
-dimwishlist:item=1724104236&perks=3603807747,4042220767,124408337#notes:PvE [Reload] [Tactical]
-dimwishlist:item=3524386983&perks=3603807747,4042220767,124408337#notes:PvE [Reload] [Tactical]
-dimwishlist:item=1724104236&perks=2955427634,4042220767,124408337#notes:PvE [Reload] [Tactical]
-dimwishlist:item=3524386983&perks=2955427634,4042220767,124408337#notes:PvE [Reload] [Tactical]
-dimwishlist:item=1724104236&perks=2136073194,4042220767,124408337#notes:PvE [Reload] [Tactical]
-dimwishlist:item=3524386983&perks=2136073194,4042220767,124408337#notes:PvE [Reload] [Tactical]
-dimwishlist:item=1724104236&perks=1202133695,4042220767,124408337#notes:PvE [Reload] [Tactical]
-dimwishlist:item=3524386983&perks=1202133695,4042220767,124408337#notes:PvE [Reload] [Tactical]
-dimwishlist:item=1724104236&perks=1776069409,4042220767,124408337#notes:PvE [Reload] [Tactical]
-dimwishlist:item=3524386983&perks=1776069409,4042220767,124408337#notes:PvE [Reload] [Tactical]
-dimwishlist:item=1724104236&perks=4196967425,4042220767,124408337#notes:PvE [Reload] [Tactical]
-dimwishlist:item=3524386983&perks=4196967425,4042220767,124408337#notes:PvE [Reload] [Tactical]
-dimwishlist:item=1724104236&perks=4088731040,4042220767,124408337#notes:PvE [Reload] [Tactical]
-dimwishlist:item=3524386983&perks=4088731040,4042220767,124408337#notes:PvE [Reload] [Tactical]
-dimwishlist:item=1724104236&perks=1220787353,4042220767,124408337#notes:PvE [Reload] [Tactical]
-dimwishlist:item=3524386983&perks=1220787353,4042220767,124408337#notes:PvE [Reload] [Tactical]
-dimwishlist:item=1724104236&perks=1890040155,4042220767,124408337#notes:PvE [Reload] [Tactical]
-dimwishlist:item=3524386983&perks=1890040155,4042220767,124408337#notes:PvE [Reload] [Tactical]
-dimwishlist:item=1724104236&perks=4042220767,124408337#notes:PvE [Reload] [Tactical]
-dimwishlist:item=3524386983&perks=4042220767,124408337#notes:PvE [Reload] [Tactical]
 dimwishlist:item=1724104236&perks=1776069409,3603807747,4042220767,2978966579#notes:PvE Godroll [Reload] [Tactical]
 dimwishlist:item=3524386983&perks=1776069409,3603807747,4042220767,2978966579#notes:PvE Godroll [Reload] [Tactical]
 dimwishlist:item=1724104236&perks=4196967425,3603807747,4042220767,2978966579#notes:PvE Excellent [Reload] [Tactical]
@@ -16774,198 +16723,6 @@ dimwishlist:item=2035738085&perks=1482024992,4071163871,47981717#notes:PvP [Rang
 dimwishlist:item=2035738085&perks=1332244541,4071163871,47981717#notes:PvP [Range] [Ballistics]
 dimwishlist:item=2035738085&perks=1300023272,4071163871,47981717#notes:PvP [Range] [Ballistics]
 dimwishlist:item=2035738085&perks=4071163871,47981717#notes:PvP [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1332244541,791862061,2679249093,1546637391#notes:PvE Godroll [Range] [Ballistics]
-dimwishlist:item=367772693&perks=466087222,791862061,2679249093,1546637391#notes:PvE Excellent [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1482024992,791862061,2679249093,1546637391#notes:PvE Excellent [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1300023272,791862061,2679249093,1546637391#notes:PvE Excellent [Range] [Ballistics]
-dimwishlist:item=367772693&perks=4090651448,791862061,2679249093,1546637391#notes:PvE Excellent [Range] [Ballistics]
-dimwishlist:item=367772693&perks=3250034553,791862061,2679249093,1546637391#notes:PvE Excellent [Range] [Ballistics]
-dimwishlist:item=367772693&perks=202670084,791862061,2679249093,1546637391#notes:PvE Excellent [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1332244541,106909392,2679249093,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=466087222,106909392,2679249093,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1482024992,106909392,2679249093,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1300023272,106909392,2679249093,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=4090651448,106909392,2679249093,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=3250034553,106909392,2679249093,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=202670084,106909392,2679249093,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1332244541,1087426260,2679249093,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=466087222,1087426260,2679249093,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1482024992,1087426260,2679249093,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1300023272,1087426260,2679249093,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=4090651448,1087426260,2679249093,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=3250034553,1087426260,2679249093,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=202670084,1087426260,2679249093,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1332244541,3142289711,2679249093,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=466087222,3142289711,2679249093,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1482024992,3142289711,2679249093,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1300023272,3142289711,2679249093,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=4090651448,3142289711,2679249093,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=3250034553,3142289711,2679249093,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=202670084,3142289711,2679249093,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1332244541,2420895100,2679249093,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=466087222,2420895100,2679249093,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1482024992,2420895100,2679249093,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1300023272,2420895100,2679249093,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=4090651448,2420895100,2679249093,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=3250034553,2420895100,2679249093,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=202670084,2420895100,2679249093,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=791862061,2679249093,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=106909392,2679249093,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1087426260,2679249093,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=3142289711,2679249093,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=2420895100,2679249093,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1332244541,2679249093,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=466087222,2679249093,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1482024992,2679249093,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1300023272,2679249093,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=4090651448,2679249093,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=3250034553,2679249093,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=202670084,2679249093,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=2679249093,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1332244541,791862061,1523832109,1546637391#notes:PvE Godroll [Range] [Ballistics]
-dimwishlist:item=367772693&perks=466087222,791862061,1523832109,1546637391#notes:PvE Excellent [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1482024992,791862061,1523832109,1546637391#notes:PvE Excellent [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1300023272,791862061,1523832109,1546637391#notes:PvE Excellent [Range] [Ballistics]
-dimwishlist:item=367772693&perks=4090651448,791862061,1523832109,1546637391#notes:PvE Excellent [Range] [Ballistics]
-dimwishlist:item=367772693&perks=3250034553,791862061,1523832109,1546637391#notes:PvE Excellent [Range] [Ballistics]
-dimwishlist:item=367772693&perks=202670084,791862061,1523832109,1546637391#notes:PvE Excellent [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1332244541,106909392,1523832109,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=466087222,106909392,1523832109,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1482024992,106909392,1523832109,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1300023272,106909392,1523832109,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=4090651448,106909392,1523832109,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=3250034553,106909392,1523832109,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=202670084,106909392,1523832109,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1332244541,1087426260,1523832109,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=466087222,1087426260,1523832109,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1482024992,1087426260,1523832109,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1300023272,1087426260,1523832109,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=4090651448,1087426260,1523832109,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=3250034553,1087426260,1523832109,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=202670084,1087426260,1523832109,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1332244541,3142289711,1523832109,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=466087222,3142289711,1523832109,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1482024992,3142289711,1523832109,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1300023272,3142289711,1523832109,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=4090651448,3142289711,1523832109,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=3250034553,3142289711,1523832109,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=202670084,3142289711,1523832109,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1332244541,2420895100,1523832109,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=466087222,2420895100,1523832109,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1482024992,2420895100,1523832109,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1300023272,2420895100,1523832109,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=4090651448,2420895100,1523832109,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=3250034553,2420895100,1523832109,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=202670084,2420895100,1523832109,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=791862061,1523832109,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=106909392,1523832109,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1087426260,1523832109,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=3142289711,1523832109,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=2420895100,1523832109,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1332244541,1523832109,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=466087222,1523832109,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1482024992,1523832109,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1300023272,1523832109,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=4090651448,1523832109,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=3250034553,1523832109,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=202670084,1523832109,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1523832109,1546637391#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1332244541,791862061,2679249093,3978468247#notes:PvE Godroll [Range] [Ballistics]
-dimwishlist:item=367772693&perks=466087222,791862061,2679249093,3978468247#notes:PvE Excellent [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1482024992,791862061,2679249093,3978468247#notes:PvE Excellent [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1300023272,791862061,2679249093,3978468247#notes:PvE Excellent [Range] [Ballistics]
-dimwishlist:item=367772693&perks=4090651448,791862061,2679249093,3978468247#notes:PvE Excellent [Range] [Ballistics]
-dimwishlist:item=367772693&perks=3250034553,791862061,2679249093,3978468247#notes:PvE Excellent [Range] [Ballistics]
-dimwishlist:item=367772693&perks=202670084,791862061,2679249093,3978468247#notes:PvE Excellent [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1332244541,106909392,2679249093,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=466087222,106909392,2679249093,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1482024992,106909392,2679249093,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1300023272,106909392,2679249093,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=4090651448,106909392,2679249093,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=3250034553,106909392,2679249093,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=202670084,106909392,2679249093,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1332244541,1087426260,2679249093,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=466087222,1087426260,2679249093,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1482024992,1087426260,2679249093,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1300023272,1087426260,2679249093,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=4090651448,1087426260,2679249093,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=3250034553,1087426260,2679249093,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=202670084,1087426260,2679249093,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1332244541,3142289711,2679249093,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=466087222,3142289711,2679249093,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1482024992,3142289711,2679249093,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1300023272,3142289711,2679249093,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=4090651448,3142289711,2679249093,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=3250034553,3142289711,2679249093,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=202670084,3142289711,2679249093,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1332244541,2420895100,2679249093,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=466087222,2420895100,2679249093,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1482024992,2420895100,2679249093,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1300023272,2420895100,2679249093,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=4090651448,2420895100,2679249093,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=3250034553,2420895100,2679249093,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=202670084,2420895100,2679249093,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=791862061,2679249093,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=106909392,2679249093,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1087426260,2679249093,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=3142289711,2679249093,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=2420895100,2679249093,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1332244541,2679249093,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=466087222,2679249093,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1482024992,2679249093,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1300023272,2679249093,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=4090651448,2679249093,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=3250034553,2679249093,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=202670084,2679249093,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=2679249093,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1332244541,791862061,1523832109,3978468247#notes:PvE Godroll [Range] [Ballistics]
-dimwishlist:item=367772693&perks=466087222,791862061,1523832109,3978468247#notes:PvE Excellent [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1482024992,791862061,1523832109,3978468247#notes:PvE Excellent [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1300023272,791862061,1523832109,3978468247#notes:PvE Excellent [Range] [Ballistics]
-dimwishlist:item=367772693&perks=4090651448,791862061,1523832109,3978468247#notes:PvE Excellent [Range] [Ballistics]
-dimwishlist:item=367772693&perks=3250034553,791862061,1523832109,3978468247#notes:PvE Excellent [Range] [Ballistics]
-dimwishlist:item=367772693&perks=202670084,791862061,1523832109,3978468247#notes:PvE Excellent [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1332244541,106909392,1523832109,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=466087222,106909392,1523832109,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1482024992,106909392,1523832109,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1300023272,106909392,1523832109,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=4090651448,106909392,1523832109,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=3250034553,106909392,1523832109,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=202670084,106909392,1523832109,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1332244541,1087426260,1523832109,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=466087222,1087426260,1523832109,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1482024992,1087426260,1523832109,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1300023272,1087426260,1523832109,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=4090651448,1087426260,1523832109,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=3250034553,1087426260,1523832109,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=202670084,1087426260,1523832109,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1332244541,3142289711,1523832109,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=466087222,3142289711,1523832109,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1482024992,3142289711,1523832109,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1300023272,3142289711,1523832109,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=4090651448,3142289711,1523832109,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=3250034553,3142289711,1523832109,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=202670084,3142289711,1523832109,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1332244541,2420895100,1523832109,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=466087222,2420895100,1523832109,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1482024992,2420895100,1523832109,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1300023272,2420895100,1523832109,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=4090651448,2420895100,1523832109,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=3250034553,2420895100,1523832109,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=202670084,2420895100,1523832109,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=791862061,1523832109,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=106909392,1523832109,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1087426260,1523832109,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=3142289711,1523832109,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=2420895100,1523832109,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1332244541,1523832109,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=466087222,1523832109,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1482024992,1523832109,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1300023272,1523832109,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=4090651448,1523832109,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=3250034553,1523832109,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=202670084,1523832109,3978468247#notes:PvE [Range] [Ballistics]
-dimwishlist:item=367772693&perks=1523832109,3978468247#notes:PvE [Range] [Ballistics]
 dimwishlist:item=2913577176&perks=1300023272,3142289711,3978468247,1194056669#notes:PvP Godroll [Range] [Quick Access Sling]
 dimwishlist:item=2913577176&perks=1482024992,3142289711,3978468247,1194056669#notes:PvP Excellent [Range] [Quick Access Sling]
 dimwishlist:item=2913577176&perks=4090651448,3142289711,3978468247,1194056669#notes:PvP Excellent [Range] [Quick Access Sling]
@@ -22688,6 +22445,7 @@ dimwishlist:item=-4124362340
 dimwishlist:item=-1973107014
 dimwishlist:item=-2314610827
 dimwishlist:item=-2763843899
+dimwishlist:item=-3496887154
 dimwishlist:item=-431721920
 dimwishlist:item=-291092617
 dimwishlist:item=-4116518582
@@ -22735,7 +22493,6 @@ dimwishlist:item=-2876244791
 dimwishlist:item=-4077588826
 dimwishlist:item=-1481892490
 dimwishlist:item=-432476743
-dimwishlist:item=-3496887154
 dimwishlist:item=-2671639706
 dimwishlist:item=-1555959830
 dimwishlist:item=-2350330520
@@ -23003,8 +22760,6 @@ dimwishlist:item=-694500607
 dimwishlist:item=-851296754
 dimwishlist:item=-631439337
 dimwishlist:item=-3197270240
-dimwishlist:item=-51129316
-dimwishlist:item=-2330860573
 dimwishlist:item=-2563012876
 dimwishlist:item=-2145441168
 dimwishlist:item=-4248569242
@@ -23016,12 +22771,9 @@ dimwishlist:item=-1168625549
 dimwishlist:item=-3753063346
 dimwishlist:item=-1821724780
 dimwishlist:item=-2035738085
-dimwishlist:item=-3635232671
-dimwishlist:item=-2888021253
 dimwishlist:item=-3163900678
 dimwishlist:item=-1239700299
 dimwishlist:item=-2883484461
-dimwishlist:item=-367772693
 dimwishlist:item=-1956186483
 dimwishlist:item=-2913577176
 dimwishlist:item=-1976481399
@@ -23044,14 +22796,18 @@ dimwishlist:item=-2821430069
 dimwishlist:item=-3184681056
 dimwishlist:item=-411397829
 dimwishlist:item=-664109750
+dimwishlist:item=-51129316
+dimwishlist:item=-2330860573
 dimwishlist:item=-2653171212
 dimwishlist:item=-825554997
 dimwishlist:item=-4287947559
+dimwishlist:item=-2699423382
 dimwishlist:item=-1094005544
 dimwishlist:item=-912150785
 dimwishlist:item=-135029084
 dimwishlist:item=-522366885
 dimwishlist:item=-2531963421
+dimwishlist:item=-367772693
 dimwishlist:item=-4225322581
 dimwishlist:item=-3216652511
 dimwishlist:item=-871900124
@@ -23061,6 +22817,8 @@ dimwishlist:item=-2130875369
 dimwishlist:item=-3232203524
 dimwishlist:item=-92459755
 dimwishlist:item=-2957367743
+dimwishlist:item=-3635232671
+dimwishlist:item=-2888021253
 dimwishlist:item=-3356526253
 dimwishlist:item=-2891672170
 dimwishlist:item=-1051949956
