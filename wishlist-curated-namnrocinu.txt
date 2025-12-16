@@ -51,6 +51,7 @@ dimwishlist:item=3281285075&perks=1482024992,3142289711,2173046394,4104185692#no
 dimwishlist:item=4184168210&perks=4090651448,3142289711,3038247973,3824105627#notes:PvE Godroll Crafted [Range] [Heavy Ammo Finder]
 dimwishlist:item=4184168210&perks=4090651448,3142289711,3038247973,4104185692#notes:PvE Godroll Crafted [Range] [Heavy Ammo Finder]
 dimwishlist:item=1216319404&perks=3250034553,106909392,3038247973,4104185692#notes:PvE Excellent [Range] [Adept Mag]
+dimwishlist:item=3856705927&perks=1840239774,1431678320,47981717,3917450714#notes:PvP Godroll
 dimwishlist:item=2499720827&perks=4090651448,106909392,3038247973,4104185692#notes:PvE Excellent [Handling] [Heavy Ammo Finder]
 dimwishlist:item=1973107014&perks=839105230,1561002382,2846385770,699525795#notes:PvP [Range] [Targeting Adjuster]
 dimwishlist:item=2314610827&perks=1840239774,3230963543,2451262963,555281244#notes:PvP [Range]
@@ -28288,6 +28289,7 @@ dimwishlist:item=-198854575
 dimwishlist:item=-4184168210
 dimwishlist:item=-4219826183
 dimwishlist:item=-1216319404
+dimwishlist:item=-3856705927
 dimwishlist:item=-2499720827
 dimwishlist:item=-882778888
 dimwishlist:item=-2152484073
@@ -28330,7 +28332,6 @@ dimwishlist:item=-2823644677
 dimwishlist:item=-235827225
 dimwishlist:item=-1917334929
 dimwishlist:item=-1141547457
-dimwishlist:item=-3856705927
 dimwishlist:item=-1731355324
 dimwishlist:item=-2226572694
 dimwishlist:item=-1773934241
