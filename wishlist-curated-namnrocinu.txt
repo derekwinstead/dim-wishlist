@@ -4,10 +4,6 @@ dimwishlist:item=1863583117
 dimwishlist:item=2370525224
 dimwishlist:item=568611921
 dimwishlist:item=1685533876
-dimwishlist:item=2922964484
-dimwishlist:item=2316331767
-dimwishlist:item=4069880346
-dimwishlist:item=1572604081
 dimwishlist:item=3481382332
 dimwishlist:item=784540300
 dimwishlist:item=784540301
@@ -1532,6 +1528,102 @@ dimwishlist:item=3977654524&perks=1844523823,2822142346,2010801679,243981275#not
 dimwishlist:item=4019651319&perks=1844523823,2822142346,2010801679,243981275#notes:PvE [Velocity] [Temporal Blast]
 dimwishlist:item=3977654524&perks=981914802,2822142346,2010801679,243981275#notes:PvE [Velocity] [Temporal Blast]
 dimwishlist:item=4019651319&perks=981914802,2822142346,2010801679,243981275#notes:PvE [Velocity] [Temporal Blast]
+dimwishlist:item=1572604081&perks=1478423395,3301904089,1421772400,1439600632#notes:PvE Godroll [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=4069880346&perks=1478423395,3301904089,1421772400,1439600632#notes:PvE Godroll [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=1572604081&perks=1844523823,3301904089,1421772400,1439600632#notes:PvE Excellent [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=4069880346&perks=1844523823,3301904089,1421772400,1439600632#notes:PvE Excellent [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=1572604081&perks=3809316345,3301904089,1421772400,1439600632#notes:PvE Excellent [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=4069880346&perks=3809316345,3301904089,1421772400,1439600632#notes:PvE Excellent [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=1572604081&perks=981914802,3301904089,1421772400,1439600632#notes:PvE Excellent [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=4069880346&perks=981914802,3301904089,1421772400,1439600632#notes:PvE Excellent [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=1572604081&perks=3525010810,3301904089,1421772400,1439600632#notes:PvE Excellent [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=4069880346&perks=3525010810,3301904089,1421772400,1439600632#notes:PvE Excellent [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=1572604081&perks=1478423395,3373736292,1421772400,1439600632#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=4069880346&perks=1478423395,3373736292,1421772400,1439600632#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=1572604081&perks=1844523823,3373736292,1421772400,1439600632#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=4069880346&perks=1844523823,3373736292,1421772400,1439600632#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=1572604081&perks=3809316345,3373736292,1421772400,1439600632#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=4069880346&perks=3809316345,3373736292,1421772400,1439600632#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=1572604081&perks=981914802,3373736292,1421772400,1439600632#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=4069880346&perks=981914802,3373736292,1421772400,1439600632#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=1572604081&perks=3525010810,3373736292,1421772400,1439600632#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=4069880346&perks=3525010810,3373736292,1421772400,1439600632#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=1572604081&perks=1478423395,2822142346,1421772400,1439600632#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=4069880346&perks=1478423395,2822142346,1421772400,1439600632#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=1572604081&perks=1844523823,2822142346,1421772400,1439600632#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=4069880346&perks=1844523823,2822142346,1421772400,1439600632#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=1572604081&perks=3809316345,2822142346,1421772400,1439600632#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=4069880346&perks=3809316345,2822142346,1421772400,1439600632#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=1572604081&perks=981914802,2822142346,1421772400,1439600632#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=4069880346&perks=981914802,2822142346,1421772400,1439600632#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=1572604081&perks=3525010810,2822142346,1421772400,1439600632#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=4069880346&perks=3525010810,2822142346,1421772400,1439600632#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=1572604081&perks=3301904089,1421772400,1439600632#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=4069880346&perks=3301904089,1421772400,1439600632#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=1572604081&perks=3373736292,1421772400,1439600632#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=4069880346&perks=3373736292,1421772400,1439600632#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=1572604081&perks=2822142346,1421772400,1439600632#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=4069880346&perks=2822142346,1421772400,1439600632#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=1572604081&perks=1478423395,1421772400,1439600632#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=4069880346&perks=1478423395,1421772400,1439600632#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=1572604081&perks=1844523823,1421772400,1439600632#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=4069880346&perks=1844523823,1421772400,1439600632#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=1572604081&perks=3809316345,1421772400,1439600632#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=4069880346&perks=3809316345,1421772400,1439600632#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=1572604081&perks=981914802,1421772400,1439600632#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=4069880346&perks=981914802,1421772400,1439600632#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=1572604081&perks=3525010810,1421772400,1439600632#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=4069880346&perks=3525010810,1421772400,1439600632#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=1572604081&perks=1421772400,1439600632#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=4069880346&perks=1421772400,1439600632#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=1572604081&perks=1478423395,3301904089,3987942396,3764420437#notes:PvE Godroll [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=4069880346&perks=1478423395,3301904089,3987942396,3764420437#notes:PvE Godroll [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=1572604081&perks=1844523823,3301904089,3987942396,3764420437#notes:PvE Excellent [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=4069880346&perks=1844523823,3301904089,3987942396,3764420437#notes:PvE Excellent [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=1572604081&perks=3809316345,3301904089,3987942396,3764420437#notes:PvE Excellent [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=4069880346&perks=3809316345,3301904089,3987942396,3764420437#notes:PvE Excellent [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=1572604081&perks=981914802,3301904089,3987942396,3764420437#notes:PvE Excellent [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=4069880346&perks=981914802,3301904089,3987942396,3764420437#notes:PvE Excellent [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=1572604081&perks=3525010810,3301904089,3987942396,3764420437#notes:PvE Excellent [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=4069880346&perks=3525010810,3301904089,3987942396,3764420437#notes:PvE Excellent [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=1572604081&perks=1478423395,3373736292,3987942396,3764420437#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=4069880346&perks=1478423395,3373736292,3987942396,3764420437#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=1572604081&perks=1844523823,3373736292,3987942396,3764420437#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=4069880346&perks=1844523823,3373736292,3987942396,3764420437#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=1572604081&perks=3809316345,3373736292,3987942396,3764420437#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=4069880346&perks=3809316345,3373736292,3987942396,3764420437#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=1572604081&perks=981914802,3373736292,3987942396,3764420437#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=4069880346&perks=981914802,3373736292,3987942396,3764420437#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=1572604081&perks=3525010810,3373736292,3987942396,3764420437#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=4069880346&perks=3525010810,3373736292,3987942396,3764420437#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=1572604081&perks=1478423395,2822142346,3987942396,3764420437#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=4069880346&perks=1478423395,2822142346,3987942396,3764420437#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=1572604081&perks=1844523823,2822142346,3987942396,3764420437#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=4069880346&perks=1844523823,2822142346,3987942396,3764420437#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=1572604081&perks=3809316345,2822142346,3987942396,3764420437#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=4069880346&perks=3809316345,2822142346,3987942396,3764420437#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=1572604081&perks=981914802,2822142346,3987942396,3764420437#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=4069880346&perks=981914802,2822142346,3987942396,3764420437#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=1572604081&perks=3525010810,2822142346,3987942396,3764420437#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=4069880346&perks=3525010810,2822142346,3987942396,3764420437#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=1572604081&perks=3301904089,3987942396,3764420437#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=4069880346&perks=3301904089,3987942396,3764420437#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=1572604081&perks=3373736292,3987942396,3764420437#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=4069880346&perks=3373736292,3987942396,3764420437#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=1572604081&perks=2822142346,3987942396,3764420437#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=4069880346&perks=2822142346,3987942396,3764420437#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=1572604081&perks=1478423395,3987942396,3764420437#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=4069880346&perks=1478423395,3987942396,3764420437#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=1572604081&perks=1844523823,3987942396,3764420437#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=4069880346&perks=1844523823,3987942396,3764420437#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=1572604081&perks=3809316345,3987942396,3764420437#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=4069880346&perks=3809316345,3987942396,3764420437#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=1572604081&perks=981914802,3987942396,3764420437#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=4069880346&perks=981914802,3987942396,3764420437#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=1572604081&perks=3525010810,3987942396,3764420437#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=4069880346&perks=3525010810,3987942396,3764420437#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=1572604081&perks=3987942396,3764420437#notes:PvE [Handling] [Enhanced Projectile Speed]
+dimwishlist:item=4069880346&perks=3987942396,3764420437#notes:PvE [Handling] [Enhanced Projectile Speed]
 dimwishlist:item=1762785663&perks=1478423395,2822142346,3523296417,243981275#notes:PvE Godroll [Handling] [Tactical]
 dimwishlist:item=1762785663&perks=3525010810,2822142346,3523296417,243981275#notes:PvE [Handling] [Tactical]
 dimwishlist:item=1762785663&perks=1844523823,2822142346,3523296417,243981275#notes:PvE [Handling] [Tactical]
@@ -27795,8 +27887,6 @@ dimwishlist:item=-2059741649
 dimwishlist:item=-233402416
 dimwishlist:item=-3185151619
 dimwishlist:item=-492673102
-dimwishlist:item=-2922964484
-dimwishlist:item=-2316331767
 dimwishlist:item=-4019651319
 dimwishlist:item=-3977654524
 dimwishlist:item=-4069880346
@@ -27825,6 +27915,8 @@ dimwishlist:item=-568611922
 dimwishlist:item=-1125217994
 dimwishlist:item=-2108920981
 dimwishlist:item=-4146702548
+dimwishlist:item=-2922964484
+dimwishlist:item=-2316331767
 dimwishlist:item=-268260373
 dimwishlist:item=-433905699
 dimwishlist:item=-2721157927
