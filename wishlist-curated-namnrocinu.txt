@@ -12792,13 +12792,6 @@ dimwishlist:item=270610849&perks=4090651448,689005463,3987942396,3078487919#note
 dimwishlist:item=766122634&perks=4090651448,689005463,3987942396,3078487919#notes:PvE Excellent [Charge] [Backup Mag]
 dimwishlist:item=270610849&perks=3661387068,689005463,3987942396,3078487919#notes:PvE Excellent [Charge] [Backup Mag]
 dimwishlist:item=766122634&perks=3661387068,689005463,3987942396,3078487919#notes:PvE Excellent [Charge] [Backup Mag]
-dimwishlist:item=270610849&perks=1840239774,689005463,3987942396,3078487919#notes:PvE Excellent [Charge] [Backup Mag]
-dimwishlist:item=766122634&perks=1840239774,689005463,3987942396,3078487919#notes:PvE Excellent [Charge] [Backup Mag]
-dimwishlist:item=270610849&perks=1467527085,689005463,3987942396,3078487919#notes:PvE Excellent [Charge] [Backup Mag]
-dimwishlist:item=766122634&perks=1467527085,689005463,3987942396,3078487919#notes:PvE Excellent [Charge] [Backup Mag]
-dimwishlist:item=270610849&perks=3250034553,689005463,3987942396,3078487919#notes:PvE Excellent [Charge] [Backup Mag]
-dimwishlist:item=766122634&perks=3250034553,689005463,3987942396,3078487919#notes:PvE Excellent [Charge] [Backup Mag]
-dimwishlist:item=270610849&perks=202670084,689005463,3987942396,3078487919#notes:PvE Excellent [Charge] [Backup Mag]
 dimwishlist:item=270610849&perks=839105230,689005463,1134488199,555281244#notes:PvE Godroll [Charge] [Backup Mag]
 dimwishlist:item=766122634&perks=839105230,689005463,1134488199,555281244#notes:PvE Godroll [Charge] [Backup Mag]
 dimwishlist:item=270610849&perks=4090651448,689005463,1134488199,555281244#notes:PvE Excellent [Charge] [Backup Mag]
@@ -27569,15 +27562,6 @@ dimwishlist:item=2889501828&perks=2827049491,269888150,2077819806,3650930298#not
 dimwishlist:item=1354727549&perks=436053704,269888150,2077819806,3650930298#notes:PvE Excellent [Impact] [Adept Mag]
 dimwishlist:item=2889501828&perks=436053704,269888150,2077819806,3650930298#notes:PvE Excellent [Impact] [Backup Mag]
 dimwishlist:item=1354727549&perks=3666208348,2077819806,3650930298#notes:PvE [Impact] [Adept Mag]
-dimwishlist:item=2889501828&perks=3666208348,2077819806,3650930298#notes:PvE [Impact] [Backup Mag]
-dimwishlist:item=1354727549&perks=2827049491,2077819806,3650930298#notes:PvE [Impact] [Adept Mag]
-dimwishlist:item=2889501828&perks=2827049491,2077819806,3650930298#notes:PvE [Impact] [Backup Mag]
-dimwishlist:item=1354727549&perks=436053704,2077819806,3650930298#notes:PvE [Impact] [Adept Mag]
-dimwishlist:item=2889501828&perks=436053704,2077819806,3650930298#notes:PvE [Impact] [Backup Mag]
-dimwishlist:item=1354727549&perks=269888150,2077819806,3650930298#notes:PvE [Impact] [Adept Mag]
-dimwishlist:item=2889501828&perks=269888150,2077819806,3650930298#notes:PvE [Impact] [Backup Mag]
-dimwishlist:item=1354727549&perks=2077819806,3650930298#notes:PvE [Impact] [Adept Mag]
-dimwishlist:item=2889501828&perks=2077819806,3650930298#notes:PvE [Impact] [Backup Mag]
 dimwishlist:item=1354727549&perks=3666208348,269888150,2077819806,3523296417#notes:PvE Godroll [Impact] [Adept Mag]
 dimwishlist:item=3054597646&perks=3666208348,269888150,2590710093,3201496230#notes:PvE Godroll [Impact] [Backup Mag]
 dimwishlist:item=2712683313&perks=3666208348,269888150,2590710093,3201496230#notes:PvE Godroll [Impact] [Backup Mag]
@@ -29276,6 +29260,7 @@ dimwishlist:item=-3637669759
 dimwishlist:item=-3257091167
 dimwishlist:item=-250721843
 dimwishlist:item=-105164264
+dimwishlist:item=-2344383760
 dimwishlist:item=-4207120603
 dimwishlist:item=-3257091166
 dimwishlist:item=-2139640995
