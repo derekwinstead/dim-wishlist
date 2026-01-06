@@ -23,8 +23,6 @@ dimwishlist:item=2263462407
 dimwishlist:item=4118334987
 dimwishlist:item=1288422452
 dimwishlist:item=3805679279
-dimwishlist:item=1845978721
-dimwishlist:item=3489054606
 dimwishlist:item=2334480463
 dimwishlist:item=827835657
 dimwishlist:item=1018012078
@@ -131,11 +129,11 @@ dimwishlist:item=2828278545&perks=1840239774,1087426260,1523832109,31345821#note
 dimwishlist:item=2828278545&perks=1840239774,1087426260,3523296417,31345821#notes:PvE Crafted [Handling] [Backup Mag]
 dimwishlist:item=407511664&perks=1523832109,31345821#notes:PvE [Handling] [Adept Mag]
 dimwishlist:item=407511664&perks=3523296417,31345821#notes:PvE [Handling] [Adept Mag]
+dimwishlist:item=906840740&perks=4090651448,1968497646,3300816228,4293542123#notes:PvE [Handling] [Backup Mag]
 dimwishlist:item=3605603507&perks=839105230,1087426260,3523296417,2109543898#notes:PvE Crafted [Range] [Backup Mag]
 dimwishlist:item=3605603507&perks=839105230,1087426260,1523832109,2109543898#notes:PvE Crafted [Range] [Backup Mag]
 dimwishlist:item=4230965989&perks=1392496348,106909392,1523832109,557221067#notes:PvE Crafted [Handling] [Backup Mag]
 dimwishlist:item=3654744298&perks=839105230,1087426260,2048641572,4049631843#notes:PvE Crafted [Reload] [Backup Mag]
-dimwishlist:item=906840740&perks=4090651448,1968497646,3300816228,4293542123#notes:PvE [Handling] [Backup Mag]
 dimwishlist:item=1757177186&perks=4090651448,1087426260,3643424744,3218042543#notes:PvE [Range] [Backup Mag]
 dimwishlist:item=1757177186&perks=1482024992,1885400500,3643424744,3966416502#notes:PvE Excellent [Range] [Backup Mag]
 dimwishlist:item=1757177186&perks=4090651448,1885400500,3643424744,557221067#notes:PvE Excellent [Range] [Backup Mag]
@@ -14377,6 +14375,60 @@ dimwishlist:item=4267192886&perks=2848615171,3966416502#notes:PvE [Range] [Adept
 dimwishlist:item=2730671571&perks=2848615171,3966416502#notes:PvE [Range] [Backup Mag]
 dimwishlist:item=2210806903&perks=2848615171,3966416502#notes:PvE [Range] [Adept Mag]
 dimwishlist:item=3984556130&perks=2848615171,3966416502#notes:PvE [Range] [Backup Mag]
+dimwishlist:item=3489054606&perks=839105230,1885400500,4293542123,557221067#notes:PvE Godroll [Range] [Backup Mag]
+dimwishlist:item=3489054606&perks=4090651448,1885400500,4293542123,557221067#notes:PvE Excellent [Range] [Backup Mag]
+dimwishlist:item=3489054606&perks=3661387068,1885400500,4293542123,557221067#notes:PvE Excellent [Range] [Backup Mag]
+dimwishlist:item=3489054606&perks=1840239774,1885400500,4293542123,557221067#notes:PvE Excellent [Range] [Backup Mag]
+dimwishlist:item=3489054606&perks=3250034553,1885400500,4293542123,557221067#notes:PvE Excellent [Range] [Backup Mag]
+dimwishlist:item=3489054606&perks=1467527085,1885400500,4293542123,557221067#notes:PvE Excellent [Range] [Backup Mag]
+dimwishlist:item=3489054606&perks=1482024992,1885400500,4293542123,557221067#notes:PvE Excellent [Range] [Backup Mag]
+dimwishlist:item=3489054606&perks=202670084,1885400500,4293542123,557221067#notes:PvE Excellent [Range] [Backup Mag]
+dimwishlist:item=3489054606&perks=839105230,1561002382,4293542123,557221067#notes:PvE [Range] [Backup Mag]
+dimwishlist:item=3489054606&perks=4090651448,1561002382,4293542123,557221067#notes:PvE [Range] [Backup Mag]
+dimwishlist:item=3489054606&perks=3661387068,1561002382,4293542123,557221067#notes:PvE [Range] [Backup Mag]
+dimwishlist:item=3489054606&perks=1840239774,1561002382,4293542123,557221067#notes:PvE [Range] [Backup Mag]
+dimwishlist:item=3489054606&perks=3250034553,1561002382,4293542123,557221067#notes:PvE [Range] [Backup Mag]
+dimwishlist:item=3489054606&perks=1467527085,1561002382,4293542123,557221067#notes:PvE [Range] [Backup Mag]
+dimwishlist:item=3489054606&perks=1482024992,1561002382,4293542123,557221067#notes:PvE [Range] [Backup Mag]
+dimwishlist:item=3489054606&perks=202670084,1561002382,4293542123,557221067#notes:PvE [Range] [Backup Mag]
+dimwishlist:item=3489054606&perks=839105230,1968497646,4293542123,557221067#notes:PvE [Range] [Backup Mag]
+dimwishlist:item=3489054606&perks=4090651448,1968497646,4293542123,557221067#notes:PvE [Range] [Backup Mag]
+dimwishlist:item=3489054606&perks=3661387068,1968497646,4293542123,557221067#notes:PvE [Range] [Backup Mag]
+dimwishlist:item=3489054606&perks=1840239774,1968497646,4293542123,557221067#notes:PvE [Range] [Backup Mag]
+dimwishlist:item=3489054606&perks=3250034553,1968497646,4293542123,557221067#notes:PvE [Range] [Backup Mag]
+dimwishlist:item=3489054606&perks=1467527085,1968497646,4293542123,557221067#notes:PvE [Range] [Backup Mag]
+dimwishlist:item=3489054606&perks=1482024992,1968497646,4293542123,557221067#notes:PvE [Range] [Backup Mag]
+dimwishlist:item=3489054606&perks=202670084,1968497646,4293542123,557221067#notes:PvE [Range] [Backup Mag]
+dimwishlist:item=3489054606&perks=839105230,1087426260,4293542123,557221067#notes:PvE [Range] [Backup Mag]
+dimwishlist:item=3489054606&perks=4090651448,1087426260,4293542123,557221067#notes:PvE [Range] [Backup Mag]
+dimwishlist:item=3489054606&perks=3661387068,1087426260,4293542123,557221067#notes:PvE [Range] [Backup Mag]
+dimwishlist:item=3489054606&perks=1840239774,1087426260,4293542123,557221067#notes:PvE [Range] [Backup Mag]
+dimwishlist:item=3489054606&perks=3250034553,1087426260,4293542123,557221067#notes:PvE [Range] [Backup Mag]
+dimwishlist:item=3489054606&perks=1467527085,1087426260,4293542123,557221067#notes:PvE [Range] [Backup Mag]
+dimwishlist:item=3489054606&perks=1482024992,1087426260,4293542123,557221067#notes:PvE [Range] [Backup Mag]
+dimwishlist:item=3489054606&perks=202670084,1087426260,4293542123,557221067#notes:PvE [Range] [Backup Mag]
+dimwishlist:item=3489054606&perks=839105230,2420895100,4293542123,557221067#notes:PvE [Range] [Backup Mag]
+dimwishlist:item=3489054606&perks=4090651448,2420895100,4293542123,557221067#notes:PvE [Range] [Backup Mag]
+dimwishlist:item=3489054606&perks=3661387068,2420895100,4293542123,557221067#notes:PvE [Range] [Backup Mag]
+dimwishlist:item=3489054606&perks=1840239774,2420895100,4293542123,557221067#notes:PvE [Range] [Backup Mag]
+dimwishlist:item=3489054606&perks=3250034553,2420895100,4293542123,557221067#notes:PvE [Range] [Backup Mag]
+dimwishlist:item=3489054606&perks=1467527085,2420895100,4293542123,557221067#notes:PvE [Range] [Backup Mag]
+dimwishlist:item=3489054606&perks=1482024992,2420895100,4293542123,557221067#notes:PvE [Range] [Backup Mag]
+dimwishlist:item=3489054606&perks=202670084,2420895100,4293542123,557221067#notes:PvE [Range] [Backup Mag]
+dimwishlist:item=3489054606&perks=1885400500,4293542123,557221067#notes:PvE [Range] [Backup Mag]
+dimwishlist:item=3489054606&perks=1561002382,4293542123,557221067#notes:PvE [Range] [Backup Mag]
+dimwishlist:item=3489054606&perks=1968497646,4293542123,557221067#notes:PvE [Range] [Backup Mag]
+dimwishlist:item=3489054606&perks=1087426260,4293542123,557221067#notes:PvE [Range] [Backup Mag]
+dimwishlist:item=3489054606&perks=2420895100,4293542123,557221067#notes:PvE [Range] [Backup Mag]
+dimwishlist:item=3489054606&perks=839105230,4293542123,557221067#notes:PvE [Range] [Backup Mag]
+dimwishlist:item=3489054606&perks=4090651448,4293542123,557221067#notes:PvE [Range] [Backup Mag]
+dimwishlist:item=3489054606&perks=3661387068,4293542123,557221067#notes:PvE [Range] [Backup Mag]
+dimwishlist:item=3489054606&perks=1840239774,4293542123,557221067#notes:PvE [Range] [Backup Mag]
+dimwishlist:item=3489054606&perks=3250034553,4293542123,557221067#notes:PvE [Range] [Backup Mag]
+dimwishlist:item=3489054606&perks=1467527085,4293542123,557221067#notes:PvE [Range] [Backup Mag]
+dimwishlist:item=3489054606&perks=1482024992,4293542123,557221067#notes:PvE [Range] [Backup Mag]
+dimwishlist:item=3489054606&perks=202670084,4293542123,557221067#notes:PvE [Range] [Backup Mag]
+dimwishlist:item=3489054606&perks=4293542123,557221067#notes:PvE [Range] [Backup Mag]
 dimwishlist:item=1079872540&perks=839105230,1087426260,124408337,2848615171#notes:PvE Godroll [Reload] [Backup Mag]
 dimwishlist:item=1079872540&perks=3661387068,1087426260,124408337,2848615171#notes:PvE Excellent [Reload] [Backup Mag]
 dimwishlist:item=1079872540&perks=4090651448,1087426260,124408337,2848615171#notes:PvE Excellent [Reload] [Backup Mag]
@@ -28947,8 +28999,8 @@ dimwishlist:item=-3984556130
 dimwishlist:item=-2210806903
 dimwishlist:item=-4267192886
 dimwishlist:item=-2730671571
-dimwishlist:item=-1845978721
 dimwishlist:item=-3489054606
+dimwishlist:item=-906840740
 dimwishlist:item=-1079872540
 dimwishlist:item=-3605603507
 dimwishlist:item=-337893613
@@ -28957,6 +29009,7 @@ dimwishlist:item=-4230965989
 dimwishlist:item=-3654744298
 dimwishlist:item=-2334480463
 dimwishlist:item=-2896109856
+dimwishlist:item=-1845978721
 dimwishlist:item=-954563454
 dimwishlist:item=-3105930175
 dimwishlist:item=-2187717691
@@ -28979,7 +29032,6 @@ dimwishlist:item=-2759590322
 dimwishlist:item=-566740455
 dimwishlist:item=-487205709
 dimwishlist:item=-1766088024
-dimwishlist:item=-906840740
 dimwishlist:item=-1757177186
 dimwishlist:item=-737409399
 dimwishlist:item=-2856225832
