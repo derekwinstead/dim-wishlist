@@ -1,5 +1,7 @@
 title: Nam's Curated Rolls
 dimwishlist:item=568611921
+dimwishlist:item=3615748501
+dimwishlist:item=649691506
 dimwishlist:item=1824586582
 dimwishlist:item=2246386812
 dimwishlist:item=617566156
@@ -2078,42 +2080,6 @@ dimwishlist:item=1553681400&perks=4088731040,4042220767,1771339417#notes:PvE [Re
 dimwishlist:item=1553681400&perks=1220787353,4042220767,1771339417#notes:PvE [Reload] [Temporal Blast]
 dimwishlist:item=1553681400&perks=1890040155,4042220767,1771339417#notes:PvE [Reload] [Temporal Blast]
 dimwishlist:item=1553681400&perks=4042220767,1771339417#notes:PvE [Reload] [Temporal Blast]
-dimwishlist:item=2838279629&perks=2801223209,2154191829,2652708987,3891536761#notes:PvE Godroll [Draw] [Tension]
-dimwishlist:item=2838279629&perks=3768438372,2154191829,2652708987,3891536761#notes:PvE Excellent [Draw] [Tension]
-dimwishlist:item=2838279629&perks=1196733167,2154191829,2652708987,3891536761#notes:PvE Excellent [Draw] [Tension]
-dimwishlist:item=2838279629&perks=4067834857,2154191829,2652708987,3891536761#notes:PvE Excellent [Draw] [Tension]
-dimwishlist:item=2838279629&perks=3371775011,2154191829,2652708987,3891536761#notes:PvE Excellent [Draw] [Tension]
-dimwishlist:item=2838279629&perks=2801223209,16392701,2652708987,3891536761#notes:PvE [Draw] [Tension]
-dimwishlist:item=2838279629&perks=2801223209,2154191829,243981275,3891536761#notes:PvE Godroll [Draw] [Tension]
-dimwishlist:item=2838279629&perks=3768438372,2154191829,243981275,3891536761#notes:PvE Excellent [Draw] [Tension]
-dimwishlist:item=2838279629&perks=1196733167,2154191829,243981275,3891536761#notes:PvE Excellent [Draw] [Tension]
-dimwishlist:item=2838279629&perks=4067834857,2154191829,243981275,3891536761#notes:PvE Excellent [Draw] [Tension]
-dimwishlist:item=2838279629&perks=3371775011,2154191829,243981275,3891536761#notes:PvE Excellent [Draw] [Tension]
-dimwishlist:item=2838279629&perks=2801223209,16392701,243981275,3891536761#notes:PvE [Draw] [Tension]
-dimwishlist:item=2838279629&perks=3768438372,16392701,243981275,3891536761#notes:PvE [Draw] [Tension]
-dimwishlist:item=2838279629&perks=1196733167,16392701,243981275,3891536761#notes:PvE [Draw] [Tension]
-dimwishlist:item=2838279629&perks=4067834857,16392701,243981275,3891536761#notes:PvE [Draw] [Tension]
-dimwishlist:item=2838279629&perks=3371775011,16392701,243981275,3891536761#notes:PvE [Draw] [Tension]
-dimwishlist:item=2838279629&perks=2801223209,3429800428,243981275,3891536761#notes:PvE [Draw] [Tension]
-dimwishlist:item=2838279629&perks=3768438372,3429800428,243981275,3891536761#notes:PvE [Draw] [Tension]
-dimwishlist:item=2838279629&perks=1196733167,3429800428,243981275,3891536761#notes:PvE [Draw] [Tension]
-dimwishlist:item=2838279629&perks=4067834857,3429800428,243981275,3891536761#notes:PvE [Draw] [Tension]
-dimwishlist:item=2838279629&perks=3371775011,3429800428,243981275,3891536761#notes:PvE [Draw] [Tension]
-dimwishlist:item=2838279629&perks=2801223209,3311977193,243981275,3891536761#notes:PvE [Draw] [Tension]
-dimwishlist:item=2838279629&perks=3768438372,3311977193,243981275,3891536761#notes:PvE [Draw] [Tension]
-dimwishlist:item=2838279629&perks=1196733167,3311977193,243981275,3891536761#notes:PvE [Draw] [Tension]
-dimwishlist:item=2838279629&perks=4067834857,3311977193,243981275,3891536761#notes:PvE [Draw] [Tension]
-dimwishlist:item=2838279629&perks=3371775011,3311977193,243981275,3891536761#notes:PvE [Draw] [Tension]
-dimwishlist:item=2838279629&perks=2154191829,243981275,3891536761#notes:PvE [Draw] [Tension]
-dimwishlist:item=2838279629&perks=16392701,243981275,3891536761#notes:PvE [Draw] [Tension]
-dimwishlist:item=2838279629&perks=3429800428,243981275,3891536761#notes:PvE [Draw] [Tension]
-dimwishlist:item=2838279629&perks=3311977193,243981275,3891536761#notes:PvE [Draw] [Tension]
-dimwishlist:item=2838279629&perks=2801223209,243981275,3891536761#notes:PvE [Draw] [Tension]
-dimwishlist:item=2838279629&perks=3768438372,243981275,3891536761#notes:PvE [Draw] [Tension]
-dimwishlist:item=2838279629&perks=1196733167,243981275,3891536761#notes:PvE [Draw] [Tension]
-dimwishlist:item=2838279629&perks=4067834857,243981275,3891536761#notes:PvE [Draw] [Tension]
-dimwishlist:item=2838279629&perks=3371775011,243981275,3891536761#notes:PvE [Draw] [Tension]
-dimwishlist:item=2838279629&perks=243981275,3891536761#notes:PvE [Draw] [Tension]
 dimwishlist:item=471764396&perks=2801223209,3429800428,4293542123,2890807135#notes:PvE Godroll [Draw] [Tension]
 dimwishlist:item=471764396&perks=2801223209,3827198035,4293542123,2890807135#notes:PvE Excellent [Draw] [Tension]
 dimwishlist:item=471764396&perks=2801223209,16392701,4293542123,2890807135#notes:PvE Excellent [Draw] [Tension]
@@ -25694,7 +25660,6 @@ dimwishlist:item=-1770490683
 dimwishlist:item=-1039915310
 dimwishlist:item=-1553681400
 dimwishlist:item=-3621336854
-dimwishlist:item=-2838279629
 dimwishlist:item=-471764396
 dimwishlist:item=-192784503
 dimwishlist:item=-496556698
@@ -25703,6 +25668,8 @@ dimwishlist:item=-3388655311
 dimwishlist:item=-3524386983
 dimwishlist:item=-1724104236
 dimwishlist:item=-2631466936
+dimwishlist:item=-3615748501
+dimwishlist:item=-649691506
 dimwishlist:item=-2291392465
 dimwishlist:item=-1536325168
 dimwishlist:item=-3949253499
@@ -25723,6 +25690,7 @@ dimwishlist:item=-784540302
 dimwishlist:item=-784540303
 dimwishlist:item=-3710082365
 dimwishlist:item=-2513965917
+dimwishlist:item=-2838279629
 dimwishlist:item=-2848549302
 dimwishlist:item=-3465233192
 dimwishlist:item=-2932922810
