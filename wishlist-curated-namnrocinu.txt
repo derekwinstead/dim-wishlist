@@ -11,8 +11,6 @@ dimwishlist:item=3805679279
 dimwishlist:item=2334480463
 dimwishlist:item=2873508409
 dimwishlist:item=877384
-dimwishlist:item=3556730800
-dimwishlist:item=135971347
 dimwishlist:item=71057630
 dimwishlist:item=1197073834
 dimwishlist:item=4104613038
@@ -27,7 +25,6 @@ dimwishlist:item=1552443158
 dimwishlist:item=2872063099
 dimwishlist:item=2362652544
 dimwishlist:item=3612338554
-dimwishlist:item=4062069077
 dimwishlist:item=527989828
 dimwishlist:item=437854388
 dimwishlist:item=437854389
@@ -158,7 +155,24 @@ dimwishlist:item=2023002233&perks=3824105627,960997401#notes:PvE
 dimwishlist:item=2023002233&perks=3824105627,831391274#notes:PvE
 dimwishlist:item=2023002233&perks=923806249,960997401#notes:PvE
 dimwishlist:item=2023002233&perks=923806249,831391274#notes:PvE
-#N/A
+dimwishlist:item=3556730800&perks=511499160,1089671869#notes:PvE
+dimwishlist:item=3556730800&perks=511499160,4049631843#notes:PvE
+dimwishlist:item=3556730800&perks=511499160,3966416502#notes:PvE
+dimwishlist:item=3556730800&perks=1017229899,1089671869#notes:PvE
+dimwishlist:item=3556730800&perks=1017229899,4049631843#notes:PvE
+dimwishlist:item=3556730800&perks=1017229899,3966416502#notes:PvE
+dimwishlist:item=3556730800&perks=684456054,1089671869#notes:PvE
+dimwishlist:item=3556730800&perks=684456054,4049631843#notes:PvE
+dimwishlist:item=3556730800&perks=684456054,3966416502#notes:PvE
+dimwishlist:item=135971347&perks=511499160,1089671869#notes:PvE
+dimwishlist:item=135971347&perks=511499160,4049631843#notes:PvE
+dimwishlist:item=135971347&perks=511499160,3966416502#notes:PvE
+dimwishlist:item=135971347&perks=1017229899,1089671869#notes:PvE
+dimwishlist:item=135971347&perks=1017229899,4049631843#notes:PvE
+dimwishlist:item=135971347&perks=1017229899,3966416502#notes:PvE
+dimwishlist:item=135971347&perks=684456054,1089671869#notes:PvE
+dimwishlist:item=135971347&perks=684456054,4049631843#notes:PvE
+dimwishlist:item=135971347&perks=684456054,3966416502#notes:PvE
 dimwishlist:item=3381450498&perks=3798852852,106909392,1119449540,2173046394#notes:PvE [Velocity] [Backup Mag]
 dimwishlist:item=2198166292&perks=981914802,3230963543,3017780555,4293542123#notes:PvE Crafted [Reload] [Backup Mag]
 dimwishlist:item=2198166292&perks=981914802,3230963543,691659142,4293542123#notes:PvE Crafted [Velocity] [Backup Mag]
@@ -251,12 +265,16 @@ dimwishlist:item=2059255495&perks=1840239774,3177308360,2866798147,957782887#not
 dimwishlist:item=3844610113&perks=839105230,3142289711,1354429876,3078487919#notes:PvE Crafted [Range] [Backup Mag]
 dimwishlist:item=3844610113&perks=839105230,3142289711,3891536761,3078487919#notes:PvE Crafted [Range] [Backup Mag]
 dimwishlist:item=3844610113&perks=839105230,3142289711,3987942396,3078487919#notes:PvE Crafted [Range] [Backup Mag]
+dimwishlist:item=3421075982&perks=3400784728,1089671869#notes:PvE
 dimwishlist:item=3421075982&perks=3400784728,3201496230#notes:PvE
 dimwishlist:item=3421075982&perks=3400784728,3252937884#notes:PvE
+dimwishlist:item=3421075982&perks=3978468247,1089671869#notes:PvE
 dimwishlist:item=3421075982&perks=3978468247,3201496230#notes:PvE
 dimwishlist:item=3421075982&perks=3978468247,3252937884#notes:PvE
+dimwishlist:item=690412397&perks=3400784728,1089671869#notes:PvE
 dimwishlist:item=690412397&perks=3400784728,3201496230#notes:PvE
 dimwishlist:item=690412397&perks=3400784728,3252937884#notes:PvE
+dimwishlist:item=690412397&perks=3978468247,1089671869#notes:PvE
 dimwishlist:item=690412397&perks=3978468247,3201496230#notes:PvE
 dimwishlist:item=690412397&perks=3978468247,3252937884#notes:PvE
 dimwishlist:item=2990047042&perks=839105230,106909392,1523832109,1771339417#notes:PvE Crafted [Handling] [Backup Mag]
@@ -269,6 +287,7 @@ dimwishlist:item=147444292&perks=1840239774,3230963543,1354429876,555281244#note
 dimwishlist:item=147444292&perks=1354429876,1546637391#notes:PvE Crafted
 dimwishlist:item=147444292&perks=3987942396,555281244#notes:PvE Crafted
 dimwishlist:item=147444292&perks=3987942396,1546637391#notes:PvE Crafted
+dimwishlist:item=4062069077&perks=1546637391,3078487919#notes:PvE
 dimwishlist:item=445197843&perks=839105230,106909392,2978966579,3640170453#notes:PvE Crafted [Handling] [Tactical]
 dimwishlist:item=172461430&perks=2978966579,3640170453#notes:PvE [Handling] [Tactical]
 dimwishlist:item=2673925403&perks=1467527085,106909392,1354429876,1771339417#notes:PvE Godroll [Stability] [Backup Mag]
