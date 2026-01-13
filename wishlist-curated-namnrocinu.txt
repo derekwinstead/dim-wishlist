@@ -11,10 +11,7 @@ dimwishlist:item=3805679279
 dimwishlist:item=2334480463
 dimwishlist:item=2873508409
 dimwishlist:item=877384
-dimwishlist:item=71057630
-dimwishlist:item=1197073834
 dimwishlist:item=337578911
-dimwishlist:item=3709368142
 dimwishlist:item=851296754
 dimwishlist:item=2699423382
 dimwishlist:item=2269779982
@@ -183,11 +180,35 @@ dimwishlist:item=2126543269&perks=1478423395,3796465595,3987942396,3078487919#no
 dimwishlist:item=839786290&perks=981914802,2985827016,968510818,1439600632#notes:PvE [Velocity] [Quick Access Sling]
 dimwishlist:item=839786290&perks=1844523823,3796465595,968510818,3078487919#notes:PvE Excellent [Velocity] [Quick Access Sling]
 dimwishlist:item=2218569744&perks=1482024992,3142289711,3700496672,3038247973#notes:PvE Crafted [Range] [Heavy Ammo Finder]
+dimwishlist:item=71057630&perks=3966416502,2173046394#notes:PvE
+dimwishlist:item=71057630&perks=3966416502,657025441#notes:PvE
+dimwishlist:item=71057630&perks=3966416502,4104185692#notes:PvE
+dimwishlist:item=71057630&perks=247725512,2173046394#notes:PvE
+dimwishlist:item=71057630&perks=247725512,657025441#notes:PvE
+dimwishlist:item=71057630&perks=247725512,4104185692#notes:PvE
+dimwishlist:item=71057630&perks=3700496672,2173046394#notes:PvE
+dimwishlist:item=71057630&perks=3700496672,657025441#notes:PvE
+dimwishlist:item=71057630&perks=3700496672,4104185692#notes:PvE
+dimwishlist:item=1197073834&perks=3914874605,2138673996#notes:PvE
+dimwishlist:item=1197073834&perks=3914874605,3891536761#notes:PvE
+dimwishlist:item=1197073834&perks=3038247973,2138673996#notes:PvE
+dimwishlist:item=1197073834&perks=3038247973,3891536761#notes:PvE
+dimwishlist:item=1197073834&perks=247725512,2138673996#notes:PvE
+dimwishlist:item=1197073834&perks=247725512,3891536761#notes:PvE
 dimwishlist:item=2883684343&perks=1482024992,3142289711,247725512,3891536761#notes:PvE [Range] [Adept Reload]
 dimwishlist:item=2883684343&perks=839105230,106909392,3700496672,3891536761#notes:PvE Excellent [Range] [Adept Reload]
 dimwishlist:item=1392919471&perks=247725512,4293542123#notes:PvE
 dimwishlist:item=3444688218&perks=839105230,3142289711,3017780555,4104185692#notes:PvE Godroll Crafted [Range] [Heavy Ammo Finder]
 dimwishlist:item=1432682459&perks=839105230,1885400500,247725512,31345821#notes:PvE Crafted [Range] [Heavy Ammo Finder]
+dimwishlist:item=3709368142&perks=1464081238,2048641572#notes:PvE
+dimwishlist:item=3709368142&perks=1464081238,2109543898#notes:PvE
+dimwishlist:item=3709368142&perks=1464081238,1134488199#notes:PvE
+dimwishlist:item=3709368142&perks=247725512,2048641572#notes:PvE
+dimwishlist:item=3709368142&perks=247725512,2109543898#notes:PvE
+dimwishlist:item=3709368142&perks=247725512,1134488199#notes:PvE
+dimwishlist:item=3709368142&perks=3700496672,2048641572#notes:PvE
+dimwishlist:item=3709368142&perks=3700496672,2109543898#notes:PvE
+dimwishlist:item=3709368142&perks=3700496672,1134488199#notes:PvE
 dimwishlist:item=1937552980&perks=839105230,3142289711,3824105627,2848615171#notes:PvE [Range] [Heavy Ammo Finder]
 dimwishlist:item=1937552980&perks=839105230,106909392,3038247973,4104185692#notes:PvE Crafted [Range] [Heavy Ammo Finder]
 dimwishlist:item=1184692845&perks=3824105627,2848615171#notes:PvE [Range] [Heavy Ammo Finder]
