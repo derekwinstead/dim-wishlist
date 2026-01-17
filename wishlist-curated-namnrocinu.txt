@@ -24,7 +24,6 @@ dimwishlist:item=2857870254&perks=243981275,2138673996#notes:
 dimwishlist:item=2857870254&perks=3914874605,3891536761#notes:
 dimwishlist:item=2857870254&perks=3914874605,2138673996#notes:
 dimwishlist:item=833898322&perks=839105230,1885400500,3017780555,4293542123#notes:PvE Crafted [Range] [Tactical]
-dimwishlist:item=3782662983&perks=839105230,1885400500,1523832109,365154968#notes:PvE [Range] [Heavy Ammo Finder]
 dimwishlist:item=1801007332&perks=1840239774,2420895100,2980589453,2298656195#notes:PvE Crafted [Reload] [Backup Mag]
 dimwishlist:item=1820994983&perks=3017780555,4293542123#notes:
 dimwishlist:item=1292594730&perks=3017780555,4293542123#notes:
@@ -25029,7 +25028,6 @@ dimwishlist:item=1303313141&perks=3418782618,557221067#notes:PvE [Range] [Backup
 dimwishlist:item=-4232480042
 dimwishlist:item=-2857870254
 dimwishlist:item=-833898322
-dimwishlist:item=-3782662983
 dimwishlist:item=-1801007332
 dimwishlist:item=-1820994983
 dimwishlist:item=-1292594730
@@ -25037,10 +25035,6 @@ dimwishlist:item=-1863583117
 dimwishlist:item=-342514437
 dimwishlist:item=-2579693381
 dimwishlist:item=-1992309064
-dimwishlist:item=-3229982889
-dimwishlist:item=-3485029080
-dimwishlist:item=-601574723
-dimwishlist:item=-2987244302
 dimwishlist:item=-1411560894
 dimwishlist:item=-702001725
 dimwishlist:item=-260532765
