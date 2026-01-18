@@ -69,7 +69,7 @@ dimwishlist:item=2715240478&perks=839105230,689005463,3300816228,2978966579#note
 dimwishlist:item=2558925366&perks=1840239774,2680121939,3643424744,2594592626#notes:PvE Crafted [Handling] [Quick Access Sling]
 dimwishlist:item=2558925366&perks=1840239774,2680121939,923806249,2594592626#notes:PvE Crafted [Charge] [Tactical]
 dimwishlist:item=2720651699&perks=839105230,689005463,3300816228,2594592626#notes:PvE Crafted [Charge] [Quick Access Sling]
-dimwishlist:item=535198113&perks=#notes:PvE Crafted [Shield]
+dimwishlist:item=535198113&perks=1263609309,2420895100,951095735,1782407750#notes:PvE Crafted [Shield]
 dimwishlist:item=3281285075&perks=1482024992,3142289711,2173046394,4104185692#notes:PvE Crafted [Range] [Heavy Ammo Finder]
 dimwishlist:item=4184168210&perks=4090651448,3142289711,3038247973,3824105627#notes:PvE Godroll Crafted [Range] [Heavy Ammo Finder]
 dimwishlist:item=4184168210&perks=4090651448,3142289711,3038247973,4104185692#notes:PvE Godroll Crafted [Range] [Heavy Ammo Finder]
@@ -125,7 +125,6 @@ dimwishlist:item=1018012078&perks=65604327,3218042543#notes:PvE
 dimwishlist:item=578105049&perks=684456054,2173046394#notes:PvE
 dimwishlist:item=3635821806&perks=1467527085,1885400500,3619207468,460017080#notes:PvP Crafted [Range] [Targeting Adjuster]
 dimwishlist:item=2372514508&perks=4090651448,106909392,3891536761,4049631843#notes:PvE [Range] [Heavy Ammo Finder]
-dimwishlist:item=2533990645&perks=839105230,3230963543,2387244414,1015611457#notes:PvP [Reload] [Targeting Adjuster]
 dimwishlist:item=2097055732&perks=839105230,1561002382,1428297954,588594999#notes:PvP Crafted [Range] [Targeting Adjuster]
 dimwishlist:item=2708806099&perks=839105230,1885400500,1428297954,1015611457#notes:PvP Crafted [Range] [Targeting Adjuster]
 dimwishlist:item=892183998&perks=839105230,3142289711,3824105627,3640170453#notes:PvE [Range] [Heavy Ammo Finder]
@@ -25100,17 +25099,8 @@ dimwishlist:item=-1724104236
 dimwishlist:item=-2631466936
 dimwishlist:item=-3615748501
 dimwishlist:item=-649691506
-dimwishlist:item=-2291392465
-dimwishlist:item=-1536325168
-dimwishlist:item=-3949253499
-dimwishlist:item=-3417731926
 dimwishlist:item=-591672323
 dimwishlist:item=-2326578623
-dimwishlist:item=-3481382332
-dimwishlist:item=-784540300
-dimwishlist:item=-784540301
-dimwishlist:item=-784540302
-dimwishlist:item=-784540303
 dimwishlist:item=-2838279629
 dimwishlist:item=-2932922810
 dimwishlist:item=-1289796511
@@ -25230,7 +25220,6 @@ dimwishlist:item=-578105049
 dimwishlist:item=-3635821806
 dimwishlist:item=-3830941962
 dimwishlist:item=-2372514508
-dimwishlist:item=-2533990645
 dimwishlist:item=-2199554524
 dimwishlist:item=-3796795102
 dimwishlist:item=-364665267
@@ -25291,8 +25280,6 @@ dimwishlist:item=-1937552980
 dimwishlist:item=-1184692845
 dimwishlist:item=-355922321
 dimwishlist:item=-3776430252
-dimwishlist:item=-2638190703
-dimwishlist:item=-3245493570
 dimwishlist:item=-3654674561
 dimwishlist:item=-1851521408
 dimwishlist:item=-4090134063
