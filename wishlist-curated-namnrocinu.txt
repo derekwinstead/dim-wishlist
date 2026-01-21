@@ -7326,6 +7326,41 @@ dimwishlist:item=3177074192&perks=3809316345,3987942396,3078487919#notes:PvE [Ha
 dimwishlist:item=3177074192&perks=3525010810,3987942396,3078487919#notes:PvE [Handling] [Temporal Armaments]
 dimwishlist:item=3177074192&perks=1441682018,3987942396,3078487919#notes:PvE [Handling] [Temporal Armaments]
 dimwishlist:item=3177074192&perks=3987942396,3078487919#notes:PvE [Handling] [Temporal Armaments]
+dimwishlist:item=3177074192&perks=1478423395,3301904089,3987942396,1089671869#notes:PvE Godroll [Handling] [Temporal Armaments]
+dimwishlist:item=3177074192&perks=1844523823,3301904089,3987942396,1089671869#notes:PvE Excellent [Handling] [Temporal Armaments]
+dimwishlist:item=3177074192&perks=981914802,3301904089,3987942396,1089671869#notes:PvE Excellent [Handling] [Temporal Armaments]
+dimwishlist:item=3177074192&perks=3809316345,3301904089,3987942396,1089671869#notes:PvE Excellent [Handling] [Temporal Armaments]
+dimwishlist:item=3177074192&perks=3525010810,3301904089,3987942396,1089671869#notes:PvE Excellent [Handling] [Temporal Armaments]
+dimwishlist:item=3177074192&perks=1441682018,3301904089,3987942396,1089671869#notes:PvE Excellent [Handling] [Temporal Armaments]
+dimwishlist:item=3177074192&perks=1478423395,1771897777,3987942396,1089671869#notes:PvE [Handling] [Temporal Armaments]
+dimwishlist:item=3177074192&perks=1844523823,1771897777,3987942396,1089671869#notes:PvE [Handling] [Temporal Armaments]
+dimwishlist:item=3177074192&perks=981914802,1771897777,3987942396,1089671869#notes:PvE [Handling] [Temporal Armaments]
+dimwishlist:item=3177074192&perks=3809316345,1771897777,3987942396,1089671869#notes:PvE [Handling] [Temporal Armaments]
+dimwishlist:item=3177074192&perks=3525010810,1771897777,3987942396,1089671869#notes:PvE [Handling] [Temporal Armaments]
+dimwishlist:item=3177074192&perks=1441682018,1771897777,3987942396,1089671869#notes:PvE [Handling] [Temporal Armaments]
+dimwishlist:item=3177074192&perks=1478423395,409831596,3987942396,1089671869#notes:PvE [Handling] [Temporal Armaments]
+dimwishlist:item=3177074192&perks=1844523823,409831596,3987942396,1089671869#notes:PvE [Handling] [Temporal Armaments]
+dimwishlist:item=3177074192&perks=981914802,409831596,3987942396,1089671869#notes:PvE [Handling] [Temporal Armaments]
+dimwishlist:item=3177074192&perks=3809316345,409831596,3987942396,1089671869#notes:PvE [Handling] [Temporal Armaments]
+dimwishlist:item=3177074192&perks=3525010810,409831596,3987942396,1089671869#notes:PvE [Handling] [Temporal Armaments]
+dimwishlist:item=3177074192&perks=1441682018,409831596,3987942396,1089671869#notes:PvE [Handling] [Temporal Armaments]
+dimwishlist:item=3177074192&perks=1478423395,2985827016,3987942396,1089671869#notes:PvE [Handling] [Temporal Armaments]
+dimwishlist:item=3177074192&perks=1844523823,2985827016,3987942396,1089671869#notes:PvE [Handling] [Temporal Armaments]
+dimwishlist:item=3177074192&perks=981914802,2985827016,3987942396,1089671869#notes:PvE [Handling] [Temporal Armaments]
+dimwishlist:item=3177074192&perks=3809316345,2985827016,3987942396,1089671869#notes:PvE [Handling] [Temporal Armaments]
+dimwishlist:item=3177074192&perks=3525010810,2985827016,3987942396,1089671869#notes:PvE [Handling] [Temporal Armaments]
+dimwishlist:item=3177074192&perks=1441682018,2985827016,3987942396,1089671869#notes:PvE [Handling] [Temporal Armaments]
+dimwishlist:item=3177074192&perks=3301904089,3987942396,1089671869#notes:PvE [Handling] [Temporal Armaments]
+dimwishlist:item=3177074192&perks=1771897777,3987942396,1089671869#notes:PvE [Handling] [Temporal Armaments]
+dimwishlist:item=3177074192&perks=409831596,3987942396,1089671869#notes:PvE [Handling] [Temporal Armaments]
+dimwishlist:item=3177074192&perks=2985827016,3987942396,1089671869#notes:PvE [Handling] [Temporal Armaments]
+dimwishlist:item=3177074192&perks=1478423395,3987942396,1089671869#notes:PvE [Handling] [Temporal Armaments]
+dimwishlist:item=3177074192&perks=1844523823,3987942396,1089671869#notes:PvE [Handling] [Temporal Armaments]
+dimwishlist:item=3177074192&perks=981914802,3987942396,1089671869#notes:PvE [Handling] [Temporal Armaments]
+dimwishlist:item=3177074192&perks=3809316345,3987942396,1089671869#notes:PvE [Handling] [Temporal Armaments]
+dimwishlist:item=3177074192&perks=3525010810,3987942396,1089671869#notes:PvE [Handling] [Temporal Armaments]
+dimwishlist:item=3177074192&perks=1441682018,3987942396,1089671869#notes:PvE [Handling] [Temporal Armaments]
+dimwishlist:item=3177074192&perks=3987942396,1089671869#notes:PvE [Handling] [Temporal Armaments]
 dimwishlist:item=2039776723&perks=3525010810,3301904089,3987942396,3078487919#notes:PvE Godroll [Handling] [Backup Mag]
 dimwishlist:item=2039776723&perks=1478423395,3301904089,3987942396,3078487919#notes:PvE Excellent [Handling] [Backup Mag]
 dimwishlist:item=2039776723&perks=981914802,3301904089,3987942396,3078487919#notes:PvE Excellent [Handling] [Backup Mag]
@@ -24657,8 +24692,6 @@ dimwishlist:item=-157601190
 dimwishlist:item=-877384
 dimwishlist:item=-2481758391
 dimwishlist:item=-435821040
-dimwishlist:item=-2372514509
-dimwishlist:item=-3851176026
 dimwishlist:item=-3813721211
 dimwishlist:item=-1098171824
 dimwishlist:item=-3602242905
