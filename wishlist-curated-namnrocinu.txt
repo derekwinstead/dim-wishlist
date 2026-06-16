@@ -1,7 +1,7 @@
 title: Nam's Curated Rolls
 dimwishlist:item=568611921
 dimwishlist:item=4146673634
-dimwishlist:item=911019136
+dimwishlist:item=0
 dimwishlist:item=2246386812
 dimwishlist:item=617566156
 dimwishlist:item=617566157
@@ -44,8 +44,6 @@ dimwishlist:item=1197771438&perks=3525010810,2822142346,3300816228,1546637391#no
 dimwishlist:item=2306182339&perks=981914802,3032599245,3300816228,1683379515#notes:PvE Excellent [Handling] [Quick Access Sling]
 dimwishlist:item=1770490683&perks=2801223209,2154191829,201365942,3640170453#notes:PvE Crafted [Draw] [Tension]
 dimwishlist:item=1039915310&perks=2801223209,2154191829,2848615171,2173046394#notes:PvE [Draw] [Adept Draw Time]
-dimwishlist:item=911019136&perks=2848615171,2173046394#notes:
-dimwishlist:item=911019136&perks=2848615171,3414324643#notes:
 dimwishlist:item=3621336854&perks=2801223209,16392701,201365942,3891536761#notes:PvE Crafted [Draw] [Tension]
 dimwishlist:item=192784503&perks=1196733167,3429800428,201365942,3365897133#notes:PvE [Draw] [Tension]
 dimwishlist:item=496556698&perks=852209214,3429800428,201365942,4293542123#notes:PvE [Draw] [Tension]
@@ -2296,6 +2294,14 @@ dimwishlist:item=1553681400&perks=4088731040,4042220767,1771339417#notes:PvE [Re
 dimwishlist:item=1553681400&perks=1220787353,4042220767,1771339417#notes:PvE [Reload] [Temporal Blast]
 dimwishlist:item=1553681400&perks=1890040155,4042220767,1771339417#notes:PvE [Reload] [Temporal Blast]
 dimwishlist:item=1553681400&perks=4042220767,1771339417#notes:PvE [Reload] [Temporal Blast]
+dimwishlist:item=911019136&perks=2801223209,16392701,2848615171,2173046394#notes:PvE Godroll [Draw] [Targeting Adjuster]
+dimwishlist:item=911019136&perks=2801223209,2848615171,2173046394#notes:PvE Excellent [Draw] [Targeting Adjuster]
+dimwishlist:item=911019136&perks=16392701,2848615171,2173046394#notes:PvE Excellent [Draw] [Targeting Adjuster]
+dimwishlist:item=911019136&perks=2848615171,2173046394#notes:PvE [Draw] [Targeting Adjuster]
+dimwishlist:item=911019136&perks=2801223209,16392701,2848615171,3414324643#notes:PvE Godroll [Draw] [Targeting Adjuster]
+dimwishlist:item=911019136&perks=2801223209,2848615171,3414324643#notes:PvE Excellent [Draw] [Targeting Adjuster]
+dimwishlist:item=911019136&perks=16392701,2848615171,3414324643#notes:PvE Excellent [Draw] [Targeting Adjuster]
+dimwishlist:item=911019136&perks=2848615171,3414324643#notes:PvE [Draw] [Targeting Adjuster]
 dimwishlist:item=471764396&perks=2801223209,3429800428,4293542123,2890807135#notes:PvE Godroll [Draw] [Tension]
 dimwishlist:item=471764396&perks=2801223209,3827198035,4293542123,2890807135#notes:PvE Excellent [Draw] [Tension]
 dimwishlist:item=471764396&perks=2801223209,16392701,4293542123,2890807135#notes:PvE Excellent [Draw] [Tension]
@@ -24388,6 +24394,7 @@ dimwishlist:item=-1039915310
 dimwishlist:item=-1553681400
 dimwishlist:item=-911019136
 dimwishlist:item=-3621336854
+dimwishlist:item=-0
 dimwishlist:item=-471764396
 dimwishlist:item=-192784503
 dimwishlist:item=-496556698
