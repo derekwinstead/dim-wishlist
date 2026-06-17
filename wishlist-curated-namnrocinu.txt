@@ -128,6 +128,7 @@ dimwishlist:item=2023002233&perks=3824105627,960997401#notes:PvE
 dimwishlist:item=2023002233&perks=3824105627,831391274#notes:PvE
 dimwishlist:item=2023002233&perks=923806249,960997401#notes:PvE
 dimwishlist:item=2023002233&perks=923806249,831391274#notes:PvE
+dimwishlist:item=42435996&perks=1844523823,3230963543,3418782618,3078487919,3454102905
 dimwishlist:item=42435996&perks=1844523823,3230963543,3418782618,3078487919#notes:PvE Excellent [Handling] [Temporal Blast]
 dimwishlist:item=3381450498&perks=3798852852,106909392,1119449540,2173046394#notes:PvE [Velocity] [Backup Mag]
 dimwishlist:item=2198166292&perks=981914802,3230963543,3017780555,4293542123#notes:PvE Crafted [Reload] [Backup Mag]
