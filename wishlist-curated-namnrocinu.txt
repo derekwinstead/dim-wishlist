@@ -28,287 +28,287 @@ dimwishlist:item=2499834165
 dimwishlist:item=2362652544
 dimwishlist:item=3612338554
 dimwishlist:item=1648948519
-dimwishlist:item=4232480042&perks=3230963543,243981275,3966416502,2#notes:PvE [Range] [Heavy Ammo Finder]
-dimwishlist:item=833898322&perks=839105230,1885400500,3017780555,4293542123,3#notes:PvE Crafted [Range] [Tactical]
-dimwishlist:item=1801007332&perks=202670084,3142289711,2980589453,3640170453,4#notes:PvE Crafted [Handling] [Backup Mag]
-dimwishlist:item=1863583117&perks=3017780555,4293542123,5#notes:
-dimwishlist:item=1863583117&perks=3017780555,2890807135,5#notes:
-dimwishlist:item=1863583117&perks=243981275,4293542123,5#notes:
-dimwishlist:item=1863583117&perks=243981275,2890807135,5#notes:
-dimwishlist:item=342514437&perks=3523296417,4104185692,6#notes:PvE [Range]
-dimwishlist:item=342514437&perks=839105230,1885400500,1523832109,365154968,6#notes:PvE [Range] [Heavy Ammo Finder]
-dimwishlist:item=1992309064&perks=1840239774,3230963543,2048641572,776531651,10#notes:PvE Crafted [Range] [Backup Mag]
-dimwishlist:item=613334176&perks=3525010810,2822142346,2010801679,2396489472,2#notes:PvE Crafted [Reload] [Tactical]
-dimwishlist:item=4038592169&perks=2010801679,2396489472,3#notes:PvE [Reload] [Tactical]
-dimwishlist:item=4043921923&perks=981914802,3301904089,3300816228,4104185692,9#notes:PvE Excellent [Blast Radius] [Quick Access Sling]
-dimwishlist:item=3849810018&perks=3525010810,3032599245,3300816228,1546637391,10#notes:PvE Crafted [Handling] [Quick Access Sling]
-dimwishlist:item=4255586669&perks=981914802,3032599245,3300816228,1546637391,11#notes:PvE Excellent [Handling] [Quick Access Sling]
-dimwishlist:item=1197771438&perks=3525010810,2822142346,3300816228,1546637391,16#notes:PvE Crafted [Handling] [Aerodynamics]
-dimwishlist:item=2306182339&perks=981914802,3032599245,3300816228,1683379515,30#notes:PvE Excellent [Handling] [Quick Access Sling]
-dimwishlist:item=1770490683&perks=2801223209,16392701,201365942,3640170453,1#notes:PvE Crafted [Draw] [Tension]
-dimwishlist:item=1039915310&perks=2801223209,2154191829,2848615171,2173046394,2#notes:PvE [Draw] [Adept Draw Time]
-dimwishlist:item=3621336854&perks=2801223209,16392701,243981275,3891536761,4#notes:PvE Crafted [Draw] [Tension]
-dimwishlist:item=3638723317&perks=2890807135,4293542123,6#notes:PvE
-dimwishlist:item=192784503&perks=1196733167,3429800428,201365942,3365897133,8#notes:PvE [Draw] [Tension]
-dimwishlist:item=496556698&perks=852209214,3429800428,201365942,4293542123,9#notes:PvE [Draw] [Tension]
-dimwishlist:item=2063217087&perks=852209214,16392701,3700496672,3365897133,10#notes:PvE [Draw] [Adept Draw Time]
-dimwishlist:item=3388655311&perks=2801223209,2154191829,2848615171,4293542123,11#notes:PvE Crafted [Draw] [Tension]
-dimwishlist:item=2291392465&perks=2848615171,2048641572,14#notes:PvE
-dimwishlist:item=1536325168&perks=2848615171,2048641572,15#notes:PvE
-dimwishlist:item=3667861447&perks=776531651,2048641572,16#notes:PvE
-dimwishlist:item=2631466936&perks=2848615171,2048641572,17#notes:PvE
-dimwishlist:item=2631466936&perks=3768438372,3827198035,2848615171,2048641572,17#notes:PvE [Draw] [Tension]
-dimwishlist:item=2631466936&perks=852209214,3429800428,776531651,1464081238,17#notes:PvE [Draw] [Tension]
-dimwishlist:item=591672323&perks=2848615171,2048641572,18#notes:PvE
-dimwishlist:item=1289796511&perks=839105230,2969185026,1645158859,3511092054,1#notes:PvP Crafted [Range] [Ballistics]
-dimwishlist:item=3591141932&perks=839105230,689005463,3418782618,2594592626,3#notes:PvE Crafted [Charge]
-dimwishlist:item=2481881293&perks=2405638015,689005463,1556840489,1546637391,4#notes:PvE Godroll [Charge]
-dimwishlist:item=2715240478&perks=839105230,689005463,3300816228,2978966579,8#notes:PvE Excellent [Charge] [Backup Mag]
-dimwishlist:item=2558925366&perks=1840239774,2680121939,3643424744,2594592626,10#notes:PvE Crafted [Handling] [Quick Access Sling]
-dimwishlist:item=2558925366&perks=1840239774,2680121939,923806249,2594592626,10#notes:PvE Crafted [Charge] [Tactical]
-dimwishlist:item=2720651699&perks=839105230,689005463,3300816228,2594592626,14#notes:PvE Crafted [Charge] [Quick Access Sling]
-dimwishlist:item=535198113&perks=1263609309,2420895100,951095735,1782407750,8#notes:PvE Crafted [Shield]
-dimwishlist:item=3281285075&perks=1840239774,3230963543,2173046394,4104185692,766321425,1#notes:PvE Crafted [Reload] [Tactical]
-dimwishlist:item=4184168210&perks=4090651448,3142289711,3038247973,3824105627,7#notes:PvE Godroll Crafted [Range] [Heavy Ammo Finder]
-dimwishlist:item=4184168210&perks=4090651448,3142289711,3038247973,4104185692,7#notes:PvE Godroll Crafted [Range] [Heavy Ammo Finder]
-dimwishlist:item=4219826183&perks=3038247973,3824105627,8#notes:
-dimwishlist:item=4219826183&perks=3038247973,4104185692,8#notes:
-dimwishlist:item=1216319404&perks=3250034553,106909392,3038247973,4104185692,9#notes:PvE Excellent [Range] [Adept Mag]
-dimwishlist:item=3856705927&perks=1840239774,1431678320,47981717,3917450714,10#notes:PvP Godroll
-dimwishlist:item=2499720827&perks=4090651448,106909392,3038247973,4104185692,11#notes:PvE Excellent [Handling] [Heavy Ammo Finder]
-dimwishlist:item=291092617&perks=3038247973,4293542123,16#notes:PvE [Range] [Heavy Ammo Finder]
-dimwishlist:item=431721920&perks=3250034553,106909392,3038247973,4293542123,17#notes:PvE Crafted [Range] [Heavy Ammo Finder]
-dimwishlist:item=1622998472&perks=4090651448,3230963543,3700496672,3038247973,21#notes:PvE [Reload] [Backup Mag]
-dimwishlist:item=2263462407&perks=3700496672,3038247973,22#notes:
-dimwishlist:item=2034215657&perks=1482024992,1885400500,3619207468,1015611457,24#notes:PvP Crafted [Range] [Targeting Adjuster]
-dimwishlist:item=2485881870&perks=247725512,1089671869,25#notes:PvE
-dimwishlist:item=2485881870&perks=2848615171,1089671869,25#notes:PvE
-dimwishlist:item=2485881870&perks=247725512,4104185692,25#notes:PvE
-dimwishlist:item=2485881870&perks=2848615171,4104185692,25#notes:PvE
-dimwishlist:item=120706239&perks=1840239774,3230963543,2848615171,2048641572,1156201379,29#notes:PvE Crafted [Range] [Backup Mag]
-dimwishlist:item=120706239&perks=1840239774,3230963543,776531651,2048641572,1156201379,29#notes:PvE Crafted [Range] [Backup Mag]
-dimwishlist:item=3926103986&perks=776531651,2048641572,1156201379,30#notes:PvE [Range]
-dimwishlist:item=2599338625&perks=3525010810,3301904089,3987942396,3078487919,1#notes:PvE Godroll [Velocity] [Backup Mag]
-dimwishlist:item=2599338625&perks=3525010810,3301904089,3987942396,3751912585,1#notes:PvE Godroll [Velocity] [Backup Mag]
-dimwishlist:item=2738601016&perks=1478423395,2985827016,968510818,3078487919,5#notes:PvE [Velocity] [Backup Mag]
-dimwishlist:item=874623537&perks=1441682018,2985827016,968510818,3078487919,6#notes:PvE [Velocity] [Adept Mag]
-dimwishlist:item=568611923&perks=981914802,3301904089,968510818,3078487919,9#notes:PvE [Velocity] [Backup Mag]
-dimwishlist:item=3165547384&perks=951095735,2396489472,10#notes:PvP [Blast Radius]
-dimwishlist:item=3165547384&perks=951095735,960810156,10#notes:PvP [Blast Radius]
-dimwishlist:item=1491665733&perks=839105230,2680121939,3418782618,3640170453,3#notes:PvE Crafted [Charge] [Backup Mag]
-dimwishlist:item=999767358&perks=839105230,2680121939,1354429876,3078487919,4#notes:PvE Crafted [Charge] [Backup Mag]
-dimwishlist:item=2886339027&perks=3661387068,1687452232,1354429876,3078487919,5#notes:PvE [Range] [Adept Mag]
-dimwishlist:item=2886339027&perks=1354429876,3078487919,5#notes:PvE [Charge] [Adept Mag]
-dimwishlist:item=1399243961&perks=1482024992,2680121939,3400784728,1546637391,6#notes:PvE [Charge] [Backup Mag]
-dimwishlist:item=1399243961&perks=1482024992,689005463,3400784728,1771339417,6#notes:PvE Excellent [Charge] [Backup Mag]
-dimwishlist:item=1501688142&perks=839105230,689005463,1523832109,555281244,9#notes:PvE Crafted [Charge] [Backup Mag]
-dimwishlist:item=2828278545&perks=1840239774,1087426260,1523832109,31345821,1#notes:PvE Crafted [Handling] [Backup Mag]
-dimwishlist:item=2828278545&perks=1840239774,1087426260,3523296417,31345821,1#notes:PvE Crafted [Handling] [Backup Mag]
-dimwishlist:item=407511664&perks=1523832109,31345821,2#notes:PvE [Handling] [Adept Mag]
-dimwishlist:item=407511664&perks=3523296417,31345821,2#notes:PvE [Handling] [Adept Mag]
-dimwishlist:item=906840740&perks=4090651448,1968497646,3300816228,4293542123,8#notes:PvE [Handling] [Backup Mag]
-dimwishlist:item=3605603507&perks=839105230,1087426260,3523296417,2109543898,10#notes:PvE Crafted [Range] [Backup Mag]
-dimwishlist:item=3605603507&perks=839105230,1087426260,1523832109,2109543898,10#notes:PvE Crafted [Range] [Backup Mag]
-dimwishlist:item=4230965989&perks=1392496348,106909392,1523832109,557221067,13#notes:PvE Crafted [Handling] [Backup Mag]
-dimwishlist:item=3654744298&perks=839105230,1087426260,2048641572,4049631843,14#notes:PvE Crafted [Reload] [Backup Mag]
-dimwishlist:item=2334480463&perks=2048641572,4049631843,15#notes:PvE
-dimwishlist:item=827835657&perks=511499160,3966416502,1#notes:PvE
-dimwishlist:item=827835657&perks=511499160,3218042543,1#notes:PvE
-dimwishlist:item=827835657&perks=65604327,3966416502,1#notes:PvE
-dimwishlist:item=827835657&perks=65604327,3218042543,1#notes:PvE
-dimwishlist:item=1018012078&perks=511499160,3966416502,2#notes:PvE
-dimwishlist:item=1018012078&perks=511499160,3218042543,2#notes:PvE
-dimwishlist:item=1018012078&perks=65604327,3966416502,2#notes:PvE
-dimwishlist:item=1018012078&perks=65604327,3218042543,2#notes:PvE
-dimwishlist:item=578105049&perks=684456054,2173046394,3#notes:PvE
-dimwishlist:item=3635821806&perks=1467527085,1885400500,3619207468,460017080,4#notes:PvP Crafted [Range] [Targeting Adjuster]
-dimwishlist:item=2372514508&perks=4090651448,106909392,3891536761,4049631843,6#notes:PvE [Range] [Heavy Ammo Finder]
-dimwishlist:item=2199554524&perks=1392496348,1885400500,2579169598,460017080,515704826,8#notes:PvP Excellent [Range] [Targeting Adjuster]
-dimwishlist:item=2199554524&perks=1482024992,679225683,2387244414,460017080,515704826,8#notes:PvP [Range] [Targeting Adjuster]
-dimwishlist:item=2708806099&perks=839105230,1885400500,1428297954,1015611457,13#notes:PvP Crafted [Range] [Targeting Adjuster]
-dimwishlist:item=892183998&perks=839105230,3142289711,3824105627,3640170453,15#notes:PvE [Range] [Heavy Ammo Finder]
-dimwishlist:item=892183998&perks=839105230,3230963543,3017780555,4293542123,15#notes:PvE [Reload] [Heavy Ammo Finder]
-dimwishlist:item=892183998&perks=839105230,3230963543,3017780555,3640170453,15#notes:PvE [Reload] [Heavy Ammo Finder]
-dimwishlist:item=3984776322&perks=3824105627,960997401,17#notes:PvE
-dimwishlist:item=3984776322&perks=3824105627,831391274,17#notes:PvE
-dimwishlist:item=3984776322&perks=923806249,960997401,17#notes:PvE
-dimwishlist:item=3984776322&perks=923806249,831391274,17#notes:PvE
-dimwishlist:item=2023002233&perks=3824105627,960997401,18#notes:PvE
-dimwishlist:item=2023002233&perks=3824105627,831391274,18#notes:PvE
-dimwishlist:item=2023002233&perks=923806249,960997401,18#notes:PvE
-dimwishlist:item=2023002233&perks=923806249,831391274,18#notes:PvE
-dimwishlist:item=1505862304&perks=3661387068,1968497646,776531651,2048641572,20#notes:PvE [Stability] [Heavy Ammo Finder]
-dimwishlist:item=42435996&perks=1844523823,3230963543,3418782618,3078487919,3454102905,4#notes:PvE Excellent [Handling] [Temporal Blast]
-dimwishlist:item=3381450498&perks=3798852852,106909392,1119449540,2173046394,1#notes:PvE [Velocity] [Backup Mag]
-dimwishlist:item=2198166292&perks=981914802,3230963543,3017780555,4293542123,3#notes:PvE Crafted [Reload] [Backup Mag]
-dimwishlist:item=2198166292&perks=981914802,3230963543,691659142,4293542123,3#notes:PvE Crafted [Velocity] [Backup Mag]
-dimwishlist:item=3947966653&perks=1478423395,106909392,923806249,2109543898,6#notes:PvP Crafted [Velocity] [Backup Mag]
-dimwishlist:item=1851777734&perks=3525010810,3796465595,1523832109,3194351027,2#notes:PvE Crafted [Handling] [Quick Access Sling]
-dimwishlist:item=1851777734&perks=3525010810,3796465595,1523832109,3078487919,2#notes:PvE Crafted [Reload] [Quick Access Sling]
-dimwishlist:item=1851777734&perks=3525010810,3796465595,1523832109,1439600632,2#notes:PvE Crafted [Handling] [Quick Access Sling]
-dimwishlist:item=2265407516&perks=3525010810,3796465595,3987942396,3078487919,3#notes:PvE Godroll Crafted [Handling] [Quick Access Sling]
-dimwishlist:item=2126543269&perks=1478423395,3796465595,3987942396,3078487919,5#notes:PvE Godroll [Velocity] [Quick Access Sling]
-dimwishlist:item=839786290&perks=1844523823,3796465595,968510818,3078487919,6#notes:PvE Excellent [Velocity] [Quick Access Sling]
-dimwishlist:item=839786290&perks=981914802,2985827016,968510818,1439600632,6#notes:PvE [Velocity] [Quick Access Sling]
-dimwishlist:item=694275488&perks=981914802,2985827016,2284787283,3194351027,8#notes:PvE [Handling] [Quick Access Sling]
-dimwishlist:item=694275488&perks=1478423395,2822142346,1523832109,3194351027,8#notes:PvE [Handling] [Quick Access Sling]
-dimwishlist:item=2218569744&perks=1482024992,3142289711,3700496672,3038247973,1#notes:PvE Crafted [Range] [Heavy Ammo Finder]
-dimwishlist:item=71057630&perks=3966416502,2173046394,3#notes:PvE
-dimwishlist:item=71057630&perks=3966416502,657025441,3#notes:PvE
-dimwishlist:item=71057630&perks=3966416502,4104185692,3#notes:PvE
-dimwishlist:item=71057630&perks=247725512,2173046394,3#notes:PvE
-dimwishlist:item=71057630&perks=247725512,657025441,3#notes:PvE
-dimwishlist:item=71057630&perks=247725512,4104185692,3#notes:PvE
-dimwishlist:item=71057630&perks=3700496672,2173046394,3#notes:PvE
-dimwishlist:item=71057630&perks=3700496672,657025441,3#notes:PvE
-dimwishlist:item=71057630&perks=3700496672,4104185692,3#notes:PvE
-dimwishlist:item=1197073834&perks=3914874605,2138673996,4#notes:PvE
-dimwishlist:item=1197073834&perks=3914874605,3891536761,4#notes:PvE
-dimwishlist:item=1197073834&perks=3038247973,2138673996,4#notes:PvE
-dimwishlist:item=1197073834&perks=3038247973,3891536761,4#notes:PvE
-dimwishlist:item=1197073834&perks=247725512,2138673996,4#notes:PvE
-dimwishlist:item=1197073834&perks=247725512,3891536761,4#notes:PvE
-dimwishlist:item=2883684343&perks=1482024992,3142289711,247725512,3891536761,6#notes:PvE [Range] [Adept Reload]
-dimwishlist:item=2883684343&perks=839105230,106909392,3700496672,3891536761,6#notes:PvE Excellent [Range] [Adept Reload]
-dimwishlist:item=1392919471&perks=247725512,4293542123,10#notes:PvE
-dimwishlist:item=3444688218&perks=839105230,3142289711,3017780555,4104185692,11#notes:PvE Godroll Crafted [Range] [Heavy Ammo Finder]
-dimwishlist:item=1432682459&perks=839105230,1885400500,247725512,31345821,13#notes:PvE Crafted [Range] [Heavy Ammo Finder]
-dimwishlist:item=3709368142&perks=1464081238,2048641572,14#notes:PvE
-dimwishlist:item=3709368142&perks=1464081238,2109543898,14#notes:PvE
-dimwishlist:item=3709368142&perks=1464081238,1134488199,14#notes:PvE
-dimwishlist:item=3709368142&perks=247725512,2048641572,14#notes:PvE
-dimwishlist:item=3709368142&perks=247725512,2109543898,14#notes:PvE
-dimwishlist:item=3709368142&perks=247725512,1134488199,14#notes:PvE
-dimwishlist:item=3709368142&perks=3700496672,2048641572,14#notes:PvE
-dimwishlist:item=3709368142&perks=3700496672,2109543898,14#notes:PvE
-dimwishlist:item=3709368142&perks=3700496672,1134488199,14#notes:PvE
-dimwishlist:item=1937552980&perks=839105230,3142289711,3824105627,2848615171,15#notes:PvE [Range] [Heavy Ammo Finder]
-dimwishlist:item=1937552980&perks=839105230,106909392,3038247973,4104185692,15#notes:PvE Crafted [Range] [Heavy Ammo Finder]
-dimwishlist:item=1184692845&perks=3824105627,2848615171,16#notes:PvE [Range] [Heavy Ammo Finder]
-dimwishlist:item=1184692845&perks=3038247973,4104185692,16#notes:PvE [Range] [Heavy Ammo Finder]
-dimwishlist:item=355922321&perks=776531651,2048641572,17#notes:PvE
-dimwishlist:item=355922321&perks=776531651,2848615171,17#notes:PvE
-dimwishlist:item=355922321&perks=776531651,3038247973,17#notes:PvE
-dimwishlist:item=355922321&perks=247725512,2048641572,17#notes:PvE
-dimwishlist:item=355922321&perks=247725512,2848615171,17#notes:PvE
-dimwishlist:item=355922321&perks=247725512,3038247973,17#notes:PvE
-dimwishlist:item=3738678140&perks=1631667848,2679249093,3#notes:PvE [Range]
-dimwishlist:item=3738678140&perks=1631667848,4104185692,3#notes:PvE [Range]
-dimwishlist:item=3738678140&perks=1631667848,3708227201,3#notes:PvE [Range]
-dimwishlist:item=3738678140&perks=3300816228,2679249093,3#notes:PvE [Range]
-dimwishlist:item=3738678140&perks=3300816228,4104185692,3#notes:PvE [Range]
-dimwishlist:item=3738678140&perks=3300816228,3708227201,3#notes:PvE [Range]
-dimwishlist:item=3738678140&perks=1556840489,2679249093,3#notes:PvE [Range]
-dimwishlist:item=3738678140&perks=1556840489,4104185692,3#notes:PvE [Range]
-dimwishlist:item=3738678140&perks=1556840489,3708227201,3#notes:PvE [Range]
-dimwishlist:item=694500607&perks=1300023272,791862061,4071163871,47981717,4#notes:PvP Godroll Crafted [Range] [Quick Access Sling]
-dimwishlist:item=631439337&perks=1047830412,679225683,3161816588,47981717,6#notes:PvP [Range] [Quick Access Sling]
-dimwishlist:item=3197270240&perks=1482024992,679225683,3161816588,47981717,7#notes:PvP [Range] [Quick Access Sling]
-dimwishlist:item=2145441168&perks=1300023272,3142289711,4071163871,1194056669,10#notes:PvP Crafted [Handling] [Ballistics]
-dimwishlist:item=4248569242&perks=3250034553,791862061,1523832109,469285294,12#notes:PvE Crafted [Range] [Backup Mag]
-dimwishlist:item=318443586&perks=466087222,3142289711,3300816228,2360754333,13#notes:PvE Crafted [Range]
-dimwishlist:item=318443586&perks=466087222,3142289711,4071163871,47981717,13#notes:PvP Crafted [Range] [Quick Access Sling]
-dimwishlist:item=1679868061&perks=1482024992,791862061,1556840489,2679249093,15#notes:PvE Crafted [Range]
-dimwishlist:item=1679868061&perks=1482024992,791862061,3161816588,47981717,15#notes:PvP Crafted [Handling] [Quick Access Sling]
-dimwishlist:item=4169225313&perks=466087222,1087426260,4071163871,47981717,16#notes:PvP [Range] [Tactical]
-dimwishlist:item=1168625549&perks=1482024992,106909392,1631667848,2679249093,17#notes:PvE Crafted [Handling] [Backup Mag]
-dimwishlist:item=1402874079&perks=791862061,3161816588,1194056669,22#notes:PvP [Range]
-dimwishlist:item=3163900678&perks=1482024992,791862061,3523296417,2679249093,23#notes:PvE Crafted [Range] [Backup Mag]
-dimwishlist:item=1239700299&perks=3523296417,2679249093,24#notes:PvE Crafted [Range]
-dimwishlist:item=2883484461&perks=1482024992,106909392,3300816228,3751912585,25#notes:PvE Crafted [Range]
-dimwishlist:item=4097972038&perks=4071163871,47981717,32#notes:PvP [Range]
-dimwishlist:item=1051949956&perks=839105230,1968497646,684456054,2173046394,2120661319,2#notes:PvE [Range] [Ballistics]
-dimwishlist:item=1051949956&perks=839105230,1561002382,3523296417,2173046394,2120661319,2#notes:PvE [Range] [Ballistics]
-dimwishlist:item=1298815317&perks=839105230,106909392,4071163871,2173046394,3#notes:PvE Crafted [Range] [Heavy Ammo Finder]
-dimwishlist:item=2992463569&perks=1840239774,3230963543,684456054,2173046394,4#notes:PvE [Handling] [Tactical]
-dimwishlist:item=1552443158&perks=2173046394,2109543898,5#notes:PvE
-dimwishlist:item=1552443158&perks=2173046394,1015611457,5#notes:PvE
-dimwishlist:item=1552443158&perks=2173046394,3708227201,5#notes:PvE
-dimwishlist:item=358190158&perks=3017780555,4293542123,7#notes:PvE
-dimwishlist:item=358190158&perks=3017780555,2890807135,7#notes:PvE
-dimwishlist:item=358190158&perks=3017780555,3081867624,7#notes:PvE
-dimwishlist:item=358190158&perks=1119449540,4293542123,7#notes:PvE
-dimwishlist:item=358190158&perks=1119449540,2890807135,7#notes:PvE
-dimwishlist:item=358190158&perks=1119449540,3081867624,7#notes:PvE
-dimwishlist:item=358190158&perks=1888882410,4293542123,7#notes:PvE
-dimwishlist:item=358190158&perks=1888882410,2890807135,7#notes:PvE
-dimwishlist:item=358190158&perks=1888882410,3081867624,7#notes:PvE
-dimwishlist:item=502356570&perks=3250034553,3142289711,588594999,4082225868,8#notes:PvP Crafted [Range] [Ballistics]
-dimwishlist:item=1763361847&perks=3017780555,4293542123,9#notes:PvE
-dimwishlist:item=1763361847&perks=3017780555,2890807135,9#notes:PvE
-dimwishlist:item=1763361847&perks=3017780555,2109543898,9#notes:PvE
-dimwishlist:item=1763361847&perks=2360347339,4293542123,9#notes:PvE
-dimwishlist:item=1763361847&perks=2360347339,2890807135,9#notes:PvE
-dimwishlist:item=1763361847&perks=2360347339,2109543898,9#notes:PvE
-dimwishlist:item=3618823368&perks=3017780555,4293542123,10#notes:PvE
-dimwishlist:item=3618823368&perks=3017780555,2890807135,10#notes:PvE
-dimwishlist:item=3618823368&perks=3017780555,2109543898,10#notes:PvE
-dimwishlist:item=3618823368&perks=2360347339,4293542123,10#notes:PvE
-dimwishlist:item=3618823368&perks=2360347339,2890807135,10#notes:PvE
-dimwishlist:item=3618823368&perks=2360347339,2109543898,10#notes:PvE
-dimwishlist:item=2328923181&perks=1482024992,3230963543,3523296417,2109543898,17#notes:PvE [Range] [Tactical]
-dimwishlist:item=2328923181&perks=1840239774,3142289711,691659142,4082225868,17#notes:PvE [Range] [Tactical]
-dimwishlist:item=231031173&perks=839105230,1885400500,3418782618,4104185692,18#notes:PvE Crafted [Range] [Heavy Ammo Finder]
-dimwishlist:item=1986287028&perks=3418782618,4104185692,19#notes:PvE [Range] [Heavy Ammo Finder]
-dimwishlist:item=2149683300&perks=202670084,1140096971,4071163871,2173046394,2#notes:PvE Crafted [Range] [Heavy Ammo Finder]
-dimwishlist:item=1447836603&perks=3250034553,3230963543,4071163871,2173046394,3#notes:PvE Crafted [Reload] [Heavy Ammo Finder]
-dimwishlist:item=3211624072&perks=1392496348,106909392,243981275,3891536761,4#notes:PvE [Reload] [Tactical]
-dimwishlist:item=3620277039&perks=243981275,3891536761,5#notes:PvE
-dimwishlist:item=2490988246&perks=3250034553,3230963543,4071163871,4293542123,6#notes:PvE Crafted [Range] [Heavy Ammo Finder]
-dimwishlist:item=4228149269&perks=1840239774,3230963543,3017780555,4293542123,8#notes:PvE [Range] [Ballistics]
-dimwishlist:item=189194532&perks=839105230,3523296417,4293542123,9#notes:PvE [Range] [Ballistics]
-dimwishlist:item=1258168956&perks=839105230,3142289711,3523296417,3640170453,14#notes:PvE Crafted [Reload] [Heavy Ammo Finder]
-dimwishlist:item=3951511045&perks=3523296417,3640170453,15#notes:PvE [Reload] [Heavy Ammo Finder]
-dimwishlist:item=3341893443&perks=839105230,3142289711,1820235745,4104185692,17#notes:PvE Godroll [Range] [Backup Mag]
-dimwishlist:item=3341893443&perks=839105230,106909392,1820235745,4104185692,17#notes:PvE Godroll [Range] [Backup Mag]
-dimwishlist:item=55393445&perks=3250034553,1885400500,776531651,2048641572,20#notes:PvE Excellent [Range] [Tactical]
-dimwishlist:item=3637570176&perks=839105230,3230963543,588594999,957782887,3#notes:PvP [Handling] [Adept Targeting]
-dimwishlist:item=2059255495&perks=1840239774,3177308360,2866798147,957782887,4#notes:PvP [Range] [Adept Targeting]
-dimwishlist:item=3844610113&perks=839105230,3142289711,1354429876,3078487919,5#notes:PvE Crafted [Range] [Backup Mag]
-dimwishlist:item=3844610113&perks=839105230,3142289711,3891536761,3078487919,5#notes:PvE Crafted [Range] [Backup Mag]
-dimwishlist:item=3844610113&perks=839105230,3142289711,3987942396,3078487919,5#notes:PvE Crafted [Range] [Backup Mag]
-dimwishlist:item=3421075982&perks=3400784728,1089671869,9#notes:PvE
-dimwishlist:item=3421075982&perks=3400784728,3201496230,9#notes:PvE
-dimwishlist:item=3421075982&perks=3400784728,3252937884,9#notes:PvE
-dimwishlist:item=3421075982&perks=3978468247,1089671869,9#notes:PvE
-dimwishlist:item=3421075982&perks=3978468247,3201496230,9#notes:PvE
-dimwishlist:item=3421075982&perks=3978468247,3252937884,9#notes:PvE
-dimwishlist:item=690412397&perks=3400784728,1089671869,10#notes:PvE
-dimwishlist:item=690412397&perks=3400784728,3201496230,10#notes:PvE
-dimwishlist:item=690412397&perks=3400784728,3252937884,10#notes:PvE
-dimwishlist:item=690412397&perks=3978468247,1089671869,10#notes:PvE
-dimwishlist:item=690412397&perks=3978468247,3201496230,10#notes:PvE
-dimwishlist:item=690412397&perks=3978468247,3252937884,10#notes:PvE
-dimwishlist:item=2990047042&perks=839105230,106909392,461595545,1771339417,12#notes:PvE Crafted [Handling] [Backup Mag]
-dimwishlist:item=2990047042&perks=839105230,106909392,461595545,1546637391,12#notes:PvE Crafted [Handling] [Backup Mag]
-dimwishlist:item=2884596447&perks=1840239774,3230963543,957782887,47981717,13#notes:PvP Crafted [Handling]
-dimwishlist:item=2884596447&perks=1840239774,1087426260,3418782618,3078487919,13#notes:PvE Crafted [Handling] [Backup Mag]
-dimwishlist:item=2884596447&perks=1840239774,1087426260,3418782618,3891536761,13#notes:PvE Crafted [Handling] [Backup Mag]
-dimwishlist:item=3107853529&perks=1840239774,1885400500,957782887,588594999,14#notes:PvP Crafted [Range] [Targeting Adjuster]
-dimwishlist:item=147444292&perks=1354429876,1546637391,15#notes:PvE Crafted
-dimwishlist:item=147444292&perks=3987942396,555281244,15#notes:PvE Crafted
-dimwishlist:item=147444292&perks=3987942396,1546637391,15#notes:PvE Crafted
-dimwishlist:item=147444292&perks=1840239774,3230963543,1354429876,555281244,15#notes:PvE Crafted [Handling] [Backup Mag]
-dimwishlist:item=4062069077&perks=1546637391,3078487919,16#notes:PvE
-dimwishlist:item=445197843&perks=839105230,106909392,2978966579,3640170453,17#notes:PvE Crafted [Handling] [Tactical]
-dimwishlist:item=172461430&perks=2978966579,3640170453,18#notes:PvE [Handling] [Tactical]
-dimwishlist:item=1648948519&perks=839105230,3142289711,706527188,957782887,19#notes:PvP Godroll [Range] [Targeting Adjuster]
-dimwishlist:item=3366545721&perks=436053704,52780822,1749209109,3708227201,1#notes:PvE Crafted [Impact] [Backup Mag]
-dimwishlist:item=3366545721&perks=436053704,52780822,1749209109,1546637391,1#notes:PvE Crafted [Impact] [Backup Mag]
-dimwishlist:item=3569407878&perks=3666208348,269888150,1749209109,3640170453,2#notes:PvE Crafted [Impact] [Backup Mag]
-dimwishlist:item=3569407878&perks=3666208348,269888150,243981275,3640170453,2#notes:PvE Crafted [Impact] [Backup Mag]
-dimwishlist:item=2001697739&perks=1749209109,3640170453,3#notes:PvE [Impact] [Adept Mag]
-dimwishlist:item=2001697739&perks=243981275,3640170453,3#notes:PvE [Impact] [Adept Mag]
-dimwishlist:item=3371413059&perks=3666208348,2349202967,3705817207,3708227201,8#notes:PvE Crafted [Impact] [Backup Mag]
-dimwishlist:item=547165496&perks=436053704,269888150,1749209109,1089671869,12#notes:PvE Excellent [Impact] [Backup Mag]
-dimwishlist:item=547165496&perks=3666208348,269888150,1749209109,3708227201,12#notes:PvE Godroll [Impact] [Backup Mag]
-dimwishlist:item=4221591387&perks=3666208348,269888150,2590710093,3201496230,13#notes:PvE Godroll [Impact] [Backup Mag]
-dimwishlist:item=3637669759&perks=1749209109,3913600130,14#notes:PvE [Impact] [Backup Mag]
-dimwishlist:item=3637669759&perks=1261178282,269888150,1749209109,354401740,14#notes:PvE Godroll [Impact] [Backup Mag]
-dimwishlist:item=3257091167&perks=436053704,269888150,2077819806,4104185692,15#notes:PvE Crafted [Impact] [Backup Mag]
-dimwishlist:item=2827764482&perks=1840239774,2680121939,3700496672,2173046394,1#notes:PvE Crafted [Range] [Backup Mag]
-dimwishlist:item=548958835&perks=839105230,2680121939,3700496672,3523296417,2#notes:PvE Crafted [Range] [Backup Mag]
-dimwishlist:item=1886840007&perks=839105230,2680121939,3700496672,2048641572,4#notes:PvE Crafted [Range] [Backup Mag]
+dimwishlist:item=4232480042&perks=3230963543,243981275,3966416502#notes:PvE [Range] [Heavy Ammo Finder]
+dimwishlist:item=833898322&perks=839105230,1885400500,3017780555,4293542123#notes:PvE Crafted [Range] [Tactical]
+dimwishlist:item=1801007332&perks=202670084,3142289711,2980589453,3640170453#notes:PvE Crafted [Handling] [Backup Mag]
+dimwishlist:item=1863583117&perks=3017780555,4293542123#notes:
+dimwishlist:item=1863583117&perks=3017780555,2890807135#notes:
+dimwishlist:item=1863583117&perks=243981275,4293542123#notes:
+dimwishlist:item=1863583117&perks=243981275,2890807135#notes:
+dimwishlist:item=342514437&perks=3523296417,4104185692#notes:PvE [Range]
+dimwishlist:item=342514437&perks=839105230,1885400500,1523832109,365154968#notes:PvE [Range] [Heavy Ammo Finder]
+dimwishlist:item=1992309064&perks=1840239774,3230963543,2048641572,776531651#notes:PvE Crafted [Range] [Backup Mag]
+dimwishlist:item=613334176&perks=3525010810,2822142346,2010801679,2396489472#notes:PvE Crafted [Reload] [Tactical]
+dimwishlist:item=4038592169&perks=2010801679,2396489472#notes:PvE [Reload] [Tactical]
+dimwishlist:item=4043921923&perks=981914802,3301904089,3300816228,4104185692#notes:PvE Excellent [Blast Radius] [Quick Access Sling]
+dimwishlist:item=3849810018&perks=3525010810,3032599245,3300816228,1546637391#notes:PvE Crafted [Handling] [Quick Access Sling]
+dimwishlist:item=4255586669&perks=981914802,3032599245,3300816228,1546637391#notes:PvE Excellent [Handling] [Quick Access Sling]
+dimwishlist:item=1197771438&perks=3525010810,2822142346,3300816228,1546637391#notes:PvE Crafted [Handling] [Aerodynamics]
+dimwishlist:item=2306182339&perks=981914802,3032599245,3300816228,1683379515#notes:PvE Excellent [Handling] [Quick Access Sling]
+dimwishlist:item=1770490683&perks=2801223209,16392701,201365942,3640170453#notes:PvE Crafted [Draw] [Tension]
+dimwishlist:item=1039915310&perks=2801223209,2154191829,2848615171,2173046394#notes:PvE [Draw] [Adept Draw Time]
+dimwishlist:item=3621336854&perks=2801223209,16392701,243981275,3891536761#notes:PvE Crafted [Draw] [Tension]
+dimwishlist:item=3638723317&perks=2890807135,4293542123#notes:PvE
+dimwishlist:item=192784503&perks=1196733167,3429800428,201365942,3365897133#notes:PvE [Draw] [Tension]
+dimwishlist:item=496556698&perks=852209214,3429800428,201365942,4293542123#notes:PvE [Draw] [Tension]
+dimwishlist:item=2063217087&perks=852209214,16392701,3700496672,3365897133#notes:PvE [Draw] [Adept Draw Time]
+dimwishlist:item=3388655311&perks=2801223209,2154191829,2848615171,4293542123#notes:PvE Crafted [Draw] [Tension]
+dimwishlist:item=2291392465&perks=2848615171,2048641572#notes:PvE
+dimwishlist:item=1536325168&perks=2848615171,2048641572#notes:PvE
+dimwishlist:item=3667861447&perks=776531651,2048641572#notes:PvE
+dimwishlist:item=2631466936&perks=2848615171,2048641572#notes:PvE
+dimwishlist:item=2631466936&perks=3768438372,3827198035,2848615171,2048641572#notes:PvE [Draw] [Tension]
+dimwishlist:item=2631466936&perks=852209214,3429800428,776531651,1464081238#notes:PvE [Draw] [Tension]
+dimwishlist:item=591672323&perks=2848615171,2048641572#notes:PvE
+dimwishlist:item=1289796511&perks=839105230,2969185026,1645158859,3511092054#notes:PvP Crafted [Range] [Ballistics]
+dimwishlist:item=3591141932&perks=839105230,689005463,3418782618,2594592626#notes:PvE Crafted [Charge]
+dimwishlist:item=2481881293&perks=2405638015,689005463,1556840489,1546637391#notes:PvE Godroll [Charge]
+dimwishlist:item=2715240478&perks=839105230,689005463,3300816228,2978966579#notes:PvE Excellent [Charge] [Backup Mag]
+dimwishlist:item=2558925366&perks=1840239774,2680121939,3643424744,2594592626#notes:PvE Crafted [Handling] [Quick Access Sling]
+dimwishlist:item=2558925366&perks=1840239774,2680121939,923806249,2594592626#notes:PvE Crafted [Charge] [Tactical]
+dimwishlist:item=2720651699&perks=839105230,689005463,3300816228,2594592626#notes:PvE Crafted [Charge] [Quick Access Sling]
+=ARRAYFORMULA(IF(E2:E="", "", "dimwishlist:item=" & IFNA(VLOOKUP(E2:E, W:X, 2, FALSE), "") & "&perks=" & substitute(trim(transpose(query(transpose(P2:T),,9^9))), " ", ",") & "#notes:" & M2:M & IF(LEN(K2:K) > 0, " [" & K2:K & "]", "") & IF(LEN(L2:L) > 0, " [" & L2:L & "]", "")))
+dimwishlist:item=3281285075&perks=1840239774,3230963543,2173046394,4104185692,766321425#notes:PvE Crafted [Reload] [Tactical]
+dimwishlist:item=4184168210&perks=4090651448,3142289711,3038247973,3824105627#notes:PvE Godroll Crafted [Range] [Heavy Ammo Finder]
+dimwishlist:item=4184168210&perks=4090651448,3142289711,3038247973,4104185692#notes:PvE Godroll Crafted [Range] [Heavy Ammo Finder]
+dimwishlist:item=4219826183&perks=3038247973,3824105627#notes:
+dimwishlist:item=4219826183&perks=3038247973,4104185692#notes:
+dimwishlist:item=1216319404&perks=3250034553,106909392,3038247973,4104185692#notes:PvE Excellent [Range] [Adept Mag]
+dimwishlist:item=3856705927&perks=1840239774,1431678320,47981717,3917450714#notes:PvP Godroll
+dimwishlist:item=2499720827&perks=4090651448,106909392,3038247973,4104185692#notes:PvE Excellent [Handling] [Heavy Ammo Finder]
+dimwishlist:item=291092617&perks=3038247973,4293542123#notes:PvE [Range] [Heavy Ammo Finder]
+dimwishlist:item=431721920&perks=3250034553,106909392,3038247973,4293542123#notes:PvE Crafted [Range] [Heavy Ammo Finder]
+dimwishlist:item=1622998472&perks=4090651448,3230963543,3700496672,3038247973#notes:PvE [Reload] [Backup Mag]
+dimwishlist:item=2263462407&perks=3700496672,3038247973#notes:
+dimwishlist:item=2034215657&perks=1482024992,1885400500,3619207468,1015611457#notes:PvP Crafted [Range] [Targeting Adjuster]
+dimwishlist:item=2485881870&perks=247725512,1089671869#notes:PvE
+dimwishlist:item=2485881870&perks=2848615171,1089671869#notes:PvE
+dimwishlist:item=2485881870&perks=247725512,4104185692#notes:PvE
+dimwishlist:item=2485881870&perks=2848615171,4104185692#notes:PvE
+dimwishlist:item=120706239&perks=1840239774,3230963543,2848615171,2048641572,1156201379#notes:PvE Crafted [Range] [Backup Mag]
+dimwishlist:item=120706239&perks=1840239774,3230963543,776531651,2048641572,1156201379#notes:PvE Crafted [Range] [Backup Mag]
+dimwishlist:item=3926103986&perks=776531651,2048641572,1156201379#notes:PvE [Range]
+dimwishlist:item=2599338625&perks=3525010810,3301904089,3987942396,3078487919#notes:PvE Godroll [Velocity] [Backup Mag]
+dimwishlist:item=2599338625&perks=3525010810,3301904089,3987942396,3751912585#notes:PvE Godroll [Velocity] [Backup Mag]
+dimwishlist:item=2738601016&perks=1478423395,2985827016,968510818,3078487919#notes:PvE [Velocity] [Backup Mag]
+dimwishlist:item=874623537&perks=1441682018,2985827016,968510818,3078487919#notes:PvE [Velocity] [Adept Mag]
+dimwishlist:item=568611923&perks=981914802,3301904089,968510818,3078487919#notes:PvE [Velocity] [Backup Mag]
+dimwishlist:item=3165547384&perks=951095735,2396489472#notes:PvP [Blast Radius]
+dimwishlist:item=3165547384&perks=951095735,960810156#notes:PvP [Blast Radius]
+dimwishlist:item=1491665733&perks=839105230,2680121939,3418782618,3640170453#notes:PvE Crafted [Charge] [Backup Mag]
+dimwishlist:item=999767358&perks=839105230,2680121939,1354429876,3078487919#notes:PvE Crafted [Charge] [Backup Mag]
+dimwishlist:item=2886339027&perks=3661387068,1687452232,1354429876,3078487919#notes:PvE [Range] [Adept Mag]
+dimwishlist:item=2886339027&perks=1354429876,3078487919#notes:PvE [Charge] [Adept Mag]
+dimwishlist:item=1399243961&perks=1482024992,2680121939,3400784728,1546637391#notes:PvE [Charge] [Backup Mag]
+dimwishlist:item=1399243961&perks=1482024992,689005463,3400784728,1771339417#notes:PvE Excellent [Charge] [Backup Mag]
+dimwishlist:item=1501688142&perks=839105230,689005463,1523832109,555281244#notes:PvE Crafted [Charge] [Backup Mag]
+dimwishlist:item=2828278545&perks=1840239774,1087426260,1523832109,31345821#notes:PvE Crafted [Handling] [Backup Mag]
+dimwishlist:item=2828278545&perks=1840239774,1087426260,3523296417,31345821#notes:PvE Crafted [Handling] [Backup Mag]
+dimwishlist:item=407511664&perks=1523832109,31345821#notes:PvE [Handling] [Adept Mag]
+dimwishlist:item=407511664&perks=3523296417,31345821#notes:PvE [Handling] [Adept Mag]
+dimwishlist:item=906840740&perks=4090651448,1968497646,3300816228,4293542123#notes:PvE [Handling] [Backup Mag]
+dimwishlist:item=3605603507&perks=839105230,1087426260,3523296417,2109543898#notes:PvE Crafted [Range] [Backup Mag]
+dimwishlist:item=3605603507&perks=839105230,1087426260,1523832109,2109543898#notes:PvE Crafted [Range] [Backup Mag]
+dimwishlist:item=4230965989&perks=1392496348,106909392,1523832109,557221067#notes:PvE Crafted [Handling] [Backup Mag]
+dimwishlist:item=3654744298&perks=839105230,1087426260,2048641572,4049631843#notes:PvE Crafted [Reload] [Backup Mag]
+dimwishlist:item=2334480463&perks=2048641572,4049631843#notes:PvE
+dimwishlist:item=827835657&perks=511499160,3966416502#notes:PvE
+dimwishlist:item=827835657&perks=511499160,3218042543#notes:PvE
+dimwishlist:item=827835657&perks=65604327,3966416502#notes:PvE
+dimwishlist:item=827835657&perks=65604327,3218042543#notes:PvE
+dimwishlist:item=1018012078&perks=511499160,3966416502#notes:PvE
+dimwishlist:item=1018012078&perks=511499160,3218042543#notes:PvE
+dimwishlist:item=1018012078&perks=65604327,3966416502#notes:PvE
+dimwishlist:item=1018012078&perks=65604327,3218042543#notes:PvE
+dimwishlist:item=578105049&perks=684456054,2173046394#notes:PvE
+dimwishlist:item=3635821806&perks=1467527085,1885400500,3619207468,460017080#notes:PvP Crafted [Range] [Targeting Adjuster]
+dimwishlist:item=2372514508&perks=4090651448,106909392,3891536761,4049631843#notes:PvE [Range] [Heavy Ammo Finder]
+dimwishlist:item=2199554524&perks=1392496348,1885400500,2579169598,460017080,515704826#notes:PvP Excellent [Range] [Targeting Adjuster]
+dimwishlist:item=2199554524&perks=1482024992,679225683,2387244414,460017080,515704826#notes:PvP [Range] [Targeting Adjuster]
+dimwishlist:item=2708806099&perks=839105230,1885400500,1428297954,1015611457#notes:PvP Crafted [Range] [Targeting Adjuster]
+dimwishlist:item=892183998&perks=839105230,3142289711,3824105627,3640170453#notes:PvE [Range] [Heavy Ammo Finder]
+dimwishlist:item=892183998&perks=839105230,3230963543,3017780555,4293542123#notes:PvE [Reload] [Heavy Ammo Finder]
+dimwishlist:item=892183998&perks=839105230,3230963543,3017780555,3640170453#notes:PvE [Reload] [Heavy Ammo Finder]
+dimwishlist:item=3984776322&perks=3824105627,960997401#notes:PvE
+dimwishlist:item=3984776322&perks=3824105627,831391274#notes:PvE
+dimwishlist:item=3984776322&perks=923806249,960997401#notes:PvE
+dimwishlist:item=3984776322&perks=923806249,831391274#notes:PvE
+dimwishlist:item=2023002233&perks=3824105627,960997401#notes:PvE
+dimwishlist:item=2023002233&perks=3824105627,831391274#notes:PvE
+dimwishlist:item=2023002233&perks=923806249,960997401#notes:PvE
+dimwishlist:item=2023002233&perks=923806249,831391274#notes:PvE
+dimwishlist:item=1505862304&perks=3661387068,1968497646,776531651,2048641572#notes:PvE [Stability] [Heavy Ammo Finder]
+dimwishlist:item=42435996&perks=1844523823,3230963543,3418782618,3078487919,3454102905#notes:PvE Excellent [Handling] [Temporal Blast]
+dimwishlist:item=3381450498&perks=3798852852,106909392,1119449540,2173046394#notes:PvE [Velocity] [Backup Mag]
+dimwishlist:item=2198166292&perks=981914802,3230963543,3017780555,4293542123#notes:PvE Crafted [Reload] [Backup Mag]
+dimwishlist:item=2198166292&perks=981914802,3230963543,691659142,4293542123#notes:PvE Crafted [Velocity] [Backup Mag]
+dimwishlist:item=3947966653&perks=1478423395,106909392,923806249,2109543898#notes:PvP Crafted [Velocity] [Backup Mag]
+dimwishlist:item=1851777734&perks=3525010810,3796465595,1523832109,3194351027#notes:PvE Crafted [Handling] [Quick Access Sling]
+dimwishlist:item=1851777734&perks=3525010810,3796465595,1523832109,3078487919#notes:PvE Crafted [Reload] [Quick Access Sling]
+dimwishlist:item=1851777734&perks=3525010810,3796465595,1523832109,1439600632#notes:PvE Crafted [Handling] [Quick Access Sling]
+dimwishlist:item=2265407516&perks=3525010810,3796465595,3987942396,3078487919#notes:PvE Godroll Crafted [Handling] [Quick Access Sling]
+dimwishlist:item=2126543269&perks=1478423395,3796465595,3987942396,3078487919#notes:PvE Godroll [Velocity] [Quick Access Sling]
+dimwishlist:item=839786290&perks=1844523823,3796465595,968510818,3078487919#notes:PvE Excellent [Velocity] [Quick Access Sling]
+dimwishlist:item=839786290&perks=981914802,2985827016,968510818,1439600632#notes:PvE [Velocity] [Quick Access Sling]
+dimwishlist:item=694275488&perks=981914802,2985827016,2284787283,3194351027#notes:PvE [Handling] [Quick Access Sling]
+dimwishlist:item=694275488&perks=1478423395,2822142346,1523832109,3194351027#notes:PvE [Handling] [Quick Access Sling]
+dimwishlist:item=2218569744&perks=1482024992,3142289711,3700496672,3038247973#notes:PvE Crafted [Range] [Heavy Ammo Finder]
+dimwishlist:item=71057630&perks=3966416502,2173046394#notes:PvE
+dimwishlist:item=71057630&perks=3966416502,657025441#notes:PvE
+dimwishlist:item=71057630&perks=3966416502,4104185692#notes:PvE
+dimwishlist:item=71057630&perks=247725512,2173046394#notes:PvE
+dimwishlist:item=71057630&perks=247725512,657025441#notes:PvE
+dimwishlist:item=71057630&perks=247725512,4104185692#notes:PvE
+dimwishlist:item=71057630&perks=3700496672,2173046394#notes:PvE
+dimwishlist:item=71057630&perks=3700496672,657025441#notes:PvE
+dimwishlist:item=71057630&perks=3700496672,4104185692#notes:PvE
+dimwishlist:item=1197073834&perks=3914874605,2138673996#notes:PvE
+dimwishlist:item=1197073834&perks=3914874605,3891536761#notes:PvE
+dimwishlist:item=1197073834&perks=3038247973,2138673996#notes:PvE
+dimwishlist:item=1197073834&perks=3038247973,3891536761#notes:PvE
+dimwishlist:item=1197073834&perks=247725512,2138673996#notes:PvE
+dimwishlist:item=1197073834&perks=247725512,3891536761#notes:PvE
+dimwishlist:item=2883684343&perks=1482024992,3142289711,247725512,3891536761#notes:PvE [Range] [Adept Reload]
+dimwishlist:item=2883684343&perks=839105230,106909392,3700496672,3891536761#notes:PvE Excellent [Range] [Adept Reload]
+dimwishlist:item=1392919471&perks=247725512,4293542123#notes:PvE
+dimwishlist:item=3444688218&perks=839105230,3142289711,3017780555,4104185692#notes:PvE Godroll Crafted [Range] [Heavy Ammo Finder]
+dimwishlist:item=1432682459&perks=839105230,1885400500,247725512,31345821#notes:PvE Crafted [Range] [Heavy Ammo Finder]
+dimwishlist:item=3709368142&perks=1464081238,2048641572#notes:PvE
+dimwishlist:item=3709368142&perks=1464081238,2109543898#notes:PvE
+dimwishlist:item=3709368142&perks=1464081238,1134488199#notes:PvE
+dimwishlist:item=3709368142&perks=247725512,2048641572#notes:PvE
+dimwishlist:item=3709368142&perks=247725512,2109543898#notes:PvE
+dimwishlist:item=3709368142&perks=247725512,1134488199#notes:PvE
+dimwishlist:item=3709368142&perks=3700496672,2048641572#notes:PvE
+dimwishlist:item=3709368142&perks=3700496672,2109543898#notes:PvE
+dimwishlist:item=3709368142&perks=3700496672,1134488199#notes:PvE
+dimwishlist:item=1937552980&perks=839105230,3142289711,3824105627,2848615171#notes:PvE [Range] [Heavy Ammo Finder]
+dimwishlist:item=1937552980&perks=839105230,106909392,3038247973,4104185692#notes:PvE Crafted [Range] [Heavy Ammo Finder]
+dimwishlist:item=1184692845&perks=3824105627,2848615171#notes:PvE [Range] [Heavy Ammo Finder]
+dimwishlist:item=1184692845&perks=3038247973,4104185692#notes:PvE [Range] [Heavy Ammo Finder]
+dimwishlist:item=355922321&perks=776531651,2048641572#notes:PvE
+dimwishlist:item=355922321&perks=776531651,2848615171#notes:PvE
+dimwishlist:item=355922321&perks=776531651,3038247973#notes:PvE
+dimwishlist:item=355922321&perks=247725512,2048641572#notes:PvE
+dimwishlist:item=355922321&perks=247725512,2848615171#notes:PvE
+dimwishlist:item=355922321&perks=247725512,3038247973#notes:PvE
+dimwishlist:item=3738678140&perks=1631667848,2679249093#notes:PvE [Range]
+dimwishlist:item=3738678140&perks=1631667848,4104185692#notes:PvE [Range]
+dimwishlist:item=3738678140&perks=1631667848,3708227201#notes:PvE [Range]
+dimwishlist:item=3738678140&perks=3300816228,2679249093#notes:PvE [Range]
+dimwishlist:item=3738678140&perks=3300816228,4104185692#notes:PvE [Range]
+dimwishlist:item=3738678140&perks=3300816228,3708227201#notes:PvE [Range]
+dimwishlist:item=3738678140&perks=1556840489,2679249093#notes:PvE [Range]
+dimwishlist:item=3738678140&perks=1556840489,4104185692#notes:PvE [Range]
+dimwishlist:item=3738678140&perks=1556840489,3708227201#notes:PvE [Range]
+dimwishlist:item=694500607&perks=1300023272,791862061,4071163871,47981717#notes:PvP Godroll Crafted [Range] [Quick Access Sling]
+dimwishlist:item=631439337&perks=1047830412,679225683,3161816588,47981717#notes:PvP [Range] [Quick Access Sling]
+dimwishlist:item=3197270240&perks=1482024992,679225683,3161816588,47981717#notes:PvP [Range] [Quick Access Sling]
+dimwishlist:item=2145441168&perks=1300023272,3142289711,4071163871,1194056669#notes:PvP Crafted [Handling] [Ballistics]
+dimwishlist:item=4248569242&perks=3250034553,791862061,1523832109,469285294#notes:PvE Crafted [Range] [Backup Mag]
+dimwishlist:item=318443586&perks=466087222,3142289711,3300816228,2360754333#notes:PvE Crafted [Range]
+dimwishlist:item=318443586&perks=466087222,3142289711,4071163871,47981717#notes:PvP Crafted [Range] [Quick Access Sling]
+dimwishlist:item=1679868061&perks=1482024992,791862061,1556840489,2679249093#notes:PvE Crafted [Range]
+dimwishlist:item=1679868061&perks=1482024992,791862061,3161816588,47981717#notes:PvP Crafted [Handling] [Quick Access Sling]
+dimwishlist:item=4169225313&perks=466087222,1087426260,4071163871,47981717#notes:PvP [Range] [Tactical]
+dimwishlist:item=1168625549&perks=1482024992,106909392,1631667848,2679249093#notes:PvE Crafted [Handling] [Backup Mag]
+dimwishlist:item=1402874079&perks=791862061,3161816588,1194056669#notes:PvP [Range]
+dimwishlist:item=3163900678&perks=1482024992,791862061,3523296417,2679249093#notes:PvE Crafted [Range] [Backup Mag]
+dimwishlist:item=1239700299&perks=3523296417,2679249093#notes:PvE Crafted [Range]
+dimwishlist:item=2883484461&perks=1482024992,106909392,3300816228,3751912585#notes:PvE Crafted [Range]
+dimwishlist:item=4097972038&perks=4071163871,47981717#notes:PvP [Range]
+dimwishlist:item=1051949956&perks=839105230,1968497646,684456054,2173046394,2120661319#notes:PvE [Range] [Ballistics]
+dimwishlist:item=1051949956&perks=839105230,1561002382,3523296417,2173046394,2120661319#notes:PvE [Range] [Ballistics]
+dimwishlist:item=1298815317&perks=839105230,106909392,4071163871,2173046394#notes:PvE Crafted [Range] [Heavy Ammo Finder]
+dimwishlist:item=2992463569&perks=1840239774,3230963543,684456054,2173046394#notes:PvE [Handling] [Tactical]
+dimwishlist:item=1552443158&perks=2173046394,2109543898#notes:PvE
+dimwishlist:item=1552443158&perks=2173046394,1015611457#notes:PvE
+dimwishlist:item=1552443158&perks=2173046394,3708227201#notes:PvE
+dimwishlist:item=358190158&perks=3017780555,4293542123#notes:PvE
+dimwishlist:item=358190158&perks=3017780555,2890807135#notes:PvE
+dimwishlist:item=358190158&perks=3017780555,3081867624#notes:PvE
+dimwishlist:item=358190158&perks=1119449540,4293542123#notes:PvE
+dimwishlist:item=358190158&perks=1119449540,2890807135#notes:PvE
+dimwishlist:item=358190158&perks=1119449540,3081867624#notes:PvE
+dimwishlist:item=358190158&perks=1888882410,4293542123#notes:PvE
+dimwishlist:item=358190158&perks=1888882410,2890807135#notes:PvE
+dimwishlist:item=358190158&perks=1888882410,3081867624#notes:PvE
+dimwishlist:item=502356570&perks=3250034553,3142289711,588594999,4082225868#notes:PvP Crafted [Range] [Ballistics]
+dimwishlist:item=1763361847&perks=3017780555,4293542123#notes:PvE
+dimwishlist:item=1763361847&perks=3017780555,2890807135#notes:PvE
+dimwishlist:item=1763361847&perks=3017780555,2109543898#notes:PvE
+dimwishlist:item=1763361847&perks=2360347339,4293542123#notes:PvE
+dimwishlist:item=1763361847&perks=2360347339,2890807135#notes:PvE
+dimwishlist:item=1763361847&perks=2360347339,2109543898#notes:PvE
+dimwishlist:item=3618823368&perks=3017780555,4293542123#notes:PvE
+dimwishlist:item=3618823368&perks=3017780555,2890807135#notes:PvE
+dimwishlist:item=3618823368&perks=3017780555,2109543898#notes:PvE
+dimwishlist:item=3618823368&perks=2360347339,4293542123#notes:PvE
+dimwishlist:item=3618823368&perks=2360347339,2890807135#notes:PvE
+dimwishlist:item=3618823368&perks=2360347339,2109543898#notes:PvE
+dimwishlist:item=2328923181&perks=1482024992,3230963543,3523296417,2109543898#notes:PvE [Range] [Tactical]
+dimwishlist:item=2328923181&perks=1840239774,3142289711,691659142,4082225868#notes:PvE [Range] [Tactical]
+dimwishlist:item=231031173&perks=839105230,1885400500,3418782618,4104185692#notes:PvE Crafted [Range] [Heavy Ammo Finder]
+dimwishlist:item=1986287028&perks=3418782618,4104185692#notes:PvE [Range] [Heavy Ammo Finder]
+dimwishlist:item=2149683300&perks=202670084,1140096971,4071163871,2173046394#notes:PvE Crafted [Range] [Heavy Ammo Finder]
+dimwishlist:item=1447836603&perks=3250034553,3230963543,4071163871,2173046394#notes:PvE Crafted [Reload] [Heavy Ammo Finder]
+dimwishlist:item=3211624072&perks=1392496348,106909392,243981275,3891536761#notes:PvE [Reload] [Tactical]
+dimwishlist:item=3620277039&perks=243981275,3891536761#notes:PvE
+dimwishlist:item=2490988246&perks=3250034553,3230963543,4071163871,4293542123#notes:PvE Crafted [Range] [Heavy Ammo Finder]
+dimwishlist:item=4228149269&perks=1840239774,3230963543,3017780555,4293542123#notes:PvE [Range] [Ballistics]
+dimwishlist:item=189194532&perks=839105230,3523296417,4293542123#notes:PvE [Range] [Ballistics]
+dimwishlist:item=1258168956&perks=839105230,3142289711,3523296417,3640170453#notes:PvE Crafted [Reload] [Heavy Ammo Finder]
+dimwishlist:item=3951511045&perks=3523296417,3640170453#notes:PvE [Reload] [Heavy Ammo Finder]
+dimwishlist:item=3341893443&perks=839105230,3142289711,1820235745,4104185692#notes:PvE Godroll [Range] [Backup Mag]
+dimwishlist:item=3341893443&perks=839105230,106909392,1820235745,4104185692#notes:PvE Godroll [Range] [Backup Mag]
+dimwishlist:item=55393445&perks=3250034553,1885400500,776531651,2048641572#notes:PvE Excellent [Range] [Tactical]
+dimwishlist:item=3637570176&perks=839105230,3230963543,588594999,957782887#notes:PvP [Handling] [Adept Targeting]
+dimwishlist:item=2059255495&perks=1840239774,3177308360,2866798147,957782887#notes:PvP [Range] [Adept Targeting]
+dimwishlist:item=3844610113&perks=839105230,3142289711,1354429876,3078487919#notes:PvE Crafted [Range] [Backup Mag]
+dimwishlist:item=3844610113&perks=839105230,3142289711,3891536761,3078487919#notes:PvE Crafted [Range] [Backup Mag]
+dimwishlist:item=3844610113&perks=839105230,3142289711,3987942396,3078487919#notes:PvE Crafted [Range] [Backup Mag]
+dimwishlist:item=3421075982&perks=3400784728,1089671869#notes:PvE
+dimwishlist:item=3421075982&perks=3400784728,3201496230#notes:PvE
+dimwishlist:item=3421075982&perks=3400784728,3252937884#notes:PvE
+dimwishlist:item=3421075982&perks=3978468247,1089671869#notes:PvE
+dimwishlist:item=3421075982&perks=3978468247,3201496230#notes:PvE
+dimwishlist:item=3421075982&perks=3978468247,3252937884#notes:PvE
+dimwishlist:item=690412397&perks=3400784728,1089671869#notes:PvE
+dimwishlist:item=690412397&perks=3400784728,3201496230#notes:PvE
+dimwishlist:item=690412397&perks=3400784728,3252937884#notes:PvE
+dimwishlist:item=690412397&perks=3978468247,1089671869#notes:PvE
+dimwishlist:item=690412397&perks=3978468247,3201496230#notes:PvE
+dimwishlist:item=690412397&perks=3978468247,3252937884#notes:PvE
+dimwishlist:item=2990047042&perks=839105230,106909392,461595545,1771339417#notes:PvE Crafted [Handling] [Backup Mag]
+dimwishlist:item=2990047042&perks=839105230,106909392,461595545,1546637391#notes:PvE Crafted [Handling] [Backup Mag]
+dimwishlist:item=2884596447&perks=1840239774,3230963543,957782887,47981717#notes:PvP Crafted [Handling]
+dimwishlist:item=2884596447&perks=1840239774,1087426260,3418782618,3078487919#notes:PvE Crafted [Handling] [Backup Mag]
+dimwishlist:item=2884596447&perks=1840239774,1087426260,3418782618,3891536761#notes:PvE Crafted [Handling] [Backup Mag]
+dimwishlist:item=3107853529&perks=1840239774,1885400500,957782887,588594999#notes:PvP Crafted [Range] [Targeting Adjuster]
+dimwishlist:item=147444292&perks=1354429876,1546637391#notes:PvE Crafted
+dimwishlist:item=147444292&perks=3987942396,555281244#notes:PvE Crafted
+dimwishlist:item=147444292&perks=3987942396,1546637391#notes:PvE Crafted
+dimwishlist:item=147444292&perks=1840239774,3230963543,1354429876,555281244#notes:PvE Crafted [Handling] [Backup Mag]
+dimwishlist:item=4062069077&perks=1546637391,3078487919#notes:PvE
+dimwishlist:item=445197843&perks=839105230,106909392,2978966579,3640170453#notes:PvE Crafted [Handling] [Tactical]
+dimwishlist:item=172461430&perks=2978966579,3640170453#notes:PvE [Handling] [Tactical]
+dimwishlist:item=1648948519&perks=839105230,3142289711,706527188,957782887#notes:PvP Godroll [Range] [Targeting Adjuster]
+dimwishlist:item=3366545721&perks=436053704,52780822,1749209109,3708227201#notes:PvE Crafted [Impact] [Backup Mag]
+dimwishlist:item=3366545721&perks=436053704,52780822,1749209109,1546637391#notes:PvE Crafted [Impact] [Backup Mag]
+dimwishlist:item=3569407878&perks=3666208348,269888150,1749209109,3640170453#notes:PvE Crafted [Impact] [Backup Mag]
+dimwishlist:item=3569407878&perks=3666208348,269888150,243981275,3640170453#notes:PvE Crafted [Impact] [Backup Mag]
+dimwishlist:item=2001697739&perks=1749209109,3640170453#notes:PvE [Impact] [Adept Mag]
+dimwishlist:item=2001697739&perks=243981275,3640170453#notes:PvE [Impact] [Adept Mag]
+dimwishlist:item=3371413059&perks=3666208348,2349202967,3705817207,3708227201#notes:PvE Crafted [Impact] [Backup Mag]
+dimwishlist:item=547165496&perks=436053704,269888150,1749209109,1089671869#notes:PvE Excellent [Impact] [Backup Mag]
+dimwishlist:item=547165496&perks=3666208348,269888150,1749209109,3708227201#notes:PvE Godroll [Impact] [Backup Mag]
+dimwishlist:item=4221591387&perks=3666208348,269888150,2590710093,3201496230#notes:PvE Godroll [Impact] [Backup Mag]
+dimwishlist:item=3637669759&perks=1749209109,3913600130#notes:PvE [Impact] [Backup Mag]
+dimwishlist:item=3637669759&perks=1261178282,269888150,1749209109,354401740#notes:PvE Godroll [Impact] [Backup Mag]
+dimwishlist:item=3257091167&perks=436053704,269888150,2077819806,4104185692#notes:PvE Crafted [Impact] [Backup Mag]
+dimwishlist:item=2827764482&perks=1840239774,2680121939,3700496672,2173046394#notes:PvE Crafted [Range] [Backup Mag]
+dimwishlist:item=548958835&perks=839105230,2680121939,3700496672,3523296417#notes:PvE Crafted [Range] [Backup Mag]
+dimwishlist:item=1886840007&perks=839105230,2680121939,3700496672,2048641572#notes:PvE Crafted [Range] [Backup Mag]
 dimwishlist:item=4124362340&perks=1840239774,3230963543,3017780555,4293542123,1906137414#notes:PvE Godroll [Reload] [Backup Mag]
 dimwishlist:item=4124362340&perks=1840239774,1431678320,3017780555,4293542123,1906137414#notes:PvE Excellent [Reload] [Backup Mag]
 dimwishlist:item=4124362340&perks=1840239774,1087426260,3017780555,4293542123,1906137414#notes:PvE Excellent [Reload] [Backup Mag]
