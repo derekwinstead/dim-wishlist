@@ -68,7 +68,7 @@ dimwishlist:item=2558925366&perks=1840239774,2680121939,3643424744,2594592626,39
 dimwishlist:item=2558925366&perks=1840239774,2680121939,923806249,2594592626,3978094547#notes:PvE Crafted [Charge] [Tactical]
 dimwishlist:item=2720651699&perks=839105230,689005463,3300816228,2594592626#notes:PvE Crafted [Charge] [Quick Access Sling]
 dimwishlist:item=3997086838&perks=1263609309,2420895100,951095735,2978966579#notes:PvE [Range] [Adept Mag]
-dimwishlist:item=2298039571&perks=5699512,679225683,1955165503,2978966579#notes:PvE [Range] [Backup Mag]
+dimwishlist:item=3997086838&perks=5699512,679225683,1955165503,2978966579#notes:PvE [Range] [Backup Mag]
 dimwishlist:item=535198113&perks=1263609309,2420895100,951095735,1782407750#notes:PvE Crafted [Shield]
 dimwishlist:item=3281285075&perks=1840239774,3230963543,2173046394,4104185692,766321425#notes:PvE Crafted [Reload] [Tactical]
 dimwishlist:item=4184168210&perks=4090651448,3142289711,3038247973,3824105627#notes:PvE Godroll Crafted [Range] [Heavy Ammo Finder]
@@ -16585,6 +16585,7 @@ dimwishlist:item=-694275488
 dimwishlist:item=-739029153
 dimwishlist:item=-2920548486
 dimwishlist:item=-2035738085
+dimwishlist:item=-2130249527
 dimwishlist:item=-1850748385
 dimwishlist:item=-768621510
 dimwishlist:item=-2943293195
@@ -16690,6 +16691,7 @@ dimwishlist:item=-784540300
 dimwishlist:item=-2972949637
 dimwishlist:item=-495442100
 dimwishlist:item=-3753063346
+dimwishlist:item=-1884897339
 dimwishlist:item=-1905934655
 dimwishlist:item=-2423071981
 dimwishlist:item=-2599338624
@@ -16790,7 +16792,6 @@ dimwishlist:item=-337893613
 dimwishlist:item=-4176551594
 dimwishlist:item=-2201323795
 dimwishlist:item=-3997086838
-dimwishlist:item=-2298039571
 dimwishlist:item=-4176824345
 dimwishlist:item=-3975115486
 dimwishlist:item=-4158265643
@@ -16855,6 +16856,8 @@ dimwishlist:item=-1085743380
 dimwishlist:item=-3569407878
 dimwishlist:item=-2001697739
 dimwishlist:item=-2884596447
+dimwishlist:item=-4059111040
+dimwishlist:item=-2152350211
 dimwishlist:item=-3163900678
 dimwishlist:item=-1239700299
 dimwishlist:item=-1225851434
