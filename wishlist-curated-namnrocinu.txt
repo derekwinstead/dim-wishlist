@@ -38,6 +38,7 @@ dimwishlist:item=2599338624&perks=3987942396,2396489472#notes:PvE
 dimwishlist:item=2599338624&perks=2039302152,2978966579#notes:PvE
 dimwishlist:item=2599338624&perks=2039302152,1556840489#notes:PvE
 dimwishlist:item=2599338624&perks=2039302152,2396489472#notes:PvE
+dimwishlist:item=2599338624&perks=1955165503,2978966579#notes:PvE
 dimwishlist:item=1197771438&perks=3525010810,2822142346,3300816228,1546637391,253121539#notes:PvE Crafted [Handling] [Aerodynamics]
 dimwishlist:item=233402416&perks=1844523823,2822142346,1556840489,2396489472#notes:PvE
 dimwishlist:item=492673102&perks=1844523823,2822142346,3523296417,2396489472#notes:PvE
@@ -3281,8 +3282,6 @@ dimwishlist:item=3377522331&perks=3525010810,3032599245,2039302152,1556840489,20
 dimwishlist:item=3377522331&perks=3525010810,3301904089,2039302152,1556840489,2041432007#notes:PvE Godroll [Handling] [Quick Access Sling]
 dimwishlist:item=3377522331&perks=3032599245,2039302152,1556840489,2041432007#notes:PvE [Handling] [Quick Access Sling]
 dimwishlist:item=3377522331&perks=3301904089,2039302152,1556840489,2041432007#notes:PvE [Handling] [Quick Access Sling]
-dimwishlist:item=3377522331&perks=3525010810,2039302152,1556840489,2041432007#notes:PvE [Handling] [Quick Access Sling]
-dimwishlist:item=3377522331&perks=2039302152,1556840489,2041432007#notes:PvE [Handling] [Quick Access Sling]
 dimwishlist:item=3377522331&perks=3525010810,3032599245,2039302152,2396489472,2041432007#notes:PvE Godroll [Handling] [Quick Access Sling]
 dimwishlist:item=3377522331&perks=3525010810,3301904089,2039302152,2396489472,2041432007#notes:PvE Godroll [Handling] [Quick Access Sling]
 dimwishlist:item=3377522331&perks=3032599245,2039302152,2396489472,2041432007#notes:PvE [Handling] [Quick Access Sling]
