@@ -374,8 +374,6 @@ dimwishlist:item=4124362340&perks=1840239774,3017780555,4293542123,1906137414#no
 dimwishlist:item=4124362340&perks=3017780555,4293542123,1906137414#notes:PvE [Reload] [Backup Mag]
 dimwishlist:item=423677697&perks=1840239774,2420895100,1354429876,555281244,3018257738#notes:PvE Godroll [Stability] [Backup Mag]
 dimwishlist:item=423677697&perks=2420895100,1354429876,555281244,3018257738#notes:PvE [Stability] [Backup Mag]
-dimwishlist:item=423677697&perks=1840239774,1354429876,555281244,3018257738#notes:PvE [Stability] [Backup Mag]
-dimwishlist:item=423677697&perks=1354429876,555281244,3018257738#notes:PvE [Stability] [Backup Mag]
 dimwishlist:item=423677697&perks=1840239774,2420895100,1354429876,1771339417,3018257738#notes:PvE Godroll [Stability] [Backup Mag]
 dimwishlist:item=423677697&perks=2420895100,1354429876,1771339417,3018257738#notes:PvE [Stability] [Backup Mag]
 dimwishlist:item=423677697&perks=1840239774,1354429876,1771339417,3018257738#notes:PvE [Stability] [Backup Mag]
