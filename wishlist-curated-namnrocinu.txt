@@ -821,6 +821,9 @@ dimwishlist:item=2631356658&perks=839105230,1202584452,3640170453,2327629476#not
 dimwishlist:item=52683113&perks=839105230,1202584452,3640170453,2327629476#notes:PvE [Range] [Backup Mag]
 dimwishlist:item=2631356658&perks=1202584452,3640170453,2327629476#notes:PvE [Range] [Backup Mag]
 dimwishlist:item=52683113&perks=1202584452,3640170453,2327629476#notes:PvE [Range] [Backup Mag]
+dimwishlist:item=1291040554&perks=1840239774,1561002382,776531651,2048641572,1536798515#notes:PvE Godroll [Range] [Backup Mag]
+dimwishlist:item=1291040554&perks=1840239774,1431678320,776531651,2048641572,1536798515#notes:PvE Excellent [Range] [Backup Mag]
+dimwishlist:item=1291040554&perks=1561002382,776531651,2048641572,1536798515#notes:PvE [Range] [Backup Mag]
 dimwishlist:item=3327901954&perks=1840239774,3230963543,776531651,2048641572,515704826#notes:PvE Godroll
 dimwishlist:item=3327901954&perks=839105230,3230963543,776531651,2048641572,515704826#notes:PvE Excellent
 dimwishlist:item=3327901954&perks=1840239774,1431678320,776531651,2048641572,515704826#notes:PvE
@@ -1088,21 +1091,6 @@ dimwishlist:item=2819552809&perks=839105230,1946186791,2048641572,776531651,1309
 dimwishlist:item=2819552809&perks=1840239774,1092016998,2048641572,776531651,1309453587#notes:PvE [Cooling Efficiency] [Enhanced Heat Generated]
 dimwishlist:item=2819552809&perks=839105230,1092016998,2048641572,776531651,1309453587#notes:PvE [Cooling Efficiency] [Enhanced Heat Generated]
 dimwishlist:item=2819552809&perks=1946186791,2048641572,776531651,1309453587#notes:PvE [Cooling Efficiency] [Enhanced Heat Generated]
-dimwishlist:item=2659286158&perks=1840239774,1946186791,2048641572,4104185692,3713579091#notes:PvE Godroll [Cooling Efficiency] [Enhanced Heat Generated]
-dimwishlist:item=2659286158&perks=839105230,1946186791,2048641572,4104185692,3713579091#notes:PvE Excellent [Cooling Efficiency] [Enhanced Heat Generated]
-dimwishlist:item=2659286158&perks=1840239774,1092016998,2048641572,4104185692,3713579091#notes:PvE [Cooling Efficiency] [Enhanced Heat Generated]
-dimwishlist:item=2659286158&perks=839105230,1092016998,2048641572,4104185692,3713579091#notes:PvE [Cooling Efficiency] [Enhanced Heat Generated]
-dimwishlist:item=2659286158&perks=1946186791,2048641572,4104185692,3713579091#notes:PvE [Cooling Efficiency] [Enhanced Heat Generated]
-dimwishlist:item=2659286158&perks=1092016998,2048641572,4104185692,3713579091#notes:PvE [Cooling Efficiency] [Enhanced Heat Generated]
-dimwishlist:item=2659286158&perks=1840239774,2048641572,4104185692,3713579091#notes:PvE [Cooling Efficiency] [Enhanced Heat Generated]
-dimwishlist:item=2659286158&perks=839105230,2048641572,4104185692,3713579091#notes:PvE [Cooling Efficiency] [Enhanced Heat Generated]
-dimwishlist:item=2659286158&perks=2048641572,4104185692,3713579091#notes:PvE [Cooling Efficiency] [Enhanced Heat Generated]
-dimwishlist:item=2819552809&perks=1840239774,1946186791,2048641572,4104185692,1309453587#notes:PvE [Cooling Efficiency] [Enhanced Heat Generated]
-dimwishlist:item=2819552809&perks=839105230,1946186791,2048641572,4104185692,1309453587#notes:PvE [Cooling Efficiency] [Enhanced Heat Generated]
-dimwishlist:item=2819552809&perks=1840239774,1092016998,2048641572,4104185692,1309453587#notes:PvE [Cooling Efficiency] [Enhanced Heat Generated]
-dimwishlist:item=2819552809&perks=839105230,1092016998,2048641572,4104185692,1309453587#notes:PvE [Cooling Efficiency] [Enhanced Heat Generated]
-dimwishlist:item=2819552809&perks=1946186791,2048641572,4104185692,1309453587#notes:PvE [Cooling Efficiency] [Enhanced Heat Generated]
-dimwishlist:item=2819552809&perks=1092016998,2048641572,4104185692,1309453587#notes:PvE [Cooling Efficiency] [Enhanced Heat Generated]
 dimwishlist:item=2271714488&perks=2801223209,16392701,776531651,2048641572,3713579091#notes:PvE Godroll [Draw] [Draw Time]
 dimwishlist:item=2271714488&perks=2801223209,776531651,2048641572,3713579091#notes:PvE [Draw] [Draw Time]
 dimwishlist:item=2271714488&perks=16392701,776531651,2048641572,3713579091#notes:PvE [Draw] [Draw Time]
@@ -14436,6 +14424,7 @@ dimwishlist:item=-2599338625
 dimwishlist:item=-52683113
 dimwishlist:item=-2631356658
 dimwishlist:item=-3926153598
+dimwishlist:item=-1291040554
 dimwishlist:item=-2328923181
 dimwishlist:item=-1491665733
 dimwishlist:item=-2890082420
