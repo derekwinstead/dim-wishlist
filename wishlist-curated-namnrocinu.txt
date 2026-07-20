@@ -8097,6 +8097,14 @@ dimwishlist:item=882778888&perks=1482024992,3142289711,588594999,3038247973#note
 dimwishlist:item=882778888&perks=3250034553,3142289711,588594999,3038247973#notes:PvP Excellent [Range] [Enhanced Range]
 dimwishlist:item=882778888&perks=1840239774,3142289711,588594999,3038247973#notes:PvP Excellent [Range] [Enhanced Range]
 dimwishlist:item=882778888&perks=4090651448,3142289711,588594999,3038247973#notes:PvP Excellent [Range] [Enhanced Range]
+dimwishlist:item=2461640837&perks=3525010810,3301904089,511499160,654512643,3713579091#notes:PvE Godroll [Handling] [Backup Mag]
+dimwishlist:item=2461640837&perks=3301904089,511499160,654512643,3713579091#notes:PvE [Handling] [Backup Mag]
+dimwishlist:item=2461640837&perks=3525010810,511499160,654512643,3713579091#notes:PvE [Handling] [Backup Mag]
+dimwishlist:item=2461640837&perks=511499160,654512643,3713579091#notes:PvE [Handling] [Backup Mag]
+dimwishlist:item=1692109318&perks=3525010810,3301904089,511499160,654512643,3454102905#notes:PvE [Handling] [Backup Mag]
+dimwishlist:item=1692109318&perks=3301904089,511499160,654512643,3454102905#notes:PvE [Handling] [Backup Mag]
+dimwishlist:item=1692109318&perks=3525010810,511499160,654512643,3454102905#notes:PvE [Handling] [Backup Mag]
+dimwishlist:item=1692109318&perks=511499160,654512643,3454102905#notes:PvE [Handling] [Backup Mag]
 dimwishlist:item=2913577176&perks=1300023272,3142289711,3978468247,1194056669#notes:PvP Godroll [Range] [Quick Access Sling]
 dimwishlist:item=2913577176&perks=1482024992,3142289711,3978468247,1194056669#notes:PvP Excellent [Range] [Quick Access Sling]
 dimwishlist:item=2913577176&perks=4090651448,3142289711,3978468247,1194056669#notes:PvP Excellent [Range] [Quick Access Sling]
@@ -14472,6 +14480,7 @@ dimwishlist:item=-2511482352
 dimwishlist:item=-694275488
 dimwishlist:item=-739029153
 dimwishlist:item=-2920548486
+dimwishlist:item=-822872238
 dimwishlist:item=-2035738085
 dimwishlist:item=-2130249527
 dimwishlist:item=-1850748385
@@ -14587,6 +14596,7 @@ dimwishlist:item=-1905934655
 dimwishlist:item=-2423071981
 dimwishlist:item=-3377522331
 dimwishlist:item=-2599338624
+dimwishlist:item=-4132072834
 dimwishlist:item=-1197771438
 dimwishlist:item=-3922217119
 dimwishlist:item=-2697143634
@@ -14723,6 +14733,8 @@ dimwishlist:item=-882778888
 dimwishlist:item=-2034215657
 dimwishlist:item=-2776503072
 dimwishlist:item=-342514437
+dimwishlist:item=-1692109318
+dimwishlist:item=-2461640837
 dimwishlist:item=-2558925366
 dimwishlist:item=-2913577176
 dimwishlist:item=-2591257541
