@@ -21,9 +21,7 @@ dimwishlist:item=2699423382
 dimwishlist:item=4118334987
 dimwishlist:item=1288422452
 dimwishlist:item=4146673634
-dimwishlist:item=2203881482
 dimwishlist:item=2201323795
-dimwishlist:item=3332538050
 dimwishlist:item=3868973291
 dimwishlist:item=3612338554
 dimwishlist:item=877384
@@ -4754,6 +4752,12 @@ dimwishlist:item=4108648762&perks=1300023272,106909392,3914874605,2360754333,283
 dimwishlist:item=4108648762&perks=106909392,3914874605,2360754333,2838996248#notes:PvE [Range] [Backup Mag]
 dimwishlist:item=4108648762&perks=1300023272,106909392,3914874605,1226351311,2838996248#notes:PvE Godroll [Range] [Backup Mag]
 dimwishlist:item=4108648762&perks=106909392,3914874605,1226351311,2838996248#notes:PvE [Range] [Backup Mag]
+dimwishlist:item=2203881482&perks=1840239774,1561002382,1517798362,3891536761#notes:PvE Godroll [Range] [Backup Mag]
+dimwishlist:item=2203881482&perks=839105230,1561002382,1517798362,3891536761#notes:PvE Excellent [Range] [Backup Mag]
+dimwishlist:item=2203881482&perks=1561002382,1517798362,3891536761#notes:PvE [Range] [Backup Mag]
+dimwishlist:item=2203881482&perks=1840239774,1517798362,3891536761#notes:PvE [Range] [Backup Mag]
+dimwishlist:item=2203881482&perks=839105230,1517798362,3891536761#notes:PvE [Range] [Backup Mag]
+dimwishlist:item=2203881482&perks=1517798362,3891536761#notes:PvE [Range] [Backup Mag]
 dimwishlist:item=911019136&perks=2801223209,16392701,2848615171,2173046394,3989629871#notes:PvE Godroll [Draw] [Targeting Adjuster]
 dimwishlist:item=911019136&perks=2801223209,2848615171,2173046394,3989629871#notes:PvE Excellent [Draw] [Targeting Adjuster]
 dimwishlist:item=911019136&perks=16392701,2848615171,2173046394,3989629871#notes:PvE Excellent [Draw] [Targeting Adjuster]
@@ -7493,6 +7497,12 @@ dimwishlist:item=2461640837&perks=3525010810,511499160,654512643,3713579091#note
 dimwishlist:item=2461640837&perks=511499160,654512643,3713579091#notes:PvE [Handling] [Backup Mag]
 dimwishlist:item=1692109318&perks=3525010810,3301904089,511499160,654512643,3454102905#notes:PvE [Handling] [Backup Mag]
 dimwishlist:item=1692109318&perks=3301904089,511499160,654512643,3454102905#notes:PvE [Handling] [Backup Mag]
+dimwishlist:item=3332538050&perks=1840239774,1431678320,243981275,3891536761,2897898513#notes:PvE Godroll [Range] [Backup Mag]
+dimwishlist:item=3332538050&perks=839105230,1431678320,243981275,3891536761,2897898513#notes:PvE Excellent [Range] [Backup Mag]
+dimwishlist:item=3332538050&perks=1431678320,243981275,3891536761,2897898513#notes:PvE [Range] [Backup Mag]
+dimwishlist:item=3332538050&perks=1840239774,243981275,3891536761,2897898513#notes:PvE [Range] [Backup Mag]
+dimwishlist:item=3332538050&perks=839105230,243981275,3891536761,2897898513#notes:PvE [Range] [Backup Mag]
+dimwishlist:item=3332538050&perks=243981275,3891536761,2897898513#notes:PvE [Range] [Backup Mag]
 dimwishlist:item=2913577176&perks=1300023272,3142289711,3978468247,1194056669#notes:PvP Godroll [Range] [Quick Access Sling]
 dimwishlist:item=2913577176&perks=1482024992,3142289711,3978468247,1194056669#notes:PvP Excellent [Range] [Quick Access Sling]
 dimwishlist:item=2913577176&perks=4090651448,3142289711,3978468247,1194056669#notes:PvP Excellent [Range] [Quick Access Sling]
@@ -7545,6 +7555,12 @@ dimwishlist:item=3796682229&perks=1840239774,2985827016,3700496672,3038247973#no
 dimwishlist:item=3796682229&perks=3230963543,3700496672,3038247973#notes:PvE [Range] [Backup Mag]
 dimwishlist:item=3796682229&perks=1840239774,3700496672,3038247973#notes:PvE [Range] [Backup Mag]
 dimwishlist:item=3796682229&perks=3700496672,3038247973#notes:PvE [Range] [Backup Mag]
+dimwishlist:item=2560370239&perks=1840239774,1140096971,243981275,3891536761#notes:PvE Godroll [Range] [Backup Mag]
+dimwishlist:item=2560370239&perks=839105230,1140096971,243981275,3891536761#notes:PvE Excellent [Range] [Backup Mag]
+dimwishlist:item=2560370239&perks=1140096971,243981275,3891536761#notes:PvE [Range] [Backup Mag]
+dimwishlist:item=2560370239&perks=1840239774,243981275,3891536761#notes:PvE [Range] [Backup Mag]
+dimwishlist:item=2560370239&perks=839105230,243981275,3891536761#notes:PvE [Range] [Backup Mag]
+dimwishlist:item=2560370239&perks=243981275,3891536761#notes:PvE [Range] [Backup Mag]
 dimwishlist:item=1821724780&perks=1332244541,791862061,706527188,957782887#notes:PvP Godroll [Handling] [Quick Access Sling]
 dimwishlist:item=1821724780&perks=1047830412,791862061,706527188,957782887#notes:PvP Excellent [Handling] [Quick Access Sling]
 dimwishlist:item=1821724780&perks=4090651448,791862061,706527188,957782887#notes:PvP Excellent [Handling] [Quick Access Sling]
@@ -14078,6 +14094,7 @@ dimwishlist:item=-1492522228
 dimwishlist:item=-1524387902
 dimwishlist:item=-3796682229
 dimwishlist:item=-59060498
+dimwishlist:item=-2560370239
 dimwishlist:item=-1821724780
 dimwishlist:item=-453798564
 dimwishlist:item=-2022294213
