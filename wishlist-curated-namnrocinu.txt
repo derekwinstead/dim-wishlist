@@ -2568,8 +2568,6 @@ dimwishlist:item=334964261&perks=1431678320,3700496672,1464081238#notes:PvE [Ran
 dimwishlist:item=3961462214&perks=1431678320,3700496672,1464081238#notes:PvE [Range] [Enhanced Range]
 dimwishlist:item=334964261&perks=1840239774,3700496672,1464081238#notes:PvE [Range] [Enhanced Range]
 dimwishlist:item=3961462214&perks=1840239774,3700496672,1464081238#notes:PvE [Range] [Enhanced Range]
-dimwishlist:item=334964261&perks=3700496672,1464081238#notes:PvE [Range] [Enhanced Range]
-dimwishlist:item=3961462214&perks=3700496672,1464081238#notes:PvE [Range] [Enhanced Range]
 dimwishlist:item=334964261&perks=1840239774,3230963543,776531651,3038247973#notes:PvE Godroll [Range] [Enhanced Range]
 dimwishlist:item=3961462214&perks=1840239774,3230963543,776531651,3038247973#notes:PvE Godroll [Range] [Enhanced Range]
 dimwishlist:item=334964261&perks=1840239774,1431678320,776531651,3038247973#notes:PvE Excellent [Range] [Enhanced Range]
@@ -11861,6 +11859,8 @@ dimwishlist:item=-1540621132
 dimwishlist:item=-3621336854
 dimwishlist:item=-621450049
 dimwishlist:item=-3229982889
+dimwishlist:item=-1405095983
+dimwishlist:item=-891765152
 dimwishlist:item=-4124362340
 dimwishlist:item=-1411560894
 dimwishlist:item=-3614211586
