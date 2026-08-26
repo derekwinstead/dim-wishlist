@@ -3867,10 +3867,6 @@ dimwishlist:item=337893613&perks=1840239774,1431678320,3523296417,657025441,1673
 dimwishlist:item=337893613&perks=839105230,2420895100,3523296417,657025441,1673863459#notes:PvE [Reload] [Backup Mag]
 dimwishlist:item=337893613&perks=1840239774,2420895100,3523296417,657025441,1673863459#notes:PvE [Reload] [Backup Mag]
 dimwishlist:item=337893613&perks=1431678320,3523296417,657025441,1673863459#notes:PvE [Reload] [Backup Mag]
-dimwishlist:item=337893613&perks=2420895100,3523296417,657025441,1673863459#notes:PvE [Reload] [Backup Mag]
-dimwishlist:item=337893613&perks=839105230,3523296417,657025441,1673863459#notes:PvE [Reload] [Backup Mag]
-dimwishlist:item=337893613&perks=1840239774,3523296417,657025441,1673863459#notes:PvE [Reload] [Backup Mag]
-dimwishlist:item=337893613&perks=3523296417,657025441,1673863459#notes:PvE [Reload] [Backup Mag]
 dimwishlist:item=4176551594&perks=839105230,1431678320,3523296417,960997401,3713579091#notes:PvE Godroll [Reload] [Backup Mag]
 dimwishlist:item=4176551594&perks=1840239774,1431678320,3523296417,960997401,3713579091#notes:PvE Excellent [Reload] [Backup Mag]
 dimwishlist:item=4176551594&perks=839105230,2420895100,3523296417,960997401,3713579091#notes:PvE [Reload] [Backup Mag]
@@ -3886,9 +3882,6 @@ dimwishlist:item=337893613&perks=839105230,2420895100,3523296417,960997401,16738
 dimwishlist:item=337893613&perks=1840239774,2420895100,3523296417,960997401,1673863459#notes:PvE [Reload] [Backup Mag]
 dimwishlist:item=337893613&perks=1431678320,3523296417,960997401,1673863459#notes:PvE [Reload] [Backup Mag]
 dimwishlist:item=337893613&perks=2420895100,3523296417,960997401,1673863459#notes:PvE [Reload] [Backup Mag]
-dimwishlist:item=337893613&perks=839105230,3523296417,960997401,1673863459#notes:PvE [Reload] [Backup Mag]
-dimwishlist:item=337893613&perks=1840239774,3523296417,960997401,1673863459#notes:PvE [Reload] [Backup Mag]
-dimwishlist:item=337893613&perks=3523296417,960997401,1673863459#notes:PvE [Reload] [Backup Mag]
 dimwishlist:item=4176551594&perks=839105230,1431678320,923806249,657025441,3713579091#notes:PvE Godroll [Reload] [Backup Mag]
 dimwishlist:item=4176551594&perks=1840239774,1431678320,923806249,657025441,3713579091#notes:PvE Excellent [Reload] [Backup Mag]
 dimwishlist:item=4176551594&perks=839105230,2420895100,923806249,657025441,3713579091#notes:PvE [Reload] [Backup Mag]
@@ -3922,9 +3915,6 @@ dimwishlist:item=337893613&perks=839105230,2420895100,923806249,960997401,167386
 dimwishlist:item=337893613&perks=1840239774,2420895100,923806249,960997401,1673863459#notes:PvE [Reload] [Backup Mag]
 dimwishlist:item=337893613&perks=1431678320,923806249,960997401,1673863459#notes:PvE [Reload] [Backup Mag]
 dimwishlist:item=337893613&perks=2420895100,923806249,960997401,1673863459#notes:PvE [Reload] [Backup Mag]
-dimwishlist:item=337893613&perks=839105230,923806249,960997401,1673863459#notes:PvE [Reload] [Backup Mag]
-dimwishlist:item=337893613&perks=1840239774,923806249,960997401,1673863459#notes:PvE [Reload] [Backup Mag]
-dimwishlist:item=337893613&perks=923806249,960997401,1673863459#notes:PvE [Reload] [Backup Mag]
 dimwishlist:item=4176551594&perks=839105230,1431678320,831391274,657025441,3713579091#notes:PvE Godroll [Reload] [Backup Mag]
 dimwishlist:item=4176551594&perks=1840239774,1431678320,831391274,657025441,3713579091#notes:PvE Excellent [Reload] [Backup Mag]
 dimwishlist:item=4176551594&perks=839105230,2420895100,831391274,657025441,3713579091#notes:PvE [Reload] [Backup Mag]
@@ -5957,8 +5947,6 @@ dimwishlist:item=3132669561&perks=1431678320,657025441,2305480722,415411839#note
 dimwishlist:item=3132669561&perks=1561002382,657025441,2305480722,415411839#notes:PvE [Reload] [Backup Mag]
 dimwishlist:item=3132669561&perks=2420895100,657025441,2305480722,415411839#notes:PvE [Reload] [Backup Mag]
 dimwishlist:item=3132669561&perks=839105230,657025441,2305480722,415411839#notes:PvE [Reload] [Backup Mag]
-dimwishlist:item=3132669561&perks=1840239774,657025441,2305480722,415411839#notes:PvE [Reload] [Backup Mag]
-dimwishlist:item=3132669561&perks=657025441,2305480722,415411839#notes:PvE [Reload] [Backup Mag]
 dimwishlist:item=3132669561&perks=839105230,1431678320,657025441,557221067,415411839#notes:PvE Godroll [Reload] [Backup Mag]
 dimwishlist:item=3132669561&perks=1840239774,1431678320,657025441,557221067,415411839#notes:PvE Excellent [Reload] [Backup Mag]
 dimwishlist:item=3132669561&perks=839105230,1561002382,657025441,557221067,415411839#notes:PvE [Reload] [Backup Mag]
@@ -5982,7 +5970,6 @@ dimwishlist:item=3132669561&perks=1561002382,657025441,2890807135,415411839#note
 dimwishlist:item=3132669561&perks=2420895100,657025441,2890807135,415411839#notes:PvE [Reload] [Backup Mag]
 dimwishlist:item=3132669561&perks=839105230,657025441,2890807135,415411839#notes:PvE [Reload] [Backup Mag]
 dimwishlist:item=3132669561&perks=1840239774,657025441,2890807135,415411839#notes:PvE [Reload] [Backup Mag]
-dimwishlist:item=3132669561&perks=657025441,2890807135,415411839#notes:PvE [Reload] [Backup Mag]
 dimwishlist:item=3132669561&perks=839105230,1431678320,4293542123,2305480722,415411839#notes:PvE Godroll [Reload] [Backup Mag]
 dimwishlist:item=3132669561&perks=1840239774,1431678320,4293542123,2305480722,415411839#notes:PvE Excellent [Reload] [Backup Mag]
 dimwishlist:item=3132669561&perks=839105230,1561002382,4293542123,2305480722,415411839#notes:PvE [Reload] [Backup Mag]
@@ -7406,6 +7393,7 @@ dimwishlist:item=2965080304&perks=3017780555,2890807135,2437618208#notes:PvE [Re
 dimwishlist:item=3293207827&perks=3017780555,2890807135,2437618208#notes:PvE [Reload] [Backup Mag]
 dimwishlist:item=-1648948519
 dimwishlist:item=-4164201232
+dimwishlist:item=-3001598094
 dimwishlist:item=-1626503676
 dimwishlist:item=-2198166292
 dimwishlist:item=-833898322
@@ -7470,6 +7458,7 @@ dimwishlist:item=-2481881293
 dimwishlist:item=-999767358
 dimwishlist:item=-2886339027
 dimwishlist:item=-3805679279
+dimwishlist:item=-1716620044
 dimwishlist:item=-830651379
 dimwishlist:item=-4157371152
 dimwishlist:item=-771811871
@@ -7508,6 +7497,7 @@ dimwishlist:item=-1850748385
 dimwishlist:item=-1517780158
 dimwishlist:item=-768621510
 dimwishlist:item=-2943293195
+dimwishlist:item=-1120206506
 dimwishlist:item=-2742838701
 dimwishlist:item=-2807687156
 dimwishlist:item=-3734001727
@@ -7580,8 +7570,8 @@ dimwishlist:item=-3431536253
 dimwishlist:item=-72775246
 dimwishlist:item=-218787951
 dimwishlist:item=-2155534128
-dimwishlist:item=-1896309757
-dimwishlist:item=-211732170
+dimwishlist:item=-1346714574
+dimwishlist:item=-850999853
 dimwishlist:item=-3856705927
 dimwishlist:item=-1402874079
 dimwishlist:item=-1291040555
@@ -7822,6 +7812,7 @@ dimwishlist:item=-2560370239
 dimwishlist:item=-2308010345
 dimwishlist:item=-1821724780
 dimwishlist:item=-3490736392
+dimwishlist:item=-2584201248
 dimwishlist:item=-453798564
 dimwishlist:item=-1719169808
 dimwishlist:item=-2022294213
@@ -7839,6 +7830,7 @@ dimwishlist:item=-407511664
 dimwishlist:item=-775830132
 dimwishlist:item=-2557966895
 dimwishlist:item=-810474119
+dimwishlist:item=-412251536
 dimwishlist:item=-1094998581
 dimwishlist:item=-1704597062
 dimwishlist:item=-4045298482
