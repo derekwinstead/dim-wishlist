@@ -207,26 +207,8 @@ dimwishlist:item=1540621132&perks=1840239774,689005463,3643424744,2594592626,312
 dimwishlist:item=3610531207&perks=1840239774,689005463,3643424744,2594592626,3129239575#notes:PvE Godroll [Charge] [Charge Time]
 dimwishlist:item=1540621132&perks=839105230,689005463,3643424744,2594592626,3129239575#notes:PvE Excellent [Charge] [Charge Time]
 dimwishlist:item=3610531207&perks=839105230,689005463,3643424744,2594592626,3129239575#notes:PvE Excellent [Charge] [Charge Time]
-dimwishlist:item=1540621132&perks=689005463,3643424744,2594592626,3129239575#notes:PvE [Charge] [Charge Time]
-dimwishlist:item=3610531207&perks=689005463,3643424744,2594592626,3129239575#notes:PvE [Charge] [Charge Time]
-dimwishlist:item=1540621132&perks=1840239774,3643424744,2594592626,3129239575#notes:PvE [Charge] [Charge Time]
-dimwishlist:item=3610531207&perks=1840239774,3643424744,2594592626,3129239575#notes:PvE [Charge] [Charge Time]
-dimwishlist:item=1540621132&perks=839105230,3643424744,2594592626,3129239575#notes:PvE [Charge] [Charge Time]
-dimwishlist:item=3610531207&perks=839105230,3643424744,2594592626,3129239575#notes:PvE [Charge] [Charge Time]
-dimwishlist:item=1540621132&perks=3643424744,2594592626,3129239575#notes:PvE [Charge] [Charge Time]
-dimwishlist:item=3610531207&perks=3643424744,2594592626,3129239575#notes:PvE [Charge] [Charge Time]
 dimwishlist:item=1540621132&perks=1840239774,689005463,3643424744,3708227201,3129239575#notes:PvE Godroll [Charge] [Charge Time]
 dimwishlist:item=3610531207&perks=1840239774,689005463,3643424744,3708227201,3129239575#notes:PvE Godroll [Charge] [Charge Time]
-dimwishlist:item=1540621132&perks=839105230,689005463,3643424744,3708227201,3129239575#notes:PvE Excellent [Charge] [Charge Time]
-dimwishlist:item=3610531207&perks=839105230,689005463,3643424744,3708227201,3129239575#notes:PvE Excellent [Charge] [Charge Time]
-dimwishlist:item=1540621132&perks=689005463,3643424744,3708227201,3129239575#notes:PvE [Charge] [Charge Time]
-dimwishlist:item=3610531207&perks=689005463,3643424744,3708227201,3129239575#notes:PvE [Charge] [Charge Time]
-dimwishlist:item=1540621132&perks=1840239774,3643424744,3708227201,3129239575#notes:PvE [Charge] [Charge Time]
-dimwishlist:item=3610531207&perks=1840239774,3643424744,3708227201,3129239575#notes:PvE [Charge] [Charge Time]
-dimwishlist:item=1540621132&perks=839105230,3643424744,3708227201,3129239575#notes:PvE [Charge] [Charge Time]
-dimwishlist:item=3610531207&perks=839105230,3643424744,3708227201,3129239575#notes:PvE [Charge] [Charge Time]
-dimwishlist:item=1540621132&perks=3643424744,3708227201,3129239575#notes:PvE [Charge] [Charge Time]
-dimwishlist:item=3610531207&perks=3643424744,3708227201,3129239575#notes:PvE [Charge] [Charge Time]
 dimwishlist:item=1540621132&perks=1840239774,689005463,923806249,3764420437,3129239575#notes:PvE Godroll [Charge] [Charge Time]
 dimwishlist:item=3610531207&perks=1840239774,689005463,923806249,3764420437,3129239575#notes:PvE Godroll [Charge] [Charge Time]
 dimwishlist:item=1540621132&perks=839105230,689005463,923806249,3764420437,3129239575#notes:PvE Excellent [Charge] [Charge Time]
@@ -235,10 +217,6 @@ dimwishlist:item=1540621132&perks=689005463,923806249,3764420437,3129239575#note
 dimwishlist:item=3610531207&perks=689005463,923806249,3764420437,3129239575#notes:PvE [Charge] [Charge Time]
 dimwishlist:item=1540621132&perks=1840239774,923806249,3764420437,3129239575#notes:PvE [Charge] [Charge Time]
 dimwishlist:item=3610531207&perks=1840239774,923806249,3764420437,3129239575#notes:PvE [Charge] [Charge Time]
-dimwishlist:item=1540621132&perks=839105230,923806249,3764420437,3129239575#notes:PvE [Charge] [Charge Time]
-dimwishlist:item=3610531207&perks=839105230,923806249,3764420437,3129239575#notes:PvE [Charge] [Charge Time]
-dimwishlist:item=1540621132&perks=923806249,3764420437,3129239575#notes:PvE [Charge] [Charge Time]
-dimwishlist:item=3610531207&perks=923806249,3764420437,3129239575#notes:PvE [Charge] [Charge Time]
 dimwishlist:item=1540621132&perks=1840239774,689005463,923806249,2594592626,3129239575#notes:PvE Godroll [Charge] [Charge Time]
 dimwishlist:item=3610531207&perks=1840239774,689005463,923806249,2594592626,3129239575#notes:PvE Godroll [Charge] [Charge Time]
 dimwishlist:item=1540621132&perks=839105230,689005463,923806249,2594592626,3129239575#notes:PvE Excellent [Charge] [Charge Time]
@@ -261,8 +239,6 @@ dimwishlist:item=1540621132&perks=1840239774,923806249,3708227201,3129239575#not
 dimwishlist:item=3610531207&perks=1840239774,923806249,3708227201,3129239575#notes:PvE [Charge] [Charge Time]
 dimwishlist:item=1540621132&perks=839105230,923806249,3708227201,3129239575#notes:PvE [Charge] [Charge Time]
 dimwishlist:item=3610531207&perks=839105230,923806249,3708227201,3129239575#notes:PvE [Charge] [Charge Time]
-dimwishlist:item=1540621132&perks=923806249,3708227201,3129239575#notes:PvE [Charge] [Charge Time]
-dimwishlist:item=3610531207&perks=923806249,3708227201,3129239575#notes:PvE [Charge] [Charge Time]
 dimwishlist:item=2023002233&perks=1840239774,1080094173,3824105627,960997401,3713579091#notes:PvE Godroll [Cooling Efficiency] [Backup Mag]
 dimwishlist:item=2023002233&perks=839105230,1080094173,3824105627,960997401,3713579091#notes:PvE Excellent [Cooling Efficiency] [Backup Mag]
 dimwishlist:item=2023002233&perks=1080094173,3824105627,960997401,3713579091#notes:PvE [Cooling Efficiency] [Backup Mag]
@@ -2723,21 +2699,6 @@ dimwishlist:item=4046741099&perks=839105230,1645158859,2213355989,3846229553#not
 dimwishlist:item=4046741099&perks=3661387068,1645158859,2213355989,3846229553#notes:PvP [Stability] [Quick Access Sling]
 dimwishlist:item=4046741099&perks=4090651448,1645158859,2213355989,3846229553#notes:PvP [Stability] [Quick Access Sling]
 dimwishlist:item=4046741099&perks=839105230,689005463,280464955,1890422124,3846229553#notes:PvP Godroll [Stability] [Quick Access Sling]
-dimwishlist:item=4046741099&perks=3661387068,689005463,280464955,1890422124,3846229553#notes:PvP Excellent [Stability] [Quick Access Sling]
-dimwishlist:item=4046741099&perks=4090651448,689005463,280464955,1890422124,3846229553#notes:PvP Excellent [Stability] [Quick Access Sling]
-dimwishlist:item=4046741099&perks=839105230,1687452232,280464955,1890422124,3846229553#notes:PvP [Stability] [Quick Access Sling]
-dimwishlist:item=4046741099&perks=3661387068,1687452232,280464955,1890422124,3846229553#notes:PvP [Stability] [Quick Access Sling]
-dimwishlist:item=4046741099&perks=4090651448,1687452232,280464955,1890422124,3846229553#notes:PvP [Stability] [Quick Access Sling]
-dimwishlist:item=4046741099&perks=839105230,2680121939,280464955,1890422124,3846229553#notes:PvP [Stability] [Quick Access Sling]
-dimwishlist:item=4046741099&perks=3661387068,2680121939,280464955,1890422124,3846229553#notes:PvP [Stability] [Quick Access Sling]
-dimwishlist:item=4046741099&perks=4090651448,2680121939,280464955,1890422124,3846229553#notes:PvP [Stability] [Quick Access Sling]
-dimwishlist:item=4046741099&perks=689005463,280464955,1890422124,3846229553#notes:PvP [Stability] [Quick Access Sling]
-dimwishlist:item=4046741099&perks=1687452232,280464955,1890422124,3846229553#notes:PvP [Stability] [Quick Access Sling]
-dimwishlist:item=4046741099&perks=2680121939,280464955,1890422124,3846229553#notes:PvP [Stability] [Quick Access Sling]
-dimwishlist:item=4046741099&perks=839105230,280464955,1890422124,3846229553#notes:PvP [Stability] [Quick Access Sling]
-dimwishlist:item=4046741099&perks=3661387068,280464955,1890422124,3846229553#notes:PvP [Stability] [Quick Access Sling]
-dimwishlist:item=4046741099&perks=4090651448,280464955,1890422124,3846229553#notes:PvP [Stability] [Quick Access Sling]
-dimwishlist:item=4046741099&perks=280464955,1890422124,3846229553#notes:PvP [Stability] [Quick Access Sling]
 dimwishlist:item=4046741099&perks=839105230,689005463,280464955,2213355989,3846229553#notes:PvP Godroll [Stability] [Quick Access Sling]
 dimwishlist:item=4046741099&perks=3661387068,689005463,280464955,2213355989,3846229553#notes:PvP Excellent [Stability] [Quick Access Sling]
 dimwishlist:item=4046741099&perks=4090651448,689005463,280464955,2213355989,3846229553#notes:PvP Excellent [Stability] [Quick Access Sling]
@@ -6568,13 +6529,6 @@ dimwishlist:item=1361871430&perks=1478423395,1380253176,3017780555,2109543898,16
 dimwishlist:item=406384293&perks=2420895100,3017780555,2109543898,1607056502#notes:PvE [Reload] [Backup Mag]
 dimwishlist:item=1361871430&perks=2420895100,3017780555,2109543898,1607056502#notes:PvE [Reload] [Backup Mag]
 dimwishlist:item=406384293&perks=1380253176,3017780555,2109543898,1607056502#notes:PvE [Reload] [Backup Mag]
-dimwishlist:item=1361871430&perks=1380253176,3017780555,2109543898,1607056502#notes:PvE [Reload] [Backup Mag]
-dimwishlist:item=406384293&perks=3525010810,3017780555,2109543898,1607056502#notes:PvE [Reload] [Backup Mag]
-dimwishlist:item=1361871430&perks=3525010810,3017780555,2109543898,1607056502#notes:PvE [Reload] [Backup Mag]
-dimwishlist:item=406384293&perks=1478423395,3017780555,2109543898,1607056502#notes:PvE [Reload] [Backup Mag]
-dimwishlist:item=1361871430&perks=1478423395,3017780555,2109543898,1607056502#notes:PvE [Reload] [Backup Mag]
-dimwishlist:item=406384293&perks=3017780555,2109543898,1607056502#notes:PvE [Reload] [Backup Mag]
-dimwishlist:item=1361871430&perks=3017780555,2109543898,1607056502#notes:PvE [Reload] [Backup Mag]
 dimwishlist:item=406384293&perks=3525010810,2420895100,3017780555,2890807135,1607056502#notes:PvE Godroll [Reload] [Backup Mag]
 dimwishlist:item=1361871430&perks=3525010810,2420895100,3017780555,2890807135,1607056502#notes:PvE Godroll [Reload] [Backup Mag]
 dimwishlist:item=406384293&perks=1478423395,2420895100,3017780555,2890807135,1607056502#notes:PvE Excellent [Reload] [Backup Mag]
@@ -6603,14 +6557,6 @@ dimwishlist:item=406384293&perks=1478423395,1380253176,1017229899,4293542123,160
 dimwishlist:item=1361871430&perks=1478423395,1380253176,1017229899,4293542123,1607056502#notes:PvE [Reload] [Backup Mag]
 dimwishlist:item=406384293&perks=2420895100,1017229899,4293542123,1607056502#notes:PvE [Reload] [Backup Mag]
 dimwishlist:item=1361871430&perks=2420895100,1017229899,4293542123,1607056502#notes:PvE [Reload] [Backup Mag]
-dimwishlist:item=406384293&perks=1380253176,1017229899,4293542123,1607056502#notes:PvE [Reload] [Backup Mag]
-dimwishlist:item=1361871430&perks=1380253176,1017229899,4293542123,1607056502#notes:PvE [Reload] [Backup Mag]
-dimwishlist:item=406384293&perks=3525010810,1017229899,4293542123,1607056502#notes:PvE [Reload] [Backup Mag]
-dimwishlist:item=1361871430&perks=3525010810,1017229899,4293542123,1607056502#notes:PvE [Reload] [Backup Mag]
-dimwishlist:item=406384293&perks=1478423395,1017229899,4293542123,1607056502#notes:PvE [Reload] [Backup Mag]
-dimwishlist:item=1361871430&perks=1478423395,1017229899,4293542123,1607056502#notes:PvE [Reload] [Backup Mag]
-dimwishlist:item=406384293&perks=1017229899,4293542123,1607056502#notes:PvE [Reload] [Backup Mag]
-dimwishlist:item=1361871430&perks=1017229899,4293542123,1607056502#notes:PvE [Reload] [Backup Mag]
 dimwishlist:item=406384293&perks=3525010810,2420895100,1017229899,2109543898,1607056502#notes:PvE Godroll [Reload] [Backup Mag]
 dimwishlist:item=1361871430&perks=3525010810,2420895100,1017229899,2109543898,1607056502#notes:PvE Godroll [Reload] [Backup Mag]
 dimwishlist:item=406384293&perks=1478423395,2420895100,1017229899,2109543898,1607056502#notes:PvE Excellent [Reload] [Backup Mag]
@@ -7364,8 +7310,6 @@ dimwishlist:item=559523765&perks=3301904089,3523296417,4104185692#notes:PvE [Vel
 dimwishlist:item=1206729100&perks=3301904089,3523296417,4104185692#notes:PvE [Velocity] [Quick Access Sling]
 dimwishlist:item=293709641&perks=1840239774,689005463,3643424744,2594592626,3989629871#notes:PvE Godroll [Charge] [Charge Time]
 dimwishlist:item=293709641&perks=839105230,689005463,3643424744,2594592626,3989629871#notes:PvE Excellent [Charge] [Charge Time]
-dimwishlist:item=293709641&perks=689005463,3643424744,2594592626,3989629871#notes:PvE [Charge] [Charge Time]
-dimwishlist:item=293709641&perks=1840239774,3643424744,2594592626,3989629871#notes:PvE [Charge] [Charge Time]
 dimwishlist:item=293709641&perks=1840239774,689005463,3643424744,1427256713,3989629871#notes:PvE Godroll [Charge] [Charge Time]
 dimwishlist:item=293709641&perks=839105230,689005463,3643424744,1427256713,3989629871#notes:PvE Excellent [Charge] [Charge Time]
 dimwishlist:item=293709641&perks=689005463,3643424744,1427256713,3989629871#notes:PvE [Charge] [Charge Time]
@@ -7376,8 +7320,6 @@ dimwishlist:item=293709641&perks=1840239774,689005463,3978468247,2594592626,3989
 dimwishlist:item=293709641&perks=839105230,689005463,3978468247,2594592626,3989629871#notes:PvE Excellent [Charge] [Charge Time]
 dimwishlist:item=293709641&perks=689005463,3978468247,2594592626,3989629871#notes:PvE [Charge] [Charge Time]
 dimwishlist:item=293709641&perks=1840239774,3978468247,2594592626,3989629871#notes:PvE [Charge] [Charge Time]
-dimwishlist:item=293709641&perks=839105230,3978468247,2594592626,3989629871#notes:PvE [Charge] [Charge Time]
-dimwishlist:item=293709641&perks=3978468247,2594592626,3989629871#notes:PvE [Charge] [Charge Time]
 dimwishlist:item=293709641&perks=1840239774,689005463,3978468247,1427256713,3989629871#notes:PvE Godroll [Charge] [Charge Time]
 dimwishlist:item=293709641&perks=839105230,689005463,3978468247,1427256713,3989629871#notes:PvE Excellent [Charge] [Charge Time]
 dimwishlist:item=293709641&perks=689005463,3978468247,1427256713,3989629871#notes:PvE [Charge] [Charge Time]
@@ -7896,6 +7838,8 @@ dimwishlist:item=-1193318082
 dimwishlist:item=-2466028274
 dimwishlist:item=-1354727549
 dimwishlist:item=-189854537
+dimwishlist:item=-193009988
+dimwishlist:item=-2587567543
 dimwishlist:item=-2130875369
 dimwishlist:item=-2920648677
 dimwishlist:item=-4116518582
@@ -7944,6 +7888,8 @@ dimwishlist:item=-2274706510
 dimwishlist:item=-2925315757
 dimwishlist:item=-3132669561
 dimwishlist:item=-3977827673
+dimwishlist:item=-393652859
+dimwishlist:item=-2775462168
 dimwishlist:item=-3984556130
 dimwishlist:item=-2210806903
 dimwishlist:item=-4267192886
